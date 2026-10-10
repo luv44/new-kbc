@@ -12,20 +12,20 @@
     },
     "options": [
       {
-        "en": "Mercury",
-        "hi": "बुध"
+        "en": "Venus",
+        "hi": "शुक्र"
       },
       {
         "en": "Jupiter",
         "hi": "बृहस्पति"
       },
       {
-        "en": "Venus",
-        "hi": "शुक्र"
-      },
-      {
         "en": "Mars",
         "hi": "मंगल"
+      },
+      {
+        "en": "Mercury",
+        "hi": "बुध"
       }
     ],
     "correctIndex": 1,
@@ -47,6 +47,10 @@
     },
     "options": [
       {
+        "en": "Venus",
+        "hi": "शुक्र"
+      },
+      {
         "en": "Mars",
         "hi": "मंगल"
       },
@@ -55,15 +59,11 @@
         "hi": "बुध"
       },
       {
-        "en": "Venus",
-        "hi": "शुक्र"
-      },
-      {
         "en": "Earth",
         "hi": "पृथ्वी"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": {
       "en": "Venus traps heat under dense carbon dioxide clouds, so it stays hotter than Mercury even though Mercury sits closer to the Sun.",
       "hi": "शुक्र घने कार्बन डाइऑक्साइड बादलों के नीचे गर्मी रोक लेता है, इसलिए बुध से पास होने के बावजूद वह उससे अधिक गर्म रहता है।"
@@ -90,12 +90,12 @@
         "hi": "बृहस्पति"
       },
       {
-        "en": "Neptune",
-        "hi": "वरुण"
-      },
-      {
         "en": "Saturn",
         "hi": "शनि"
+      },
+      {
+        "en": "Neptune",
+        "hi": "वरुण"
       }
     ],
     "correctIndex": 0,
@@ -117,23 +117,23 @@
     },
     "options": [
       {
-        "en": "Saturn",
-        "hi": "शनि"
-      },
-      {
-        "en": "Uranus",
-        "hi": "अरुण"
-      },
-      {
         "en": "Mars",
         "hi": "मंगल"
       },
       {
+        "en": "Saturn",
+        "hi": "शनि"
+      },
+      {
         "en": "Neptune",
         "hi": "वरुण"
+      },
+      {
+        "en": "Uranus",
+        "hi": "अरुण"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 3,
     "explanation": {
       "en": "Uranus spins almost on its side, so its poles face the Sun in turn for long stretches.",
       "hi": "अरुण लगभग करवट पर घूमता है, इसलिए इसके ध्रुव लंबे समय तक बारी-बारी से सूर्य की ओर रहते हैं।"
@@ -152,23 +152,23 @@
     },
     "options": [
       {
-        "en": "Earth",
-        "hi": "पृथ्वी"
-      },
-      {
-        "en": "Mercury",
-        "hi": "बुध"
-      },
-      {
         "en": "Mars",
         "hi": "मंगल"
       },
       {
+        "en": "Earth",
+        "hi": "पृथ्वी"
+      },
+      {
         "en": "Venus",
         "hi": "शुक्र"
+      },
+      {
+        "en": "Mercury",
+        "hi": "बुध"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 3,
     "explanation": {
       "en": "Being closest to the Sun, Mercury completes an orbit in about 88 Earth days.",
       "hi": "सूर्य के सबसे निकट होने के कारण बुध लगभग 88 पृथ्वी दिनों में परिक्रमा पूरी करता है।"
@@ -182,31 +182,31 @@
     ],
     "difficulty": "EASY",
     "q": {
-      "en": "The Great Red Spot, a storm larger than Earth, belongs to which planet?",
-      "hi": "पृथ्वी से बड़ा तूफ़ान 'ग्रेट रेड स्पॉट' किस ग्रह पर है?"
+      "en": "What kind of feature is Jupiter's Great Red Spot?",
+      "hi": "बृहस्पति का 'ग्रेट रेड स्पॉट' किस प्रकार की संरचना है?"
     },
     "options": [
       {
-        "en": "Venus",
-        "hi": "शुक्र"
+        "en": "A ring of red dust",
+        "hi": "लाल धूल का वलय"
       },
       {
-        "en": "Saturn",
-        "hi": "शनि"
+        "en": "An erupting volcano",
+        "hi": "फटता हुआ ज्वालामुखी"
       },
       {
-        "en": "Uranus",
-        "hi": "अरुण"
+        "en": "A crater filled with ice",
+        "hi": "बर्फ़ से भरा गड्ढा"
       },
       {
-        "en": "Jupiter",
-        "hi": "बृहस्पति"
+        "en": "A long-lived giant storm",
+        "hi": "एक दीर्घकालिक विशाल तूफ़ान"
       }
     ],
     "correctIndex": 3,
     "explanation": {
-      "en": "The Great Red Spot is a long-lived anticyclone in Jupiter's cloud belts.",
-      "hi": "ग्रेट रेड स्पॉट बृहस्पति के बादलों में चलने वाला दीर्घकालिक विशाल तूफ़ान है।"
+      "en": "It is an anticyclone in Jupiter's cloud belts that has persisted for centuries.",
+      "hi": "यह बृहस्पति के बादलों में चलने वाला प्रतिचक्रवात है जो सदियों से बना हुआ है।"
     }
   },
   {
@@ -226,16 +226,16 @@
         "hi": "मंगल"
       },
       {
+        "en": "Jupiter",
+        "hi": "बृहस्पति"
+      },
+      {
         "en": "Saturn",
         "hi": "शनि"
       },
       {
         "en": "Mercury",
         "hi": "बुध"
-      },
-      {
-        "en": "Jupiter",
-        "hi": "बृहस्पति"
       }
     ],
     "correctIndex": 0,
@@ -261,16 +261,16 @@
         "hi": "शनि"
       },
       {
-        "en": "Mercury",
-        "hi": "बुध"
+        "en": "Mars",
+        "hi": "मंगल"
       },
       {
         "en": "Venus",
         "hi": "शुक्र"
       },
       {
-        "en": "Mars",
-        "hi": "मंगल"
+        "en": "Mercury",
+        "hi": "बुध"
       }
     ],
     "correctIndex": 0,
@@ -292,10 +292,6 @@
     },
     "options": [
       {
-        "en": "Corona",
-        "hi": "किरीट"
-      },
-      {
         "en": "Core",
         "hi": "क्रोड"
       },
@@ -306,9 +302,13 @@
       {
         "en": "Photosphere",
         "hi": "प्रकाशमंडल"
+      },
+      {
+        "en": "Corona",
+        "hi": "किरीट"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 2,
     "explanation": {
       "en": "The photosphere is the glowing layer we see as the Sun's surface.",
       "hi": "प्रकाशमंडल वही चमकती परत है जिसे हम सूर्य की सतह के रूप में देखते हैं।"
@@ -327,23 +327,23 @@
     },
     "options": [
       {
-        "en": "They cast a shadow from the Moon",
-        "hi": "वे चंद्रमा की छाया डालते हैं"
+        "en": "They are cooler than the surrounding gas",
+        "hi": "वे आसपास की गैस से ठंडे होते हैं"
       },
       {
         "en": "They are made of solid rock",
         "hi": "वे ठोस चट्टान से बने होते हैं"
       },
       {
-        "en": "They are cooler than the surrounding gas",
-        "hi": "वे आसपास की गैस से ठंडे होते हैं"
+        "en": "They cast a shadow from the Moon",
+        "hi": "वे चंद्रमा की छाया डालते हैं"
       },
       {
         "en": "They absorb all incoming light",
         "hi": "वे सारा आने वाला प्रकाश सोख लेते हैं"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": {
       "en": "Sunspots are cooler patches, and a cooler patch glows less brightly than the hotter gas beside it.",
       "hi": "सनस्पॉट ठंडे क्षेत्र होते हैं, और ठंडा क्षेत्र पास की गर्म गैस की तुलना में कम चमकता है।"
@@ -362,23 +362,23 @@
     },
     "options": [
       {
-        "en": "The photosphere",
-        "hi": "प्रकाशमंडल"
-      },
-      {
         "en": "The corona",
         "hi": "किरीट"
       },
       {
-        "en": "The radiative zone",
-        "hi": "विकिरण क्षेत्र"
+        "en": "The photosphere",
+        "hi": "प्रकाशमंडल"
       },
       {
         "en": "The core",
         "hi": "क्रोड"
+      },
+      {
+        "en": "The radiative zone",
+        "hi": "विकिरण क्षेत्र"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": {
       "en": "The corona is the Sun's tenuous outer atmosphere, normally drowned out by the bright surface.",
       "hi": "किरीट सूर्य का बाहरी विरल वायुमंडल है जो सामान्यतः तेज़ सतह के कारण नहीं दिखता।"
@@ -397,23 +397,23 @@
     },
     "options": [
       {
-        "en": "About 8 seconds",
-        "hi": "लगभग 8 सेकंड"
-      },
-      {
         "en": "About 8 days",
         "hi": "लगभग 8 दिन"
+      },
+      {
+        "en": "About 8 minutes",
+        "hi": "लगभग 8 मिनट"
       },
       {
         "en": "About 8 hours",
         "hi": "लगभग 8 घंटे"
       },
       {
-        "en": "About 8 minutes",
-        "hi": "लगभग 8 मिनट"
+        "en": "About 8 seconds",
+        "hi": "लगभग 8 सेकंड"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": {
       "en": "Light covers the 150 million kilometre distance in roughly 8 minutes and 20 seconds.",
       "hi": "प्रकाश लगभग 15 करोड़ किलोमीटर की दूरी करीब 8 मिनट 20 सेकंड में तय करता है।"
@@ -432,23 +432,23 @@
     },
     "options": [
       {
-        "en": "Apollo 8",
-        "hi": "अपोलो 8"
-      },
-      {
         "en": "Vostok 1",
         "hi": "वोस्तोक 1"
       },
       {
-        "en": "Apollo 11",
-        "hi": "अपोलो 11"
-      },
-      {
         "en": "Gemini 12",
         "hi": "जेमिनी 12"
+      },
+      {
+        "en": "Apollo 8",
+        "hi": "अपोलो 8"
+      },
+      {
+        "en": "Apollo 11",
+        "hi": "अपोलो 11"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": {
       "en": "Apollo 11 landed on the Moon in July 1969.",
       "hi": "अपोलो 11 जुलाई 1969 में चंद्रमा पर उतरा।"
@@ -467,23 +467,23 @@
     },
     "options": [
       {
-        "en": "Yuri Gagarin",
-        "hi": "यूरी गगारिन"
+        "en": "Buzz Aldrin",
+        "hi": "बज़ एल्ड्रिन"
       },
       {
-        "en": "Neil Armstrong",
-        "hi": "नील आर्मस्ट्रांग"
+        "en": "Yuri Gagarin",
+        "hi": "यूरी गगारिन"
       },
       {
         "en": "Michael Collins",
         "hi": "माइकल कॉलिन्स"
       },
       {
-        "en": "Buzz Aldrin",
-        "hi": "बज़ एल्ड्रिन"
+        "en": "Neil Armstrong",
+        "hi": "नील आर्मस्ट्रांग"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 3,
     "explanation": {
       "en": "Neil Armstrong stepped onto the lunar surface first, followed by Buzz Aldrin.",
       "hi": "नील आर्मस्ट्रांग पहले चंद्र सतह पर उतरे, उसके बाद बज़ एल्ड्रिन आए।"
@@ -506,12 +506,12 @@
         "hi": "माइकल कॉलिन्स"
       },
       {
-        "en": "Buzz Aldrin",
-        "hi": "बज़ एल्ड्रिन"
-      },
-      {
         "en": "Neil Armstrong",
         "hi": "नील आर्मस्ट्रांग"
+      },
+      {
+        "en": "Buzz Aldrin",
+        "hi": "बज़ एल्ड्रिन"
       },
       {
         "en": "Alan Shepard",
@@ -537,23 +537,23 @@
     },
     "options": [
       {
-        "en": "Endeavour",
-        "hi": "एंडेवर"
-      },
-      {
-        "en": "Falcon",
-        "hi": "फ़ाल्कन"
-      },
-      {
         "en": "Eagle",
         "hi": "ईगल"
       },
       {
         "en": "Columbia",
         "hi": "कोलंबिया"
+      },
+      {
+        "en": "Endeavour",
+        "hi": "एंडेवर"
+      },
+      {
+        "en": "Falcon",
+        "hi": "फ़ाल्कन"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": {
       "en": "The lunar module was called Eagle; Columbia was the orbiting Command Module.",
       "hi": "लूनर मॉड्यूल का नाम ईगल था; कोलंबिया कक्षा में रहने वाला कमांड मॉड्यूल था।"
@@ -573,23 +573,23 @@
     },
     "options": [
       {
-        "en": "Nine",
-        "hi": "नौ"
+        "en": "Twelve",
+        "hi": "बारह"
       },
       {
         "en": "Five",
         "hi": "पाँच"
       },
       {
-        "en": "Twelve",
-        "hi": "बारह"
-      },
-      {
         "en": "Seven",
         "hi": "सात"
+      },
+      {
+        "en": "Nine",
+        "hi": "नौ"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 2,
     "explanation": {
       "en": "The seven are metre, kilogram, second, ampere, kelvin, mole and candela.",
       "hi": "सात मूल इकाइयाँ हैं: मीटर, किलोग्राम, सेकंड, ऐम्पियर, केल्विन, मोल और कैंडेला।"
@@ -612,16 +612,16 @@
         "hi": "ऐम्पियर"
       },
       {
-        "en": "Watt",
-        "hi": "वाट"
+        "en": "Volt",
+        "hi": "वोल्ट"
       },
       {
         "en": "Ohm",
         "hi": "ओम"
       },
       {
-        "en": "Volt",
-        "hi": "वोल्ट"
+        "en": "Watt",
+        "hi": "वाट"
       }
     ],
     "correctIndex": 0,
@@ -643,23 +643,23 @@
     },
     "options": [
       {
-        "en": "Kelvin",
-        "hi": "केल्विन"
+        "en": "Lux",
+        "hi": "लक्स"
       },
       {
         "en": "Lumen",
         "hi": "लुमेन"
       },
       {
-        "en": "Candela",
-        "hi": "कैंडेला"
+        "en": "Kelvin",
+        "hi": "केल्विन"
       },
       {
-        "en": "Lux",
-        "hi": "लक्स"
+        "en": "Candela",
+        "hi": "कैंडेला"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": {
       "en": "Candela is the base unit; lumen and lux are derived from it.",
       "hi": "कैंडेला मूल इकाई है; लुमेन और लक्स इससे व्युत्पन्न हैं।"
@@ -686,12 +686,12 @@
         "hi": "ग्राम"
       },
       {
-        "en": "Kelvin",
-        "hi": "केल्विन"
-      },
-      {
         "en": "Litre",
         "hi": "लीटर"
+      },
+      {
+        "en": "Kelvin",
+        "hi": "केल्विन"
       }
     ],
     "correctIndex": 0,
@@ -713,23 +713,23 @@
     },
     "options": [
       {
-        "en": "Fahrenheit",
-        "hi": "फ़ारेनहाइट"
-      },
-      {
-        "en": "Joule",
-        "hi": "जूल"
-      },
-      {
         "en": "Kelvin",
         "hi": "केल्विन"
       },
       {
         "en": "Celsius",
         "hi": "सेल्सियस"
+      },
+      {
+        "en": "Fahrenheit",
+        "hi": "फ़ारेनहाइट"
+      },
+      {
+        "en": "Joule",
+        "hi": "जूल"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": {
       "en": "Kelvin is the base unit; degrees Celsius are expressed relative to it.",
       "hi": "केल्विन मूल इकाई है; डिग्री सेल्सियस इसी के सापेक्ष व्यक्त की जाती है।"
@@ -749,6 +749,10 @@
     },
     "options": [
       {
+        "en": "Mole",
+        "hi": "मोल"
+      },
+      {
         "en": "Candela",
         "hi": "कैंडेला"
       },
@@ -759,13 +763,9 @@
       {
         "en": "Kelvin",
         "hi": "केल्विन"
-      },
-      {
-        "en": "Mole",
-        "hi": "मोल"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": {
       "en": "The newton is a derived unit of force built from kilogram, metre and second.",
       "hi": "न्यूटन बल की व्युत्पन्न इकाई है जो किलोग्राम, मीटर और सेकंड से बनती है।"
@@ -785,23 +785,23 @@
     },
     "options": [
       {
-        "en": "1,000,000",
-        "hi": "10,00,000"
+        "en": "10,000",
+        "hi": "10,000"
       },
       {
         "en": "100",
         "hi": "100"
       },
       {
-        "en": "1,000",
-        "hi": "1,000"
+        "en": "1,000,000",
+        "hi": "10,00,000"
       },
       {
-        "en": "10,000",
-        "hi": "10,000"
+        "en": "1,000",
+        "hi": "1,000"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": {
       "en": "Kilo multiplies a unit by one thousand, so a kilometre is 1,000 metres.",
       "hi": "किलो किसी इकाई को हज़ार गुना करता है, अतः एक किलोमीटर 1,000 मीटर होता है।"
@@ -821,23 +821,23 @@
     },
     "options": [
       {
-        "en": "micro",
-        "hi": "माइक्रो"
-      },
-      {
         "en": "milli",
         "hi": "मिली"
       },
       {
-        "en": "nano",
-        "hi": "नैनो"
-      },
-      {
         "en": "pico",
         "hi": "पिको"
+      },
+      {
+        "en": "micro",
+        "hi": "माइक्रो"
+      },
+      {
+        "en": "nano",
+        "hi": "नैनो"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": {
       "en": "nano = 10⁻⁹, micro = 10⁻⁶, pico = 10⁻¹² and milli = 10⁻³.",
       "hi": "नैनो = 10⁻⁹, माइक्रो = 10⁻⁶, पिको = 10⁻¹² और मिली = 10⁻³।"
@@ -860,16 +860,16 @@
         "hi": "दस लाखवाँ भाग"
       },
       {
-        "en": "One hundredth",
-        "hi": "सौवाँ भाग"
+        "en": "One thousandth",
+        "hi": "हज़ारवाँ भाग"
       },
       {
         "en": "One billionth",
         "hi": "अरबवाँ भाग"
       },
       {
-        "en": "One thousandth",
-        "hi": "हज़ारवाँ भाग"
+        "en": "One hundredth",
+        "hi": "सौवाँ भाग"
       }
     ],
     "correctIndex": 0,
@@ -891,6 +891,10 @@
     },
     "options": [
       {
+        "en": "One quadrillion, 10 to the power 15",
+        "hi": "एक करोड़ अरब, 10 की घात 15"
+      },
+      {
         "en": "One million, 10 to the power 6",
         "hi": "दस लाख, 10 की घात 6"
       },
@@ -901,13 +905,9 @@
       {
         "en": "One billion, 10 to the power 9",
         "hi": "एक अरब, 10 की घात 9"
-      },
-      {
-        "en": "One quadrillion, 10 to the power 15",
-        "hi": "एक करोड़ अरब, 10 की घात 15"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": {
       "en": "tera = 10¹²; giga is 10⁹, peta is 10¹⁵ and mega is 10⁶.",
       "hi": "टेरा = 10¹²; गीगा 10⁹, पेटा 10¹⁵ और मेगा 10⁶ है।"
@@ -926,23 +926,23 @@
     },
     "options": [
       {
-        "en": "3.28",
-        "hi": "3.28"
+        "en": "2.5",
+        "hi": "2.5"
       },
       {
-        "en": "2.54",
-        "hi": "2.54"
+        "en": "3.28",
+        "hi": "3.28"
       },
       {
         "en": "25",
         "hi": "25"
       },
       {
-        "en": "2.5",
-        "hi": "2.5"
+        "en": "2.54",
+        "hi": "2.54"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 3,
     "explanation": {
       "en": "Since 1959 the inch has been defined as exactly 2.54 centimetres.",
       "hi": "1959 से इंच को ठीक 2.54 सेंटीमीटर के रूप में परिभाषित किया गया है।"
@@ -961,10 +961,6 @@
     },
     "options": [
       {
-        "en": "1,609",
-        "hi": "1,609"
-      },
-      {
         "en": "1,000",
         "hi": "1,000"
       },
@@ -973,11 +969,15 @@
         "hi": "1,852"
       },
       {
+        "en": "1,609",
+        "hi": "1,609"
+      },
+      {
         "en": "2,000",
         "hi": "2,000"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": {
       "en": "The international nautical mile is fixed at 1,852 metres; 1,609 metres is a statute mile.",
       "hi": "अंतर्राष्ट्रीय समुद्री मील 1,852 मीटर निश्चित है; 1,609 मीटर एक स्थलीय मील है।"
@@ -1031,23 +1031,23 @@
     },
     "options": [
       {
-        "en": "Rapid ocean vessel",
-        "hi": "रैपिड ओशन वेसल"
-      },
-      {
         "en": "Reef observation volume",
         "hi": "रीफ़ ऑब्ज़र्वेशन वॉल्यूम"
+      },
+      {
+        "en": "Remotely operated vehicle",
+        "hi": "रिमोटली ऑपरेटेड व्हीकल"
       },
       {
         "en": "Rotating observation valve",
         "hi": "रोटेटिंग ऑब्ज़र्वेशन वाल्व"
       },
       {
-        "en": "Remotely operated vehicle",
-        "hi": "रिमोटली ऑपरेटेड व्हीकल"
+        "en": "Rapid ocean vessel",
+        "hi": "रैपिड ओशन वेसल"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": {
       "en": "An ROV is an untethered-crew underwater robot driven from the ship by a cable.",
       "hi": "ROV एक ऐसा जलमग्न रोबोट है जिसे जहाज़ से केबल द्वारा चलाया जाता है और उसमें चालक दल नहीं होता।"
@@ -1066,23 +1066,23 @@
     },
     "options": [
       {
-        "en": "Tonga Trench",
-        "hi": "टोंगा खाई"
-      },
-      {
         "en": "Java Trench",
         "hi": "जावा खाई"
       },
       {
-        "en": "Mariana Trench",
-        "hi": "मारियाना खाई"
-      },
-      {
         "en": "Puerto Rico Trench",
         "hi": "प्यूर्टो रिको खाई"
+      },
+      {
+        "en": "Tonga Trench",
+        "hi": "टोंगा खाई"
+      },
+      {
+        "en": "Mariana Trench",
+        "hi": "मारियाना खाई"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": {
       "en": "The Challenger Deep inside the Mariana Trench reaches nearly 11 kilometres down.",
       "hi": "मारियाना खाई के भीतर चैलेंजर डीप लगभग 11 किलोमीटर तक गहरी है।"
@@ -1101,10 +1101,6 @@
     },
     "options": [
       {
-        "en": "Photosynthesis",
-        "hi": "प्रकाशसंश्लेषण"
-      },
-      {
         "en": "Fermentation",
         "hi": "किण्वन"
       },
@@ -1115,9 +1111,13 @@
       {
         "en": "Chemosynthesis",
         "hi": "रसोसंश्लेषण"
+      },
+      {
+        "en": "Photosynthesis",
+        "hi": "प्रकाशसंश्लेषण"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 2,
     "explanation": {
       "en": "Sunlight never reaches those depths, so microbes build food from chemicals in the vent fluids.",
       "hi": "वहाँ तक सूर्य का प्रकाश नहीं पहुँचता, इसलिए सूक्ष्मजीव वेंट के रसायनों से भोजन बनाते हैं।"
@@ -1140,12 +1140,12 @@
         "hi": "ऑटोनोमस अंडरवाटर व्हीकल"
       },
       {
-        "en": "Aerial underwater viewer",
-        "hi": "एरियल अंडरवाटर व्यूअर"
-      },
-      {
         "en": "Assisted uplift valve",
         "hi": "असिस्टेड अपलिफ़्ट वाल्व"
+      },
+      {
+        "en": "Aerial underwater viewer",
+        "hi": "एरियल अंडरवाटर व्यूअर"
       },
       {
         "en": "Anchor utility vessel",
@@ -1171,10 +1171,6 @@
     },
     "options": [
       {
-        "en": "Jupiter",
-        "hi": "बृहस्पति"
-      },
-      {
         "en": "Earth",
         "hi": "पृथ्वी"
       },
@@ -1185,9 +1181,13 @@
       {
         "en": "Neptune",
         "hi": "वरुण"
+      },
+      {
+        "en": "Jupiter",
+        "hi": "बृहस्पति"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 2,
     "explanation": {
       "en": "Neptune's winds can exceed 2,000 kilometres per hour despite its distance from the Sun.",
       "hi": "सूर्य से दूर होने के बावजूद वरुण की हवाएँ 2,000 किलोमीटर प्रति घंटा से अधिक गति से चल सकती हैं।"
@@ -1207,6 +1207,10 @@
     },
     "options": [
       {
+        "en": "Hydrogen-1",
+        "hi": "हाइड्रोजन-1"
+      },
+      {
         "en": "Carbon-12",
         "hi": "कार्बन-12"
       },
@@ -1215,15 +1219,11 @@
         "hi": "सीज़ियम-133"
       },
       {
-        "en": "Hydrogen-1",
-        "hi": "हाइड्रोजन-1"
-      },
-      {
         "en": "Oxygen-16",
         "hi": "ऑक्सीजन-16"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": {
       "en": "The second is fixed at 9,192,631,770 periods of the caesium-133 transition.",
       "hi": "सेकंड को सीज़ियम-133 संक्रमण के 9,192,631,770 आवर्तकाल के बराबर निश्चित किया गया है।"

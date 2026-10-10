@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "DQ-0139",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Who is the constitutional head of state of India?",
+      "hi": "भारत का संवैधानिक राष्ट्रप्रमुख कौन होता है?"
+    },
+    "options": [
+      {
+        "en": "The Chief Justice",
+        "hi": "मुख्य न्यायाधीश"
+      },
+      {
+        "en": "The Prime Minister",
+        "hi": "प्रधानमंत्री"
+      },
+      {
+        "en": "The President",
+        "hi": "राष्ट्रपति"
+      },
+      {
+        "en": "The Vice President",
+        "hi": "उपराष्ट्रपति"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "The President is the head of state while the Prime Minister heads the government.",
+      "hi": "राष्ट्रपति राष्ट्रप्रमुख होते हैं जबकि प्रधानमंत्री सरकार के प्रमुख होते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0140",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who is the ex-officio Chairman of NITI Aayog?",
+      "hi": "नीति आयोग के पदेन अध्यक्ष कौन होते हैं?"
+    },
+    "options": [
+      {
+        "en": "The Prime Minister",
+        "hi": "प्रधानमंत्री"
+      },
+      {
+        "en": "The Finance Minister",
+        "hi": "वित्त मंत्री"
+      },
+      {
+        "en": "The Home Minister",
+        "hi": "गृह मंत्री"
+      },
+      {
+        "en": "The President",
+        "hi": "राष्ट्रपति"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The Prime Minister chairs the commission, with a Chief Executive Officer running day-to-day work.",
+      "hi": "प्रधानमंत्री इस आयोग की अध्यक्षता करते हैं और मुख्य कार्यकारी अधिकारी दैनिक कार्य देखते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0141",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who is the ex-officio Chairman of the Rajya Sabha?",
+      "hi": "राज्य सभा के पदेन सभापति कौन होते हैं?"
+    },
+    "options": [
+      {
+        "en": "The Speaker",
+        "hi": "लोक सभा अध्यक्ष"
+      },
+      {
+        "en": "The President",
+        "hi": "राष्ट्रपति"
+      },
+      {
+        "en": "The Vice President",
+        "hi": "उपराष्ट्रपति"
+      },
+      {
+        "en": "The Leader of the House",
+        "hi": "सदन के नेता"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Article 89 makes the Vice President the Chairman of the Rajya Sabha.",
+      "hi": "अनुच्छेद 89 उपराष्ट्रपति को राज्य सभा का सभापति बनाता है।"
+    }
+  },
+  {
+    "id": "DQ-0142",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "What is the minimum age to become a member of the Lok Sabha?",
+      "hi": "लोक सभा सदस्य बनने के लिए न्यूनतम आयु कितनी है?"
+    },
+    "options": [
+      {
+        "en": "25 years",
+        "hi": "25 वर्ष"
+      },
+      {
+        "en": "30 years",
+        "hi": "30 वर्ष"
+      },
+      {
+        "en": "18 years",
+        "hi": "18 वर्ष"
+      },
+      {
+        "en": "21 years",
+        "hi": "21 वर्ष"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The Rajya Sabha requires 30 years; the Lok Sabha requires 25.",
+      "hi": "राज्य सभा के लिए 30 वर्ष और लोक सभा के लिए 25 वर्ष आवश्यक हैं।"
+    }
+  },
+  {
+    "id": "DQ-0143",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "What is the minimum age to become a member of the Rajya Sabha?",
+      "hi": "राज्य सभा सदस्य बनने के लिए न्यूनतम आयु कितनी है?"
+    },
+    "options": [
+      {
+        "en": "21 years",
+        "hi": "21 वर्ष"
+      },
+      {
+        "en": "25 years",
+        "hi": "25 वर्ष"
+      },
+      {
+        "en": "30 years",
+        "hi": "30 वर्ष"
+      },
+      {
+        "en": "35 years",
+        "hi": "35 वर्ष"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "A Rajya Sabha candidate must have completed thirty years of age.",
+      "hi": "राज्य सभा के उम्मीदवार की आयु तीस वर्ष पूरी होनी चाहिए।"
+    }
+  },
+  {
+    "id": "DQ-0144",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "What is the minimum voting age in India?",
+      "hi": "भारत में मतदान की न्यूनतम आयु क्या है?"
+    },
+    "options": [
+      {
+        "en": "18 years",
+        "hi": "18 वर्ष"
+      },
+      {
+        "en": "25 years",
+        "hi": "25 वर्ष"
+      },
+      {
+        "en": "16 years",
+        "hi": "16 वर्ष"
+      },
+      {
+        "en": "21 years",
+        "hi": "21 वर्ष"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The 61st Amendment of 1989 lowered it from 21 to 18.",
+      "hi": "1989 के 61वें संशोधन ने इसे 21 से घटाकर 18 वर्ष कर दिया।"
+    }
+  },
+  {
+    "id": "DQ-0145",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which Article of the Constitution guarantees equality before the law?",
+      "hi": "संविधान का कौन सा अनुच्छेद विधि के समक्ष समानता की गारंटी देता है?"
+    },
+    "options": [
+      {
+        "en": "Article 18",
+        "hi": "अनुच्छेद 18"
+      },
+      {
+        "en": "Article 12",
+        "hi": "अनुच्छेद 12"
+      },
+      {
+        "en": "Article 16",
+        "hi": "अनुच्छेद 16"
+      },
+      {
+        "en": "Article 14",
+        "hi": "अनुच्छेद 14"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Article 14 promises equality before the law and equal protection of the laws.",
+      "hi": "अनुच्छेद 14 विधि के समक्ष समानता और विधियों के समान संरक्षण का वचन देता है।"
+    }
+  },
+  {
+    "id": "DQ-0146",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Freedom of speech and expression comes under which Article?",
+      "hi": "वाक की स्वतंत्रता किस अनुच्छेद के अंतर्गत आती है?"
+    },
+    "options": [
+      {
+        "en": "Article 19",
+        "hi": "अनुच्छेद 19"
+      },
+      {
+        "en": "Article 22",
+        "hi": "अनुच्छेद 22"
+      },
+      {
+        "en": "Article 20",
+        "hi": "अनुच्छेद 20"
+      },
+      {
+        "en": "Article 15",
+        "hi": "अनुच्छेद 15"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Article 19(1)(a) carries it, subject to the reasonable restrictions in 19(2).",
+      "hi": "यह अनुच्छेद 19(1)(क) में है, जिस पर 19(2) के उचित प्रतिबंध लागू होते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0147",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which Article abolishes untouchability in India?",
+      "hi": "भारत में छुआछूत किस अनुच्छेद द्वारा समाप्त की गई?"
+    },
+    "options": [
+      {
+        "en": "Article 23",
+        "hi": "अनुच्छेद 23"
+      },
+      {
+        "en": "Article 14",
+        "hi": "अनुच्छेद 14"
+      },
+      {
+        "en": "Article 25",
+        "hi": "अनुच्छेद 25"
+      },
+      {
+        "en": "Article 17",
+        "hi": "अनुच्छेद 17"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Its practice in any form is forbidden and made punishable by law.",
+      "hi": "किसी भी रूप में इसका आचरण निषिद्ध है और विधि द्वारा दंडनीय है।"
+    }
+  },
+  {
+    "id": "DQ-0148",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "The Fundamental Duties of Indian citizens are listed in which Article?",
+      "hi": "भारतीय नागरिकों के मौलिक कर्तव्य किस अनुच्छेद में दिए गए हैं?"
+    },
+    "options": [
+      {
+        "en": "Article 21",
+        "hi": "अनुच्छेद 21"
+      },
+      {
+        "en": "Article 51A",
+        "hi": "अनुच्छेद 51A"
+      },
+      {
+        "en": "Article 32",
+        "hi": "अनुच्छेद 32"
+      },
+      {
+        "en": "Article 44",
+        "hi": "अनुच्छेद 44"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "They were added to Part IVA by the 42nd Amendment in 1976.",
+      "hi": "इन्हें 1976 के 42वें संशोधन द्वारा भाग IVA में जोड़ा गया।"
+    }
+  },
+  {
+    "id": "DQ-0149",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Directive Principles of State Policy sit in which Part of the Constitution?",
+      "hi": "राज्य के नीति निर्देशक तत्व संविधान के किस भाग में हैं?"
+    },
+    "options": [
+      {
+        "en": "Part IV",
+        "hi": "भाग IV"
+      },
+      {
+        "en": "Part XII",
+        "hi": "भाग XII"
+      },
+      {
+        "en": "Part IX",
+        "hi": "भाग IX"
+      },
+      {
+        "en": "Part III",
+        "hi": "भाग III"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "They guide lawmaking but, unlike Fundamental Rights, are not enforceable in court.",
+      "hi": "वे विधान निर्माण का मार्गदर्शन करते हैं पर मौलिक अधिकारों के विपरीत न्यायालय में प्रवर्तनीय नहीं हैं।"
+    }
+  },
+  {
+    "id": "DQ-0150",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "How many Schedules does the Constitution of India contain?",
+      "hi": "भारत के संविधान में कितनी अनुसूचियाँ हैं?"
+    },
+    "options": [
+      {
+        "en": "Ten",
+        "hi": "दस"
+      },
+      {
+        "en": "Twelve",
+        "hi": "बारह"
+      },
+      {
+        "en": "Eight",
+        "hi": "आठ"
+      },
+      {
+        "en": "Fourteen",
+        "hi": "चौदह"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "The original text had eight; four more were added by later amendments.",
+      "hi": "मूल संविधान में आठ थीं; बाद के संशोधनों से चार और जुड़ीं।"
+    }
+  },
+  {
+    "id": "DQ-0151",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Who chaired the Drafting Committee of the Constituent Assembly?",
+      "hi": "संविधान सभा की प्रारूप समिति के अध्यक्ष कौन थे?"
+    },
+    "options": [
+      {
+        "en": "Dr B. R. Ambedkar",
+        "hi": "डॉ. बी. आर. अम्बेडकर"
+      },
+      {
+        "en": "Dr Rajendra Prasad",
+        "hi": "डॉ. राजेन्द्र प्रसाद"
+      },
+      {
+        "en": "Jawaharlal Nehru",
+        "hi": "जवाहरलाल नेहरू"
+      },
+      {
+        "en": "Sardar Vallabhbhai Patel",
+        "hi": "सरदार वल्लभभाई पटेल"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Dr Rajendra Prasad presided over the Assembly itself.",
+      "hi": "सभा के अध्यक्ष डॉ. राजेन्द्र प्रसाद थे।"
+    }
+  },
+  {
+    "id": "DQ-0152",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "With which words does the Preamble of the Indian Constitution begin?",
+      "hi": "भारत के संविधान की प्रस्तावना किन शब्दों से शुरू होती है?"
+    },
+    "options": [
+      {
+        "en": "India, that is Bharat",
+        "hi": "इंडिया, देट इज़ भारत"
+      },
+      {
+        "en": "We, the people of India",
+        "hi": "हम, भारत के लोग"
+      },
+      {
+        "en": "Satyameva Jayate",
+        "hi": "सत्यमेव जयते"
+      },
+      {
+        "en": "Jana Gana Mana",
+        "hi": "जन गण मन"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "'India, that is Bharat' opens Article 1, not the Preamble.",
+      "hi": "'इंडिया, देट इज़ भारत' अनुच्छेद 1 की शुरुआत है, प्रस्तावना की नहीं।"
+    }
+  },
+  {
+    "id": "DQ-0153",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which Amendment added the words 'Socialist' and 'Secular' to the Preamble?",
+      "hi": "प्रस्तावना में 'समाजवादी' और 'पंथनिरपेक्ष' शब्द किस संशोधन से जोड़े गए?"
+    },
+    "options": [
+      {
+        "en": "The 73rd Amendment",
+        "hi": "73वाँ संशोधन"
+      },
+      {
+        "en": "The 42nd Amendment",
+        "hi": "42वाँ संशोधन"
+      },
+      {
+        "en": "The 86th Amendment",
+        "hi": "86वाँ संशोधन"
+      },
+      {
+        "en": "The 44th Amendment",
+        "hi": "44वाँ संशोधन"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "The 42nd Amendment Act of 1976 made the change.",
+      "hi": "यह परिवर्तन 42वें संविधान संशोधन अधिनियम, 1976 द्वारा हुआ।"
+    }
+  },
+  {
+    "id": "DQ-0154",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "What is the quorum required to hold a sitting of either House of Parliament?",
+      "hi": "संसद के किसी भी सदन की बैठक के लिए आवश्यक कोरम क्या है?"
+    },
+    "options": [
+      {
+        "en": "One fourth of the total members",
+        "hi": "कुल सदस्यों का चौथाई भाग"
+      },
+      {
+        "en": "One tenth of the total members",
+        "hi": "कुल सदस्यों का दसवाँ भाग"
+      },
+      {
+        "en": "Half of the total members",
+        "hi": "कुल सदस्यों का आधा भाग"
+      },
+      {
+        "en": "One third of the total members",
+        "hi": "कुल सदस्यों का एक तिहाई"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Article 100 fixes the quorum at one tenth, unless Parliament changes it.",
+      "hi": "अनुच्छेद 100 कोरम एक दसवाँ तय करता है, जब तक संसद इसे न बदले।"
+    }
+  },
+  {
+    "id": "DQ-0155",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Who presides over a joint sitting of the two Houses of Parliament?",
+      "hi": "संसद के दोनों सदनों की संयुक्त बैठक की अध्यक्षता कौन करता है?"
+    },
+    "options": [
+      {
+        "en": "The Speaker of the Lok Sabha",
+        "hi": "लोक सभा के अध्यक्ष"
+      },
+      {
+        "en": "The President",
+        "hi": "राष्ट्रपति"
+      },
+      {
+        "en": "The Chairman of the Rajya Sabha",
+        "hi": "राज्य सभा के सभापति"
+      },
+      {
+        "en": "The senior-most member",
+        "hi": "सबसे वरिष्ठ सदस्य"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The President summons the joint sitting but does not preside over it.",
+      "hi": "राष्ट्रपति संयुक्त सत्र आहूत करते हैं पर उसकी अध्यक्षता नहीं करते।"
+    }
+  },
+  {
+    "id": "DQ-0156",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who administers the oath of office to the President of India?",
+      "hi": "भारत के राष्ट्रपति को पद की शपथ कौन दिलाता है?"
+    },
+    "options": [
+      {
+        "en": "The outgoing President",
+        "hi": "निवर्तमान राष्ट्रपति"
+      },
+      {
+        "en": "The Chief Justice of India",
+        "hi": "भारत के मुख्य न्यायाधीश"
+      },
+      {
+        "en": "The Prime Minister",
+        "hi": "प्रधानमंत्री"
+      },
+      {
+        "en": "The Vice President",
+        "hi": "उपराष्ट्रपति"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "In the Chief Justice's absence, the senior-most available Supreme Court judge does it.",
+      "hi": "मुख्य न्यायाधीश की अनुपस्थिति में सर्वोच्च न्यायालय के सबसे वरिष्ठ उपलब्ध न्यायाधीश यह करते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0157",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "The establishment of the Supreme Court of India is provided for in which Article?",
+      "hi": "भारत के सर्वोच्च न्यायालय की स्थापना किस अनुच्छेद में की गई है?"
+    },
+    "options": [
+      {
+        "en": "Article 226",
+        "hi": "अनुच्छेद 226"
+      },
+      {
+        "en": "Article 124",
+        "hi": "अनुच्छेद 124"
+      },
+      {
+        "en": "Article 32",
+        "hi": "अनुच्छेद 32"
+      },
+      {
+        "en": "Article 143",
+        "hi": "अनुच्छेद 143"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Article 124 creates the Court and sets out how its judges are appointed.",
+      "hi": "अनुच्छेद 124 न्यायालय की स्थापना करता है और न्यायाधीशों की नियुक्ति की प्रक्रिया बताता है।"
+    }
+  },
+  {
+    "id": "DQ-0158",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "The office of the Attorney General for India is created by which Article?",
+      "hi": "भारत के महान्यायवादी का पद किस अनुच्छेद द्वारा बनाया गया है?"
+    },
+    "options": [
+      {
+        "en": "Article 76",
+        "hi": "अनुच्छेद 76"
+      },
+      {
+        "en": "Article 112",
+        "hi": "अनुच्छेद 112"
+      },
+      {
+        "en": "Article 85",
+        "hi": "अनुच्छेद 85"
+      },
+      {
+        "en": "Article 72",
+        "hi": "अनुच्छेद 72"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The Attorney General is the Union's chief legal adviser.",
+      "hi": "महान्यायवादी संघ के मुख्य विधि सलाहकार होते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0159",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "The Comptroller and Auditor General of India is provided for in which Article?",
+      "hi": "भारत के नियंत्रक एवं महालेखा परीक्षक की व्यवस्था किस अनुच्छेद में है?"
+    },
+    "options": [
+      {
+        "en": "Article 280",
+        "hi": "अनुच्छेद 280"
+      },
+      {
+        "en": "Article 112",
+        "hi": "अनुच्छेद 112"
+      },
+      {
+        "en": "Article 266",
+        "hi": "अनुच्छेद 266"
+      },
+      {
+        "en": "Article 148",
+        "hi": "अनुच्छेद 148"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The CAG audits the accounts of the Union and of every state.",
+      "hi": "नियंत्रक एवं महालेखा परीक्षक संघ और प्रत्येक राज्य के लेखों की लेखापरीक्षा करते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0160",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which Article establishes the Election Commission of India?",
+      "hi": "भारत के निर्वाचन आयोग की स्थापना कौन सा अनुच्छेद करता है?"
+    },
+    "options": [
+      {
+        "en": "Article 370",
+        "hi": "अनुच्छेद 370"
+      },
+      {
+        "en": "Article 239",
+        "hi": "अनुच्छेद 239"
+      },
+      {
+        "en": "Article 324",
+        "hi": "अनुच्छेद 324"
+      },
+      {
+        "en": "Article 356",
+        "hi": "अनुच्छेद 356"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It superintends, directs and controls the preparation of electoral rolls and elections.",
+      "hi": "यह मतदाता सूचियों की तैयारी तथा चुनावों का पर्यवेक्षण, निर्देशन और नियंत्रण करता है।"
+    }
+  },
+  {
+    "id": "DQ-0161",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "On which date was the national flag of India adopted by the Constituent Assembly?",
+      "hi": "भारत का राष्ट्रीय ध्वज संविधान सभा ने किस तिथि को अपनाया?"
+    },
+    "options": [
+      {
+        "en": "22 July 1947",
+        "hi": "22 जुलाई 1947"
+      },
+      {
+        "en": "26 January 1950",
+        "hi": "26 जनवरी 1950"
+      },
+      {
+        "en": "26 November 1949",
+        "hi": "26 नवंबर 1949"
+      },
+      {
+        "en": "15 August 1947",
+        "hi": "15 अगस्त 1947"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The tricolour in its present form was adopted three weeks before independence.",
+      "hi": "स्वतंत्रता से तीन सप्ताह पहले वर्तमान रूप में तिरंगा अपनाया गया।"
+    }
+  },
+  {
+    "id": "DQ-0162",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "On which date was Jana Gana Mana adopted as the national anthem?",
+      "hi": "जन गण मन को राष्ट्रीय गान के रूप में किस तिथि को अपनाया गया?"
+    },
+    "options": [
+      {
+        "en": "22 July 1947",
+        "hi": "22 जुलाई 1947"
+      },
+      {
+        "en": "24 January 1950",
+        "hi": "24 जनवरी 1950"
+      },
+      {
+        "en": "26 January 1950",
+        "hi": "26 जनवरी 1950"
+      },
+      {
+        "en": "15 August 1947",
+        "hi": "15 अगस्त 1947"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "The Constituent Assembly adopted it at its final session, two days before the Republic began.",
+      "hi": "संविधान सभा ने गणतंत्र शुरू होने से दो दिन पहले अपने अंतिम सत्र में इसे अपनाया।"
+    }
+  },
+  {
+    "id": "DQ-0163",
+    "category": "Currency",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In which year was the Reserve Bank of India established?",
+      "hi": "भारतीय रिज़र्व बैंक की स्थापना किस वर्ष हुई?"
+    },
+    "options": [
+      {
+        "en": "1949",
+        "hi": "1949"
+      },
+      {
+        "en": "1935",
+        "hi": "1935"
+      },
+      {
+        "en": "1947",
+        "hi": "1947"
+      },
+      {
+        "en": "1921",
+        "hi": "1921"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It began work on 1 April 1935 under the Reserve Bank of India Act, 1934.",
+      "hi": "इसने 1 अप्रैल 1935 को भारतीय रिज़र्व बैंक अधिनियम, 1934 के तहत कार्य आरंभ किया।"
+    }
+  },
+  {
+    "id": "DQ-0164",
+    "category": "Currency",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "In which year was the Reserve Bank of India nationalised?",
+      "hi": "भारतीय रिज़र्व बैंक का राष्ट्रीयकरण किस वर्ष हुआ?"
+    },
+    "options": [
+      {
+        "en": "1935",
+        "hi": "1935"
+      },
+      {
+        "en": "1969",
+        "hi": "1969"
+      },
+      {
+        "en": "1955",
+        "hi": "1955"
+      },
+      {
+        "en": "1949",
+        "hi": "1949"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The State Bank of India was nationalised in 1955, not the central bank.",
+      "hi": "स्टेट बैंक ऑफ़ इंडिया का राष्ट्रीयकरण 1955 में हुआ, केंद्रीय बैंक का नहीं।"
+    }
+  },
+  {
+    "id": "DQ-0165",
+    "category": "Currency",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Where is the central office of the Reserve Bank of India?",
+      "hi": "भारतीय रिज़र्व बैंक का केंद्रीय कार्यालय कहाँ है?"
+    },
+    "options": [
+      {
+        "en": "New Delhi",
+        "hi": "नई दिल्ली"
+      },
+      {
+        "en": "Mumbai",
+        "hi": "मुंबई"
+      },
+      {
+        "en": "Chennai",
+        "hi": "चेन्नई"
+      },
+      {
+        "en": "Kolkata",
+        "hi": "कोलकाता"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "The central office has stood in Mumbai since 1937.",
+      "hi": "केंद्रीय कार्यालय 1937 से मुंबई में स्थित है।"
+    }
+  },
+  {
+    "id": "DQ-0166",
+    "category": "Currency",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Whose signature appears on Indian currency notes other than the one rupee note?",
+      "hi": "एक रुपये के नोट के अलावा अन्य भारतीय नोटों पर किसके हस्ताक्षर होते हैं?"
+    },
+    "options": [
+      {
+        "en": "The Finance Minister",
+        "hi": "वित्त मंत्री"
+      },
+      {
+        "en": "The Governor of the Reserve Bank of India",
+        "hi": "भारतीय रिज़र्व बैंक के गवर्नर"
+      },
+      {
+        "en": "The Prime Minister",
+        "hi": "प्रधानमंत्री"
+      },
+      {
+        "en": "The Finance Secretary",
+        "hi": "वित्त सचिव"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Only the one rupee note carries the Finance Secretary's signature.",
+      "hi": "केवल एक रुपये के नोट पर वित्त सचिव के हस्ताक्षर होते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0167",
+    "category": "Currency",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "After the ₹2,000 note was withdrawn from circulation in 2023, which is the highest denomination the RBI issues?",
+      "hi": "2023 में ₹2,000 का नोट प्रचलन से वापस लेने के बाद RBI किस सबसे बड़े मूल्यवर्ग का नोट जारी करता है?"
+    },
+    "options": [
+      {
+        "en": "₹500",
+        "hi": "₹500"
+      },
+      {
+        "en": "₹200",
+        "hi": "₹200"
+      },
+      {
+        "en": "₹2,000",
+        "hi": "₹2,000"
+      },
+      {
+        "en": "₹1,000",
+        "hi": "₹1,000"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The ₹500 Mahatma Gandhi New Series note is now the highest in active circulation.",
+      "hi": "अब ₹500 का महात्मा गांधी नई श्रृंखला नोट सक्रिय प्रचलन में सबसे बड़ा है।"
+    }
+  },
+  {
+    "id": "DQ-0168",
+    "category": "Currency",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In which month and year were the ₹500 and ₹1,000 notes demonetised in India?",
+      "hi": "भारत में ₹500 और ₹1,000 के नोट किस माह और वर्ष में अमान्य किए गए?"
+    },
+    "options": [
+      {
+        "en": "November 2016",
+        "hi": "नवंबर 2016"
+      },
+      {
+        "en": "March 2019",
+        "hi": "मार्च 2019"
+      },
+      {
+        "en": "January 2015",
+        "hi": "जनवरी 2015"
+      },
+      {
+        "en": "August 2017",
+        "hi": "अगस्त 2017"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The announcement was made on the night of 8 November 2016.",
+      "hi": "घोषणा 8 नवंबर 2016 की रात की गई थी।"
+    }
+  },
+  {
+    "id": "DQ-0169",
+    "category": "Indian geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the longest river flowing within India?",
+      "hi": "भारत के भीतर बहने वाली सबसे लंबी नदी कौन सी है?"
+    },
+    "options": [
+      {
+        "en": "The Brahmaputra",
+        "hi": "ब्रह्मपुत्र"
+      },
+      {
+        "en": "The Godavari",
+        "hi": "गोदावरी"
+      },
+      {
+        "en": "The Ganga",
+        "hi": "गंगा"
+      },
+      {
+        "en": "The Krishna",
+        "hi": "कृष्णा"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "The Ganga runs about 2,525 kilometres from Gangotri to the Bay of Bengal.",
+      "hi": "गंगा गंगोत्री से बंगाल की खाड़ी तक लगभग 2,525 किलोमीटर बहती है।"
+    }
+  },
+  {
+    "id": "DQ-0170",
+    "category": "Indian geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the largest Indian state by area?",
+      "hi": "क्षेत्रफल की दृष्टि से सबसे बड़ा भारतीय राज्य कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "Uttar Pradesh",
+        "hi": "उत्तर प्रदेश"
+      },
+      {
+        "en": "Madhya Pradesh",
+        "hi": "मध्य प्रदेश"
+      },
+      {
+        "en": "Maharashtra",
+        "hi": "महाराष्ट्र"
+      },
+      {
+        "en": "Rajasthan",
+        "hi": "राजस्थान"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Rajasthan covers roughly 342,000 square kilometres.",
+      "hi": "राजस्थान लगभग 3,42,000 वर्ग किलोमीटर में फैला है।"
+    }
+  },
+  {
+    "id": "DQ-0171",
+    "category": "Indian geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the smallest Indian state by area?",
+      "hi": "क्षेत्रफल की दृष्टि से सबसे छोटा भारतीय राज्य कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "Sikkim",
+        "hi": "सिक्किम"
+      },
+      {
+        "en": "Goa",
+        "hi": "गोवा"
+      },
+      {
+        "en": "Tripura",
+        "hi": "त्रिपुरा"
+      },
+      {
+        "en": "Nagaland",
+        "hi": "नागालैंड"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Goa covers about 3,700 square kilometres on the western coast.",
+      "hi": "गोवा पश्चिमी तट पर लगभग 3,700 वर्ग किलोमीटर में फैला है।"
+    }
+  },
+  {
+    "id": "DQ-0172",
+    "category": "Indian geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which Indian state had the largest population in the 2011 census?",
+      "hi": "2011 की जनगणना में किस भारतीय राज्य की जनसंख्या सबसे अधिक थी?"
+    },
+    "options": [
+      {
+        "en": "West Bengal",
+        "hi": "पश्चिम बंगाल"
+      },
+      {
+        "en": "Bihar",
+        "hi": "बिहार"
+      },
+      {
+        "en": "Uttar Pradesh",
+        "hi": "उत्तर प्रदेश"
+      },
+      {
+        "en": "Maharashtra",
+        "hi": "महाराष्ट्र"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Uttar Pradesh recorded close to 200 million people in that census.",
+      "hi": "उस जनगणना में उत्तर प्रदेश की जनसंख्या लगभग 20 करोड़ दर्ज हुई।"
+    }
+  },
+  {
+    "id": "DQ-0173",
+    "category": "Indian geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which Indian state has the longest coastline?",
+      "hi": "किस भारतीय राज्य की तटरेखा सबसे लंबी है?"
+    },
+    "options": [
+      {
+        "en": "Andhra Pradesh",
+        "hi": "आंध्र प्रदेश"
+      },
+      {
+        "en": "Gujarat",
+        "hi": "गुजरात"
+      },
+      {
+        "en": "Tamil Nadu",
+        "hi": "तमिलनाडु"
+      },
+      {
+        "en": "Kerala",
+        "hi": "केरल"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Gujarat's coast stretches roughly 1,600 kilometres along the Arabian Sea.",
+      "hi": "गुजरात की तटरेखा अरब सागर के साथ लगभग 1,600 किलोमीटर लंबी है।"
+    }
+  },
+  {
+    "id": "DQ-0174",
+    "category": "Indian geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Lakshadweep islands lie in which body of water?",
+      "hi": "लक्षद्वीप द्वीप समूह किस जल निकाय में स्थित है?"
+    },
+    "options": [
+      {
+        "en": "The Arabian Sea",
+        "hi": "अरब सागर"
+      },
+      {
+        "en": "The Palk Strait",
+        "hi": "पाक जलडमरूमध्य"
+      },
+      {
+        "en": "The Bay of Bengal",
+        "hi": "बंगाल की खाड़ी"
+      },
+      {
+        "en": "The Indian Ocean south of Sri Lanka",
+        "hi": "श्रीलंका के दक्षिण में हिंद महासागर"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "They are coral atolls off the Kerala coast.",
+      "hi": "ये केरल तट से दूर प्रवाल द्वीप हैं।"
+    }
+  },
+  {
+    "id": "DQ-0175",
+    "category": "Indian geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Andaman and Nicobar Islands lie in which body of water?",
+      "hi": "अंडमान और निकोबार द्वीप समूह किस जल निकाय में स्थित है?"
+    },
+    "options": [
+      {
+        "en": "The Bay of Bengal",
+        "hi": "बंगाल की खाड़ी"
+      },
+      {
+        "en": "The Gulf of Mannar",
+        "hi": "मन्नार की खाड़ी"
+      },
+      {
+        "en": "The Arabian Sea",
+        "hi": "अरब सागर"
+      },
+      {
+        "en": "The Laccadive Sea",
+        "hi": "लक्षद्वीप सागर"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "They arc south-east from Myanmar towards Sumatra.",
+      "hi": "ये म्यांमार से दक्षिण-पूर्व में सुमात्रा की ओर फैले हैं।"
+    }
+  },
+  {
+    "id": "DQ-0176",
+    "category": "Indian geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Narmada river empties into which sea?",
+      "hi": "नर्मदा नदी किस सागर में गिरती है?"
+    },
+    "options": [
+      {
+        "en": "The Bay of Bengal",
+        "hi": "बंगाल की खाड़ी"
+      },
+      {
+        "en": "The Indian Ocean near Sri Lanka",
+        "hi": "श्रीलंका के पास हिंद महासागर"
+      },
+      {
+        "en": "The Gulf of Khambhat in the Arabian Sea",
+        "hi": "अरब सागर में खंभात की खाड़ी"
+      },
+      {
+        "en": "The Palk Strait",
+        "hi": "पाक जलडमरूमध्य"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Unlike most peninsular rivers, the Narmada flows west through a rift valley.",
+      "hi": "अधिकांश प्रायद्वीपीय नदियों के विपरीत, नर्मदा भ्रंश घाटी से पश्चिम की ओर बहती है।"
+    }
+  },
+  {
+    "id": "DQ-0177",
+    "category": "Indian geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "The Tropic of Cancer passes through how many Indian states?",
+      "hi": "कर्क रेखा कितने भारतीय राज्यों से होकर गुज़रती है?"
+    },
+    "options": [
+      {
+        "en": "Eight states",
+        "hi": "आठ राज्य"
+      },
+      {
+        "en": "Ten",
+        "hi": "दस"
+      },
+      {
+        "en": "Six",
+        "hi": "छह"
+      },
+      {
+        "en": "Five",
+        "hi": "पाँच"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram.",
+      "hi": "गुजरात, राजस्थान, मध्य प्रदेश, छत्तीसगढ़, झारखंड, पश्चिम बंगाल, त्रिपुरा और मिज़ोरम।"
+    }
+  },
+  {
+    "id": "DQ-0178",
+    "category": "Indian geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "The Sundarbans delta is formed by which pair of rivers?",
+      "hi": "सुंदरबन डेल्टा किन दो नदियों से बना है?"
+    },
+    "options": [
+      {
+        "en": "The Godavari and the Krishna",
+        "hi": "गोदावरी और कृष्णा"
+      },
+      {
+        "en": "The Mahanadi and the Subarnarekha",
+        "hi": "महानदी और स्वर्णरेखा"
+      },
+      {
+        "en": "The Kaveri and the Vaigai",
+        "hi": "कावेरी और वैगई"
+      },
+      {
+        "en": "The Ganga and the Brahmaputra",
+        "hi": "गंगा और ब्रह्मपुत्र"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It is the world's largest river delta and home to the mangrove tiger habitat.",
+      "hi": "यह विश्व का सबसे बड़ा नदी डेल्टा है और मैंग्रोव बाघ आवास का घर है।"
+    }
+  }
+]

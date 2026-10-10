@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "DQ-0179",
+    "category": "World bodies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "In which city is the headquarters of the United Nations?",
+      "hi": "संयुक्त राष्ट्र का मुख्यालय किस शहर में है?"
+    },
+    "options": [
+      {
+        "en": "Vienna",
+        "hi": "वियना"
+      },
+      {
+        "en": "Geneva",
+        "hi": "जिनेवा"
+      },
+      {
+        "en": "Nairobi",
+        "hi": "नैरोबी"
+      },
+      {
+        "en": "New York",
+        "hi": "न्यूयॉर्क"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The Secretariat building stands on the East River in Manhattan.",
+      "hi": "सचिवालय भवन मैनहटन में ईस्ट रिवर के किनारे स्थित है।"
+    }
+  },
+  {
+    "id": "DQ-0180",
+    "category": "World bodies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "For how many years is the Secretary-General of the United Nations appointed at a time?",
+      "hi": "संयुक्त राष्ट्र के महासचिव एक बार में कितने वर्षों के लिए नियुक्त होते हैं?"
+    },
+    "options": [
+      {
+        "en": "Four years",
+        "hi": "चार वर्ष"
+      },
+      {
+        "en": "Three years",
+        "hi": "तीन वर्ष"
+      },
+      {
+        "en": "Five years",
+        "hi": "पाँच वर्ष"
+      },
+      {
+        "en": "Six years",
+        "hi": "छह वर्ष"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "The term is renewable, and Secretaries-General have traditionally served two.",
+      "hi": "यह कार्यकाल नवीकरणीय है और परंपरागत रूप से महासचिव दो कार्यकाल सेवा देते रहे हैं।"
+    }
+  },
+  {
+    "id": "DQ-0181",
+    "category": "World bodies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "How many member states does the United Nations currently have?",
+      "hi": "संयुक्त राष्ट्र में वर्तमान में कितने सदस्य देश हैं?"
+    },
+    "options": [
+      {
+        "en": "193",
+        "hi": "193"
+      },
+      {
+        "en": "200",
+        "hi": "200"
+      },
+      {
+        "en": "180",
+        "hi": "180"
+      },
+      {
+        "en": "175",
+        "hi": "175"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "South Sudan became the 193rd member in 2011.",
+      "hi": "दक्षिण सूडान 2011 में 193वाँ सदस्य बना।"
+    }
+  },
+  {
+    "id": "DQ-0182",
+    "category": "World bodies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which international organisation came before the United Nations?",
+      "hi": "संयुक्त राष्ट्र से पहले कौन सा अंतर्राष्ट्रीय संगठन था?"
+    },
+    "options": [
+      {
+        "en": "The League of Nations",
+        "hi": "राष्ट्र संघ"
+      },
+      {
+        "en": "The Non-Aligned Movement",
+        "hi": "गुटनिरपेक्ष आंदोलन"
+      },
+      {
+        "en": "The Warsaw Pact",
+        "hi": "वॉरसॉ संधि"
+      },
+      {
+        "en": "The Commonwealth",
+        "hi": "राष्ट्रमंडल"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Founded in 1920, it could not prevent the Second World War and was wound up in 1946.",
+      "hi": "1920 में स्थापित यह संगठन द्वितीय विश्व युद्ध नहीं रोक सका और 1946 में समाप्त हुआ।"
+    }
+  },
+  {
+    "id": "DQ-0183",
+    "category": "World bodies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In which year was the Universal Declaration of Human Rights adopted?",
+      "hi": "मानव अधिकारों की सार्वभौम घोषणा किस वर्ष अपनाई गई?"
+    },
+    "options": [
+      {
+        "en": "1950",
+        "hi": "1950"
+      },
+      {
+        "en": "1966",
+        "hi": "1966"
+      },
+      {
+        "en": "1948",
+        "hi": "1948"
+      },
+      {
+        "en": "1945",
+        "hi": "1945"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "The General Assembly adopted it in Paris on 10 December 1948.",
+      "hi": "महासभा ने इसे 10 दिसंबर 1948 को पेरिस में अपनाया।"
+    }
+  },
+  {
+    "id": "DQ-0184",
+    "category": "World bodies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Who chaired the committee that drafted the Universal Declaration of Human Rights?",
+      "hi": "मानव अधिकारों की सार्वभौम घोषणा का मसविदा तैयार करने वाली समिति की अध्यक्षता किसने की?"
+    },
+    "options": [
+      {
+        "en": "Eleanor Roosevelt",
+        "hi": "एलेनोर रूज़वेल्ट"
+      },
+      {
+        "en": "Indira Gandhi",
+        "hi": "इंदिरा गांधी"
+      },
+      {
+        "en": "Golda Meir",
+        "hi": "गोल्डा मेयर"
+      },
+      {
+        "en": "Margaret Thatcher",
+        "hi": "मार्गरेट थैचर"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "She led the eighteen-member UN Commission on Human Rights.",
+      "hi": "उन्होंने अठारह सदस्यीय संयुक्त राष्ट्र मानव अधिकार आयोग का नेतृत्व किया।"
+    }
+  },
+  {
+    "id": "DQ-0185",
+    "category": "World bodies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "How many official languages does the United Nations have?",
+      "hi": "संयुक्त राष्ट्र की कितनी आधिकारिक भाषाएँ हैं?"
+    },
+    "options": [
+      {
+        "en": "Four",
+        "hi": "चार"
+      },
+      {
+        "en": "Three",
+        "hi": "तीन"
+      },
+      {
+        "en": "Eight",
+        "hi": "आठ"
+      },
+      {
+        "en": "Six languages",
+        "hi": "छह भाषाएँ"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Arabic, Chinese, English, French, Russian and Spanish.",
+      "hi": "अरबी, चीनी, अंग्रेज़ी, फ़्रेंच, रूसी और स्पेनिश।"
+    }
+  },
+  {
+    "id": "DQ-0186",
+    "category": "World bodies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which of these is not an official language of the United Nations?",
+      "hi": "इनमें से कौन सी संयुक्त राष्ट्र की आधिकारिक भाषा नहीं है?"
+    },
+    "options": [
+      {
+        "en": "Arabic",
+        "hi": "अरबी"
+      },
+      {
+        "en": "Hindi",
+        "hi": "हिंदी"
+      },
+      {
+        "en": "Russian",
+        "hi": "रूसी"
+      },
+      {
+        "en": "Spanish",
+        "hi": "स्पेनिश"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Hindi is spoken by hundreds of millions but is not among the six.",
+      "hi": "हिंदी करोड़ों लोग बोलते हैं पर वह छह में शामिल नहीं है।"
+    }
+  },
+  {
+    "id": "DQ-0187",
+    "category": "World bodies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Where is the headquarters of the World Health Organization?",
+      "hi": "विश्व स्वास्थ्य संगठन का मुख्यालय कहाँ है?"
+    },
+    "options": [
+      {
+        "en": "Rome",
+        "hi": "रोम"
+      },
+      {
+        "en": "New York",
+        "hi": "न्यूयॉर्क"
+      },
+      {
+        "en": "Paris",
+        "hi": "पेरिस"
+      },
+      {
+        "en": "Geneva",
+        "hi": "जिनेवा"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Several UN agencies cluster in Geneva, Switzerland.",
+      "hi": "स्विट्ज़रलैंड के जिनेवा में कई संयुक्त राष्ट्र एजेंसियाँ स्थित हैं।"
+    }
+  },
+  {
+    "id": "DQ-0188",
+    "category": "World bodies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Where is the headquarters of UNESCO?",
+      "hi": "यूनेस्को का मुख्यालय कहाँ है?"
+    },
+    "options": [
+      {
+        "en": "Berlin",
+        "hi": "बर्लिन"
+      },
+      {
+        "en": "London",
+        "hi": "लंदन"
+      },
+      {
+        "en": "Geneva",
+        "hi": "जिनेवा"
+      },
+      {
+        "en": "Paris",
+        "hi": "पेरिस"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Its headquarters building opened in 1958.",
+      "hi": "इसका मुख्यालय भवन 1958 में खुला।"
+    }
+  },
+  {
+    "id": "DQ-0189",
+    "category": "World bodies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In which year did the World Trade Organization come into being?",
+      "hi": "विश्व व्यापार संगठन का अस्तित्व किस वर्ष में आया?"
+    },
+    "options": [
+      {
+        "en": "2001",
+        "hi": "2001"
+      },
+      {
+        "en": "1985",
+        "hi": "1985"
+      },
+      {
+        "en": "1995",
+        "hi": "1995"
+      },
+      {
+        "en": "1990",
+        "hi": "1990"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "The Marrakesh Agreement brought it into force on 1 January 1995.",
+      "hi": "मराकेश समझौते से यह 1 जनवरी 1995 को लागू हुआ।"
+    }
+  },
+  {
+    "id": "DQ-0190",
+    "category": "World bodies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "The World Trade Organization took over from which earlier agreement?",
+      "hi": "विश्व व्यापार संगठन ने किस पूर्ववर्ती समझौते का स्थान लिया?"
+    },
+    "options": [
+      {
+        "en": "The Bretton Woods Accord",
+        "hi": "ब्रेटन वुड्स समझौता"
+      },
+      {
+        "en": "The General Agreement on Tariffs and Trade",
+        "hi": "जनरल एग्रीमेंट ऑन टैरिफ़्स एंड ट्रेड"
+      },
+      {
+        "en": "The Schengen Agreement",
+        "hi": "शेंगेन समझौता"
+      },
+      {
+        "en": "The Kyoto Protocol",
+        "hi": "क्योटो प्रोटोकॉल"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "GATT had governed trade rules since 1948 without an organisation behind it.",
+      "hi": "1948 से व्यापार नियम गैट तय करता था, जिसके पीछे कोई संगठन नहीं था।"
+    }
+  },
+  {
+    "id": "DQ-0191",
+    "category": "World bodies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In which city was the North Atlantic Treaty signed in April 1949?",
+      "hi": "अप्रैल 1949 में उत्तरी अटलांटिक संधि पर किस शहर में हस्ताक्षर हुए?"
+    },
+    "options": [
+      {
+        "en": "Brussels",
+        "hi": "ब्रुसेल्स"
+      },
+      {
+        "en": "Ottawa",
+        "hi": "ओटावा"
+      },
+      {
+        "en": "London",
+        "hi": "लंदन"
+      },
+      {
+        "en": "Washington, D.C.",
+        "hi": "वॉशिंगटन, डी.सी."
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Twelve countries signed it there; NATO's political headquarters later moved to Brussels.",
+      "hi": "बारह देशों ने वहाँ इस पर हस्ताक्षर किए; नाटो का राजनीतिक मुख्यालय बाद में ब्रुसेल्स चला गया।"
+    }
+  },
+  {
+    "id": "DQ-0192",
+    "category": "World bodies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "How many member states does ASEAN have?",
+      "hi": "आसियान में कितने सदस्य देश हैं?"
+    },
+    "options": [
+      {
+        "en": "Six",
+        "hi": "छह"
+      },
+      {
+        "en": "Eight",
+        "hi": "आठ"
+      },
+      {
+        "en": "Ten",
+        "hi": "दस"
+      },
+      {
+        "en": "Twelve",
+        "hi": "बारह"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "East Timor has been admitted in principle but is not yet a full member.",
+      "hi": "पूर्वी तिमोर को सिद्धांततः स्वीकार किया गया है पर वह अभी पूर्ण सदस्य नहीं है।"
+    }
+  },
+  {
+    "id": "DQ-0193",
+    "category": "World bodies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "How many member states does SAARC have?",
+      "hi": "सार्क में कितने सदस्य देश हैं?"
+    },
+    "options": [
+      {
+        "en": "Seven",
+        "hi": "सात"
+      },
+      {
+        "en": "Six",
+        "hi": "छह"
+      },
+      {
+        "en": "Eight member states",
+        "hi": "आठ सदस्य देश"
+      },
+      {
+        "en": "Ten",
+        "hi": "दस"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Afghanistan joined in 2007 as the eighth member.",
+      "hi": "अफ़ग़ानिस्तान 2007 में आठवें सदस्य के रूप में शामिल हुआ।"
+    }
+  },
+  {
+    "id": "DQ-0194",
+    "category": "World bodies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which country joined the original BRIC grouping in 2010 to make it BRICS?",
+      "hi": "2010 में कौन सा देश मूल ब्रिक समूह में जुड़कर उसे ब्रिक्स बना?"
+    },
+    "options": [
+      {
+        "en": "Argentina",
+        "hi": "अर्जेंटीना"
+      },
+      {
+        "en": "Indonesia",
+        "hi": "इंडोनेशिया"
+      },
+      {
+        "en": "South Africa",
+        "hi": "दक्षिण अफ़्रीका"
+      },
+      {
+        "en": "Mexico",
+        "hi": "मेक्सिको"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Brazil, Russia, India and China were the original four.",
+      "hi": "ब्राज़ील, रूस, भारत और चीन मूल चार देश थे।"
+    }
+  },
+  {
+    "id": "DQ-0195",
+    "category": "World bodies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Who founded the International Committee of the Red Cross?",
+      "hi": "रेड क्रॉस की अंतर्राष्ट्रीय समिति की स्थापना किसने की?"
+    },
+    "options": [
+      {
+        "en": "Henry Dunant",
+        "hi": "हेनरी ड्यूनां"
+      },
+      {
+        "en": "Florence Nightingale",
+        "hi": "फ़्लोरेंस नाइटिंगेल"
+      },
+      {
+        "en": "Louis Pasteur",
+        "hi": "लुई पाश्चर"
+      },
+      {
+        "en": "Pierre de Coubertin",
+        "hi": "पियरे डी कूपर्टें"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "His account of the battle of Solferino led to the first Geneva Convention.",
+      "hi": "सोलफ़ेरिनो के युद्ध का उनका विवरण पहले जेनेवा सम्मेलन का कारण बना।"
+    }
+  },
+  {
+    "id": "DQ-0196",
+    "category": "World bodies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "In which French city is the headquarters of INTERPOL?",
+      "hi": "इंटरपोल का मुख्यालय फ़्रांस के किस शहर में है?"
+    },
+    "options": [
+      {
+        "en": "Marseille",
+        "hi": "मार्सिले"
+      },
+      {
+        "en": "Nice",
+        "hi": "नीस"
+      },
+      {
+        "en": "Paris",
+        "hi": "पेरिस"
+      },
+      {
+        "en": "Lyon",
+        "hi": "लियोन"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The General Secretariat moved there in 1989.",
+      "hi": "महासचिवालय 1989 में वहाँ स्थानांतरित हुआ।"
+    }
+  },
+  {
+    "id": "DQ-0197",
+    "category": "World bodies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "How many judges sit on the International Court of Justice?",
+      "hi": "अंतर्राष्ट्रीय न्यायालय में कितने न्यायाधीश होते हैं?"
+    },
+    "options": [
+      {
+        "en": "Nine",
+        "hi": "नौ"
+      },
+      {
+        "en": "Twenty-one",
+        "hi": "इक्कीस"
+      },
+      {
+        "en": "Fifteen",
+        "hi": "पंद्रह"
+      },
+      {
+        "en": "Eleven",
+        "hi": "ग्यारह"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "No two judges may be nationals of the same state.",
+      "hi": "कोई भी दो न्यायाधीश एक ही राज्य के नागरिक नहीं हो सकते।"
+    }
+  },
+  {
+    "id": "DQ-0198",
+    "category": "World bodies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "For how long is a judge of the International Court of Justice elected?",
+      "hi": "अंतर्राष्ट्रीय न्यायालय का न्यायाधीश कितने समय के लिए चुना जाता है?"
+    },
+    "options": [
+      {
+        "en": "Twelve years",
+        "hi": "बारह वर्ष"
+      },
+      {
+        "en": "Nine years",
+        "hi": "नौ वर्ष"
+      },
+      {
+        "en": "Life",
+        "hi": "आजीवन"
+      },
+      {
+        "en": "Six years",
+        "hi": "छह वर्ष"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "A third of the bench is elected every three years.",
+      "hi": "हर तीन वर्ष में एक तिहाई न्यायाधीश चुने जाते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0199",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the largest continent by area?",
+      "hi": "क्षेत्रफल की दृष्टि से सबसे बड़ा महाद्वीप कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "Europe",
+        "hi": "यूरोप"
+      },
+      {
+        "en": "North America",
+        "hi": "उत्तरी अमेरिका"
+      },
+      {
+        "en": "Africa",
+        "hi": "अफ़्रीका"
+      },
+      {
+        "en": "Asia",
+        "hi": "एशिया"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Asia covers about 44.6 million square kilometres.",
+      "hi": "एशिया लगभग 4.46 करोड़ वर्ग किलोमीटर में फैला है।"
+    }
+  },
+  {
+    "id": "DQ-0200",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the smallest continent by area?",
+      "hi": "क्षेत्रफल की दृष्टि से सबसे छोटा महाद्वीप कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "Europe",
+        "hi": "यूरोप"
+      },
+      {
+        "en": "Australia",
+        "hi": "ऑस्ट्रेलिया"
+      },
+      {
+        "en": "Antarctica",
+        "hi": "अंटार्कटिका"
+      },
+      {
+        "en": "South America",
+        "hi": "दक्षिण अमेरिका"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Europe is the second smallest, at about 10 million square kilometres.",
+      "hi": "यूरोप दूसरा सबसे छोटा है, लगभग 1 करोड़ वर्ग किलोमीटर।"
+    }
+  },
+  {
+    "id": "DQ-0201",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the largest ocean on Earth?",
+      "hi": "पृथ्वी का सबसे बड़ा महासागर कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "The Atlantic",
+        "hi": "अटलांटिक"
+      },
+      {
+        "en": "The Pacific",
+        "hi": "प्रशांत"
+      },
+      {
+        "en": "The Southern",
+        "hi": "दक्षिणी"
+      },
+      {
+        "en": "The Indian",
+        "hi": "हिंद"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It covers more area than all of the planet's land combined.",
+      "hi": "यह पृथ्वी की कुल स्थल से भी अधिक क्षेत्र घेरता है।"
+    }
+  },
+  {
+    "id": "DQ-0202",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the highest mountain above sea level?",
+      "hi": "समुद्र तल से सबसे ऊँचा पर्वत कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "K2",
+        "hi": "के2"
+      },
+      {
+        "en": "Mount Everest",
+        "hi": "माउंट एवरेस्ट"
+      },
+      {
+        "en": "Kangchenjunga",
+        "hi": "कंचनजंगा"
+      },
+      {
+        "en": "Mount Kilimanjaro",
+        "hi": "माउंट किलिमांजारो"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Its height is recorded as 8,848.86 metres.",
+      "hi": "इसकी ऊँचाई 8,848.86 मीटर दर्ज है।"
+    }
+  },
+  {
+    "id": "DQ-0203",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the largest country in the world by area?",
+      "hi": "क्षेत्रफल की दृष्टि से विश्व का सबसे बड़ा देश कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "Canada",
+        "hi": "कनाडा"
+      },
+      {
+        "en": "Brazil",
+        "hi": "ब्राज़ील"
+      },
+      {
+        "en": "Russia",
+        "hi": "रूस"
+      },
+      {
+        "en": "China",
+        "hi": "चीन"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Russia spans eleven time zones.",
+      "hi": "रूस ग्यारह समय क्षेत्रों में फैला है।"
+    }
+  },
+  {
+    "id": "DQ-0204",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which is the smallest country in the world by area?",
+      "hi": "क्षेत्रफल की दृष्टि से विश्व का सबसे छोटा देश कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "San Marino",
+        "hi": "सैन मारिनो"
+      },
+      {
+        "en": "Liechtenstein",
+        "hi": "लिकटेंस्टीन"
+      },
+      {
+        "en": "Monaco",
+        "hi": "मोनाको"
+      },
+      {
+        "en": "Vatican City",
+        "hi": "वैटिकन सिटी"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It covers roughly 44 hectares inside Rome.",
+      "hi": "यह रोम के भीतर लगभग 44 हेक्टेयर में फैला है।"
+    }
+  },
+  {
+    "id": "DQ-0205",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "The line of zero degrees latitude is known by what name?",
+      "hi": "शून्य डिग्री अक्षांश की रेखा को किस नाम से जाना जाता है?"
+    },
+    "options": [
+      {
+        "en": "The Tropic of Capricorn",
+        "hi": "मकर रेखा"
+      },
+      {
+        "en": "The Prime Meridian",
+        "hi": "प्रधान मध्याह्न"
+      },
+      {
+        "en": "The Arctic Circle",
+        "hi": "आर्कटिक वृत्त"
+      },
+      {
+        "en": "The Equator",
+        "hi": "भूमध्य रेखा"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It divides the Earth into the northern and southern hemispheres.",
+      "hi": "यह पृथ्वी को उत्तरी और दक्षिणी गोलार्ध में बाँटती है।"
+    }
+  },
+  {
+    "id": "DQ-0206",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Prime Meridian of zero degrees longitude passes through which place?",
+      "hi": "शून्य डिग्री देशांतर का प्रधान मध्याह्न किस स्थान से गुज़रता है?"
+    },
+    "options": [
+      {
+        "en": "Reykjavik",
+        "hi": "रेकजाविक"
+      },
+      {
+        "en": "Paris",
+        "hi": "पेरिस"
+      },
+      {
+        "en": "Washington, D.C.",
+        "hi": "वॉशिंगटन, डी.सी."
+      },
+      {
+        "en": "Greenwich in London",
+        "hi": "लंदन का ग्रीनविच"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The Royal Observatory there defined the line by international agreement in 1884.",
+      "hi": "वहाँ की रॉयल ऑब्ज़र्वेटरी ने 1884 में अंतर्राष्ट्रीय सहमति से यह रेखा तय की।"
+    }
+  },
+  {
+    "id": "DQ-0207",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "How many continents are there on Earth?",
+      "hi": "पृथ्वी पर कितने महाद्वीप हैं?"
+    },
+    "options": [
+      {
+        "en": "Five",
+        "hi": "पाँच"
+      },
+      {
+        "en": "Eight",
+        "hi": "आठ"
+      },
+      {
+        "en": "Six",
+        "hi": "छह"
+      },
+      {
+        "en": "Seven",
+        "hi": "सात"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Asia, Africa, North America, South America, Antarctica, Europe and Australia.",
+      "hi": "एशिया, अफ़्रीका, उत्तरी अमेरिका, दक्षिण अमेरिका, अंटार्कटिका, यूरोप और ऑस्ट्रेलिया।"
+    }
+  },
+  {
+    "id": "DQ-0208",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which continent contains the greatest number of countries?",
+      "hi": "किस महाद्वीप में सबसे अधिक देश हैं?"
+    },
+    "options": [
+      {
+        "en": "South America",
+        "hi": "दक्षिण अमेरिका"
+      },
+      {
+        "en": "Europe",
+        "hi": "यूरोप"
+      },
+      {
+        "en": "Africa",
+        "hi": "अफ़्रीका"
+      },
+      {
+        "en": "Asia",
+        "hi": "एशिया"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Africa has 54 recognised sovereign states.",
+      "hi": "अफ़्रीका में 54 मान्यता प्राप्त संप्रभु देश हैं।"
+    }
+  },
+  {
+    "id": "DQ-0209",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which river carries the greatest volume of water to the sea?",
+      "hi": "कौन सी नदी समुद्र तक सबसे अधिक जल ले जाती है?"
+    },
+    "options": [
+      {
+        "en": "The Nile",
+        "hi": "नील"
+      },
+      {
+        "en": "The Yangtze",
+        "hi": "यांग्त्ज़ी"
+      },
+      {
+        "en": "The Congo",
+        "hi": "कांगो"
+      },
+      {
+        "en": "The Amazon",
+        "hi": "अमेज़न"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The Amazon discharges more water than the next several largest rivers combined.",
+      "hi": "अमेज़न अगली कई बड़ी नदियों के संयुक्त प्रवाह से अधिक जल बहाती है।"
+    }
+  },
+  {
+    "id": "DQ-0210",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the largest hot desert in the world?",
+      "hi": "विश्व का सबसे बड़ा गर्म मरुस्थल कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "The Kalahari",
+        "hi": "कालाहारी"
+      },
+      {
+        "en": "The Thar",
+        "hi": "थार"
+      },
+      {
+        "en": "The Sahara",
+        "hi": "सहारा"
+      },
+      {
+        "en": "The Gobi",
+        "hi": "गोबी"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Antarctica is a larger desert overall, but it is a cold polar one.",
+      "hi": "अंटार्कटिका कुल मिलाकर बड़ा मरुस्थल है, पर वह ठंडा ध्रुवीय मरुस्थल है।"
+    }
+  },
+  {
+    "id": "DQ-0211",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which is the deepest lake in the world?",
+      "hi": "विश्व की सबसे गहरी झील कौन सी है?"
+    },
+    "options": [
+      {
+        "en": "Lake Baikal",
+        "hi": "बाइकाल झील"
+      },
+      {
+        "en": "Lake Victoria",
+        "hi": "विक्टोरिया झील"
+      },
+      {
+        "en": "Lake Tanganyika",
+        "hi": "तांगानिका झील"
+      },
+      {
+        "en": "Lake Superior",
+        "hi": "सुपीरियर झील"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It reaches about 1,642 metres and holds a fifth of the world's unfrozen fresh water.",
+      "hi": "यह लगभग 1,642 मीटर गहरी है और विश्व का पाँचवाँ भाग बिना जमा मीठा पानी रखती है।"
+    }
+  },
+  {
+    "id": "DQ-0212",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which is the longest mountain range on land?",
+      "hi": "स्थल पर सबसे लंबी पर्वत श्रृंखला कौन सी है?"
+    },
+    "options": [
+      {
+        "en": "The Alps",
+        "hi": "आल्प्स"
+      },
+      {
+        "en": "The Andes",
+        "hi": "एंडीज़"
+      },
+      {
+        "en": "The Rockies",
+        "hi": "रॉकीज़"
+      },
+      {
+        "en": "The Himalayas",
+        "hi": "हिमालय"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "The Andes run about 7,000 kilometres along South America's western edge.",
+      "hi": "एंडीज़ दक्षिण अमेरिका के पश्चिमी किनारे पर लगभग 7,000 किलोमीटर तक फैली हैं।"
+    }
+  },
+  {
+    "id": "DQ-0213",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which country is known as the Land of the Rising Sun?",
+      "hi": "किस देश को उगते सूर्य की भूमि कहा जाता है?"
+    },
+    "options": [
+      {
+        "en": "Thailand",
+        "hi": "थाईलैंड"
+      },
+      {
+        "en": "South Korea",
+        "hi": "दक्षिण कोरिया"
+      },
+      {
+        "en": "Norway",
+        "hi": "नॉर्वे"
+      },
+      {
+        "en": "Japan",
+        "hi": "जापान"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The Japanese name Nihon means origin of the sun.",
+      "hi": "जापानी नाम निहोन का अर्थ है सूर्य का उद्गम।"
+    }
+  },
+  {
+    "id": "DQ-0214",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "What is the currency of Japan?",
+      "hi": "जापान की मुद्रा क्या है?"
+    },
+    "options": [
+      {
+        "en": "Yuan",
+        "hi": "युआन"
+      },
+      {
+        "en": "Won",
+        "hi": "वोन"
+      },
+      {
+        "en": "Yen",
+        "hi": "येन"
+      },
+      {
+        "en": "Ringgit",
+        "hi": "रिंगिट"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "The won is used in Korea and the yuan in China.",
+      "hi": "वोन कोरिया में और युआन चीन में प्रयुक्त होता है।"
+    }
+  },
+  {
+    "id": "DQ-0215",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "What is the currency of the United Kingdom?",
+      "hi": "यूनाइटेड किंगडम की मुद्रा क्या है?"
+    },
+    "options": [
+      {
+        "en": "Dollar",
+        "hi": "डॉलर"
+      },
+      {
+        "en": "Euro",
+        "hi": "यूरो"
+      },
+      {
+        "en": "Krona",
+        "hi": "क्रोना"
+      },
+      {
+        "en": "Pound sterling",
+        "hi": "पाउंड स्टर्लिंग"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The UK kept sterling instead of adopting the euro.",
+      "hi": "ब्रिटेन ने यूरो अपनाने के बजाय स्टर्लिंग बनाए रखा।"
+    }
+  },
+  {
+    "id": "DQ-0216",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "What is the official currency of China?",
+      "hi": "चीन की आधिकारिक मुद्रा क्या है?"
+    },
+    "options": [
+      {
+        "en": "Yen",
+        "hi": "येन"
+      },
+      {
+        "en": "Renminbi",
+        "hi": "रेनमिन्बी"
+      },
+      {
+        "en": "Dong",
+        "hi": "डोंग"
+      },
+      {
+        "en": "Won",
+        "hi": "वोन"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Its basic unit is called the yuan.",
+      "hi": "इसकी मूल इकाई को युआन कहते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0217",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What is the capital city of Australia?",
+      "hi": "ऑस्ट्रेलिया की राजधानी क्या है?"
+    },
+    "options": [
+      {
+        "en": "Sydney",
+        "hi": "सिडनी"
+      },
+      {
+        "en": "Perth",
+        "hi": "पर्थ"
+      },
+      {
+        "en": "Canberra",
+        "hi": "कैनबरा"
+      },
+      {
+        "en": "Melbourne",
+        "hi": "मेलबर्न"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Canberra was purpose-built to settle the rivalry between Sydney and Melbourne.",
+      "hi": "सिडनी और मेलबर्न की होड़ सुलझाने के लिए कैनबरा को विशेष रूप से बसाया गया।"
+    }
+  },
+  {
+    "id": "DQ-0218",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What is the capital city of Canada?",
+      "hi": "कनाडा की राजधानी क्या है?"
+    },
+    "options": [
+      {
+        "en": "Ottawa",
+        "hi": "ओटावा"
+      },
+      {
+        "en": "Montreal",
+        "hi": "मॉन्ट्रियल"
+      },
+      {
+        "en": "Toronto",
+        "hi": "टोरंटो"
+      },
+      {
+        "en": "Vancouver",
+        "hi": "वैंकूवर"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Toronto is the largest city, but Ottawa holds Parliament.",
+      "hi": "टोरंटो सबसे बड़ा शहर है, पर संसद ओटावा में है।"
+    }
+  }
+]

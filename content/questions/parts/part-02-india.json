@@ -12,23 +12,23 @@
     },
     "options": [
       {
-        "en": "The President, the Lok Sabha and the state assemblies",
-        "hi": "राष्ट्रपति, लोक सभा और राज्य विधानसभाएँ"
-      },
-      {
-        "en": "The President, the Supreme Court and the Lok Sabha",
-        "hi": "राष्ट्रपति, सर्वोच्च न्यायालय और लोक सभा"
+        "en": "The President, the Lok Sabha and the Rajya Sabha",
+        "hi": "राष्ट्रपति, लोक सभा और राज्य सभा"
       },
       {
         "en": "The Prime Minister, the Lok Sabha and the Rajya Sabha",
         "hi": "प्रधानमंत्री, लोक सभा और राज्य सभा"
       },
       {
-        "en": "The President, the Lok Sabha and the Rajya Sabha",
-        "hi": "राष्ट्रपति, लोक सभा और राज्य सभा"
+        "en": "The President, the Supreme Court and the Lok Sabha",
+        "hi": "राष्ट्रपति, सर्वोच्च न्यायालय और लोक सभा"
+      },
+      {
+        "en": "The President, the Lok Sabha and the state assemblies",
+        "hi": "राष्ट्रपति, लोक सभा और राज्य विधानसभाएँ"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": {
       "en": "Article 79 puts the President together with the two Houses to form Parliament.",
       "hi": "अनुच्छेद 79 के अनुसार राष्ट्रपति तथा दोनों सदन मिलकर संसद बनाते हैं।"
@@ -47,23 +47,23 @@
     },
     "options": [
       {
-        "en": "Legislative Council",
-        "hi": "विधान परिषद"
+        "en": "Rajya Sabha",
+        "hi": "राज्य सभा"
       },
       {
         "en": "Lok Sabha",
         "hi": "लोक सभा"
       },
       {
-        "en": "Rajya Sabha",
-        "hi": "राज्य सभा"
+        "en": "Legislative Council",
+        "hi": "विधान परिषद"
       },
       {
         "en": "NITI Aayog",
         "hi": "नीति आयोग"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": {
       "en": "Members of the Rajya Sabha are elected mainly by the elected members of state legislatures.",
       "hi": "राज्य सभा के सदस्य मुख्यतः राज्य विधानमंडलों के निर्वाचित सदस्यों द्वारा चुने जाते हैं।"
@@ -86,16 +86,16 @@
         "hi": "लोक सभा"
       },
       {
+        "en": "Either House",
+        "hi": "किसी भी सदन में"
+      },
+      {
         "en": "A joint sitting of both",
         "hi": "दोनों के संयुक्त सत्र में"
       },
       {
         "en": "Rajya Sabha",
         "hi": "राज्य सभा"
-      },
-      {
-        "en": "Either House",
-        "hi": "किसी भी सदन में"
       }
     ],
     "correctIndex": 0,
@@ -117,23 +117,23 @@
     },
     "options": [
       {
-        "en": "The President",
-        "hi": "राष्ट्रपति"
-      },
-      {
         "en": "The Speaker",
         "hi": "अध्यक्ष (स्पीकर)"
       },
       {
-        "en": "The Chief Justice of India",
-        "hi": "भारत के मुख्य न्यायाधीश"
+        "en": "The President",
+        "hi": "राष्ट्रपति"
       },
       {
         "en": "The Prime Minister",
         "hi": "प्रधानमंत्री"
+      },
+      {
+        "en": "The Chief Justice of India",
+        "hi": "भारत के मुख्य न्यायाधीश"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": {
       "en": "Members of the Lok Sabha elect the Speaker, who also decides whether a bill is a money bill.",
       "hi": "लोक सभा के सदस्य अध्यक्ष चुनते हैं, जो यह भी तय करते हैं कि कोई विधेयक धन विधेयक है या नहीं।"
@@ -160,12 +160,12 @@
         "hi": "545"
       },
       {
-        "en": "600",
-        "hi": "600"
-      },
-      {
         "en": "500",
         "hi": "500"
+      },
+      {
+        "en": "600",
+        "hi": "600"
       }
     ],
     "correctIndex": 0,
@@ -187,10 +187,6 @@
     },
     "options": [
       {
-        "en": "One half",
-        "hi": "आधा"
-      },
-      {
         "en": "One fourth",
         "hi": "एक चौथाई"
       },
@@ -201,9 +197,13 @@
       {
         "en": "One third",
         "hi": "एक तिहाई"
+      },
+      {
+        "en": "One half",
+        "hi": "आधा"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 2,
     "explanation": {
       "en": "Members serve six years, with a third of the seats falling vacant every second year.",
       "hi": "सदस्यों का कार्यकाल छह वर्ष होता है और हर दूसरे वर्ष एक तिहाई स्थान रिक्त हो जाते हैं।"
@@ -226,16 +226,16 @@
         "hi": "26 जनवरी 1950"
       },
       {
-        "en": "26 January 1930",
-        "hi": "26 जनवरी 1930"
+        "en": "26 November 1949",
+        "hi": "26 नवंबर 1949"
       },
       {
         "en": "15 August 1947",
         "hi": "15 अगस्त 1947"
       },
       {
-        "en": "26 November 1949",
-        "hi": "26 नवंबर 1949"
+        "en": "26 January 1930",
+        "hi": "26 जनवरी 1930"
       }
     ],
     "correctIndex": 0,
@@ -257,23 +257,23 @@
     },
     "options": [
       {
-        "en": "Part III",
-        "hi": "भाग III"
-      },
-      {
         "en": "Part XI",
         "hi": "भाग XI"
       },
       {
-        "en": "Part IX",
-        "hi": "भाग IX"
-      },
-      {
         "en": "Part IXA",
         "hi": "भाग IXA"
+      },
+      {
+        "en": "Part III",
+        "hi": "भाग III"
+      },
+      {
+        "en": "Part IX",
+        "hi": "भाग IX"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": {
       "en": "Part IX carries Articles 243 to 243O on Panchayats; Part IXA covers Municipalities.",
       "hi": "भाग IX में पंचायतों पर अनुच्छेद 243 से 243O हैं; भाग IXA नगरपालिकाओं से संबंधित है।"
@@ -296,16 +296,16 @@
         "hi": "भाग IXA"
       },
       {
-        "en": "Part XIV",
-        "hi": "भाग XIV"
+        "en": "Part IX",
+        "hi": "भाग IX"
       },
       {
         "en": "Part IV",
         "hi": "भाग IV"
       },
       {
-        "en": "Part IX",
-        "hi": "भाग IX"
+        "en": "Part XIV",
+        "hi": "भाग XIV"
       }
     ],
     "correctIndex": 0,
@@ -362,23 +362,23 @@
     },
     "options": [
       {
-        "en": "The sarpanch and the block officer",
-        "hi": "सरपंच और ब्लॉक अधिकारी"
-      },
-      {
-        "en": "Only land-owning families",
-        "hi": "केवल भूमिधारक परिवार"
+        "en": "Every registered voter in the village panchayat area",
+        "hi": "ग्राम पंचायत क्षेत्र के प्रत्येक पंजीकृत मतदाता"
       },
       {
         "en": "Only the elected ward members",
         "hi": "केवल निर्वाचित वार्ड सदस्य"
       },
       {
-        "en": "Every registered voter in the village panchayat area",
-        "hi": "ग्राम पंचायत क्षेत्र के प्रत्येक पंजीकृत मतदाता"
+        "en": "Only land-owning families",
+        "hi": "केवल भूमिधारक परिवार"
+      },
+      {
+        "en": "The sarpanch and the block officer",
+        "hi": "सरपंच और ब्लॉक अधिकारी"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": {
       "en": "Article 243A defines the Gram Sabha as a body of persons on the electoral roll of a village area.",
       "hi": "अनुच्छेद 243A ग्राम सभा को ग्राम क्षेत्र की मतदाता सूची में दर्ज व्यक्तियों का निकाय बताता है।"
@@ -397,23 +397,23 @@
     },
     "options": [
       {
-        "en": "Dhar Commission",
-        "hi": "धर आयोग"
-      },
-      {
-        "en": "Narasimham Committee",
-        "hi": "नरसिम्हम समिति"
+        "en": "Balwant Rai Mehta Committee",
+        "hi": "बलवंत राय मेहता समिति"
       },
       {
         "en": "Sarkaria Commission",
         "hi": "सरकारिया आयोग"
       },
       {
-        "en": "Balwant Rai Mehta Committee",
-        "hi": "बलवंत राय मेहता समिति"
+        "en": "Narasimham Committee",
+        "hi": "नरसिम्हम समिति"
+      },
+      {
+        "en": "Dhar Commission",
+        "hi": "धर आयोग"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": {
       "en": "Rajasthan became the first state to launch the scheme at Nagaur in 1959.",
       "hi": "राजस्थान 1959 में नागौर में यह योजना लागू करने वाला पहला राज्य बना।"
@@ -432,23 +432,23 @@
     },
     "options": [
       {
-        "en": "The States Reorganisation Act, 1956",
-        "hi": "राज्य पुनर्गठन अधिनियम, 1956"
-      },
-      {
         "en": "The Delhi Municipal Corporation Act, 1957",
         "hi": "दिल्ली नगर निगम अधिनियम, 1957"
       },
       {
-        "en": "The Government of Union Territories Act, 1963",
-        "hi": "सरकार संघ राज्य क्षेत्र अधिनियम, 1963"
-      },
-      {
         "en": "The Representation of the People Act, 1951",
         "hi": "जन प्रतिनिधित्व अधिनियम, 1951"
+      },
+      {
+        "en": "The States Reorganisation Act, 1956",
+        "hi": "राज्य पुनर्गठन अधिनियम, 1956"
+      },
+      {
+        "en": "The Government of Union Territories Act, 1963",
+        "hi": "सरकार संघ राज्य क्षेत्र अधिनियम, 1963"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": {
       "en": "The 1963 Act creates the legislative machinery for Union territories that Parliament designates.",
       "hi": "1963 का अधिनियम उन केंद्र शासित प्रदेशों के लिए विधायी ढाँचा बनाता है जिन्हें संसद नामित करती है।"
@@ -467,23 +467,23 @@
     },
     "options": [
       {
-        "en": "Part IV",
-        "hi": "भाग IV"
-      },
-      {
         "en": "Part III",
         "hi": "भाग III"
       },
       {
-        "en": "Part V",
-        "hi": "भाग V"
+        "en": "Part IV",
+        "hi": "भाग IV"
       },
       {
         "en": "Part II",
         "hi": "भाग II"
+      },
+      {
+        "en": "Part V",
+        "hi": "भाग V"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": {
       "en": "Part IV instead carries the Directive Principles of State Policy.",
       "hi": "भाग IV में राज्य के नीति निर्देशक तत्व रखे गए हैं।"
@@ -502,23 +502,23 @@
     },
     "options": [
       {
-        "en": "Article 44",
-        "hi": "अनुच्छेद 44"
+        "en": "Article 51A",
+        "hi": "अनुच्छेद 51A"
       },
       {
         "en": "Article 21",
         "hi": "अनुच्छेद 21"
       },
       {
-        "en": "Article 51A",
-        "hi": "अनुच्छेद 51A"
-      },
-      {
         "en": "Article 32",
         "hi": "अनुच्छेद 32"
+      },
+      {
+        "en": "Article 44",
+        "hi": "अनुच्छेद 44"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 2,
     "explanation": {
       "en": "Dr Ambedkar called Article 32 the heart and soul of the Constitution.",
       "hi": "डॉ. अम्बेडकर ने अनुच्छेद 32 को संविधान की आत्मा कहा था।"
@@ -537,23 +537,23 @@
     },
     "options": [
       {
-        "en": "The Parliament",
-        "hi": "संसद"
-      },
-      {
         "en": "The Supreme Court",
         "hi": "सर्वोच्च न्यायालय"
       },
       {
-        "en": "The Election Commission",
-        "hi": "निर्वाचन आयोग"
+        "en": "The Parliament",
+        "hi": "संसद"
       },
       {
         "en": "The Law Commission",
         "hi": "विधि आयोग"
+      },
+      {
+        "en": "The Election Commission",
+        "hi": "निर्वाचन आयोग"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": {
       "en": "Parliament may amend within limits, but the Court decides what the text means.",
       "hi": "संसद सीमाओं में रहते हुए संशोधन कर सकती है, पर अर्थ का निर्णय न्यायालय करता है।"
@@ -572,10 +572,6 @@
     },
     "options": [
       {
-        "en": "China",
-        "hi": "चीन"
-      },
-      {
         "en": "Pakistan",
         "hi": "पाकिस्तान"
       },
@@ -584,11 +580,15 @@
         "hi": "बांग्लादेश"
       },
       {
+        "en": "China",
+        "hi": "चीन"
+      },
+      {
         "en": "Nepal",
         "hi": "नेपाल"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": {
       "en": "The India–Bangladesh land border runs roughly 4,096 kilometres across five Indian states.",
       "hi": "भारत–बांग्लादेश स्थल सीमा लगभग 4,096 किलोमीटर लंबी है और पाँच भारतीय राज्यों से गुज़रती है।"
@@ -607,23 +607,23 @@
     },
     "options": [
       {
-        "en": "Five",
-        "hi": "पाँच"
-      },
-      {
         "en": "Nine",
         "hi": "नौ"
+      },
+      {
+        "en": "Seven",
+        "hi": "सात"
       },
       {
         "en": "Six",
         "hi": "छह"
       },
       {
-        "en": "Seven",
-        "hi": "सात"
+        "en": "Five",
+        "hi": "पाँच"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": {
       "en": "The MHA list names Afghanistan, Bangladesh, Bhutan, China, Myanmar, Nepal and Pakistan.",
       "hi": "गृह मंत्रालय की सूची में अफ़ग़ानिस्तान, बांग्लादेश, भूटान, चीन, म्यांमार, नेपाल और पाकिस्तान हैं।"
@@ -646,16 +646,16 @@
         "hi": "पश्चिम बंगाल"
       },
       {
+        "en": "Jammu and Kashmir",
+        "hi": "जम्मू और कश्मीर"
+      },
+      {
         "en": "Assam",
         "hi": "असम"
       },
       {
         "en": "Rajasthan",
         "hi": "राजस्थान"
-      },
-      {
-        "en": "Jammu and Kashmir",
-        "hi": "जम्मू और कश्मीर"
       }
     ],
     "correctIndex": 0,
@@ -677,23 +677,23 @@
     },
     "options": [
       {
-        "en": "The 24th parallel",
-        "hi": "24वाँ समांतर"
-      },
-      {
-        "en": "The Durand Line",
-        "hi": "डूरंड रेखा"
+        "en": "The McMahon Line",
+        "hi": "मैकमोहन रेखा"
       },
       {
         "en": "The Radcliffe Line",
         "hi": "रेडक्लिफ रेखा"
       },
       {
-        "en": "The McMahon Line",
-        "hi": "मैकमोहन रेखा"
+        "en": "The 24th parallel",
+        "hi": "24वाँ समांतर"
+      },
+      {
+        "en": "The Durand Line",
+        "hi": "डूरंड रेखा"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": {
       "en": "Cyril Radcliffe chaired the boundary commissions that drew the line.",
       "hi": "सिरिल रेडक्लिफ उस सीमा आयोग के अध्यक्ष थे जिसने यह रेखा खींची।"
@@ -712,23 +712,23 @@
     },
     "options": [
       {
-        "en": "5 hours",
-        "hi": "5 घंटे"
-      },
-      {
         "en": "4 hours 30 minutes",
         "hi": "4 घंटे 30 मिनट"
+      },
+      {
+        "en": "5 hours 30 minutes",
+        "hi": "5 घंटे 30 मिनट"
       },
       {
         "en": "6 hours",
         "hi": "6 घंटे"
       },
       {
-        "en": "5 hours 30 minutes",
-        "hi": "5 घंटे 30 मिनट"
+        "en": "5 hours",
+        "hi": "5 घंटे"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": {
       "en": "IST is written as UTC+05:30 across the whole country.",
       "hi": "पूरे देश में IST को UTC+05:30 के रूप में लिखा जाता है।"
@@ -751,16 +751,16 @@
         "hi": "सीएसआईआर-राष्ट्रीय भौतिकी प्रयोगशाला"
       },
       {
-        "en": "Survey of India",
-        "hi": "भारतीय सर्वेक्षण"
+        "en": "ISRO",
+        "hi": "इसरो"
       },
       {
         "en": "Indian Meteorological Department",
         "hi": "भारत मौसम विज्ञान विभाग"
       },
       {
-        "en": "ISRO",
-        "hi": "इसरो"
+        "en": "Survey of India",
+        "hi": "भारतीय सर्वेक्षण"
       }
     ],
     "correctIndex": 0,
@@ -783,23 +783,23 @@
     },
     "options": [
       {
-        "en": "80 degrees east",
-        "hi": "80 डिग्री पूर्व"
-      },
-      {
         "en": "82 degrees 30 minutes east",
         "hi": "82 डिग्री 30 मिनट पूर्व"
       },
       {
-        "en": "75 degrees 30 minutes east",
-        "hi": "75 डिग्री 30 मिनट पूर्व"
+        "en": "80 degrees east",
+        "hi": "80 डिग्री पूर्व"
       },
       {
         "en": "90 degrees east",
         "hi": "90 डिग्री पूर्व"
+      },
+      {
+        "en": "75 degrees 30 minutes east",
+        "hi": "75 डिग्री 30 मिनट पूर्व"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": {
       "en": "The meridian passes close to Prayagraj and Mirzapur in Uttar Pradesh.",
       "hi": "यह मध्याह्न उत्तर प्रदेश में प्रयागराज और मिर्ज़ापुर के पास से गुज़रता है।"
@@ -818,23 +818,23 @@
     },
     "options": [
       {
-        "en": "Securities and Exchange Board of India",
-        "hi": "भारतीय प्रतिभूति और विनिमय बोर्ड"
+        "en": "NITI Aayog",
+        "hi": "नीति आयोग"
       },
       {
         "en": "State Bank of India",
         "hi": "स्टेट बैंक ऑफ़ इंडिया"
       },
       {
-        "en": "NITI Aayog",
-        "hi": "नीति आयोग"
-      },
-      {
         "en": "Reserve Bank of India",
         "hi": "भारतीय रिज़र्व बैंक"
+      },
+      {
+        "en": "Securities and Exchange Board of India",
+        "hi": "भारतीय प्रतिभूति और विनिमय बोर्ड"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 2,
     "explanation": {
       "en": "The RBI issues notes under the Reserve Bank of India Act, 1934.",
       "hi": "भारतीय रिज़र्व बैंक, भारतीय रिज़र्व बैंक अधिनियम, 1934 के तहत नोट जारी करता है।"
@@ -853,10 +853,6 @@
     },
     "options": [
       {
-        "en": "The Reserve Bank of India",
-        "hi": "भारतीय रिज़र्व बैंक"
-      },
-      {
         "en": "The Ministry of Commerce",
         "hi": "वाणिज्य मंत्रालय"
       },
@@ -865,11 +861,15 @@
         "hi": "भारत सरकार"
       },
       {
+        "en": "The Reserve Bank of India",
+        "hi": "भारतीय रिज़र्व बैंक"
+      },
+      {
         "en": "The National Payments Corporation",
         "hi": "राष्ट्रीय भुगतान निगम"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": {
       "en": "One rupee notes and coins carry the signature of the Finance Secretary, not the RBI Governor.",
       "hi": "एक रुपये के नोट और सिक्कों पर वित्त सचिव के हस्ताक्षर होते हैं, RBI गवर्नर के नहीं।"
@@ -888,23 +888,23 @@
     },
     "options": [
       {
-        "en": "R. K. Laxman",
-        "hi": "आर. के. लक्ष्मण"
-      },
-      {
-        "en": "Satyajit Ray",
-        "hi": "सत्यजित रे"
+        "en": "M. F. Husain",
+        "hi": "एम. एफ. हुसैन"
       },
       {
         "en": "D. Udaya Kumar",
         "hi": "डी. उदय कुमार"
       },
       {
-        "en": "M. F. Husain",
-        "hi": "एम. एफ. हुसैन"
+        "en": "R. K. Laxman",
+        "hi": "आर. के. लक्ष्मण"
+      },
+      {
+        "en": "Satyajit Ray",
+        "hi": "सत्यजित रे"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": {
       "en": "The symbol blends the Devanagari 'Ra' with the Roman 'R' and was adopted on 15 July 2010.",
       "hi": "यह प्रतीक देवनागरी 'र' और रोमन 'R' का मिश्रण है और 15 जुलाई 2010 को अपनाया गया।"
@@ -923,8 +923,8 @@
     },
     "options": [
       {
-        "en": "Eight",
-        "hi": "आठ"
+        "en": "Four",
+        "hi": "चार"
       },
       {
         "en": "Two",
@@ -935,11 +935,11 @@
         "hi": "छह"
       },
       {
-        "en": "Four",
-        "hi": "चार"
+        "en": "Eight",
+        "hi": "आठ"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": {
       "en": "The mints are at Mumbai, Kolkata, Hyderabad and Noida.",
       "hi": "टकसालें मुंबई, कोलकाता, हैदराबाद और नोएडा में स्थित हैं।"
@@ -958,6 +958,10 @@
     },
     "options": [
       {
+        "en": "The African and the Arabian plates",
+        "hi": "अफ़्रीकी और अरब प्लेट"
+      },
+      {
         "en": "The Pacific and the Nazca plates",
         "hi": "प्रशांत और नाज़का प्लेट"
       },
@@ -966,15 +970,11 @@
         "hi": "भारतीय और यूरेशियाई प्लेट"
       },
       {
-        "en": "The African and the Arabian plates",
-        "hi": "अफ़्रीकी और अरब प्लेट"
-      },
-      {
         "en": "The Antarctic and the Indo-Australian plates",
         "hi": "अंटार्कटिक और भारत-ऑस्ट्रेलियाई प्लेट"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": {
       "en": "The Himalayas are young fold mountains still rising as the two plates press together.",
       "hi": "हिमालय नवीन वलित पर्वत हैं जो दोनों प्लेटों के दबाव से अब भी ऊपर उठ रहे हैं।"
@@ -993,23 +993,23 @@
     },
     "options": [
       {
-        "en": "Coral reef debris",
-        "hi": "प्रवाल भित्ति का मलबा"
-      },
-      {
-        "en": "Glacial granite",
-        "hi": "हिमनदी ग्रेनाइट"
-      },
-      {
         "en": "Volcanic lava",
         "hi": "ज्वालामुखीय लावा"
       },
       {
         "en": "Alluvium carried by rivers",
         "hi": "नदियों द्वारा लाई गई जलोढ़ मिट्टी"
+      },
+      {
+        "en": "Glacial granite",
+        "hi": "हिमनदी ग्रेनाइट"
+      },
+      {
+        "en": "Coral reef debris",
+        "hi": "प्रवाल भित्ति का मलबा"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": {
       "en": "The Indus, Ganga and Brahmaputra systems deposited the sediment that forms the plains.",
       "hi": "सिंधु, गंगा और ब्रह्मपुत्र प्रणालियों ने वह अवसाद जमा किया जिससे मैदान बना।"
@@ -1028,23 +1028,23 @@
     },
     "options": [
       {
-        "en": "Gujarat",
-        "hi": "गुजरात"
-      },
-      {
         "en": "Madhya Pradesh",
         "hi": "मध्य प्रदेश"
+      },
+      {
+        "en": "Rajasthan",
+        "hi": "राजस्थान"
       },
       {
         "en": "Punjab",
         "hi": "पंजाब"
       },
       {
-        "en": "Rajasthan",
-        "hi": "राजस्थान"
+        "en": "Gujarat",
+        "hi": "गुजरात"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": {
       "en": "The Thar stretches across north-western India, with its largest part in Rajasthan.",
       "hi": "थार उत्तर-पश्चिमी भारत में फैला है और इसका सबसे बड़ा हिस्सा राजस्थान में है।"
@@ -1063,23 +1063,23 @@
     },
     "options": [
       {
-        "en": "Konkan Coast",
-        "hi": "कोंकण तट"
-      },
-      {
-        "en": "Kutch Coast",
-        "hi": "कच्छ तट"
-      },
-      {
         "en": "Malabar Coast",
         "hi": "मालाबार तट"
       },
       {
         "en": "Coromandel Coast",
         "hi": "कोरोमंडल तट"
+      },
+      {
+        "en": "Kutch Coast",
+        "hi": "कच्छ तट"
+      },
+      {
+        "en": "Konkan Coast",
+        "hi": "कोंकण तट"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": {
       "en": "Malabar and Konkan lie on the western side, facing the Arabian Sea.",
       "hi": "मालाबार और कोंकण पश्चिमी ओर अरब सागर की तरफ़ स्थित हैं।"
@@ -1098,8 +1098,8 @@
     },
     "options": [
       {
-        "en": "The Ladakh Plateau",
-        "hi": "लद्दाख पठार"
+        "en": "The Deccan Plateau",
+        "hi": "दक्कन का पठार"
       },
       {
         "en": "The Chotanagpur Plateau",
@@ -1110,11 +1110,11 @@
         "hi": "मालवा पठार"
       },
       {
-        "en": "The Deccan Plateau",
-        "hi": "दक्कन का पठार"
+        "en": "The Ladakh Plateau",
+        "hi": "लद्दाख पठार"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": {
       "en": "The Deccan Plateau is a triangular tableland of old crystalline rock south of the Narmada.",
       "hi": "दक्कन का पठार नर्मदा के दक्षिण प्राचीन क्रिस्टलीय चट्टानों से बना त्रिभुजाकार स्थल है।"

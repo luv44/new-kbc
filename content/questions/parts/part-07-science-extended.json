@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "DQ-0219",
+    "category": "Human body",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "How many chambers does the human heart have?",
+      "hi": "मानव हृदय में कितने कक्ष होते हैं?"
+    },
+    "options": [
+      {
+        "en": "Two",
+        "hi": "दो"
+      },
+      {
+        "en": "Six",
+        "hi": "छह"
+      },
+      {
+        "en": "Three",
+        "hi": "तीन"
+      },
+      {
+        "en": "Four",
+        "hi": "चार"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Two atria above and two ventricles below.",
+      "hi": "ऊपर दो अलिंद और नीचे दो निलय होते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0220",
+    "category": "Human body",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "How many bones are there in a normal adult human body?",
+      "hi": "सामान्य वयस्क मानव शरीर में कितनी हड्डियाँ होती हैं?"
+    },
+    "options": [
+      {
+        "en": "300",
+        "hi": "300"
+      },
+      {
+        "en": "206",
+        "hi": "206"
+      },
+      {
+        "en": "196",
+        "hi": "196"
+      },
+      {
+        "en": "216",
+        "hi": "216"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "A newborn has around 300, and many fuse together while growing.",
+      "hi": "नवजात में लगभग 300 होती हैं और बढ़ते समय कई आपस में जुड़ जाती हैं।"
+    }
+  },
+  {
+    "id": "DQ-0221",
+    "category": "Human body",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which organ produces insulin?",
+      "hi": "इंसुलिन का उत्पादन कौन सा अंग करता है?"
+    },
+    "options": [
+      {
+        "en": "The spleen",
+        "hi": "प्लीहा"
+      },
+      {
+        "en": "The pancreas",
+        "hi": "अग्न्याशय"
+      },
+      {
+        "en": "The kidney",
+        "hi": "गुर्दा"
+      },
+      {
+        "en": "The liver",
+        "hi": "यकृत"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Insulin lets cells take up glucose from the blood.",
+      "hi": "इंसुलिन कोशिकाओं को रक्त से ग्लूकोज़ ग्रहण करने देता है।"
+    }
+  },
+  {
+    "id": "DQ-0222",
+    "category": "Human body",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which blood cells defend the body against infection?",
+      "hi": "संक्रमण से शरीर की रक्षा कौन सी रक्त कोशिकाएँ करती हैं?"
+    },
+    "options": [
+      {
+        "en": "Red blood cells",
+        "hi": "लाल रक्त कोशिकाएँ"
+      },
+      {
+        "en": "White blood cells",
+        "hi": "श्वेत रक्त कोशिकाएँ"
+      },
+      {
+        "en": "Plasma cells only",
+        "hi": "केवल प्लाज़्मा कोशिकाएँ"
+      },
+      {
+        "en": "Platelets",
+        "hi": "प्लेटलेट्स"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Red cells carry oxygen; platelets help blood clot.",
+      "hi": "लाल कोशिकाएँ ऑक्सीजन ले जाती हैं; प्लेटलेट्स रक्त स्कंदन में मदद करते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0223",
+    "category": "Human body",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which vitamin does the skin manufacture when exposed to sunlight?",
+      "hi": "धूप में आने पर त्वचा कौन सा विटामिन बनाती है?"
+    },
+    "options": [
+      {
+        "en": "Vitamin C",
+        "hi": "विटामिन C"
+      },
+      {
+        "en": "Vitamin A",
+        "hi": "विटामिन A"
+      },
+      {
+        "en": "Vitamin D",
+        "hi": "विटामिन D"
+      },
+      {
+        "en": "Vitamin B12",
+        "hi": "विटामिन B12"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Ultraviolet B rays trigger its production in the skin.",
+      "hi": "पराबैंगनी B किरणें त्वचा में इसके निर्माण को सक्रिय करती हैं।"
+    }
+  },
+  {
+    "id": "DQ-0224",
+    "category": "Human body",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which nutrient is the body's principal source of energy?",
+      "hi": "शरीर की ऊर्जा का मुख्य स्रोत कौन सा पोषक तत्व है?"
+    },
+    "options": [
+      {
+        "en": "Carbohydrates",
+        "hi": "कार्बोहाइड्रेट"
+      },
+      {
+        "en": "Minerals",
+        "hi": "खनिज"
+      },
+      {
+        "en": "Vitamins",
+        "hi": "विटामिन"
+      },
+      {
+        "en": "Proteins",
+        "hi": "प्रोटीन"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Fats store energy, but carbohydrates supply it fastest.",
+      "hi": "वसा ऊर्जा संचित करती है, पर कार्बोहाइड्रेट सबसे तेज़ ऊर्जा देते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0225",
+    "category": "Human body",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the largest organ of the human body?",
+      "hi": "मानव शरीर का सबसे बड़ा अंग कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "The liver",
+        "hi": "यकृत"
+      },
+      {
+        "en": "The skin",
+        "hi": "त्वचा"
+      },
+      {
+        "en": "The brain",
+        "hi": "मस्तिष्क"
+      },
+      {
+        "en": "The lungs",
+        "hi": "फेफड़े"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "In an adult it covers close to two square metres.",
+      "hi": "वयस्क में यह लगभग दो वर्ग मीटर क्षेत्र घेरती है।"
+    }
+  },
+  {
+    "id": "DQ-0226",
+    "category": "Human body",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which part of the brain coordinates balance and posture?",
+      "hi": "मस्तिष्क का कौन सा भाग संतुलन और मुद्रा का समन्वय करता है?"
+    },
+    "options": [
+      {
+        "en": "The medulla",
+        "hi": "मेडुला"
+      },
+      {
+        "en": "The hypothalamus",
+        "hi": "हाइपोथैलेमस"
+      },
+      {
+        "en": "The cerebellum",
+        "hi": "अनुमस्तिष्क"
+      },
+      {
+        "en": "The cerebrum",
+        "hi": "प्रमस्तिष्क"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Damage to it makes walking unsteady even though strength is normal.",
+      "hi": "इसकी क्षति से शक्ति सामान्य रहते हुए भी चलना डगमगा जाता है।"
+    }
+  },
+  {
+    "id": "DQ-0227",
+    "category": "Human body",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "What is the normal core temperature of the human body in degrees Celsius?",
+      "hi": "मानव शरीर का सामान्य आंतरिक तापमान डिग्री सेल्सियस में कितना होता है?"
+    },
+    "options": [
+      {
+        "en": "About 37",
+        "hi": "लगभग 37"
+      },
+      {
+        "en": "About 45",
+        "hi": "लगभग 45"
+      },
+      {
+        "en": "About 40",
+        "hi": "लगभग 40"
+      },
+      {
+        "en": "About 32",
+        "hi": "लगभग 32"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It varies slightly through the day and between people.",
+      "hi": "यह दिन में और व्यक्ति-व्यक्ति में थोड़ा बदलता रहता है।"
+    }
+  },
+  {
+    "id": "DQ-0228",
+    "category": "Human body",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "How many teeth does a normal adult have?",
+      "hi": "सामान्य वयस्क में कितने दाँत होते हैं?"
+    },
+    "options": [
+      {
+        "en": "28",
+        "hi": "28"
+      },
+      {
+        "en": "36",
+        "hi": "36"
+      },
+      {
+        "en": "30",
+        "hi": "30"
+      },
+      {
+        "en": "32",
+        "hi": "32"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "That count includes the four wisdom teeth.",
+      "hi": "इस गिनती में चार दाढ़ें भी शामिल हैं।"
+    }
+  },
+  {
+    "id": "DQ-0229",
+    "category": "Human body",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which pigment gives human skin its colour?",
+      "hi": "मानव त्वचा को रंग कौन सा वर्णक देता है?"
+    },
+    "options": [
+      {
+        "en": "Haemoglobin",
+        "hi": "हीमोग्लोबिन"
+      },
+      {
+        "en": "Chlorophyll",
+        "hi": "क्लोरोफ़िल"
+      },
+      {
+        "en": "Keratin",
+        "hi": "केराटिन"
+      },
+      {
+        "en": "Melanin",
+        "hi": "मेलेनिन"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "More melanin means darker skin and greater protection from ultraviolet light.",
+      "hi": "अधिक मेलेनिन का अर्थ गहरी त्वचा और पराबैंगनी प्रकाश से अधिक सुरक्षा।"
+    }
+  },
+  {
+    "id": "DQ-0230",
+    "category": "Human body",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which is the largest gland in the human body?",
+      "hi": "मानव शरीर की सबसे बड़ी ग्रंथि कौन सी है?"
+    },
+    "options": [
+      {
+        "en": "The liver",
+        "hi": "यकृत"
+      },
+      {
+        "en": "The thyroid",
+        "hi": "थायरॉइड"
+      },
+      {
+        "en": "The pancreas",
+        "hi": "अग्न्याशय"
+      },
+      {
+        "en": "The pituitary",
+        "hi": "पीयूष"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It performs hundreds of tasks, from making bile to filtering blood.",
+      "hi": "यह पित्त बनाने से रक्त छानने तक सैकड़ों कार्य करता है।"
+    }
+  },
+  {
+    "id": "DQ-0231",
+    "category": "Science history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Who discovered the human blood groups?",
+      "hi": "मानव रक्त समूहों की खोज किसने की?"
+    },
+    "options": [
+      {
+        "en": "William Harvey",
+        "hi": "विलियम हार्वे"
+      },
+      {
+        "en": "Louis Pasteur",
+        "hi": "लुई पाश्चर"
+      },
+      {
+        "en": "Karl Landsteiner",
+        "hi": "कार्ल लैंडस्टीनर"
+      },
+      {
+        "en": "Edward Jenner",
+        "hi": "एडवर्ड जेनर"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "He identified the ABO system in 1901.",
+      "hi": "उन्होंने 1901 में ABO प्रणाली की पहचान की।"
+    }
+  },
+  {
+    "id": "DQ-0232",
+    "category": "Human body",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which acid is present in the human stomach?",
+      "hi": "मानव पेट में कौन सा अम्ल पाया जाता है?"
+    },
+    "options": [
+      {
+        "en": "Hydrochloric acid",
+        "hi": "हाइड्रोक्लोरिक अम्ल"
+      },
+      {
+        "en": "Sulphuric acid",
+        "hi": "सल्फ्यूरिक अम्ल"
+      },
+      {
+        "en": "Citric acid",
+        "hi": "सिट्रिक अम्ल"
+      },
+      {
+        "en": "Acetic acid",
+        "hi": "एसिटिक अम्ल"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It activates digestive enzymes and kills many swallowed germs.",
+      "hi": "यह पाचक एंज़ाइमों को सक्रिय करता है और निगले गए कई जीवाणु मारता है।"
+    }
+  },
+  {
+    "id": "DQ-0233",
+    "category": "Chemistry",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which gas must be present for a fire to keep burning?",
+      "hi": "आग जलती रहने के लिए कौन सी गैस आवश्यक है?"
+    },
+    "options": [
+      {
+        "en": "Argon",
+        "hi": "आर्गन"
+      },
+      {
+        "en": "Nitrogen",
+        "hi": "नाइट्रोजन"
+      },
+      {
+        "en": "Oxygen",
+        "hi": "ऑक्सीजन"
+      },
+      {
+        "en": "Helium",
+        "hi": "हीलियम"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Covering a flame cuts off its oxygen and puts it out.",
+      "hi": "लपट को ढकने से उसकी ऑक्सीजन कट जाती है और वह बुझ जाती है।"
+    }
+  },
+  {
+    "id": "DQ-0234",
+    "category": "Chemistry",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "What is the chemical symbol for gold?",
+      "hi": "सोने का रासायनिक प्रतीक क्या है?"
+    },
+    "options": [
+      {
+        "en": "Au",
+        "hi": "Au"
+      },
+      {
+        "en": "Gd",
+        "hi": "Gd"
+      },
+      {
+        "en": "Go",
+        "hi": "Go"
+      },
+      {
+        "en": "Ag",
+        "hi": "Ag"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It comes from the Latin word aurum.",
+      "hi": "यह लैटिन शब्द औरोम से आया है।"
+    }
+  },
+  {
+    "id": "DQ-0235",
+    "category": "Chemistry",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "What is the chemical symbol for iron?",
+      "hi": "लोहे का रासायनिक प्रतीक क्या है?"
+    },
+    "options": [
+      {
+        "en": "In",
+        "hi": "In"
+      },
+      {
+        "en": "Fe",
+        "hi": "Fe"
+      },
+      {
+        "en": "Ir",
+        "hi": "Ir"
+      },
+      {
+        "en": "Io",
+        "hi": "Io"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It comes from the Latin word ferrum.",
+      "hi": "यह लैटिन शब्द फ़ेरम से आया है।"
+    }
+  },
+  {
+    "id": "DQ-0236",
+    "category": "Chemistry",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "What is the chemical formula of water?",
+      "hi": "जल का रासायनिक सूत्र क्या है?"
+    },
+    "options": [
+      {
+        "en": "CO2",
+        "hi": "CO2"
+      },
+      {
+        "en": "H2O",
+        "hi": "H2O"
+      },
+      {
+        "en": "O2",
+        "hi": "O2"
+      },
+      {
+        "en": "NaCl",
+        "hi": "NaCl"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Two hydrogen atoms bonded to one oxygen atom.",
+      "hi": "दो हाइड्रोजन परमाणु एक ऑक्सीजन परमाणु से बंधे होते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0237",
+    "category": "Chemistry",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Common table salt is chemically known as what?",
+      "hi": "साधारण नमक रासायनिक रूप से क्या कहलाता है?"
+    },
+    "options": [
+      {
+        "en": "Calcium carbonate",
+        "hi": "कैल्शियम कार्बोनेट"
+      },
+      {
+        "en": "Potassium nitrate",
+        "hi": "पोटैशियम नाइट्रेट"
+      },
+      {
+        "en": "Sodium bicarbonate",
+        "hi": "सोडियम बाइकार्बोनेट"
+      },
+      {
+        "en": "Sodium chloride",
+        "hi": "सोडियम क्लोराइड"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Its formula is NaCl.",
+      "hi": "इसका सूत्र NaCl है।"
+    }
+  },
+  {
+    "id": "DQ-0238",
+    "category": "Chemistry",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which gas is the most abundant in Earth's atmosphere?",
+      "hi": "पृथ्वी के वायुमंडल में सबसे प्रचुर गैस कौन सी है?"
+    },
+    "options": [
+      {
+        "en": "Carbon dioxide",
+        "hi": "कार्बन डाइऑक्साइड"
+      },
+      {
+        "en": "Nitrogen",
+        "hi": "नाइट्रोजन"
+      },
+      {
+        "en": "Argon",
+        "hi": "आर्गन"
+      },
+      {
+        "en": "Oxygen",
+        "hi": "ऑक्सीजन"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Nitrogen makes up about 78 per cent of the air.",
+      "hi": "नाइट्रोजन वायु का लगभग 78 प्रतिशत है।"
+    }
+  },
+  {
+    "id": "DQ-0239",
+    "category": "Chemistry",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What is the pH of pure water at room temperature?",
+      "hi": "कमरे के तापमान पर शुद्ध जल का pH कितना होता है?"
+    },
+    "options": [
+      {
+        "en": "10",
+        "hi": "10"
+      },
+      {
+        "en": "0",
+        "hi": "0"
+      },
+      {
+        "en": "7",
+        "hi": "7"
+      },
+      {
+        "en": "14",
+        "hi": "14"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Seven is neutral; below it is acidic and above it alkaline.",
+      "hi": "सात उदासीन है; इससे कम अम्लीय और अधिक क्षारीय होता है।"
+    }
+  },
+  {
+    "id": "DQ-0240",
+    "category": "Chemistry",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which metal is liquid at room temperature?",
+      "hi": "कमरे के तापमान पर कौन सी धातु द्रव रहती है?"
+    },
+    "options": [
+      {
+        "en": "Mercury",
+        "hi": "पारा"
+      },
+      {
+        "en": "Aluminium",
+        "hi": "एल्युमिनियम"
+      },
+      {
+        "en": "Lead",
+        "hi": "सीसा"
+      },
+      {
+        "en": "Tin",
+        "hi": "टिन"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It melts at about minus 39 degrees Celsius.",
+      "hi": "यह लगभग माइनस 39 डिग्री सेल्सियस पर पिघलता है।"
+    }
+  },
+  {
+    "id": "DQ-0241",
+    "category": "Chemistry",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which non-metal is liquid at room temperature?",
+      "hi": "कमरे के तापमान पर कौन सी अधातु द्रव रहती है?"
+    },
+    "options": [
+      {
+        "en": "Bromine",
+        "hi": "ब्रोमीन"
+      },
+      {
+        "en": "Iodine",
+        "hi": "आयोडीन"
+      },
+      {
+        "en": "Phosphorus",
+        "hi": "फ़ास्फोरस"
+      },
+      {
+        "en": "Sulphur",
+        "hi": "गंधक"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It is a reddish-brown liquid that gives off a sharp vapour.",
+      "hi": "यह लाल-भूरे रंग का द्रव है जिससे तीखी वाष्प निकलती है।"
+    }
+  },
+  {
+    "id": "DQ-0242",
+    "category": "Chemistry",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the lightest element in the periodic table?",
+      "hi": "आवर्त सारणी की सबसे हल्की तत्व कौन सी है?"
+    },
+    "options": [
+      {
+        "en": "Helium",
+        "hi": "हीलियम"
+      },
+      {
+        "en": "Hydrogen",
+        "hi": "हाइड्रोजन"
+      },
+      {
+        "en": "Lithium",
+        "hi": "लिथियम"
+      },
+      {
+        "en": "Carbon",
+        "hi": "कार्बन"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It has a single proton and a single electron.",
+      "hi": "इसमें एक प्रोटॉन और एक इलेक्ट्रॉन होता है।"
+    }
+  },
+  {
+    "id": "DQ-0243",
+    "category": "Biology",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which gas do green plants take in for photosynthesis?",
+      "hi": "प्रकाशसंश्लेषण के लिए हरे पौधे कौन सी गैस लेते हैं?"
+    },
+    "options": [
+      {
+        "en": "Methane",
+        "hi": "मीथेन"
+      },
+      {
+        "en": "Nitrogen",
+        "hi": "नाइट्रोजन"
+      },
+      {
+        "en": "Oxygen",
+        "hi": "ऑक्सीजन"
+      },
+      {
+        "en": "Carbon dioxide",
+        "hi": "कार्बन डाइऑक्साइड"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "They release oxygen as a by-product of the same process.",
+      "hi": "वे इसी प्रक्रिया के उप-उत्पाद के रूप में ऑक्सीजन छोड़ते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0244",
+    "category": "Biology",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which part of a cell is called its powerhouse?",
+      "hi": "कोशिका के किस भाग को उसका शक्ति गृह कहते हैं?"
+    },
+    "options": [
+      {
+        "en": "Mitochondria",
+        "hi": "माइटोकॉन्ड्रिया"
+      },
+      {
+        "en": "Nucleus",
+        "hi": "केन्द्रक"
+      },
+      {
+        "en": "Golgi body",
+        "hi": "गॉल्जी काय"
+      },
+      {
+        "en": "Ribosome",
+        "hi": "राइबोसोम"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Mitochondria release most of the energy a cell uses.",
+      "hi": "माइटोकॉन्ड्रिया कोशिका द्वारा प्रयुक्त अधिकांश ऊर्जा मुक्त करते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0245",
+    "category": "Science history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Who formulated the three laws of motion?",
+      "hi": "गति के तीन नियम किसने प्रतिपादित किए?"
+    },
+    "options": [
+      {
+        "en": "James Watt",
+        "hi": "जेम्स वाट"
+      },
+      {
+        "en": "Galileo Galilei",
+        "hi": "गैलिलियो गैलिली"
+      },
+      {
+        "en": "Isaac Newton",
+        "hi": "आइज़क न्यूटन"
+      },
+      {
+        "en": "Michael Faraday",
+        "hi": "माइकल फैराडे"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "They appeared in his Principia of 1687.",
+      "hi": "ये उनके 1687 के प्रिंसिपिया में प्रकाशित हुए।"
+    }
+  },
+  {
+    "id": "DQ-0246",
+    "category": "Science history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Who proposed the theory of relativity?",
+      "hi": "सापेक्षता का सिद्धांत किसने प्रस्तुत किया?"
+    },
+    "options": [
+      {
+        "en": "Niels Bohr",
+        "hi": "नील्स बोर"
+      },
+      {
+        "en": "Albert Einstein",
+        "hi": "अल्बर्ट आइंस्टीन"
+      },
+      {
+        "en": "Max Planck",
+        "hi": "मैक्स प्लांक"
+      },
+      {
+        "en": "Erwin Schrödinger",
+        "hi": "इरविन श्रोडिंगर"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Special relativity came in 1905 and general relativity in 1915.",
+      "hi": "विशेष सापेक्षता 1905 में और सामान्य सापेक्षता 1915 में आई।"
+    }
+  },
+  {
+    "id": "DQ-0247",
+    "category": "Science history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Who discovered penicillin?",
+      "hi": "पेनिसिलिन की खोज किसने की?"
+    },
+    "options": [
+      {
+        "en": "Alexander Fleming",
+        "hi": "अलेक्ज़ेंडर फ़्लेमिंग"
+      },
+      {
+        "en": "Antoine Lavoisier",
+        "hi": "एंटोनी लवॉइज़ियर"
+      },
+      {
+        "en": "Robert Koch",
+        "hi": "रॉबर्ट कॉक"
+      },
+      {
+        "en": "Joseph Lister",
+        "hi": "जोसेफ़ लिस्टर"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "He noticed mould killing bacteria on a culture plate in 1928.",
+      "hi": "1928 में उन्होंने कल्चर प्लेट पर फफूंद को जीवाणु मारते देखा।"
+    }
+  },
+  {
+    "id": "DQ-0248",
+    "category": "Science history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Who proposed evolution by natural selection?",
+      "hi": "प्राकृतिक चयन द्वारा विकास का सिद्धांत किसने दिया?"
+    },
+    "options": [
+      {
+        "en": "Jean-Baptiste Lamarck",
+        "hi": "जीन-बैप्टिस्ट लामार्क"
+      },
+      {
+        "en": "Gregor Mendel",
+        "hi": "ग्रेगर मेंडल"
+      },
+      {
+        "en": "Alfred Russel only",
+        "hi": "केवल अल्फ्रेड रसेल"
+      },
+      {
+        "en": "Charles Darwin",
+        "hi": "चार्ल्स डार्विन"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "On the Origin of Species was published in 1859.",
+      "hi": "ऑन द ओरिजिन ऑफ़ स्पीशीज़ 1859 में प्रकाशित हुई।"
+    }
+  },
+  {
+    "id": "DQ-0249",
+    "category": "Science history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who is known as the father of genetics?",
+      "hi": "आनुवंशिकी का जनक किसे कहा जाता है?"
+    },
+    "options": [
+      {
+        "en": "Thomas Hunt Morgan",
+        "hi": "थॉमस हंट मॉर्गन"
+      },
+      {
+        "en": "Gregor Mendel",
+        "hi": "ग्रेगर मेंडल"
+      },
+      {
+        "en": "Charles Darwin",
+        "hi": "चार्ल्स डार्विन"
+      },
+      {
+        "en": "Louis Pasteur",
+        "hi": "लुई पाश्चर"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "His pea-plant experiments laid out how traits are inherited.",
+      "hi": "उन्होंने मटर के पौधों पर प्रयोगों से लक्षणों की वंशागति बताई।"
+    }
+  },
+  {
+    "id": "DQ-0250",
+    "category": "Physics",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which is the SI unit of electrical resistance?",
+      "hi": "विद्युत प्रतिरोध की SI इकाई कौन सी है?"
+    },
+    "options": [
+      {
+        "en": "Henry",
+        "hi": "हेनरी"
+      },
+      {
+        "en": "Volt",
+        "hi": "वोल्ट"
+      },
+      {
+        "en": "Ampere",
+        "hi": "ऐम्पियर"
+      },
+      {
+        "en": "Ohm",
+        "hi": "ओम"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "One ohm allows one ampere when one volt is applied.",
+      "hi": "एक वोल्ट लगाने पर एक ओम से एक ऐम्पियर धारा बहती है।"
+    }
+  },
+  {
+    "id": "DQ-0251",
+    "category": "Physics",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which is the SI unit of capacitance?",
+      "hi": "धारिता की SI इकाई कौन सी है?"
+    },
+    "options": [
+      {
+        "en": "Farad",
+        "hi": "फ़ैराड"
+      },
+      {
+        "en": "Henry",
+        "hi": "हेनरी"
+      },
+      {
+        "en": "Tesla",
+        "hi": "टेस्ला"
+      },
+      {
+        "en": "Weber",
+        "hi": "वेबर"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Henry measures inductance and tesla measures magnetic flux density.",
+      "hi": "हेनरी प्रेरकत्व और टेस्ला चुंबकीय फ़्लक्स घनत्व मापता है।"
+    }
+  },
+  {
+    "id": "DQ-0252",
+    "category": "Physics",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What is the approximate speed of light in a vacuum?",
+      "hi": "निर्वात में प्रकाश की अनुमानित गति कितनी है?"
+    },
+    "options": [
+      {
+        "en": "30,000 kilometres per second",
+        "hi": "30,000 किलोमीटर प्रति सेकंड"
+      },
+      {
+        "en": "300 kilometres per second",
+        "hi": "300 किलोमीटर प्रति सेकंड"
+      },
+      {
+        "en": "300,000 kilometres per second",
+        "hi": "3,00,000 किलोमीटर प्रति सेकंड"
+      },
+      {
+        "en": "3,000 kilometres per second",
+        "hi": "3,000 किलोमीटर प्रति सेकंड"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Exactly 299,792,458 metres per second.",
+      "hi": "ठीक 299,792,458 मीटर प्रति सेकंड।"
+    }
+  },
+  {
+    "id": "DQ-0253",
+    "category": "Physics",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Through which medium can sound not travel at all?",
+      "hi": "ध्वनि किस माध्यम से बिल्कुल नहीं चल सकती?"
+    },
+    "options": [
+      {
+        "en": "Steel",
+        "hi": "इस्पात"
+      },
+      {
+        "en": "Water",
+        "hi": "जल"
+      },
+      {
+        "en": "Air",
+        "hi": "वायु"
+      },
+      {
+        "en": "A vacuum",
+        "hi": "निर्वात"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Sound needs matter to vibrate, and a vacuum has none.",
+      "hi": "ध्वनि को कंपन के लिए पदार्थ चाहिए और निर्वात में वह नहीं होता।"
+    }
+  },
+  {
+    "id": "DQ-0254",
+    "category": "Physics",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which type of lens corrects short-sightedness?",
+      "hi": "निकट दृष्टि दोष को कौन सा लेंस ठीक करता है?"
+    },
+    "options": [
+      {
+        "en": "A bifocal lens only",
+        "hi": "केवल द्विफोकसी लेंस"
+      },
+      {
+        "en": "A cylindrical lens",
+        "hi": "बेलनाकार लेंस"
+      },
+      {
+        "en": "A concave lens",
+        "hi": "अवतल लेंस"
+      },
+      {
+        "en": "A convex lens",
+        "hi": "उत्तल लेंस"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It spreads the light slightly before the eye focuses it.",
+      "hi": "यह आँख के फोकस करने से पहले प्रकाश को थोड़ा फैला देता है।"
+    }
+  },
+  {
+    "id": "DQ-0255",
+    "category": "Physics",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "A rainbow is produced mainly by which effect on sunlight inside raindrops?",
+      "hi": "वर्षा की बूंदों में सूर्य प्रकाश पर मुख्यतः किस प्रभाव से इंद्रधनुष बनता है?"
+    },
+    "options": [
+      {
+        "en": "Dispersion",
+        "hi": "विक्षेपण"
+      },
+      {
+        "en": "Reflection only",
+        "hi": "केवल परावर्तन"
+      },
+      {
+        "en": "Diffraction by dust",
+        "hi": "धूल से विवर्तन"
+      },
+      {
+        "en": "Absorption",
+        "hi": "अवशोषण"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Droplets bend each colour by a different amount, splitting white light.",
+      "hi": "बूंदें प्रत्येक रंग को अलग मात्रा में मोड़ती हैं, जिससे श्वेत प्रकाश बँट जाता है।"
+    }
+  },
+  {
+    "id": "DQ-0256",
+    "category": "Physics",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which instrument records the shaking of the ground during an earthquake?",
+      "hi": "भूकंप के दौरान ज़मीन के कंपन को कौन सा यंत्र दर्ज करता है?"
+    },
+    "options": [
+      {
+        "en": "A seismograph",
+        "hi": "सिस्मोग्राफ़"
+      },
+      {
+        "en": "A hygrometer",
+        "hi": "हाइग्रोमीटर"
+      },
+      {
+        "en": "A spectrometer",
+        "hi": "स्पेक्ट्रोमीटर"
+      },
+      {
+        "en": "A barometer",
+        "hi": "बैरोमीटर"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Its trace is called a seismogram.",
+      "hi": "इसके लेख को सिस्मोग्राम कहते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0257",
+    "category": "Physics",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which machine converts mechanical energy into electrical energy?",
+      "hi": "कौन सी मशीन यांत्रिक ऊर्जा को विद्युत ऊर्जा में बदलती है?"
+    },
+    "options": [
+      {
+        "en": "A generator",
+        "hi": "जनरेटर"
+      },
+      {
+        "en": "A motor",
+        "hi": "मोटर"
+      },
+      {
+        "en": "A battery",
+        "hi": "बैटरी"
+      },
+      {
+        "en": "A transformer",
+        "hi": "ट्रांसफ़ॉर्मर"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "A motor does the reverse, turning electricity into motion.",
+      "hi": "मोटर उल्टा काम करता है, बिजली को गति में बदलता है।"
+    }
+  },
+  {
+    "id": "DQ-0258",
+    "category": "Physics",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which force pulls objects towards the centre of the Earth?",
+      "hi": "कौन सा बल वस्तुओं को पृथ्वी के केंद्र की ओर खींचता है?"
+    },
+    "options": [
+      {
+        "en": "Friction",
+        "hi": "घर्षण"
+      },
+      {
+        "en": "Gravity",
+        "hi": "गुरुत्वाकर्षण"
+      },
+      {
+        "en": "Buoyancy",
+        "hi": "उत्प्लावकता"
+      },
+      {
+        "en": "Magnetism",
+        "hi": "चुंबकत्व"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Every mass attracts every other mass, but Earth's is the one we feel daily.",
+      "hi": "हर द्रव्यमान दूसरे को आकर्षित करता है, पर पृथ्वी का हम रोज़ महसूस करते हैं।"
+    }
+  }
+]

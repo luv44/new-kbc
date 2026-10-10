@@ -1,4 +1,4 @@
-# Draft question bank — 138 unique, meta-word-free questions
+# Draft question bank — 298 unique, meta-word-free questions
 
 `node scripts/question-lint.mjs` scans every question in `parts/` and fails on any repeat or any
 meta-language word. `--write` regenerates `DRAFT_UNIQUE_QUESTIONS.json` and `.md` from the parts.
@@ -7,7 +7,8 @@ meta-language word. `--write` regenerates `DRAFT_UNIQUE_QUESTIONS.json` and `.md
 
 | Rule | Check | Last run |
 | --- | --- | --- |
-| No question repeats | exact stem, SHA-256 fingerprint, same-answer rewording (≥50% word overlap), near-identical wording (≥80%) | 0 hits / 138 questions |
+| No question repeats | exact stem, SHA-256 fingerprint, same-answer rewording (≥50% word overlap), near-identical wording (≥80%) | 0 hits / 298 questions |
+
 | No curriculum meta-language | banned word list in both English and Hindi, applied to stem, all 4 options, explanation and cue | 0 hits |
 | Options usable | exactly 4, both languages present, no two options equal after normalisation | 0 hits |
 | Record complete | `correctIndex` 0–3, explanation in both languages, at least one `sourceId` | 0 hits |

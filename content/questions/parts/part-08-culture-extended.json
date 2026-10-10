@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "DQ-0259",
+    "category": "Computing",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "In computing, what does CPU stand for?",
+      "hi": "कंप्यूटर में CPU का पूर्ण रूप क्या है?"
+    },
+    "options": [
+      {
+        "en": "Computer Personal Utility",
+        "hi": "कंप्यूटर व्यक्तिगत उपयोगिता"
+      },
+      {
+        "en": "Core Programme Unit",
+        "hi": "मूल कार्यक्रम इकाई"
+      },
+      {
+        "en": "Central Print Utility",
+        "hi": "केंद्रीय मुद्रण उपयोगिता"
+      },
+      {
+        "en": "Central Processing Unit",
+        "hi": "केंद्रीय प्रक्रमण इकाई"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It carries out the instructions a program gives.",
+      "hi": "यह प्रोग्राम द्वारा दिए गए निर्देशों को क्रियान्वित करता है।"
+    }
+  },
+  {
+    "id": "DQ-0260",
+    "category": "Computing",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "In computing, what does RAM stand for?",
+      "hi": "कंप्यूटर में RAM का पूर्ण रूप क्या है?"
+    },
+    "options": [
+      {
+        "en": "Read And Modify",
+        "hi": "रीड एंड मॉडिफ़ाई"
+      },
+      {
+        "en": "Rapid Archive Module",
+        "hi": "रैपिड आर्काइव मॉड्यूल"
+      },
+      {
+        "en": "Registered Address Map",
+        "hi": "रजिस्टर्ड एड्रेस मैप"
+      },
+      {
+        "en": "Random Access Memory",
+        "hi": "रैंडम एक्सेस मेमोरी"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It holds the data a machine is using right now and empties when power is cut.",
+      "hi": "यह वही डेटा रखता है जिस पर मशीन अभी काम कर रही है और बिजली कटते ही खाली हो जाता है।"
+    }
+  },
+  {
+    "id": "DQ-0261",
+    "category": "Computing",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What does the web status code 404 mean?",
+      "hi": "वेब स्थिति कोड 404 का क्या अर्थ है?"
+    },
+    "options": [
+      {
+        "en": "The page was not found",
+        "hi": "पेज नहीं मिला"
+      },
+      {
+        "en": "Access is forbidden",
+        "hi": "प्रवेश निषिद्ध है"
+      },
+      {
+        "en": "The server is busy",
+        "hi": "सर्वर व्यस्त है"
+      },
+      {
+        "en": "The page moved permanently",
+        "hi": "पेज स्थायी रूप से स्थानांतरित हुआ"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Forbidden is 403 and a permanent move is 301.",
+      "hi": "निषिद्ध के लिए 403 और स्थायी स्थानांतरण के लिए 301 है।"
+    }
+  },
+  {
+    "id": "DQ-0262",
+    "category": "Computing",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who is credited with proposing the World Wide Web?",
+      "hi": "वर्ल्ड वाइड वेब का प्रस्ताव देने का श्रेय किसे जाता है?"
+    },
+    "options": [
+      {
+        "en": "Vint Cerf",
+        "hi": "विंट सर्फ़"
+      },
+      {
+        "en": "Tim Berners-Lee",
+        "hi": "टिम बर्नर्स-ली"
+      },
+      {
+        "en": "Bill Gates",
+        "hi": "बिल गेट्स"
+      },
+      {
+        "en": "Steve Jobs",
+        "hi": "स्टीव जॉब्स"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "He outlined it in 1989 while working at CERN.",
+      "hi": "उन्होंने 1989 में सर्न (CERN) में काम करते हुए इसकी रूपरेखा दी।"
+    }
+  },
+  {
+    "id": "DQ-0263",
+    "category": "Computing",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "How many bits make up one byte?",
+      "hi": "एक बाइट में कितने बिट होते हैं?"
+    },
+    "options": [
+      {
+        "en": "Two",
+        "hi": "दो"
+      },
+      {
+        "en": "Sixteen",
+        "hi": "सोलह"
+      },
+      {
+        "en": "Eight",
+        "hi": "आठ"
+      },
+      {
+        "en": "Four",
+        "hi": "चार"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Eight bits can represent 256 different values.",
+      "hi": "आठ बिट 256 भिन्न मान दर्शा सकते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0264",
+    "category": "Computing",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "What does LED stand for?",
+      "hi": "LED का पूर्ण रूप क्या है?"
+    },
+    "options": [
+      {
+        "en": "Light Emitting Diode",
+        "hi": "लाइट एमिटिंग डायोड"
+      },
+      {
+        "en": "Linear Electric Device",
+        "hi": "लीनियर इलेक्ट्रिक डिवाइस"
+      },
+      {
+        "en": "Low Energy Display",
+        "hi": "लो एनर्जी डिस्प्ले"
+      },
+      {
+        "en": "Light Engine Driver",
+        "hi": "लाइट इंजन ड्राइवर"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It gives light when current passes through it in one direction.",
+      "hi": "जब धारा एक दिशा में बहती है तो यह प्रकाश देता है।"
+    }
+  },
+  {
+    "id": "DQ-0265",
+    "category": "Computing",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "What does GPS stand for?",
+      "hi": "GPS का पूर्ण रूप क्या है?"
+    },
+    "options": [
+      {
+        "en": "Geographic Pin Service",
+        "hi": "जियोग्राफ़िक पिन सर्विस"
+      },
+      {
+        "en": "Global Positioning System",
+        "hi": "ग्लोबल पोज़िशनिंग सिस्टम"
+      },
+      {
+        "en": "Grid Placement Signal",
+        "hi": "ग्रिड प्लेसमेंट सिग्नल"
+      },
+      {
+        "en": "General Path Sensor",
+        "hi": "जनरल पाथ सेंसर"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "A receiver fixes its position by timing signals from several satellites.",
+      "hi": "रिसीवर कई उपग्रहों के संकेतों का समय मापकर अपनी स्थिति तय करता है।"
+    }
+  },
+  {
+    "id": "DQ-0266",
+    "category": "Computing",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which protocol is used to send an email from a client to a mail server?",
+      "hi": "क्लाइंट से मेल सर्वर तक ईमेल भेजने के लिए कौन सा प्रोटोकॉल प्रयुक्त होता है?"
+    },
+    "options": [
+      {
+        "en": "SNMP",
+        "hi": "SNMP"
+      },
+      {
+        "en": "SMTP",
+        "hi": "SMTP"
+      },
+      {
+        "en": "FTP",
+        "hi": "FTP"
+      },
+      {
+        "en": "Telnet",
+        "hi": "टेलनेट"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Simple Mail Transfer Protocol handles sending; POP and IMAP handle collection.",
+      "hi": "सिंपल मेल ट्रांसफ़र प्रोटोकॉल भेजने का काम करता है; पॉप और आईमैप प्राप्त करने का।"
+    }
+  },
+  {
+    "id": "DQ-0267",
+    "category": "Computing",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "In the address HTTPS, what does the final letter S stand for?",
+      "hi": "HTTPS पते में अंतिम अक्षर S किसका प्रतीक है?"
+    },
+    "options": [
+      {
+        "en": "Server",
+        "hi": "सर्वर"
+      },
+      {
+        "en": "Secure",
+        "hi": "सुरक्षित"
+      },
+      {
+        "en": "Standard",
+        "hi": "मानक"
+      },
+      {
+        "en": "Session",
+        "hi": "सत्र"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It means the connection between browser and site is encrypted.",
+      "hi": "इसका अर्थ है ब्राउज़र और साइट के बीच का संपर्क एन्क्रिप्टेड है।"
+    }
+  },
+  {
+    "id": "DQ-0268",
+    "category": "Computing",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "How many digits does the binary number system use?",
+      "hi": "द्विआधारी संख्या प्रणाली कितने अंकों का उपयोग करती है?"
+    },
+    "options": [
+      {
+        "en": "Eight",
+        "hi": "आठ"
+      },
+      {
+        "en": "Ten",
+        "hi": "दस"
+      },
+      {
+        "en": "Sixteen",
+        "hi": "सोलह"
+      },
+      {
+        "en": "Two",
+        "hi": "दो"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Only 0 and 1, which map neatly onto electrical off and on.",
+      "hi": "केवल 0 और 1, जो विद्युत के बंद और चालू से मेल खाते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0269",
+    "category": "Sport",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "After how many years are the Summer Olympic Games normally held?",
+      "hi": "ग्रीष्मकालीन ओलंपिक खेल सामान्यतः कितने वर्ष बाद होते हैं?"
+    },
+    "options": [
+      {
+        "en": "Five years",
+        "hi": "पाँच वर्ष"
+      },
+      {
+        "en": "Three years",
+        "hi": "तीन वर्ष"
+      },
+      {
+        "en": "Four years",
+        "hi": "चार वर्ष"
+      },
+      {
+        "en": "Two years",
+        "hi": "दो वर्ष"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "The four-year gap is called an Olympiad.",
+      "hi": "चार वर्ष के इस अंतराल को ओलंपियाड कहते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0270",
+    "category": "Sport",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Where were the first modern Olympic Games held in 1896?",
+      "hi": "1896 में पहले आधुनिक ओलंपिक खेल कहाँ आयोजित हुए?"
+    },
+    "options": [
+      {
+        "en": "Athens",
+        "hi": "एथेंस"
+      },
+      {
+        "en": "London",
+        "hi": "लंदन"
+      },
+      {
+        "en": "Rome",
+        "hi": "रोम"
+      },
+      {
+        "en": "Paris",
+        "hi": "पेरिस"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Pierre de Coubertin's revival began in Greece, the ancient games' homeland.",
+      "hi": "पियरे डी कूपर्टें का यह पुनरुत्थान प्राचीन खेलों की जन्मभूमि यूनान से शुरू हुआ।"
+    }
+  },
+  {
+    "id": "DQ-0271",
+    "category": "Sport",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which country has won the most FIFA World Cup titles?",
+      "hi": "किस देश ने सबसे अधिक फ़ीफ़ा विश्व कप जीते हैं?"
+    },
+    "options": [
+      {
+        "en": "Germany",
+        "hi": "जर्मनी"
+      },
+      {
+        "en": "Argentina",
+        "hi": "अर्जेंटीना"
+      },
+      {
+        "en": "Italy",
+        "hi": "इटली"
+      },
+      {
+        "en": "Brazil",
+        "hi": "ब्राज़ील"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Brazil have lifted the trophy five times.",
+      "hi": "ब्राज़ील यह ट्रॉफ़ी पाँच बार उठा चुका है।"
+    }
+  },
+  {
+    "id": "DQ-0272",
+    "category": "Sport",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "How long is a standard marathon race?",
+      "hi": "मानक मैराथन दौड़ कितनी लंबी होती है?"
+    },
+    "options": [
+      {
+        "en": "50 kilometres",
+        "hi": "50 किलोमीटर"
+      },
+      {
+        "en": "42.195 kilometres",
+        "hi": "42.195 किलोमीटर"
+      },
+      {
+        "en": "45 kilometres",
+        "hi": "45 किलोमीटर"
+      },
+      {
+        "en": "40 kilometres",
+        "hi": "40 किलोमीटर"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "The odd extra distance comes from the 1908 London course finishing at the royal box.",
+      "hi": "यह अतिरिक्त दूरी 1908 के लंदन मार्ग से आई जो शाही बॉक्स पर समाप्त होता था।"
+    }
+  },
+  {
+    "id": "DQ-0273",
+    "category": "Sport",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which body governs chess worldwide?",
+      "hi": "शतरंज का विश्व स्तरीय नियामक निकाय कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "ICC",
+        "hi": "आईसीसी"
+      },
+      {
+        "en": "IOC",
+        "hi": "आईओसी"
+      },
+      {
+        "en": "FIDE",
+        "hi": "फ़ीडे"
+      },
+      {
+        "en": "FIFA",
+        "hi": "फ़ीफ़ा"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It is the Federation Internationale des Echecs.",
+      "hi": "यह फ़ेडरेशन इंटरनेशनल देज़ एशे है।"
+    }
+  },
+  {
+    "id": "DQ-0274",
+    "category": "Sport",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which body governs international cricket?",
+      "hi": "अंतर्राष्ट्रीय क्रिकेट का नियामक निकाय कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "FIFA",
+        "hi": "फ़ीफ़ा"
+      },
+      {
+        "en": "The BWF",
+        "hi": "बीडब्ल्यूएफ"
+      },
+      {
+        "en": "The ICC",
+        "hi": "आईसीसी"
+      },
+      {
+        "en": "World Rugby",
+        "hi": "वर्ल्ड रगबी"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "The BCCI governs cricket in India alone.",
+      "hi": "बीसीसीआई केवल भारत में क्रिकेट का संचालन करता है।"
+    }
+  },
+  {
+    "id": "DQ-0275",
+    "category": "Sport",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "How many players from one football team are on the field during play?",
+      "hi": "खेल के दौरान एक फ़ुटबॉल टीम के कितने खिलाड़ी मैदान पर होते हैं?"
+    },
+    "options": [
+      {
+        "en": "Ten",
+        "hi": "दस"
+      },
+      {
+        "en": "Twelve",
+        "hi": "बारह"
+      },
+      {
+        "en": "Nine",
+        "hi": "नौ"
+      },
+      {
+        "en": "Eleven",
+        "hi": "ग्यारह"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "One of the eleven is the goalkeeper.",
+      "hi": "इन ग्यारह में एक गोलकीपर होता है।"
+    }
+  },
+  {
+    "id": "DQ-0276",
+    "category": "Sport",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "How many legal deliveries make up one over in cricket?",
+      "hi": "क्रिकेट में एक ओवर कितनी वैध गेंदों से बनता है?"
+    },
+    "options": [
+      {
+        "en": "Eight",
+        "hi": "आठ"
+      },
+      {
+        "en": "Four",
+        "hi": "चार"
+      },
+      {
+        "en": "Five",
+        "hi": "पाँच"
+      },
+      {
+        "en": "Six",
+        "hi": "छह"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Wides and no-balls do not count towards the six.",
+      "hi": "वाइड और नो-बॉल इन छह में नहीं गिनी जातीं।"
+    }
+  },
+  {
+    "id": "DQ-0277",
+    "category": "Sport",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "The Tour de France is a competition in which sport?",
+      "hi": "तूर द फ़्रांस किस खेल की प्रतियोगिता है?"
+    },
+    "options": [
+      {
+        "en": "Sailing",
+        "hi": "नौकायन"
+      },
+      {
+        "en": "Motor racing",
+        "hi": "मोटर रेसिंग"
+      },
+      {
+        "en": "Cycling",
+        "hi": "साइकलिंग"
+      },
+      {
+        "en": "Running",
+        "hi": "दौड़"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It has been run almost every year since 1903.",
+      "hi": "1903 से यह लगभग हर वर्ष आयोजित होती रही है।"
+    }
+  },
+  {
+    "id": "DQ-0278",
+    "category": "Sport",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Wimbledon is the oldest tournament in which sport?",
+      "hi": "विंबलडन किस खेल की सबसे पुरानी प्रतियोगिता है?"
+    },
+    "options": [
+      {
+        "en": "Badminton",
+        "hi": "बैडमिंटन"
+      },
+      {
+        "en": "Tennis",
+        "hi": "टेनिस"
+      },
+      {
+        "en": "Golf",
+        "hi": "गोल्फ़"
+      },
+      {
+        "en": "Squash",
+        "hi": "स्क्वैश"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It began in 1877 and is still played on grass.",
+      "hi": "यह 1877 में शुरू हुई और अब भी घास पर खेली जाती है।"
+    }
+  },
+  {
+    "id": "DQ-0279",
+    "category": "Sport",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Ashes cricket series is contested between which two countries?",
+      "hi": "एशेज़ क्रिकेट श्रृंखला किन दो देशों के बीच खेली जाती है?"
+    },
+    "options": [
+      {
+        "en": "South Africa and New Zealand",
+        "hi": "दक्षिण अफ़्रीका और न्यूज़ीलैंड"
+      },
+      {
+        "en": "West Indies and Sri Lanka",
+        "hi": "वेस्टइंडीज़ और श्रीलंका"
+      },
+      {
+        "en": "England and Australia",
+        "hi": "इंग्लैंड और ऑस्ट्रेलिया"
+      },
+      {
+        "en": "India and Pakistan",
+        "hi": "भारत और पाकिस्तान"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "The name came from an 1882 obituary for English cricket.",
+      "hi": "यह नाम 1882 में इंग्लिश क्रिकेट के लिए छपे एक शोक संदेश से आया।"
+    }
+  },
+  {
+    "id": "DQ-0280",
+    "category": "Sport",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In tennis, which score is announced as 'love'?",
+      "hi": "टेनिस में किस स्कोर को 'लव' कहा जाता है?"
+    },
+    "options": [
+      {
+        "en": "Zero",
+        "hi": "शून्य"
+      },
+      {
+        "en": "Forty",
+        "hi": "चालीस"
+      },
+      {
+        "en": "Thirty",
+        "hi": "तीस"
+      },
+      {
+        "en": "Fifteen",
+        "hi": "पंद्रह"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The word probably comes from the French l'oeuf, an egg, for its shape.",
+      "hi": "यह शब्द संभवतः फ़्रेंच ले'फ़ से आया है, जिसका अर्थ अंडा है, आकृति के कारण।"
+    }
+  },
+  {
+    "id": "DQ-0281",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In which subject did Alfred Nobel leave no prize?",
+      "hi": "किस विषय में अल्फ्रेड नोबेल ने कोई पुरस्कार नहीं छोड़ा?"
+    },
+    "options": [
+      {
+        "en": "Literature",
+        "hi": "साहित्य"
+      },
+      {
+        "en": "Mathematics",
+        "hi": "गणित"
+      },
+      {
+        "en": "Physics",
+        "hi": "भौतिकी"
+      },
+      {
+        "en": "Peace",
+        "hi": "शांति"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "The Fields Medal and the Abel Prize fill that gap in mathematics.",
+      "hi": "गणित में यह अंतर फ़ील्ड्स पदक और आबेल पुरस्कार भरते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0282",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "The Oscar statuette is awarded for achievement in which field?",
+      "hi": "ऑस्कर प्रतिमा किस क्षेत्र में उपलब्धि के लिए दी जाती है?"
+    },
+    "options": [
+      {
+        "en": "Journalism",
+        "hi": "पत्रकारिता"
+      },
+      {
+        "en": "Film",
+        "hi": "सिनेमा"
+      },
+      {
+        "en": "Theatre",
+        "hi": "रंगमंच"
+      },
+      {
+        "en": "Television",
+        "hi": "टेलीविज़न"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "The Academy of Motion Picture Arts and Sciences presents it.",
+      "hi": "इसे अकादमी ऑफ़ मोशन पिक्चर आर्ट्स एंड साइंसेज़ देती है।"
+    }
+  },
+  {
+    "id": "DQ-0283",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Booker Prize is awarded for which kind of work?",
+      "hi": "बुकर पुरस्कार किस प्रकार के कार्य के लिए दिया जाता है?"
+    },
+    "options": [
+      {
+        "en": "Scientific research",
+        "hi": "वैज्ञानिक अनुसंधान"
+      },
+      {
+        "en": "Architectural design",
+        "hi": "वास्तु डिज़ाइन"
+      },
+      {
+        "en": "War reporting",
+        "hi": "युद्ध रिपोर्टिंग"
+      },
+      {
+        "en": "Fiction writing",
+        "hi": "कथा लेखन"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It recognises a full-length novel in English.",
+      "hi": "यह अंग्रेज़ी में लिखे पूर्ण उपन्यास को मान्यता देता है।"
+    }
+  },
+  {
+    "id": "DQ-0284",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Dadasaheb Phalke Award honours lifetime work in which field?",
+      "hi": "दादासाहब फ़ालके पुरस्कार किस क्षेत्र में जीवनभर के कार्य का सम्मान करता है?"
+    },
+    "options": [
+      {
+        "en": "Painting",
+        "hi": "चित्रकला"
+      },
+      {
+        "en": "Classical music",
+        "hi": "शास्त्रीय संगीत"
+      },
+      {
+        "en": "Indian cinema",
+        "hi": "भारतीय सिनेमा"
+      },
+      {
+        "en": "Dance",
+        "hi": "नृत्य"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It is the country's highest award in film.",
+      "hi": "यह देश का सिनेमा में सर्वोच्च पुरस्कार है।"
+    }
+  },
+  {
+    "id": "DQ-0285",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "What is the Bharat Ratna in India?",
+      "hi": "भारत में भारत रत्न क्या है?"
+    },
+    "options": [
+      {
+        "en": "A national sports prize",
+        "hi": "राष्ट्रीय खेल पुरस्कार"
+      },
+      {
+        "en": "The highest military honour",
+        "hi": "सर्वोच्च सैन्य सम्मान"
+      },
+      {
+        "en": "A science fellowship",
+        "hi": "विज्ञान फ़ेलोशिप"
+      },
+      {
+        "en": "The highest civilian award",
+        "hi": "सर्वोच्च नागरिक सम्मान"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It was instituted in 1954 and carries no title or money.",
+      "hi": "यह 1954 में स्थापित हुआ और इसके साथ कोई उपाधि या धनराशि नहीं है।"
+    }
+  },
+  {
+    "id": "DQ-0286",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Param Vir Chakra is awarded for what?",
+      "hi": "परम वीर चक्र किसके लिए दिया जाता है?"
+    },
+    "options": [
+      {
+        "en": "Excellence in training",
+        "hi": "प्रशिक्षण में उत्कृष्टता के लिए"
+      },
+      {
+        "en": "Peacetime bravery only",
+        "hi": "केवल शांतिकालीन साहस के लिए"
+      },
+      {
+        "en": "Gallantry in the face of the enemy",
+        "hi": "शत्रु के सम्मुख वीरता के लिए"
+      },
+      {
+        "en": "Long and meritorious service",
+        "hi": "दीर्घ और उत्कृष्ट सेवा के लिए"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It is India's highest wartime gallantry decoration.",
+      "hi": "यह भारत का सर्वोच्च युद्धकालीन वीरता अलंकरण है।"
+    }
+  },
+  {
+    "id": "DQ-0287",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Who composed the song Vande Mataram?",
+      "hi": "वंदे मातरम् गीत की रचना किसने की?"
+    },
+    "options": [
+      {
+        "en": "Rabindranath Tagore",
+        "hi": "रवींद्रनाथ टैगोर"
+      },
+      {
+        "en": "Bankim Chandra Chatterjee",
+        "hi": "बंकिम चंद्र चटर्जी"
+      },
+      {
+        "en": "Sarat Chandra Chattopadhyay",
+        "hi": "शरत चंद्र चट्टोपाध्याय"
+      },
+      {
+        "en": "Michael Madhusudan Dutt",
+        "hi": "माइकेल मधुसूदन दत्त"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It first appeared in his novel Anandamath.",
+      "hi": "यह पहली बार उनके उपन्यास आनंदमठ में आई।"
+    }
+  },
+  {
+    "id": "DQ-0288",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Who is honoured in India as the Father of the Nation?",
+      "hi": "भारत में राष्ट्रपिता के रूप में किसे सम्मानित किया जाता है?"
+    },
+    "options": [
+      {
+        "en": "Jawaharlal Nehru",
+        "hi": "जवाहरलाल नेहरू"
+      },
+      {
+        "en": "Bal Gangadhar Tilak",
+        "hi": "बाल गंगाधर तिलक"
+      },
+      {
+        "en": "Mahatma Gandhi",
+        "hi": "महात्मा गांधी"
+      },
+      {
+        "en": "Bhagat Singh",
+        "hi": "भगत सिंह"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Subhas Chandra Bose used the title for him in a 1944 broadcast.",
+      "hi": "सुभाष चंद्र बोस ने 1944 के प्रसारण में उन्हें इस उपाधि से संबोधित किया था।"
+    }
+  },
+  {
+    "id": "DQ-0289",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Who was the first President of India?",
+      "hi": "भारत के पहले राष्ट्रपति कौन थे?"
+    },
+    "options": [
+      {
+        "en": "Dr Rajendra Prasad",
+        "hi": "डॉ. राजेन्द्र प्रसाद"
+      },
+      {
+        "en": "C. Rajagopalachari",
+        "hi": "सी. राजगोपालाचारी"
+      },
+      {
+        "en": "Zakir Husain",
+        "hi": "ज़ाकिर हुसैन"
+      },
+      {
+        "en": "Dr S. Radhakrishnan",
+        "hi": "डॉ. एस. राधाकृष्णन"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "He had also presided over the Constituent Assembly.",
+      "hi": "वे संविधान सभा के अध्यक्ष भी रहे थे।"
+    }
+  },
+  {
+    "id": "DQ-0290",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Who was the first Prime Minister of independent India?",
+      "hi": "स्वतंत्र भारत के पहले प्रधानमंत्री कौन थे?"
+    },
+    "options": [
+      {
+        "en": "Sardar Patel",
+        "hi": "सरदार पटेल"
+      },
+      {
+        "en": "Morarji Desai",
+        "hi": "मोरारजी देसाई"
+      },
+      {
+        "en": "Lal Bahadur Shastri",
+        "hi": "लाल बहादुर शास्त्री"
+      },
+      {
+        "en": "Jawaharlal Nehru",
+        "hi": "जवाहरलाल नेहरू"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "He served from 1947 until his death in 1964.",
+      "hi": "वे 1947 से 1964 में अपने निधन तक सेवा करते रहे।"
+    }
+  },
+  {
+    "id": "DQ-0291",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who is remembered as the Iron Man of India for uniting the princely states?",
+      "hi": "रियासतों को मिलाने के लिए किसे भारत का लौह पुरुष कहा जाता है?"
+    },
+    "options": [
+      {
+        "en": "Sardar Vallabhbhai Patel",
+        "hi": "सरदार वल्लभभाई पटेल"
+      },
+      {
+        "en": "Rajendra Prasad",
+        "hi": "राजेन्द्र प्रसाद"
+      },
+      {
+        "en": "Abul Kalam Azad",
+        "hi": "अबुल कलाम आज़ाद"
+      },
+      {
+        "en": "B. R. Ambedkar",
+        "hi": "बी. आर. अम्बेडकर"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "He was Deputy Prime Minister and Home Minister at the time.",
+      "hi": "उस समय वे उपप्रधानमंत्री और गृह मंत्री थे।"
+    }
+  },
+  {
+    "id": "DQ-0292",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who was the first woman to serve as Prime Minister of India?",
+      "hi": "भारत की पहली महिला प्रधानमंत्री कौन थीं?"
+    },
+    "options": [
+      {
+        "en": "Sarojini Naidu",
+        "hi": "सरोजिनी नायडू"
+      },
+      {
+        "en": "Indira Gandhi",
+        "hi": "इंदिरा गांधी"
+      },
+      {
+        "en": "Sucheta Kripalani",
+        "hi": "सुचेता कृपलानी"
+      },
+      {
+        "en": "Pratibha Patil",
+        "hi": "प्रतिभा पाटिल"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "She took office in 1966.",
+      "hi": "उन्होंने 1966 में पदभार संभाला।"
+    }
+  },
+  {
+    "id": "DQ-0293",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who gave the slogan 'Jai Hind'?",
+      "hi": "'जय हिंद' का नारा किसने दिया?"
+    },
+    "options": [
+      {
+        "en": "Lala Lajpat Rai",
+        "hi": "लाला लाजपत राय"
+      },
+      {
+        "en": "Subhas Chandra Bose",
+        "hi": "सुभाष चंद्र बोस"
+      },
+      {
+        "en": "Chandra Shekhar Azad",
+        "hi": "चंद्रशेखर आज़ाद"
+      },
+      {
+        "en": "Bhagat Singh",
+        "hi": "भगत सिंह"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It became the greeting of the Indian National Army.",
+      "hi": "यह भारतीय राष्ट्रीय सेना का अभिवादन बन गया।"
+    }
+  },
+  {
+    "id": "DQ-0294",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who founded the Maurya Empire?",
+      "hi": "मौर्य साम्राज्य की स्थापना किसने की?"
+    },
+    "options": [
+      {
+        "en": "Chandragupta Maurya",
+        "hi": "चंद्रगुप्त मौर्य"
+      },
+      {
+        "en": "Chanakya",
+        "hi": "चाणक्य"
+      },
+      {
+        "en": "Bindusara",
+        "hi": "बिंदुसार"
+      },
+      {
+        "en": "Ashoka",
+        "hi": "अशोक"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Chanakya was his adviser, not the emperor.",
+      "hi": "चाणक्य उनके सलाहकार थे, सम्राट नहीं।"
+    }
+  },
+  {
+    "id": "DQ-0295",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Taj Mahal was built on the orders of which emperor?",
+      "hi": "ताजमहल किस सम्राट के आदेश से बना?"
+    },
+    "options": [
+      {
+        "en": "Shah Jahan",
+        "hi": "शाहजहां"
+      },
+      {
+        "en": "Jahangir",
+        "hi": "जहाँगीर"
+      },
+      {
+        "en": "Akbar",
+        "hi": "अकबर"
+      },
+      {
+        "en": "Aurangzeb",
+        "hi": "औरंगज़ेब"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "He built it as a mausoleum for Mumtaz Mahal.",
+      "hi": "उन्होंने इसे मुमताज़ महल के मक़बरे के रूप में बनवाया।"
+    }
+  },
+  {
+    "id": "DQ-0296",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who founded the Mughal dynasty in India?",
+      "hi": "भारत में मुग़ल वंश की स्थापना किसने की?"
+    },
+    "options": [
+      {
+        "en": "Babur",
+        "hi": "बाबर"
+      },
+      {
+        "en": "Akbar",
+        "hi": "अकबर"
+      },
+      {
+        "en": "Sher Shah Suri",
+        "hi": "शेर शाह सूरी"
+      },
+      {
+        "en": "Humayun",
+        "hi": "हुमायूँ"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "He won the first battle of Panipat in 1526.",
+      "hi": "उन्होंने 1526 में पानीपत का पहला युद्ध जीता।"
+    }
+  },
+  {
+    "id": "DQ-0297",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "In which city does the Qutub Minar stand?",
+      "hi": "क़ुतुब मीनार किस शहर में स्थित है?"
+    },
+    "options": [
+      {
+        "en": "Agra",
+        "hi": "आगरा"
+      },
+      {
+        "en": "Jaipur",
+        "hi": "जयपुर"
+      },
+      {
+        "en": "Delhi",
+        "hi": "दिल्ली"
+      },
+      {
+        "en": "Lucknow",
+        "hi": "लखनऊ"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Work on it began under Qutb ud-Din Aibak in the 1190s.",
+      "hi": "इसका कार्य 1190 के दशक में क़ुतुब उद-दीन ऐबक के समय शुरू हुआ।"
+    }
+  },
+  {
+    "id": "DQ-0298",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "The Great Stupa at Sanchi is associated with which emperor?",
+      "hi": "सांची का महास्तूप किस सम्राट से जुड़ा है?"
+    },
+    "options": [
+      {
+        "en": "Kanishka",
+        "hi": "कनिष्क"
+      },
+      {
+        "en": "Chandragupta II",
+        "hi": "चंद्रगुप्त द्वितीय"
+      },
+      {
+        "en": "Ashoka",
+        "hi": "अशोक"
+      },
+      {
+        "en": "Harsha",
+        "hi": "हर्ष"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "He raised the original brick structure over the Buddha's relics.",
+      "hi": "उन्होंने बुद्ध के अवशेषों पर मूल ईंट संरचना बनवाई थी।"
+    }
+  }
+]

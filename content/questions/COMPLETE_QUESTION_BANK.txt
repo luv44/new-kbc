@@ -1,2073 +1,308 @@
-CROREPATI REVISION — COMPLETE DRAFT QUESTION BANK
-138 questions · lifecycle DRAFT_PENDING_REVIEW · '*' marks the correct option
-======================================================================
-
-Q1  [DRAFT-DQ-0001]  EASY  sources: NASA-PLANETS
-  EN : Which planet has the largest diameter in our solar system?
-  HI : हमारे सौर मंडल में सबसे बड़ा व्यास किस ग्रह का है?
-  A  EN : Mercury
-     HI : बुध
-  B* EN : Jupiter
-     HI : बृहस्पति
-  C  EN : Venus
-     HI : शुक्र
-  D  EN : Mars
-     HI : मंगल
-  ANSWER: B
-  EXPL EN : Jupiter is a gas giant wider than all the other planets combined would need to be to match it.
-  EXPL HI : बृहस्पति एक गैस दानव है और इसका व्यास अन्य सभी ग्रहों से बहुत अधिक है।
-
-Q2  [DRAFT-DQ-0002]  MEDIUM  sources: NASA-PLANETS
-  EN : Which planet has the hottest surface because of a thick carbon dioxide atmosphere?
-  HI : कार्बन डाइऑक्साइड की घनी परत के कारण किस ग्रह की सतह सबसे अधिक गर्म रहती है?
-  A  EN : Mars
-     HI : मंगल
-  B  EN : Mercury
-     HI : बुध
-  C* EN : Venus
-     HI : शुक्र
-  D  EN : Earth
-     HI : पृथ्वी
-  ANSWER: C
-  EXPL EN : Venus traps heat under dense carbon dioxide clouds, so it stays hotter than Mercury even though Mercury sits closer to the Sun.
-  EXPL HI : शुक्र घने कार्बन डाइऑक्साइड बादलों के नीचे गर्मी रोक लेता है, इसलिए बुध से पास होने के बावजूद वह उससे अधिक गर्म रहता है।
-
-Q3  [DRAFT-DQ-0003]  EASY  sources: NASA-PLANETS
-  EN : Which of these is a rocky planet rather than a gas giant?
-  HI : इनमें से कौन गैस दानव नहीं बल्कि चट्टानी ग्रह है?
-  A* EN : Earth
-     HI : पृथ्वी
-  B  EN : Jupiter
-     HI : बृहस्पति
-  C  EN : Neptune
-     HI : वरुण
-  D  EN : Saturn
-     HI : शनि
-  ANSWER: A
-  EXPL EN : Mercury, Venus, Earth and Mars are the rocky inner worlds; Jupiter, Saturn, Uranus and Neptune are giants.
-  EXPL HI : बुध, शुक्र, पृथ्वी और मंगल आंतरिक चट्टानी ग्रह हैं; बृहस्पति, शनि, अरुण और वरुण दानव ग्रह हैं।
-
-Q4  [DRAFT-DQ-0004]  HARD  sources: NASA-PLANETS
-  EN : Which planet rolls around the Sun tipped on its side, with an axial tilt near 98 degrees?
-  HI : कौन सा ग्रह लगभग 98 डिग्री झुकाव के साथ अपनी करवट पर सूर्य की परिक्रमा करता है?
-  A  EN : Saturn
-     HI : शनि
-  B* EN : Uranus
-     HI : अरुण
-  C  EN : Mars
-     HI : मंगल
-  D  EN : Neptune
-     HI : वरुण
-  ANSWER: B
-  EXPL EN : Uranus spins almost on its side, so its poles face the Sun in turn for long stretches.
-  EXPL HI : अरुण लगभग करवट पर घूमता है, इसलिए इसके ध्रुव लंबे समय तक बारी-बारी से सूर्य की ओर रहते हैं।
-
-Q5  [DRAFT-DQ-0005]  MEDIUM  sources: NASA-PLANETS
-  EN : Which world finishes one full trip around the Sun in the shortest time?
-  HI : सूर्य का एक पूरा चक्कर सबसे कम समय में कौन सा ग्रह पूरा करता है?
-  A  EN : Earth
-     HI : पृथ्वी
-  B* EN : Mercury
-     HI : बुध
-  C  EN : Mars
-     HI : मंगल
-  D  EN : Venus
-     HI : शुक्र
-  ANSWER: B
-  EXPL EN : Being closest to the Sun, Mercury completes an orbit in about 88 Earth days.
-  EXPL HI : सूर्य के सबसे निकट होने के कारण बुध लगभग 88 पृथ्वी दिनों में परिक्रमा पूरी करता है।
-
-Q6  [DRAFT-DQ-0006]  EASY  sources: NASA-PLANETS
-  EN : The Great Red Spot, a storm larger than Earth, belongs to which planet?
-  HI : पृथ्वी से बड़ा तूफ़ान 'ग्रेट रेड स्पॉट' किस ग्रह पर है?
-  A  EN : Venus
-     HI : शुक्र
-  B  EN : Saturn
-     HI : शनि
-  C  EN : Uranus
-     HI : अरुण
-  D* EN : Jupiter
-     HI : बृहस्पति
-  ANSWER: D
-  EXPL EN : The Great Red Spot is a long-lived anticyclone in Jupiter's cloud belts.
-  EXPL HI : ग्रेट रेड स्पॉट बृहस्पति के बादलों में चलने वाला दीर्घकालिक विशाल तूफ़ान है।
-
-Q7  [DRAFT-DQ-0007]  MEDIUM  sources: NASA-PLANETS
-  EN : Phobos and Deimos orbit which planet?
-  HI : फोबोस और डीमोस किस ग्रह के उपग्रह हैं?
-  A* EN : Mars
-     HI : मंगल
-  B  EN : Saturn
-     HI : शनि
-  C  EN : Mercury
-     HI : बुध
-  D  EN : Jupiter
-     HI : बृहस्पति
-  ANSWER: A
-  EXPL EN : Mars has just two small, irregular moons: Phobos and Deimos.
-  EXPL HI : मंगल के केवल दो छोटे अनियमित उपग्रह हैं: फोबोस और डीमोस।
-
-Q8  [DRAFT-DQ-0008]  EASY  sources: NASA-PLANETS
-  EN : Which planet is known for a wide, bright ring system seen even through small telescopes?
-  HI : किस ग्रह की चौड़ी और चमकीली वलय प्रणाली छोटी दूरबीन से भी दिख जाती है?
-  A* EN : Saturn
-     HI : शनि
-  B  EN : Mercury
-     HI : बुध
-  C  EN : Venus
-     HI : शुक्र
-  D  EN : Mars
-     HI : मंगल
-  ANSWER: A
-  EXPL EN : Saturn's rings of ice and rock particles make it the most recognisable planet in a small telescope.
-  EXPL HI : बर्फ़ और चट्टान के कणों से बनी शनि की वलय प्रणाली इसे छोटी दूरबीन में सबसे पहचानी जाने वाली बनाती है।
-
-Q9  [DRAFT-DQ-0009]  MEDIUM  sources: NASA-SUN
-  EN : What is the Sun's visible surface layer, from which most sunlight escapes, called?
-  HI : सूर्य की वह दृश्य सतह परत क्या कहलाती है जहाँ से अधिकांश प्रकाश निकलता है?
-  A  EN : Corona
-     HI : किरीट
-  B  EN : Core
-     HI : क्रोड
-  C  EN : Chromosphere
-     HI : वर्णमंडल
-  D* EN : Photosphere
-     HI : प्रकाशमंडल
-  ANSWER: D
-  EXPL EN : The photosphere is the glowing layer we see as the Sun's surface.
-  EXPL HI : प्रकाशमंडल वही चमकती परत है जिसे हम सूर्य की सतह के रूप में देखते हैं।
-
-Q10  [DRAFT-DQ-0010]  HARD  sources: NASA-SUN
-  EN : Why do sunspots appear darker than the gas around them?
-  HI : सनस्पॉट अपने आसपास की गैस से अधिक काले क्यों दिखते हैं?
-  A  EN : They cast a shadow from the Moon
-     HI : वे चंद्रमा की छाया डालते हैं
-  B  EN : They are made of solid rock
-     HI : वे ठोस चट्टान से बने होते हैं
-  C* EN : They are cooler than the surrounding gas
-     HI : वे आसपास की गैस से ठंडे होते हैं
-  D  EN : They absorb all incoming light
-     HI : वे सारा आने वाला प्रकाश सोख लेते हैं
-  ANSWER: C
-  EXPL EN : Sunspots are cooler patches, and a cooler patch glows less brightly than the hotter gas beside it.
-  EXPL HI : सनस्पॉट ठंडे क्षेत्र होते हैं, और ठंडा क्षेत्र पास की गर्म गैस की तुलना में कम चमकता है।
-
-Q11  [DRAFT-DQ-0011]  MEDIUM  sources: NASA-SUN
-  EN : Which part of the Sun becomes visible as a pearly halo during a total solar eclipse?
-  HI : पूर्ण सूर्य ग्रहण के समय सूर्य का कौन सा भाग मोती जैसा घेरा बनकर दिखता है?
-  A  EN : The photosphere
-     HI : प्रकाशमंडल
-  B* EN : The corona
-     HI : किरीट
-  C  EN : The radiative zone
-     HI : विकिरण क्षेत्र
-  D  EN : The core
-     HI : क्रोड
-  ANSWER: B
-  EXPL EN : The corona is the Sun's tenuous outer atmosphere, normally drowned out by the bright surface.
-  EXPL HI : किरीट सूर्य का बाहरी विरल वायुमंडल है जो सामान्यतः तेज़ सतह के कारण नहीं दिखता।
-
-Q12  [DRAFT-DQ-0012]  EASY  sources: NASA-SUN
-  EN : Roughly how long does sunlight take to travel from the Sun to Earth?
-  HI : सूर्य से पृथ्वी तक प्रकाश पहुँचने में लगभग कितना समय लगता है?
-  A  EN : About 8 seconds
-     HI : लगभग 8 सेकंड
-  B  EN : About 8 days
-     HI : लगभग 8 दिन
-  C  EN : About 8 hours
-     HI : लगभग 8 घंटे
-  D* EN : About 8 minutes
-     HI : लगभग 8 मिनट
-  ANSWER: D
-  EXPL EN : Light covers the 150 million kilometre distance in roughly 8 minutes and 20 seconds.
-  EXPL HI : प्रकाश लगभग 15 करोड़ किलोमीटर की दूरी करीब 8 मिनट 20 सेकंड में तय करता है।
-
-Q13  [DRAFT-DQ-0013]  EASY  sources: NASA-APOLLO11
-  EN : Which mission first carried humans down to the Moon's surface?
-  HI : मनुष्यों को पहली बार चंद्रमा की सतह तक कौन से मिशन ने पहुँचाया?
-  A  EN : Apollo 8
-     HI : अपोलो 8
-  B  EN : Vostok 1
-     HI : वोस्तोक 1
-  C* EN : Apollo 11
-     HI : अपोलो 11
-  D  EN : Gemini 12
-     HI : जेमिनी 12
-  ANSWER: C
-  EXPL EN : Apollo 11 landed on the Moon in July 1969.
-  EXPL HI : अपोलो 11 जुलाई 1969 में चंद्रमा पर उतरा।
-
-Q14  [DRAFT-DQ-0014]  EASY  sources: NASA-APOLLO11
-  EN : Who was the first person to walk on the Moon?
-  HI : चंद्रमा पर चलने वाले पहले व्यक्ति कौन थे?
-  A  EN : Yuri Gagarin
-     HI : यूरी गगारिन
-  B* EN : Neil Armstrong
-     HI : नील आर्मस्ट्रांग
-  C  EN : Michael Collins
-     HI : माइकल कॉलिन्स
-  D  EN : Buzz Aldrin
-     HI : बज़ एल्ड्रिन
-  ANSWER: B
-  EXPL EN : Neil Armstrong stepped onto the lunar surface first, followed by Buzz Aldrin.
-  EXPL HI : नील आर्मस्ट्रांग पहले चंद्र सतह पर उतरे, उसके बाद बज़ एल्ड्रिन आए।
-
-Q15  [DRAFT-DQ-0015]  HARD  sources: NASA-APOLLO11
-  EN : During the first Moon landing, who remained alone in orbit inside the Command Module?
-  HI : पहली चंद्र लैंडिंग के दौरान कमांड मॉड्यूल में कक्षा में अकेले कौन रहे?
-  A* EN : Michael Collins
-     HI : माइकल कॉलिन्स
-  B  EN : Buzz Aldrin
-     HI : बज़ एल्ड्रिन
-  C  EN : Neil Armstrong
-     HI : नील आर्मस्ट्रांग
-  D  EN : Alan Shepard
-     HI : एलन शेपर्ड
-  ANSWER: A
-  EXPL EN : Collins flew the Command Module Columbia in lunar orbit while his crewmates were on the surface.
-  EXPL HI : कॉलिन्स ने चंद्र कक्षा में कमांड मॉड्यूल कोलंबिया उड़ाया जबकि उनके साथी सतह पर थे।
-
-Q16  [DRAFT-DQ-0016]  MEDIUM  sources: NASA-APOLLO11
-  EN : What name was given to the lander that touched down on the Moon in 1969?
-  HI : 1969 में चंद्रमा पर उतरने वाले लैंडर का क्या नाम था?
-  A  EN : Endeavour
-     HI : एंडेवर
-  B  EN : Falcon
-     HI : फ़ाल्कन
-  C* EN : Eagle
-     HI : ईगल
-  D  EN : Columbia
-     HI : कोलंबिया
-  ANSWER: C
-  EXPL EN : The lunar module was called Eagle; Columbia was the orbiting Command Module.
-  EXPL HI : लूनर मॉड्यूल का नाम ईगल था; कोलंबिया कक्षा में रहने वाला कमांड मॉड्यूल था।
-
-Q17  [DRAFT-DQ-0017]  EASY  sources: BIPM-SI, NIST-SI-UNITS
-  EN : How many base units does the International System of Units contain?
-  HI : अंतर्राष्ट्रीय इकाई प्रणाली में कितनी मूल इकाइयाँ होती हैं?
-  A  EN : Nine
-     HI : नौ
-  B  EN : Five
-     HI : पाँच
-  C  EN : Twelve
-     HI : बारह
-  D* EN : Seven
-     HI : सात
-  ANSWER: D
-  EXPL EN : The seven are metre, kilogram, second, ampere, kelvin, mole and candela.
-  EXPL HI : सात मूल इकाइयाँ हैं: मीटर, किलोग्राम, सेकंड, ऐम्पियर, केल्विन, मोल और कैंडेला।
-
-Q18  [DRAFT-DQ-0018]  EASY  sources: BIPM-SI
-  EN : Which is the SI base unit of electric current?
-  HI : विद्युत धारा की SI मूल इकाई कौन सी है?
-  A* EN : Ampere
-     HI : ऐम्पियर
-  B  EN : Watt
-     HI : वाट
-  C  EN : Ohm
-     HI : ओम
-  D  EN : Volt
-     HI : वोल्ट
-  ANSWER: A
-  EXPL EN : Volt, ohm and watt are derived from the ampere and the other base units.
-  EXPL HI : वोल्ट, ओम और वाट ऐम्पियर तथा अन्य मूल इकाइयों से व्युत्पन्न हैं।
-
-Q19  [DRAFT-DQ-0019]  MEDIUM  sources: BIPM-SI
-  EN : Luminous intensity is measured in which SI base unit?
-  HI : ज्योति तीव्रता किस SI मूल इकाई में मापी जाती है?
-  A  EN : Kelvin
-     HI : केल्विन
-  B  EN : Lumen
-     HI : लुमेन
-  C* EN : Candela
-     HI : कैंडेला
-  D  EN : Lux
-     HI : लक्स
-  ANSWER: C
-  EXPL EN : Candela is the base unit; lumen and lux are derived from it.
-  EXPL HI : कैंडेला मूल इकाई है; लुमेन और लक्स इससे व्युत्पन्न हैं।
-
-Q20  [DRAFT-DQ-0020]  MEDIUM  sources: BIPM-SI
-  EN : Which SI base unit counts the amount of substance?
-  HI : पदार्थ की मात्रा किस SI मूल इकाई में गिनी जाती है?
-  A* EN : Mole
-     HI : मोल
-  B  EN : Gram
-     HI : ग्राम
-  C  EN : Kelvin
-     HI : केल्विन
-  D  EN : Litre
-     HI : लीटर
-  ANSWER: A
-  EXPL EN : One mole holds a fixed number of elementary entities, defined by the Avogadro constant.
-  EXPL HI : एक मोल में आवोगाद्रो नियतांक द्वारा निर्धारित निश्चित संख्या में मूल कण होते हैं।
-
-Q21  [DRAFT-DQ-0021]  EASY  sources: BIPM-SI
-  EN : Thermodynamic temperature uses which SI base unit?
-  HI : ऊष्मागतिक तापमान किस SI मूल इकाई में व्यक्त होता है?
-  A  EN : Fahrenheit
-     HI : फ़ारेनहाइट
-  B  EN : Joule
-     HI : जूल
-  C* EN : Kelvin
-     HI : केल्विन
-  D  EN : Celsius
-     HI : सेल्सियस
-  ANSWER: C
-  EXPL EN : Kelvin is the base unit; degrees Celsius are expressed relative to it.
-  EXPL HI : केल्विन मूल इकाई है; डिग्री सेल्सियस इसी के सापेक्ष व्यक्त की जाती है।
-
-Q22  [DRAFT-DQ-0022]  MEDIUM  sources: BIPM-SI, NIST-SI-UNITS
-  EN : Which of these is not one of the seven SI base units?
-  HI : इनमें से कौन सात SI मूल इकाइयों में शामिल नहीं है?
-  A  EN : Candela
-     HI : कैंडेला
-  B* EN : Newton
-     HI : न्यूटन
-  C  EN : Kelvin
-     HI : केल्विन
-  D  EN : Mole
-     HI : मोल
-  ANSWER: B
-  EXPL EN : The newton is a derived unit of force built from kilogram, metre and second.
-  EXPL HI : न्यूटन बल की व्युत्पन्न इकाई है जो किलोग्राम, मीटर और सेकंड से बनती है।
-
-Q23  [DRAFT-DQ-0023]  EASY  sources: BIPM-PREFIXES, NIST-SI-PREFIXES
-  EN : The SI prefix 'kilo' stands for which factor?
-  HI : SI उपसर्ग 'किलो' किस गुणक को दर्शाता है?
-  A  EN : 1,000,000
-     HI : 10,00,000
-  B  EN : 100
-     HI : 100
-  C* EN : 1,000
-     HI : 1,000
-  D  EN : 10,000
-     HI : 10,000
-  ANSWER: C
-  EXPL EN : Kilo multiplies a unit by one thousand, so a kilometre is 1,000 metres.
-  EXPL HI : किलो किसी इकाई को हज़ार गुना करता है, अतः एक किलोमीटर 1,000 मीटर होता है।
-
-Q24  [DRAFT-DQ-0024]  MEDIUM  sources: BIPM-PREFIXES, NIST-SI-PREFIXES
-  EN : Which SI prefix represents one billionth, 10 to the minus 9?
-  HI : कौन सा SI उपसर्ग एक अरबवाँ भाग, 10 की घात माइनस 9, दर्शाता है?
-  A  EN : micro
-     HI : माइक्रो
-  B  EN : milli
-     HI : मिली
-  C* EN : nano
-     HI : नैनो
-  D  EN : pico
-     HI : पिको
-  ANSWER: C
-  EXPL EN : nano = 10⁻⁹, micro = 10⁻⁶, pico = 10⁻¹² and milli = 10⁻³.
-  EXPL HI : नैनो = 10⁻⁹, माइक्रो = 10⁻⁶, पिको = 10⁻¹² और मिली = 10⁻³।
-
-Q25  [DRAFT-DQ-0025]  MEDIUM  sources: BIPM-PREFIXES
-  EN : A red blood cell is roughly 8 micrometres wide. What does the prefix 'micro' mean in micrometre?
-  HI : लाल रक्त कोशिका लगभग 8 माइक्रोमीटर चौड़ी होती है। माइक्रोमीटर में उपसर्ग 'माइक्रो' का क्या अर्थ है?
-  A* EN : One millionth
-     HI : दस लाखवाँ भाग
-  B  EN : One hundredth
-     HI : सौवाँ भाग
-  C  EN : One billionth
-     HI : अरबवाँ भाग
-  D  EN : One thousandth
-     HI : हज़ारवाँ भाग
-  ANSWER: A
-  EXPL EN : 'micro' scales the metre down by 10 to the minus 6.
-  EXPL HI : 'माइक्रो' मीटर को 10 की घात माइनस 6 तक छोटा करता है।
-
-Q26  [DRAFT-DQ-0026]  HARD  sources: NIST-SI-PREFIXES
-  EN : The SI prefix 'tera' stands for which factor?
-  HI : SI उपसर्ग 'टेरा' किस गुणक को दर्शाता है?
-  A  EN : One million, 10 to the power 6
-     HI : दस लाख, 10 की घात 6
-  B* EN : One trillion, 10 to the power 12
-     HI : एक खरब, 10 की घात 12
-  C  EN : One billion, 10 to the power 9
-     HI : एक अरब, 10 की घात 9
-  D  EN : One quadrillion, 10 to the power 15
-     HI : एक करोड़ अरब, 10 की घात 15
-  ANSWER: B
-  EXPL EN : tera = 10¹²; giga is 10⁹, peta is 10¹⁵ and mega is 10⁶.
-  EXPL HI : टेरा = 10¹²; गीगा 10⁹, पेटा 10¹⁵ और मेगा 10⁶ है।
-
-Q27  [DRAFT-DQ-0027]  EASY  sources: NIST-SI-CONVERSION
-  EN : One inch is exactly equal to how many centimetres?
-  HI : एक इंच ठीक-ठीक कितने सेंटीमीटर के बराबर होता है?
-  A  EN : 3.28
-     HI : 3.28
-  B* EN : 2.54
-     HI : 2.54
-  C  EN : 25
-     HI : 25
-  D  EN : 2.5
-     HI : 2.5
-  ANSWER: B
-  EXPL EN : Since 1959 the inch has been defined as exactly 2.54 centimetres.
-  EXPL HI : 1959 से इंच को ठीक 2.54 सेंटीमीटर के रूप में परिभाषित किया गया है।
-
-Q28  [DRAFT-DQ-0028]  HARD  sources: NIST-SI-CONVERSION
-  EN : A nautical mile, used by ships and aircraft, is exactly how many metres?
-  HI : जहाज़ों और विमानों में प्रयुक्त एक समुद्री मील ठीक कितने मीटर होती है?
-  A  EN : 1,609
-     HI : 1,609
-  B  EN : 1,000
-     HI : 1,000
-  C* EN : 1,852
-     HI : 1,852
-  D  EN : 2,000
-     HI : 2,000
-  ANSWER: C
-  EXPL EN : The international nautical mile is fixed at 1,852 metres; 1,609 metres is a statute mile.
-  EXPL HI : अंतर्राष्ट्रीय समुद्री मील 1,852 मीटर निश्चित है; 1,609 मीटर एक स्थलीय मील है।
-
-Q29  [DRAFT-DQ-0029]  MEDIUM  sources: NOAA-OCEAN-TECH-2026
-  EN : Which technique maps the seafloor by timing sound pulses that bounce back from it?
-  HI : समुद्र तल से टकराकर लौटने वाली ध्वनि तरंगों का समय मापकर उसे किस तकनीक से चित्रित किया जाता है?
-  A* EN : Sonar
-     HI : सोनार
-  B  EN : Radar
-     HI : राडार
-  C  EN : Lidar
-     HI : लाइडार
-  D  EN : Magnetometry
-     HI : चुंबकमिति
-  ANSWER: A
-  EXPL EN : Sound travels well through water, so sonar rather than radar is used beneath the surface.
-  EXPL HI : जल में ध्वनि अच्छी यात्रा करती है, इसलिए सतह के नीचे राडार के बजाय सोनार का उपयोग होता है।
-
-Q30  [DRAFT-DQ-0030]  MEDIUM  sources: NOAA-OCEAN-TECH-2026
-  EN : In ocean exploration, what does the abbreviation ROV stand for?
-  HI : समुद्र अन्वेषण में ROV का पूर्ण रूप क्या है?
-  A  EN : Rapid ocean vessel
-     HI : रैपिड ओशन वेसल
-  B  EN : Reef observation volume
-     HI : रीफ़ ऑब्ज़र्वेशन वॉल्यूम
-  C  EN : Rotating observation valve
-     HI : रोटेटिंग ऑब्ज़र्वेशन वाल्व
-  D* EN : Remotely operated vehicle
-     HI : रिमोटली ऑपरेटेड व्हीकल
-  ANSWER: D
-  EXPL EN : An ROV is an untethered-crew underwater robot driven from the ship by a cable.
-  EXPL HI : ROV एक ऐसा जलमग्न रोबोट है जिसे जहाज़ से केबल द्वारा चलाया जाता है और उसमें चालक दल नहीं होता।
-
-Q31  [DRAFT-DQ-0031]  HARD  sources: NOAA-OCEAN-TECH-2026
-  EN : The deepest known point in the world's oceans lies in which trench?
-  HI : विश्व के महासागरों का सबसे गहरा ज्ञात बिंदु किस खाई में स्थित है?
-  A  EN : Tonga Trench
-     HI : टोंगा खाई
-  B  EN : Java Trench
-     HI : जावा खाई
-  C* EN : Mariana Trench
-     HI : मारियाना खाई
-  D  EN : Puerto Rico Trench
-     HI : प्यूर्टो रिको खाई
-  ANSWER: C
-  EXPL EN : The Challenger Deep inside the Mariana Trench reaches nearly 11 kilometres down.
-  EXPL HI : मारियाना खाई के भीतर चैलेंजर डीप लगभग 11 किलोमीटर तक गहरी है।
-
-Q32  [DRAFT-DQ-0032]  HARD  sources: NOAA-OCEAN-TECH-2026
-  EN : Life clustered around deep-sea hydrothermal vents draws its energy mainly through which process?
-  HI : गहरे समुद्र की हाइड्रोथर्मल वेंट के आसपास का जीवन मुख्यतः किस प्रक्रिया से ऊर्जा पाता है?
-  A  EN : Photosynthesis
-     HI : प्रकाशसंश्लेषण
-  B  EN : Fermentation
-     HI : किण्वन
-  C  EN : Respiration of sunlight
-     HI : सूर्य प्रकाश का श्वसन
-  D* EN : Chemosynthesis
-     HI : रसोसंश्लेषण
-  ANSWER: D
-  EXPL EN : Sunlight never reaches those depths, so microbes build food from chemicals in the vent fluids.
-  EXPL HI : वहाँ तक सूर्य का प्रकाश नहीं पहुँचता, इसलिए सूक्ष्मजीव वेंट के रसायनों से भोजन बनाते हैं।
-
-Q33  [DRAFT-DQ-0033]  MEDIUM  sources: NOAA-OCEAN-TECH-2026
-  EN : In ocean exploration, what does the abbreviation AUV stand for?
-  HI : समुद्र अन्वेषण में AUV का पूर्ण रूप क्या है?
-  A* EN : Autonomous underwater vehicle
-     HI : ऑटोनोमस अंडरवाटर व्हीकल
-  B  EN : Aerial underwater viewer
-     HI : एरियल अंडरवाटर व्यूअर
-  C  EN : Assisted uplift valve
-     HI : असिस्टेड अपलिफ़्ट वाल्व
-  D  EN : Anchor utility vessel
-     HI : एंकर यूटिलिटी वेसल
-  ANSWER: A
-  EXPL EN : Unlike an ROV, an AUV swims freely on a pre-programmed route without a tether to the ship.
-  EXPL HI : ROV के विपरीत, AUV बिना केबल के पूर्व-निर्धारित मार्ग पर स्वतंत्र रूप से तैरता है।
-
-Q34  [DRAFT-DQ-0034]  HARD  sources: NASA-PLANETS
-  EN : Which planet is whipped by the fastest winds measured in the solar system?
-  HI : सौर मंडल में मापी गई सबसे तेज़ हवाएँ किस ग्रह पर चलती हैं?
-  A  EN : Jupiter
-     HI : बृहस्पति
-  B  EN : Earth
-     HI : पृथ्वी
-  C  EN : Venus
-     HI : शुक्र
-  D* EN : Neptune
-     HI : वरुण
-  ANSWER: D
-  EXPL EN : Neptune's winds can exceed 2,000 kilometres per hour despite its distance from the Sun.
-  EXPL HI : सूर्य से दूर होने के बावजूद वरुण की हवाएँ 2,000 किलोमीटर प्रति घंटा से अधिक गति से चल सकती हैं।
-
-Q35  [DRAFT-DQ-0035]  HARD  sources: BIPM-SI, NPL-TIME
-  EN : The SI second is defined by counting vibrations of which atom?
-  HI : SI सेकंड की परिभाषा किस परमाणु के कंपन गिनकर की जाती है?
-  A  EN : Carbon-12
-     HI : कार्बन-12
-  B* EN : Caesium-133
-     HI : सीज़ियम-133
-  C  EN : Hydrogen-1
-     HI : हाइड्रोजन-1
-  D  EN : Oxygen-16
-     HI : ऑक्सीजन-16
-  ANSWER: B
-  EXPL EN : The second is fixed at 9,192,631,770 periods of the caesium-133 transition.
-  EXPL HI : सेकंड को सीज़ियम-133 संक्रमण के 9,192,631,770 आवर्तकाल के बराबर निश्चित किया गया है।
-
-Q36  [DRAFT-DQ-0036]  EASY  sources: SANSAD-INTRO-2026
-  EN : The Parliament of India is made up of which three parts?
-  HI : भारत की संसद किन तीन भागों से मिलकर बनी है?
-  A  EN : The President, the Lok Sabha and the state assemblies
-     HI : राष्ट्रपति, लोक सभा और राज्य विधानसभाएँ
-  B  EN : The President, the Supreme Court and the Lok Sabha
-     HI : राष्ट्रपति, सर्वोच्च न्यायालय और लोक सभा
-  C  EN : The Prime Minister, the Lok Sabha and the Rajya Sabha
-     HI : प्रधानमंत्री, लोक सभा और राज्य सभा
-  D* EN : The President, the Lok Sabha and the Rajya Sabha
-     HI : राष्ट्रपति, लोक सभा और राज्य सभा
-  ANSWER: D
-  EXPL EN : Article 79 puts the President together with the two Houses to form Parliament.
-  EXPL HI : अनुच्छेद 79 के अनुसार राष्ट्रपति तथा दोनों सदन मिलकर संसद बनाते हैं।
-
-Q37  [DRAFT-DQ-0037]  EASY  sources: SANSAD-INTRO-2026
-  EN : Which House of Parliament is described as the Council of States?
-  HI : संसद के किस सदन को राज्य परिषद कहा जाता है?
-  A  EN : Legislative Council
-     HI : विधान परिषद
-  B  EN : Lok Sabha
-     HI : लोक सभा
-  C* EN : Rajya Sabha
-     HI : राज्य सभा
-  D  EN : NITI Aayog
-     HI : नीति आयोग
-  ANSWER: C
-  EXPL EN : Members of the Rajya Sabha are elected mainly by the elected members of state legislatures.
-  EXPL HI : राज्य सभा के सदस्य मुख्यतः राज्य विधानमंडलों के निर्वाचित सदस्यों द्वारा चुने जाते हैं।
-
-Q38  [DRAFT-DQ-0038]  MEDIUM  sources: SANSAD-INTRO-2026
-  EN : A money bill can be introduced only in which House?
-  HI : धन विधेयक केवल किस सदन में प्रस्तुत किया जा सकता है?
-  A* EN : Lok Sabha
-     HI : लोक सभा
-  B  EN : A joint sitting of both
-     HI : दोनों के संयुक्त सत्र में
-  C  EN : Rajya Sabha
-     HI : राज्य सभा
-  D  EN : Either House
-     HI : किसी भी सदन में
-  ANSWER: A
-  EXPL EN : The Rajya Sabha may only suggest changes to a money bill; it cannot introduce one.
-  EXPL HI : राज्य सभा धन विधेयक में केवल सुझाव दे सकती है, उसे प्रस्तुत नहीं कर सकती।
-
-Q39  [DRAFT-DQ-0039]  EASY  sources: SANSAD-INTRO-2026
-  EN : Who presides over the sittings of the Lok Sabha?
-  HI : लोक सभा की बैठकों की अध्यक्षता कौन करता है?
-  A  EN : The President
-     HI : राष्ट्रपति
-  B* EN : The Speaker
-     HI : अध्यक्ष (स्पीकर)
-  C  EN : The Chief Justice of India
-     HI : भारत के मुख्य न्यायाधीश
-  D  EN : The Prime Minister
-     HI : प्रधानमंत्री
-  ANSWER: B
-  EXPL EN : Members of the Lok Sabha elect the Speaker, who also decides whether a bill is a money bill.
-  EXPL HI : लोक सभा के सदस्य अध्यक्ष चुनते हैं, जो यह भी तय करते हैं कि कोई विधेयक धन विधेयक है या नहीं।
-
-Q40  [DRAFT-DQ-0040]  HARD  sources: SANSAD-INTRO-2026
-  EN : What is the maximum strength of the Lok Sabha provided by the Constitution?
-  HI : संविधान के अनुसार लोक सभा की अधिकतम सदस्य संख्या कितनी है?
-  A* EN : 550
-     HI : 550
-  B  EN : 545
-     HI : 545
-  C  EN : 600
-     HI : 600
-  D  EN : 500
-     HI : 500
-  ANSWER: A
-  EXPL EN : Article 81 allows up to 530 members from the states and 20 from the Union territories.
-  EXPL HI : अनुच्छेद 81 के अनुसार राज्यों से अधिकतम 530 और केंद्र शासित प्रदेशों से 20 सदस्य हो सकते हैं।
-
-Q41  [DRAFT-DQ-0041]  HARD  sources: SANSAD-INTRO-2026
-  EN : The Rajya Sabha is never dissolved. What share of its members retires every two years?
-  HI : राज्य सभा कभी भंग नहीं होती। इसके कितने भाग के सदस्य हर दो वर्ष में सेवानिवृत्त होते हैं?
-  A  EN : One half
-     HI : आधा
-  B  EN : One fourth
-     HI : एक चौथाई
-  C  EN : Two thirds
-     HI : दो तिहाई
-  D* EN : One third
-     HI : एक तिहाई
-  ANSWER: D
-  EXPL EN : Members serve six years, with a third of the seats falling vacant every second year.
-  EXPL HI : सदस्यों का कार्यकाल छह वर्ष होता है और हर दूसरे वर्ष एक तिहाई स्थान रिक्त हो जाते हैं।
-
-Q42  [DRAFT-DQ-0042]  EASY  sources: SCI-CONSTITUTION
-  EN : On which date did the Constitution of India come into effect?
-  HI : भारत का संविधान किस तिथि को लागू हुआ?
-  A* EN : 26 January 1950
-     HI : 26 जनवरी 1950
-  B  EN : 26 January 1930
-     HI : 26 जनवरी 1930
-  C  EN : 15 August 1947
-     HI : 15 अगस्त 1947
-  D  EN : 26 November 1949
-     HI : 26 नवंबर 1949
-  ANSWER: A
-  EXPL EN : The text was adopted on 26 November 1949 and came into force on 26 January 1950.
-  EXPL HI : संविधान 26 नवंबर 1949 को अपनाया गया और 26 जनवरी 1950 को लागू हुआ।
-
-Q43  [DRAFT-DQ-0043]  MEDIUM  sources: MOPR-CONSTITUTION-IX
-  EN : Which Part of the Constitution of India deals with Panchayats?
-  HI : भारत के संविधान का कौन सा भाग पंचायतों से संबंधित है?
-  A  EN : Part III
-     HI : भाग III
-  B  EN : Part XI
-     HI : भाग XI
-  C* EN : Part IX
-     HI : भाग IX
-  D  EN : Part IXA
-     HI : भाग IXA
-  ANSWER: C
-  EXPL EN : Part IX carries Articles 243 to 243O on Panchayats; Part IXA covers Municipalities.
-  EXPL HI : भाग IX में पंचायतों पर अनुच्छेद 243 से 243O हैं; भाग IXA नगरपालिकाओं से संबंधित है।
-
-Q44  [DRAFT-DQ-0044]  MEDIUM  sources: MOPR-CONSTITUTION-IX
-  EN : Which Part of the Constitution sets out the framework for Municipalities?
-  HI : संविधान का कौन सा भाग नगरपालिकाओं का ढाँचा तय करता है?
-  A* EN : Part IXA
-     HI : भाग IXA
-  B  EN : Part XIV
-     HI : भाग XIV
-  C  EN : Part IV
-     HI : भाग IV
-  D  EN : Part IX
-     HI : भाग IX
-  ANSWER: A
-  EXPL EN : Part IXA, added in 1992, gives urban local bodies their constitutional footing.
-  EXPL HI : 1992 में जोड़ा गया भाग IXA शहरी स्थानीय निकायों को संवैधानिक आधार देता है।
-
-Q45  [DRAFT-DQ-0045]  MEDIUM  sources: MOPR-CONSTITUTION-IX
-  EN : Panchayati Raj institutions received constitutional status through which Amendment Act?
-  HI : पंचायती राज संस्थाओं को संवैधानिक दर्जा किस संशोधन अधिनियम से मिला?
-  A* EN : The 73rd Amendment
-     HI : 73वाँ संशोधन
-  B  EN : The 42nd Amendment
-     HI : 42वाँ संशोधन
-  C  EN : The 44th Amendment
-     HI : 44वाँ संशोधन
-  D  EN : The 101st Amendment
-     HI : 101वाँ संशोधन
-  ANSWER: A
-  EXPL EN : The 73rd Amendment Act of 1992 came into force on 24 April 1993.
-  EXPL HI : 73वाँ संविधान संशोधन अधिनियम, 1992, 24 अप्रैल 1993 को लागू हुआ।
-
-Q46  [DRAFT-DQ-0046]  HARD  sources: MOPR-CONSTITUTION-IX
-  EN : The Gram Sabha consists of whom?
-  HI : ग्राम सभा किन लोगों से बनती है?
-  A  EN : The sarpanch and the block officer
-     HI : सरपंच और ब्लॉक अधिकारी
-  B  EN : Only land-owning families
-     HI : केवल भूमिधारक परिवार
-  C  EN : Only the elected ward members
-     HI : केवल निर्वाचित वार्ड सदस्य
-  D* EN : Every registered voter in the village panchayat area
-     HI : ग्राम पंचायत क्षेत्र के प्रत्येक पंजीकृत मतदाता
-  ANSWER: D
-  EXPL EN : Article 243A defines the Gram Sabha as a body of persons on the electoral roll of a village area.
-  EXPL HI : अनुच्छेद 243A ग्राम सभा को ग्राम क्षेत्र की मतदाता सूची में दर्ज व्यक्तियों का निकाय बताता है।
-
-Q47  [DRAFT-DQ-0047]  HARD  sources: MOPR-CONSTITUTION-IX
-  EN : Which committee's 1957 report recommended democratic decentralisation behind Panchayati Raj?
-  HI : 1957 में किस समिति की रिपोर्ट ने पंचायती राज के पीछे लोकतांत्रिक विकेंद्रीकरण की सिफ़ारिश की?
-  A  EN : Dhar Commission
-     HI : धर आयोग
-  B  EN : Narasimham Committee
-     HI : नरसिम्हम समिति
-  C  EN : Sarkaria Commission
-     HI : सरकारिया आयोग
-  D* EN : Balwant Rai Mehta Committee
-     HI : बलवंत राय मेहता समिति
-  ANSWER: D
-  EXPL EN : Rajasthan became the first state to launch the scheme at Nagaur in 1959.
-  EXPL HI : राजस्थान 1959 में नागौर में यह योजना लागू करने वाला पहला राज्य बना।
-
-Q48  [DRAFT-DQ-0048]  HARD  sources: MHA-UT-ACT1963
-  EN : Which Act provides for a legislature and council of ministers for certain Union territories?
-  HI : कौन सा अधिनियम कुछ केंद्र शासित प्रदेशों के लिए विधानमंडल और मंत्रिपरिषद की व्यवस्था करता है?
-  A  EN : The States Reorganisation Act, 1956
-     HI : राज्य पुनर्गठन अधिनियम, 1956
-  B  EN : The Delhi Municipal Corporation Act, 1957
-     HI : दिल्ली नगर निगम अधिनियम, 1957
-  C* EN : The Government of Union Territories Act, 1963
-     HI : सरकार संघ राज्य क्षेत्र अधिनियम, 1963
-  D  EN : The Representation of the People Act, 1951
-     HI : जन प्रतिनिधित्व अधिनियम, 1951
-  ANSWER: C
-  EXPL EN : The 1963 Act creates the legislative machinery for Union territories that Parliament designates.
-  EXPL HI : 1963 का अधिनियम उन केंद्र शासित प्रदेशों के लिए विधायी ढाँचा बनाता है जिन्हें संसद नामित करती है।
-
-Q49  [DRAFT-DQ-0049]  MEDIUM  sources: SCI-CONSTITUTION
-  EN : Fundamental Rights are contained in which Part of the Constitution of India?
-  HI : भारत के संविधान में मौलिक अधिकार किस भाग में दिए गए हैं?
-  A  EN : Part IV
-     HI : भाग IV
-  B* EN : Part III
-     HI : भाग III
-  C  EN : Part V
-     HI : भाग V
-  D  EN : Part II
-     HI : भाग II
-  ANSWER: B
-  EXPL EN : Part IV instead carries the Directive Principles of State Policy.
-  EXPL HI : भाग IV में राज्य के नीति निर्देशक तत्व रखे गए हैं।
-
-Q50  [DRAFT-DQ-0050]  HARD  sources: SCI-CONSTITUTION
-  EN : Which Article lets a citizen move the Supreme Court directly to enforce a Fundamental Right?
-  HI : किस अनुच्छेद के तहत नागरिक मौलिक अधिकार के प्रवर्तन हेतु सीधे सर्वोच्च न्यायालय जा सकता है?
-  A  EN : Article 44
-     HI : अनुच्छेद 44
-  B  EN : Article 21
-     HI : अनुच्छेद 21
-  C  EN : Article 51A
-     HI : अनुच्छेद 51A
-  D* EN : Article 32
-     HI : अनुच्छेद 32
-  ANSWER: D
-  EXPL EN : Dr Ambedkar called Article 32 the heart and soul of the Constitution.
-  EXPL HI : डॉ. अम्बेडकर ने अनुच्छेद 32 को संविधान की आत्मा कहा था।
-
-Q51  [DRAFT-DQ-0051]  MEDIUM  sources: SCI-CONSTITUTION
-  EN : Which institution is the final interpreter of the Constitution of India?
-  HI : भारत के संविधान का अंतिम व्याख्याकार कौन सी संस्था है?
-  A  EN : The Parliament
-     HI : संसद
-  B* EN : The Supreme Court
-     HI : सर्वोच्च न्यायालय
-  C  EN : The Election Commission
-     HI : निर्वाचन आयोग
-  D  EN : The Law Commission
-     HI : विधि आयोग
-  ANSWER: B
-  EXPL EN : Parliament may amend within limits, but the Court decides what the text means.
-  EXPL HI : संसद सीमाओं में रहते हुए संशोधन कर सकती है, पर अर्थ का निर्णय न्यायालय करता है।
-
-Q52  [DRAFT-DQ-0052]  MEDIUM  sources: MHA-BORDERS
-  EN : Which country shares the longest land border with India?
-  HI : भारत के साथ सबसे लंबी स्थल सीमा किस देश की है?
-  A  EN : China
-     HI : चीन
-  B  EN : Pakistan
-     HI : पाकिस्तान
-  C* EN : Bangladesh
-     HI : बांग्लादेश
-  D  EN : Nepal
-     HI : नेपाल
-  ANSWER: C
-  EXPL EN : The India–Bangladesh land border runs roughly 4,096 kilometres across five Indian states.
-  EXPL HI : भारत–बांग्लादेश स्थल सीमा लगभग 4,096 किलोमीटर लंबी है और पाँच भारतीय राज्यों से गुज़रती है।
-
-Q53  [DRAFT-DQ-0053]  MEDIUM  sources: MHA-BORDERS
-  EN : How many countries share a land boundary with India, according to the Ministry of Home Affairs?
-  HI : गृह मंत्रालय के अनुसार कितने देशों की भारत के साथ स्थल सीमा लगती है?
-  A  EN : Five
-     HI : पाँच
-  B  EN : Nine
-     HI : नौ
-  C  EN : Six
-     HI : छह
-  D* EN : Seven
-     HI : सात
-  ANSWER: D
-  EXPL EN : The MHA list names Afghanistan, Bangladesh, Bhutan, China, Myanmar, Nepal and Pakistan.
-  EXPL HI : गृह मंत्रालय की सूची में अफ़ग़ानिस्तान, बांग्लादेश, भूटान, चीन, म्यांमार, नेपाल और पाकिस्तान हैं।
-
-Q54  [DRAFT-DQ-0054]  HARD  sources: MHA-BORDERS
-  EN : Which Indian state has the longest international border?
-  HI : किस भारतीय राज्य की अंतर्राष्ट्रीय सीमा सबसे लंबी है?
-  A* EN : West Bengal
-     HI : पश्चिम बंगाल
-  B  EN : Assam
-     HI : असम
-  C  EN : Rajasthan
-     HI : राजस्थान
-  D  EN : Jammu and Kashmir
-     HI : जम्मू और कश्मीर
-  ANSWER: A
-  EXPL EN : West Bengal borders three countries: Bangladesh, Nepal and Bhutan.
-  EXPL HI : पश्चिम बंगाल की सीमा तीन देशों — बांग्लादेश, नेपाल और भूटान — से लगती है।
-
-Q55  [DRAFT-DQ-0055]  MEDIUM  sources: MHA-BORDERS
-  EN : Which line marked the 1947 boundary between India and Pakistan?
-  HI : 1947 में भारत और पाकिस्तान के बीच की सीमा किस रेखा से तय हुई?
-  A  EN : The 24th parallel
-     HI : 24वाँ समांतर
-  B  EN : The Durand Line
-     HI : डूरंड रेखा
-  C* EN : The Radcliffe Line
-     HI : रेडक्लिफ रेखा
-  D  EN : The McMahon Line
-     HI : मैकमोहन रेखा
-  ANSWER: C
-  EXPL EN : Cyril Radcliffe chaired the boundary commissions that drew the line.
-  EXPL HI : सिरिल रेडक्लिफ उस सीमा आयोग के अध्यक्ष थे जिसने यह रेखा खींची।
-
-Q56  [DRAFT-DQ-0056]  EASY  sources: NPL-TIME
-  EN : Indian Standard Time runs ahead of UTC by how much?
-  HI : भारतीय मानक समय UTC से कितना आगे है?
-  A  EN : 5 hours
-     HI : 5 घंटे
-  B  EN : 4 hours 30 minutes
-     HI : 4 घंटे 30 मिनट
-  C  EN : 6 hours
-     HI : 6 घंटे
-  D* EN : 5 hours 30 minutes
-     HI : 5 घंटे 30 मिनट
-  ANSWER: D
-  EXPL EN : IST is written as UTC+05:30 across the whole country.
-  EXPL HI : पूरे देश में IST को UTC+05:30 के रूप में लिखा जाता है।
-
-Q57  [DRAFT-DQ-0057]  MEDIUM  sources: NPL-TIME
-  EN : Which Indian laboratory keeps the country's official time and frequency standards?
-  HI : भारत के आधिकारिक समय और आवृत्ति मानक कौन सी प्रयोगशाला रखती है?
-  A* EN : CSIR-National Physical Laboratory
-     HI : सीएसआईआर-राष्ट्रीय भौतिकी प्रयोगशाला
-  B  EN : Survey of India
-     HI : भारतीय सर्वेक्षण
-  C  EN : Indian Meteorological Department
-     HI : भारत मौसम विज्ञान विभाग
-  D  EN : ISRO
-     HI : इसरो
-  ANSWER: A
-  EXPL EN : CSIR-NPL in New Delhi maintains the national caesium atomic clocks that broadcast IST.
-  EXPL HI : नई दिल्ली स्थित सीएसआईआर-एनपीएल राष्ट्रीय सीज़ियम परमाणु घड़ियाँ रखता है जो IST प्रसारित करती हैं।
-
-Q58  [DRAFT-DQ-0058]  HARD  sources: NPL-TIME, NIOS-GEO16
-  EN : Indian Standard Time is calculated from the standard meridian at which longitude?
-  HI : भारतीय मानक समय किस देशांतर के मानक मध्याह्न से निकाला जाता है?
-  A  EN : 80 degrees east
-     HI : 80 डिग्री पूर्व
-  B* EN : 82 degrees 30 minutes east
-     HI : 82 डिग्री 30 मिनट पूर्व
-  C  EN : 75 degrees 30 minutes east
-     HI : 75 डिग्री 30 मिनट पूर्व
-  D  EN : 90 degrees east
-     HI : 90 डिग्री पूर्व
-  ANSWER: B
-  EXPL EN : The meridian passes close to Prayagraj and Mirzapur in Uttar Pradesh.
-  EXPL HI : यह मध्याह्न उत्तर प्रदेश में प्रयागराज और मिर्ज़ापुर के पास से गुज़रता है।
-
-Q59  [DRAFT-DQ-0059]  EASY  sources: RBI-CURRENCY-2025
-  EN : Who issues currency notes in India?
-  HI : भारत में मुद्रा नोट कौन जारी करता है?
-  A  EN : Securities and Exchange Board of India
-     HI : भारतीय प्रतिभूति और विनिमय बोर्ड
-  B  EN : State Bank of India
-     HI : स्टेट बैंक ऑफ़ इंडिया
-  C  EN : NITI Aayog
-     HI : नीति आयोग
-  D* EN : Reserve Bank of India
-     HI : भारतीय रिज़र्व बैंक
-  ANSWER: D
-  EXPL EN : The RBI issues notes under the Reserve Bank of India Act, 1934.
-  EXPL HI : भारतीय रिज़र्व बैंक, भारतीय रिज़र्व बैंक अधिनियम, 1934 के तहत नोट जारी करता है।
-
-Q60  [DRAFT-DQ-0060]  MEDIUM  sources: RBI-CURRENCY-2025
-  EN : Which body issues the one rupee note in India?
-  HI : भारत में एक रुपये का नोट कौन जारी करता है?
-  A  EN : The Reserve Bank of India
-     HI : भारतीय रिज़र्व बैंक
-  B  EN : The Ministry of Commerce
-     HI : वाणिज्य मंत्रालय
-  C* EN : The Government of India
-     HI : भारत सरकार
-  D  EN : The National Payments Corporation
-     HI : राष्ट्रीय भुगतान निगम
-  ANSWER: C
-  EXPL EN : One rupee notes and coins carry the signature of the Finance Secretary, not the RBI Governor.
-  EXPL HI : एक रुपये के नोट और सिक्कों पर वित्त सचिव के हस्ताक्षर होते हैं, RBI गवर्नर के नहीं।
-
-Q61  [DRAFT-DQ-0061]  MEDIUM  sources: RBI-CURRENCY-2025
-  EN : Who designed the rupee symbol that India adopted in 2010?
-  HI : 2010 में भारत द्वारा अपनाए गए रुपये के प्रतीक चिह्न को किसने डिज़ाइन किया?
-  A  EN : R. K. Laxman
-     HI : आर. के. लक्ष्मण
-  B  EN : Satyajit Ray
-     HI : सत्यजित रे
-  C* EN : D. Udaya Kumar
-     HI : डी. उदय कुमार
-  D  EN : M. F. Husain
-     HI : एम. एफ. हुसैन
-  ANSWER: C
-  EXPL EN : The symbol blends the Devanagari 'Ra' with the Roman 'R' and was adopted on 15 July 2010.
-  EXPL HI : यह प्रतीक देवनागरी 'र' और रोमन 'R' का मिश्रण है और 15 जुलाई 2010 को अपनाया गया।
-
-Q62  [DRAFT-DQ-0062]  HARD  sources: RBI-CURRENCY-2025
-  EN : How many mints in India produce coins?
-  HI : भारत में कितने टकसालें सिक्के बनाती हैं?
-  A  EN : Eight
-     HI : आठ
-  B  EN : Two
-     HI : दो
-  C  EN : Six
-     HI : छह
-  D* EN : Four
-     HI : चार
-  ANSWER: D
-  EXPL EN : The mints are at Mumbai, Kolkata, Hyderabad and Noida.
-  EXPL HI : टकसालें मुंबई, कोलकाता, हैदराबाद और नोएडा में स्थित हैं।
-
-Q63  [DRAFT-DQ-0063]  MEDIUM  sources: NIOS-GEO16
-  EN : The Himalayas rose mainly because of the collision between which two tectonic plates?
-  HI : हिमालय मुख्यतः किन दो विवर्तनिक प्लेटों की टक्कर से बना?
-  A  EN : The Pacific and the Nazca plates
-     HI : प्रशांत और नाज़का प्लेट
-  B* EN : The Indian and the Eurasian plates
-     HI : भारतीय और यूरेशियाई प्लेट
-  C  EN : The African and the Arabian plates
-     HI : अफ़्रीकी और अरब प्लेट
-  D  EN : The Antarctic and the Indo-Australian plates
-     HI : अंटार्कटिक और भारत-ऑस्ट्रेलियाई प्लेट
-  ANSWER: B
-  EXPL EN : The Himalayas are young fold mountains still rising as the two plates press together.
-  EXPL HI : हिमालय नवीन वलित पर्वत हैं जो दोनों प्लेटों के दबाव से अब भी ऊपर उठ रहे हैं।
-
-Q64  [DRAFT-DQ-0064]  MEDIUM  sources: NIOS-GEO16
-  EN : The Northern Plains of India are built mainly from what kind of material?
-  HI : भारत का उत्तरी मैदान मुख्यतः किस प्रकार की सामग्री से बना है?
-  A  EN : Coral reef debris
-     HI : प्रवाल भित्ति का मलबा
-  B  EN : Glacial granite
-     HI : हिमनदी ग्रेनाइट
-  C  EN : Volcanic lava
-     HI : ज्वालामुखीय लावा
-  D* EN : Alluvium carried by rivers
-     HI : नदियों द्वारा लाई गई जलोढ़ मिट्टी
-  ANSWER: D
-  EXPL EN : The Indus, Ganga and Brahmaputra systems deposited the sediment that forms the plains.
-  EXPL HI : सिंधु, गंगा और ब्रह्मपुत्र प्रणालियों ने वह अवसाद जमा किया जिससे मैदान बना।
-
-Q65  [DRAFT-DQ-0065]  EASY  sources: NIOS-GEO16
-  EN : The Thar Desert lies mainly in which Indian state?
-  HI : थार मरुस्थल मुख्यतः किस भारतीय राज्य में स्थित है?
-  A  EN : Gujarat
-     HI : गुजरात
-  B  EN : Madhya Pradesh
-     HI : मध्य प्रदेश
-  C  EN : Punjab
-     HI : पंजाब
-  D* EN : Rajasthan
-     HI : राजस्थान
-  ANSWER: D
-  EXPL EN : The Thar stretches across north-western India, with its largest part in Rajasthan.
-  EXPL HI : थार उत्तर-पश्चिमी भारत में फैला है और इसका सबसे बड़ा हिस्सा राजस्थान में है।
-
-Q66  [DRAFT-DQ-0066]  HARD  sources: NIOS-GEO16
-  EN : The eastern coast of India between the deltas of the Krishna and Kaveri is known by which name?
-  HI : कृष्णा और कावेरी के डेल्टाओं के बीच भारत के पूर्वी तट को किस नाम से जाना जाता है?
-  A  EN : Konkan Coast
-     HI : कोंकण तट
-  B  EN : Kutch Coast
-     HI : कच्छ तट
-  C  EN : Malabar Coast
-     HI : मालाबार तट
-  D* EN : Coromandel Coast
-     HI : कोरोमंडल तट
-  ANSWER: D
-  EXPL EN : Malabar and Konkan lie on the western side, facing the Arabian Sea.
-  EXPL HI : मालाबार और कोंकण पश्चिमी ओर अरब सागर की तरफ़ स्थित हैं।
-
-Q67  [DRAFT-DQ-0067]  MEDIUM  sources: NIOS-GEO16
-  EN : Which plateau is bounded by the Western Ghats on one side and the Eastern Ghats on the other?
-  HI : किस पठार की एक ओर पश्चिमी घाट और दूसरी ओर पूर्वी घाट हैं?
-  A  EN : The Ladakh Plateau
-     HI : लद्दाख पठार
-  B  EN : The Chotanagpur Plateau
-     HI : छोटानागपुर पठार
-  C  EN : The Malwa Plateau
-     HI : मालवा पठार
-  D* EN : The Deccan Plateau
-     HI : दक्कन का पठार
-  ANSWER: D
-  EXPL EN : The Deccan Plateau is a triangular tableland of old crystalline rock south of the Narmada.
-  EXPL HI : दक्कन का पठार नर्मदा के दक्षिण प्राचीन क्रिस्टलीय चट्टानों से बना त्रिभुजाकार स्थल है।
-
-Q68  [DRAFT-DQ-0068]  MEDIUM  sources: UN-CHARTER-1
-  EN : In which city was the Charter of the United Nations signed in 1945?
-  HI : 1945 में संयुक्त राष्ट्र का चार्टर किस शहर में हस्ताक्षरित हुआ?
-  A* EN : San Francisco
-     HI : सैन फ़्रांसिस्को
-  B  EN : London
-     HI : लंदन
-  C  EN : Geneva
-     HI : जिनेवा
-  D  EN : New York
-     HI : न्यूयॉर्क
-  ANSWER: A
-  EXPL EN : Fifty nations signed it on 26 June 1945 at the San Francisco Conference.
-  EXPL HI : 26 जून 1945 को सैन फ़्रांसिस्को सम्मेलन में पचास देशों ने इस पर हस्ताक्षर किए।
-
-Q69  [DRAFT-DQ-0069]  EASY  sources: UN-CHARTER-1
-  EN : On which date did the United Nations officially come into existence?
-  HI : संयुक्त राष्ट्र आधिकारिक रूप से किस तिथि को अस्तित्व में आया?
-  A  EN : 1 January 1946
-     HI : 1 जनवरी 1946
-  B  EN : 26 June 1945
-     HI : 26 जून 1945
-  C* EN : 24 October 1945
-     HI : 24 अक्टूबर 1945
-  D  EN : 10 December 1948
-     HI : 10 दिसंबर 1948
-  ANSWER: C
-  EXPL EN : The Charter entered into force once the required number of ratifications was deposited.
-  EXPL HI : आवश्यक संख्या में अनुसमर्थन जमा होते ही चार्टर लागू हो गया।
-
-Q70  [DRAFT-DQ-0070]  MEDIUM  sources: UN-CHARTER-1
-  EN : The Charter opens by stating the United Nations' first purpose. What is it?
-  HI : चार्टर संयुक्त राष्ट्र का पहला उद्देश्य बताते हुए शुरू होता है। वह क्या है?
-  A  EN : To fix world trade tariffs
-     HI : विश्व व्यापार शुल्क तय करना
-  B  EN : To elect national governments
-     HI : राष्ट्रीय सरकारों का चुनाव कराना
-  C* EN : To maintain international peace and security
-     HI : अंतर्राष्ट्रीय शांति और सुरक्षा बनाए रखना
-  D  EN : To run a common currency
-     HI : एक साझा मुद्रा चलाना
-  ANSWER: C
-  EXPL EN : Article 1 lists peace and security first, then friendly relations and international cooperation.
-  EXPL HI : अनुच्छेद 1 पहले शांति और सुरक्षा, फिर मैत्रीपूर्ण संबंध और अंतर्राष्ट्रीय सहयोग को रखता है।
-
-Q71  [DRAFT-DQ-0071]  EASY  sources: UN-MAIN-BODIES
-  EN : How many principal organs does the United Nations have?
-  HI : संयुक्त राष्ट्र के कितने प्रधान अंग हैं?
-  A  EN : Five
-     HI : पाँच
-  B  EN : Seven
-     HI : सात
-  C* EN : Six
-     HI : छह
-  D  EN : Four
-     HI : चार
-  ANSWER: C
-  EXPL EN : They are the General Assembly, Security Council, ECOSOC, Trusteeship Council, ICJ and Secretariat.
-  EXPL HI : वे हैं महासभा, सुरक्षा परिषद, इकोसॉक, न्यासिता परिषद, अंतर्राष्ट्रीय न्यायालय और सचिवालय।
-
-Q72  [DRAFT-DQ-0072]  MEDIUM  sources: UN-MAIN-BODIES
-  EN : Which principal organ of the United Nations sits in The Hague?
-  HI : संयुक्त राष्ट्र का कौन सा प्रधान अंग हेग में स्थित है?
-  A  EN : The Security Council
-     HI : सुरक्षा परिषद
-  B  EN : The General Assembly
-     HI : महासभा
-  C* EN : The International Court of Justice
-     HI : अंतर्राष्ट्रीय न्यायालय
-  D  EN : The Secretariat
-     HI : सचिवालय
-  ANSWER: C
-  EXPL EN : Every other principal organ is based at UN Headquarters in New York.
-  EXPL HI : अन्य सभी प्रधान अंग न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में हैं।
-
-Q73  [DRAFT-DQ-0073]  EASY  sources: UN-MAIN-BODIES
-  EN : How many permanent members sit on the United Nations Security Council?
-  HI : संयुक्त राष्ट्र सुरक्षा परिषद में कितने स्थायी सदस्य हैं?
-  A  EN : Ten
-     HI : दस
-  B* EN : Five
-     HI : पाँच
-  C  EN : Three
-     HI : तीन
-  D  EN : Seven
-     HI : सात
-  ANSWER: B
-  EXPL EN : China, France, Russia, the United Kingdom and the United States hold permanent seats.
-  EXPL HI : चीन, फ़्रांस, रूस, ब्रिटेन और अमेरिका के पास स्थायी स्थान हैं।
-
-Q74  [DRAFT-DQ-0074]  MEDIUM  sources: UN-MAIN-BODIES
-  EN : Including the permanent ones, how many members does the Security Council have?
-  HI : स्थायी सदस्यों सहित सुरक्षा परिषद में कुल कितने सदस्य होते हैं?
-  A* EN : Fifteen
-     HI : पंद्रह
-  B  EN : Twenty
-     HI : बीस
-  C  EN : Twelve
-     HI : बारह
-  D  EN : Ten
-     HI : दस
-  ANSWER: A
-  EXPL EN : Five permanent members and ten elected for two-year terms make up the Council.
-  EXPL HI : पाँच स्थायी और दो वर्ष के लिए चुने गए दस सदस्य मिलकर परिषद बनाते हैं।
-
-Q75  [DRAFT-DQ-0075]  HARD  sources: UN-MAIN-BODIES
-  EN : Which United Nations organ suspended its operations in 1994 after the last trust territory became independent?
-  HI : 1994 में अंतिम न्यासिता क्षेत्र के स्वतंत्र होने के बाद किस संयुक्त राष्ट्र अंग ने अपना कार्य निलंबित कर दिया?
-  A  EN : The Economic and Social Council
-     HI : आर्थिक और सामाजिक परिषद
-  B  EN : The General Assembly
-     HI : महासभा
-  C  EN : The International Court of Justice
-     HI : अंतर्राष्ट्रीय न्यायालय
-  D* EN : The Trusteeship Council
-     HI : न्यासिता परिषद
-  ANSWER: D
-  EXPL EN : Palau's independence on 1 October 1994 ended the trusteeship system.
-  EXPL HI : 1 अक्टूबर 1994 को पलाऊ की स्वतंत्रता के साथ न्यासिता प्रणाली समाप्त हुई।
-
-Q76  [DRAFT-DQ-0076]  HARD  sources: UN-MAIN-BODIES
-  EN : Which body recommends the appointment of the Secretary-General of the United Nations?
-  HI : संयुक्त राष्ट्र के महासचिव की नियुक्ति की सिफ़ारिश कौन सा निकाय करता है?
-  A  EN : The International Court of Justice
-     HI : अंतर्राष्ट्रीय न्यायालय
-  B  EN : The Economic and Social Council
-     HI : आर्थिक और सामाजिक परिषद
-  C  EN : The Trusteeship Council
-     HI : न्यासिता परिषद
-  D* EN : The Security Council
-     HI : सुरक्षा परिषद
-  ANSWER: D
-  EXPL EN : The Council recommends a candidate and the General Assembly appoints them.
-  EXPL HI : परिषद उम्मीदवार की सिफ़ारिश करती है और महासभा उनकी नियुक्ति करती है।
-
-Q77  [DRAFT-DQ-0077]  MEDIUM  sources: UNESCO-138
-  EN : The ruins of Mohenjo-daro, a World Heritage site, lie in which country?
-  HI : विश्व धरोहर स्थल मोहनजोदड़ो के अवशेष किस देश में हैं?
-  A  EN : India
-     HI : भारत
-  B  EN : Iran
-     HI : ईरान
-  C  EN : Afghanistan
-     HI : अफ़ग़ानिस्तान
-  D* EN : Pakistan
-     HI : पाकिस्तान
-  ANSWER: D
-  EXPL EN : They stand on the right bank of the Indus in Sindh province.
-  EXPL HI : ये सिंध प्रांत में सिंधु नदी के दाहिने तट पर स्थित हैं।
-
-Q78  [DRAFT-DQ-0078]  EASY  sources: UNESCO-138
-  EN : Mohenjo-daro belonged to which ancient civilisation?
-  HI : मोहनजोदड़ो किस प्राचीन सभ्यता का हिस्सा था?
-  A  EN : The Mayan civilisation
-     HI : माया सभ्यता
-  B* EN : The Indus Valley civilisation
-     HI : सिंधु घाटी सभ्यता
-  C  EN : The Mesopotamian civilisation
-     HI : मेसोपोटामिया सभ्यता
-  D  EN : The Egyptian civilisation
-     HI : मिस्र सभ्यता
-  ANSWER: B
-  EXPL EN : It was one of the largest cities of the Indus civilisation around 2500 BCE.
-  EXPL HI : यह लगभग 2500 ईसा पूर्व सिंधु सभ्यता के सबसे बड़े नगरों में से एक था।
-
-Q79  [DRAFT-DQ-0079]  MEDIUM  sources: UNESCO-138
-  EN : Which large brick water structure is a famous feature of Mohenjo-daro?
-  HI : मोहनजोदड़ो की प्रसिद्ध विशाल ईंटों की जल संरचना कौन सी है?
-  A* EN : The Great Bath
-     HI : ग्रेट बाथ
-  B  EN : The Step Well
-     HI : बावड़ी
-  C  EN : The Royal Cistern
-     HI : रॉयल सिस्टर्न
-  D  EN : The Granary Tank
-     HI : अन्नागार जलाशय
-  ANSWER: A
-  EXPL EN : The Great Bath was sealed with bitumen and appears to have served a public or ritual purpose.
-  EXPL HI : ग्रेट बाथ को डामर से रोधित किया गया था और यह सार्वजनिक या अनुष्ठानिक काम आता प्रतीत होता है।
-
-Q80  [DRAFT-DQ-0080]  HARD  sources: UNESCO-138
-  EN : The name 'Mohenjo-daro' is usually translated into English as what?
-  HI : 'मोहनजोदड़ो' नाम का अंग्रेज़ी में सामान्यतः क्या अर्थ लगाया जाता है?
-  A  EN : Gate of the river
-     HI : नदी का द्वार
-  B* EN : Mound of the dead
-     HI : मुर्दों का टीला
-  C  EN : City of kings
-     HI : राजाओं का नगर
-  D  EN : Field of grain
-     HI : अनाज का खेत
-  ANSWER: B
-  EXPL EN : The Sindhi name refers to the burial mounds found at the site.
-  EXPL HI : यह सिंधी नाम स्थल पर मिले समाधि टीलों की ओर इशारा करता है।
-
-Q81  [DRAFT-DQ-0081]  MEDIUM  sources: UNESCO-LUMBINI
-  EN : Lumbini, the birthplace of the Lord Buddha, is located in which country?
-  HI : भगवान बुद्ध की जन्मस्थली लुंबिनी किस देश में स्थित है?
-  A  EN : Bhutan
-     HI : भूटान
-  B  EN : Sri Lanka
-     HI : श्रीलंका
-  C  EN : India
-     HI : भारत
-  D* EN : Nepal
-     HI : नेपाल
-  ANSWER: D
-  EXPL EN : Lumbini lies in the Rupandehi district of southern Nepal.
-  EXPL HI : लुंबिनी दक्षिणी नेपाल के रूपंदेही ज़िले में स्थित है।
-
-Q82  [DRAFT-DQ-0082]  HARD  sources: UNESCO-LUMBINI
-  EN : Which ancient pillar stands at Lumbini as a marker of the Buddha's birthplace?
-  HI : लुंबिनी में बुद्ध की जन्मस्थली का चिह्न कौन सा प्राचीन स्तंभ है?
-  A  EN : The Vijaya pillar
-     HI : विजय स्तंभ
-  B* EN : The Ashoka pillar
-     HI : अशोक स्तंभ
-  C  EN : The Iron Pillar
-     HI : लौह स्तंभ
-  D  EN : The Heliodorus pillar
-     HI : हेलियोडोरस स्तंभ
-  ANSWER: B
-  EXPL EN : Emperor Ashoka erected it during his visit in the third century BCE.
-  EXPL HI : सम्राट अशोक ने तीसरी शताब्दी ईसा पूर्व में अपनी यात्रा के दौरान इसे स्थापित किया।
-
-Q83  [DRAFT-DQ-0083]  MEDIUM  sources: UNESCO-ICH-2003
-  EN : The UNESCO Convention adopted in 2003 is meant to safeguard which kind of heritage?
-  HI : 2003 में अपनाया गया यूनेस्को सम्मेलन किस प्रकार की धरोहर की रक्षा के लिए है?
-  A  EN : Monuments of stone
-     HI : पाषाण स्मारक
-  B  EN : Underwater shipwrecks
-     HI : जलमग्न जहाज़
-  C  EN : Fossil beds
-     HI : जीवाश्म क्षेत्र
-  D* EN : Intangible cultural heritage
-     HI : अमूर्त सांस्कृतिक धरोहर
-  ANSWER: D
-  EXPL EN : It covers oral traditions, performing arts, rituals, festive events and traditional craftsmanship.
-  EXPL HI : इसमें मौखिक परंपराएँ, प्रदर्शन कलाएँ, अनुष्ठान, उत्सव और पारंपरिक शिल्प शामिल हैं।
-
-Q84  [DRAFT-DQ-0084]  MEDIUM  sources: WB-HISTORY-2026
-  EN : In which country was the 1944 Bretton Woods Conference held?
-  HI : 1944 का ब्रेटन वुड्स सम्मेलन किस देश में आयोजित हुआ?
-  A* EN : The United States
-     HI : अमेरिका
-  B  EN : Switzerland
-     HI : स्विट्ज़रलैंड
-  C  EN : The United Kingdom
-     HI : ब्रिटेन
-  D  EN : France
-     HI : फ़्रांस
-  ANSWER: A
-  EXPL EN : Delegates from 44 nations met at the Mount Washington Hotel in New Hampshire.
-  EXPL HI : 44 देशों के प्रतिनिधि न्यू हैम्पशायर के माउंट वॉशिंगटन होटल में मिले।
-
-Q85  [DRAFT-DQ-0085]  MEDIUM  sources: WB-HISTORY-2026
-  EN : The Bretton Woods Conference led to the creation of which pair of institutions?
-  HI : ब्रेटन वुड्स सम्मेलन से किन दो संस्थाओं का निर्माण हुआ?
-  A* EN : The IMF and the World Bank
-     HI : IMF और विश्व बैंक
-  B  EN : The WTO and the UN
-     HI : WTO और संयुक्त राष्ट्र
-  C  EN : The Asian Development Bank and the AIIB
-     HI : एशियाई विकास बैंक और AIIB
-  D  EN : The WHO and UNICEF
-     HI : WHO और यूनिसेफ़
-  ANSWER: A
-  EXPL EN : The World Bank began as the International Bank for Reconstruction and Development.
-  EXPL HI : विश्व बैंक की शुरुआत अंतर्राष्ट्रीय पुनर्निर्माण और विकास बैंक के रूप में हुई।
-
-Q86  [DRAFT-DQ-0086]  EASY  sources: IMF-ABOUT-2026
-  EN : Where is the headquarters of the International Monetary Fund?
-  HI : अंतर्राष्ट्रीय मुद्रा कोष का मुख्यालय कहाँ है?
-  A* EN : Washington, D.C.
-     HI : वॉशिंगटन, डी.सी.
-  B  EN : Paris
-     HI : पेरिस
-  C  EN : Nairobi
-     HI : नैरोबी
-  D  EN : Geneva
-     HI : जिनेवा
-  ANSWER: A
-  EXPL EN : The Fund has worked from Washington, D.C. since it began operations in 1945.
-  EXPL HI : 1945 में कार्य आरंभ करने के बाद से कोष वॉशिंगटन, डी.सी. से काम कर रहा है।
-
-Q87  [DRAFT-DQ-0087]  HARD  sources: IMF-ABOUT-2026
-  EN : What is the name of the reserve asset and unit of account used by the IMF?
-  HI : IMF द्वारा प्रयुक्त आरक्षित परिसंपत्ति और लेखा इकाई का क्या नाम है?
-  A  EN : Convertible Trade Credits
-     HI : कन्वर्टिबल ट्रेड क्रेडिट्स
-  B* EN : Special Drawing Rights
-     HI : स्पेशल ड्रॉइंग राइट्स
-  C  EN : Bretton Notes
-     HI : ब्रेटन नोट्स
-  D  EN : Global Reserve Bonds
-     HI : वैश्विक आरक्षित पत्र
-  ANSWER: B
-  EXPL EN : Its value is based on a basket of five major currencies.
-  EXPL HI : इसका मूल्य पाँच प्रमुख मुद्राओं की टोकरी पर आधारित है।
-
-Q88  [DRAFT-DQ-0088]  MEDIUM  sources: IMF-ABOUT-2026
-  EN : The IMF describes its central job in one phrase. Which of these is it?
-  HI : IMF अपने मुख्य कार्य को एक वाक्यांश में बताता है। वह कौन सा है?
-  A* EN : Safeguarding the stability of the international monetary system
-     HI : अंतर्राष्ट्रीय मौद्रिक प्रणाली की स्थिरता की रक्षा करना
-  B  EN : Setting interest rates for member countries
-     HI : सदस्य देशों के लिए ब्याज दरें तय करना
-  C  EN : Approving national budgets
-     HI : राष्ट्रीय बजट स्वीकृत करना
-  D  EN : Printing a common world currency
-     HI : विश्व की साझा मुद्रा छापना
-  ANSWER: A
-  EXPL EN : The Fund advises and lends so that member economies can meet balance of payments difficulties.
-  EXPL HI : कोष सलाह और ऋण देता है ताकि सदस्य अर्थव्यवस्थाएँ भुगतान संतुलन की कठिनाइयों से निपट सकें।
-
-Q89  [DRAFT-DQ-0089]  MEDIUM  sources: WB-WHO-2026
-  EN : The World Bank Group is made up of how many institutions?
-  HI : विश्व बैंक समूह कितनी संस्थाओं से मिलकर बना है?
-  A  EN : Seven
-     HI : सात
-  B* EN : Five
-     HI : पाँच
-  C  EN : Two
-     HI : दो
-  D  EN : Three
-     HI : तीन
-  ANSWER: B
-  EXPL EN : They are IBRD, IDA, IFC, MIGA and ICSID.
-  EXPL HI : वे हैं IBRD, IDA, IFC, MIGA और ICSID।
-
-Q90  [DRAFT-DQ-0090]  HARD  sources: WB-WHO-2026
-  EN : Which World Bank Group institution works directly with private companies in developing countries?
-  HI : विकासशील देशों में निजी कंपनियों के साथ सीधे काम करने वाली विश्व बैंक समूह की कौन सी संस्था है?
-  A  EN : The Multilateral Investment Guarantee Agency
-     HI : बहुपक्षीय निवेश गारंटी एजेंसी
-  B  EN : The International Centre for Settlement of Investment Disputes
-     HI : निवेश विवाद निपटान हेतु अंतर्राष्ट्रीय केंद्र
-  C  EN : The International Development Association
-     HI : अंतर्राष्ट्रीय विकास संघ
-  D* EN : The International Finance Corporation
-     HI : अंतर्राष्ट्रीय वित्त निगम
-  ANSWER: D
-  EXPL EN : IFC invests in and advises private sector projects without government guarantees.
-  EXPL HI : IFC बिना सरकारी गारंटी के निजी क्षेत्र की परियोजनाओं में निवेश और सलाह देता है।
-
-Q91  [DRAFT-DQ-0091]  HARD  sources: WB-WHO-2026
-  EN : Which World Bank Group body provides political risk insurance to foreign investors?
-  HI : विदेशी निवेशकों को राजनीतिक जोखिम बीमा देने वाला विश्व बैंक समूह का कौन सा निकाय है?
-  A  EN : IDA
-     HI : IDA
-  B  EN : ICSID
-     HI : ICSID
-  C  EN : IBRD
-     HI : IBRD
-  D* EN : MIGA
-     HI : MIGA
-  ANSWER: D
-  EXPL EN : The Multilateral Investment Guarantee Agency insures against risks such as expropriation and war.
-  EXPL HI : बहुपक्षीय निवेश गारंटी एजेंसी जब्ती और युद्ध जैसे जोखिमों के विरुद्ध बीमा देती है।
-
-Q92  [DRAFT-DQ-0092]  HARD  sources: WB-WHO-2026
-  EN : Which World Bank Group body settles investment disputes between governments and foreign investors?
-  HI : सरकारों और विदेशी निवेशकों के बीच निवेश विवाद निपटाने वाला विश्व बैंक समूह का कौन सा निकाय है?
-  A  EN : MIGA
-     HI : MIGA
-  B  EN : IFC
-     HI : IFC
-  C  EN : IBRD
-     HI : IBRD
-  D* EN : ICSID
-     HI : ICSID
-  ANSWER: D
-  EXPL EN : The International Centre for Settlement of Investment Disputes offers conciliation and arbitration.
-  EXPL HI : निवेश विवाद निपटान हेतु अंतर्राष्ट्रीय केंद्र सुलह और मध्यस्थता की सुविधा देता है।
-
-Q93  [DRAFT-DQ-0093]  MEDIUM  sources: WB-WHO-2026
-  EN : Which World Bank Group institution gives interest-free credits and grants to the poorest countries?
-  HI : सबसे ग़रीब देशों को ब्याज-मुक्त ऋण और अनुदान देने वाली विश्व बैंक समूह की कौन सी संस्था है?
-  A  EN : IFC
-     HI : IFC
-  B* EN : IDA
-     HI : IDA
-  C  EN : MIGA
-     HI : MIGA
-  D  EN : ICSID
-     HI : ICSID
-  ANSWER: B
-  EXPL EN : The International Development Association is the concessional lending arm of the group.
-  EXPL HI : अंतर्राष्ट्रीय विकास संघ समूह की रियायती ऋण शाखा है।
-
-Q94  [DRAFT-DQ-0094]  MEDIUM  sources: NOBEL-WILL
-  EN : Alfred Nobel's will created prizes in how many original fields?
-  HI : अल्फ्रेड नोबेल की वसीयत से कितने मूल क्षेत्रों में पुरस्कार बने?
-  A* EN : Five
-     HI : पाँच
-  B  EN : Six
-     HI : छह
-  C  EN : Three
-     HI : तीन
-  D  EN : Four
-     HI : चार
-  ANSWER: A
-  EXPL EN : Physics, chemistry, physiology or medicine, literature and peace; economics was added much later.
-  EXPL HI : भौतिकी, रसायन, चिकित्सा विज्ञान, साहित्य और शांति; अर्थशास्त्र का पुरस्कार बहुत बाद में जोड़ा गया।
-
-Q95  [DRAFT-DQ-0095]  MEDIUM  sources: NOBEL-WILL
-  EN : Which Nobel Prize is presented in Oslo rather than Stockholm?
-  HI : कौन सा नोबेल पुरस्कार स्टॉकहोम के बजाय ओस्लो में दिया जाता है?
-  A* EN : The Peace Prize
-     HI : शांति पुरस्कार
-  B  EN : The Physics Prize
-     HI : भौतिकी पुरस्कार
-  C  EN : The Chemistry Prize
-     HI : रसायन विज्ञान पुरस्कार
-  D  EN : The Literature Prize
-     HI : साहित्य पुरस्कार
-  ANSWER: A
-  EXPL EN : Nobel's will assigned the peace award to a committee appointed by the Norwegian parliament.
-  EXPL HI : नोबेल की वसीयत ने शांति पुरस्कार नॉर्वे की संसद द्वारा नियुक्त समिति को सौंपा।
-
-Q96  [DRAFT-DQ-0096]  EASY  sources: NOBEL-WILL
-  EN : In which year were the first Nobel Prizes handed out?
-  HI : पहले नोबेल पुरस्कार किस वर्ष दिए गए?
-  A  EN : 1910
-     HI : 1910
-  B  EN : 1921
-     HI : 1921
-  C* EN : 1901
-     HI : 1901
-  D  EN : 1896
-     HI : 1896
-  ANSWER: C
-  EXPL EN : Nobel died in 1896 and the first awards followed five years later.
-  EXPL HI : नोबेल का निधन 1896 में हुआ और पाँच वर्ष बाद पहले पुरस्कार दिए गए।
-
-Q97  [DRAFT-DQ-0097]  EASY  sources: NOBEL-TAGORE-BIO
-  EN : In which year did Rabindranath Tagore receive the Nobel Prize in Literature?
-  HI : रवींद्रनाथ टैगोर को साहित्य का नोबेल पुरस्कार किस वर्ष मिला?
-  A* EN : 1913
-     HI : 1913
-  B  EN : 1901
-     HI : 1901
-  C  EN : 1930
-     HI : 1930
-  D  EN : 1921
-     HI : 1921
-  ANSWER: A
-  EXPL EN : He was the first non-European to win the literature prize.
-  EXPL HI : वे साहित्य का पुरस्कार जीतने वाले पहले ग़ैर-यूरोपीय थे।
-
-Q98  [DRAFT-DQ-0098]  MEDIUM  sources: NOBEL-TAGORE-BIO
-  EN : Tagore's Nobel award was cited for which collection of poems?
-  HI : टैगोर को नोबेल पुरस्कार किस कविता संग्रह के लिए दिया गया?
-  A  EN : Dak Ghar
-     HI : डाक घर
-  B  EN : Gora
-     HI : गोरा
-  C  EN : Ghare-Baire
-     HI : घरे-बाइरे
-  D* EN : Gitanjali
-     HI : गीतांजलि
-  ANSWER: D
-  EXPL EN : The English Gitanjali was published in 1912 with a preface by W. B. Yeats.
-  EXPL HI : अंग्रेज़ी गीतांजलि 1912 में डब्ल्यू. बी. येट्स की भूमिका के साथ प्रकाशित हुई।
-
-Q99  [DRAFT-DQ-0099]  HARD  sources: NOBEL-TAGORE-BIO
-  EN : Which national anthem of India was written by Rabindranath Tagore?
-  HI : भारत का कौन सा राष्ट्रीय गान रवींद्रनाथ टैगोर ने लिखा?
-  A  EN : Amar Shonar Bangla
-     HI : अमर सोनार बांग्ला
-  B  EN : Vande Mataram
-     HI : वंदे मातरम्
-  C  EN : Saare Jahan Se Achha
-     HI : सारे जहाँ से अच्छा
-  D* EN : Jana Gana Mana
-     HI : जन गण मन
-  ANSWER: D
-  EXPL EN : Tagore also wrote Amar Shonar Bangla, now the national anthem of Bangladesh.
-  EXPL HI : टैगोर ने अमर सोनार बांग्ला भी लिखा, जो अब बांग्लादेश का राष्ट्रीय गान है।
-
-Q100  [DRAFT-DQ-0100]  EASY  sources: NARA-DECLARATION
-  EN : On which date was the American Declaration of Independence adopted?
-  HI : अमेरिकी स्वतंत्रता की घोषणा किस तिथि को अपनाई गई?
-  A  EN : 4 July 1789
-     HI : 4 जुलाई 1789
-  B  EN : 14 July 1776
-     HI : 14 जुलाई 1776
-  C  EN : 4 June 1776
-     HI : 4 जून 1776
-  D* EN : 4 July 1776
-     HI : 4 जुलाई 1776
-  ANSWER: D
-  EXPL EN : The Second Continental Congress adopted it in Philadelphia.
-  EXPL HI : इसे फ़िलाडेल्फ़िया में द्वितीय महाद्वीपीय कांग्रेस ने अपनाया।
-
-Q101  [DRAFT-DQ-0101]  MEDIUM  sources: NARA-DECLARATION
-  EN : Who was the principal author of the American Declaration of Independence?
-  HI : अमेरिकी स्वतंत्रता की घोषणा के मुख्य लेखक कौन थे?
-  A  EN : George Washington
-     HI : जॉर्ज वॉशिंगटन
-  B  EN : Alexander Hamilton
-     HI : अलेक्ज़ेंडर हैमिल्टन
-  C  EN : James Madison
-     HI : जेम्स मैडिसन
-  D* EN : Thomas Jefferson
-     HI : थॉमस जेफ़रसन
-  ANSWER: D
-  EXPL EN : He drafted it for the Committee of Five, which also included Adams and Franklin.
-  EXPL HI : उन्होंने पाँच सदस्यीय समिति के लिए इसे तैयार किया, जिसमें एडम्स और फ़्रैंकलिन भी थे।
-
-Q102  [DRAFT-DQ-0102]  HARD  sources: NARA-DECLARATION
-  EN : The Declaration of Independence says governments draw their just powers from what?
-  HI : स्वतंत्रता की घोषणा के अनुसार सरकारें अपनी न्यायोचित शक्तियाँ कहाँ से प्राप्त करती हैं?
-  A  EN : A treaty signed with France
-     HI : फ़्रांस से हुई संधि द्वारा
-  B  EN : The authority of the Crown
-     HI : राजमुकुट के अधिकार से
-  C  EN : A vote taken by the army
-     HI : सेना द्वारा लिए गए मत से
-  D* EN : The consent of the governed
-     HI : शासितों की सहमति से
-  ANSWER: D
-  EXPL EN : That phrase is the document's statement of popular sovereignty.
-  EXPL HI : यह वाक्य उस दस्तावेज़ का लोकप्रिय संप्रभुता संबंधी कथन है।
-
-Q103  [DRAFT-DQ-0103]  EASY  sources: RFC-1034
-  EN : In networking, what does DNS stand for?
-  HI : नेटवर्किंग में DNS का पूर्ण रूप क्या है?
-  A  EN : Digital Node Service
-     HI : डिजिटल नोड सर्विस
-  B* EN : Domain Name System
-     HI : डोमेन नेम सिस्टम
-  C  EN : Dynamic Naming Standard
-     HI : डायनामिक नेमिंग स्टैंडर्ड
-  D  EN : Direct Network Socket
-     HI : डायरेक्ट नेटवर्क सॉकेट
-  ANSWER: B
-  EXPL EN : The system is described in RFC 1034 and RFC 1035, published in November 1987.
-  EXPL HI : इस प्रणाली का वर्णन RFC 1034 और RFC 1035 में है, जो नवंबर 1987 में प्रकाशित हुए।
-
-Q104  [DRAFT-DQ-0104]  EASY  sources: RFC-1034
-  EN : What is the main job of DNS?
-  HI : DNS का मुख्य काम क्या है?
-  A  EN : Storing email messages
-     HI : ईमेल संदेश सहेजना
-  B  EN : Encrypting web traffic
-     HI : वेब ट्रैफ़िक एन्क्रिप्ट करना
-  C* EN : Turning domain names into IP addresses
-     HI : डोमेन नामों को IP पतों में बदलना
-  D  EN : Compressing images
-     HI : छवियाँ संपीड़ित करना
-  ANSWER: C
-  EXPL EN : It lets people use memorable names while machines still work with numeric addresses.
-  EXPL HI : इससे लोग याद रखने योग्य नाम उपयोग करते हैं जबकि मशीनें संख्यात्मक पतों पर काम करती हैं।
-
-Q105  [DRAFT-DQ-0105]  HARD  sources: RFC-1034
-  EN : In which year was RFC 1034, the paper that set out domain name concepts, published?
-  HI : डोमेन नाम की अवधारणाएँ देने वाला RFC 1034 किस वर्ष प्रकाशित हुआ?
-  A* EN : 1987
-     HI : 1987
-  B  EN : 1995
-     HI : 1995
-  C  EN : 1975
-     HI : 1975
-  D  EN : 2001
-     HI : 2001
-  ANSWER: A
-  EXPL EN : Paul Mockapetris wrote it for the Internet Engineering Task Force.
-  EXPL HI : इसे पॉल मॉकापेट्रिस ने इंटरनेट इंजीनियरिंग टास्क फ़ोर्स के लिए लिखा।
-
-Q106  [DRAFT-DQ-0106]  HARD  sources: RFC-1034
-  EN : In the domain name system, what does the word 'zone' mean?
-  HI : डोमेन नाम प्रणाली में 'ज़ोन' शब्द का क्या अर्थ है?
-  A  EN : A time period for cached records
-     HI : सहेजे गए रिकॉर्ड की समय अवधि
-  B  EN : A physical room holding the servers
-     HI : सर्वर रखने वाला भौतिक कमरा
-  C  EN : A country's border on the internet
-     HI : इंटरनेट पर किसी देश की सीमा
-  D* EN : A portion of the name space that one name server is responsible for
-     HI : नाम स्थान का वह भाग जिसकी ज़िम्मेदारी एक नाम सर्वर लेता है
-  ANSWER: D
-  EXPL EN : Zones let different organisations manage their own slice of the tree.
-  EXPL HI : ज़ोन के कारण अलग-अलग संगठन वृक्ष के अपने भाग का प्रबंधन कर सकते हैं।
-
-Q107  [DRAFT-DQ-0107]  MEDIUM  sources: RFC-1034
-  EN : The domain name space is arranged as an upside-down tree. What sits at its very top?
-  HI : डोमेन नाम स्थान एक उल्टे वृक्ष जैसा है। इसके सबसे ऊपर क्या होता है?
-  A* EN : The root
-     HI : रूट
-  B  EN : The resolver cache
-     HI : रिज़ॉल्वर कैश
-  C  EN : The local host
-     HI : स्थानीय होस्ट
-  D  EN : The .com domain
-     HI : .com डोमेन
-  ANSWER: A
-  EXPL EN : Top level domains such as .com and .org hang directly below the root.
-  EXPL HI : .com और .org जैसे शीर्ष स्तरीय डोमेन सीधे रूट के नीचे आते हैं।
-
-Q108  [DRAFT-DQ-0108]  MEDIUM  sources: NIST-CSRC-GLOSSARY-20261006
-  EN : What does 'phishing' describe in cybersecurity?
-  HI : साइबर सुरक्षा में 'फ़िशिंग' किसे कहते हैं?
-  A  EN : Slowing a server with heavy traffic
-     HI : भारी ट्रैफ़िक से सर्वर धीमा करना
-  B* EN : Tricking people into revealing sensitive details by posing as a trusted party
-     HI : विश्वसनीय पक्ष बनकर लोगों से संवेदनशील जानकारी उगलवाना
-  C  EN : Copying a website's look for design study
-     HI : डिज़ाइन अध्ययन के लिए वेबसाइट की नक़ल करना
-  D  EN : Scanning a network for open ports
-     HI : नेटवर्क पर खुले पोर्ट खोजना
-  ANSWER: B
-  EXPL EN : Phishing usually arrives as an email or message asking for passwords or card details.
-  EXPL HI : फ़िशिंग आम तौर पर पासवर्ड या कार्ड विवरण माँगने वाले ईमेल या संदेश के रूप में आती है।
-
-Q109  [DRAFT-DQ-0109]  EASY  sources: NIST-CSRC-GLOSSARY-20261006
-  EN : The word 'malware' is short for what?
-  HI : 'मालवेयर' शब्द किसका संक्षिप्त रूप है?
-  A  EN : Mailing warehouse
-     HI : मेलिंग वेयरहाउस
-  B* EN : Malicious software
-     HI : दुर्भावनापूर्ण सॉफ़्टवेयर
-  C  EN : Mobile application
-     HI : मोबाइल एप्लिकेशन
-  D  EN : Managed hardware
-     HI : प्रबंधित हार्डवेयर
-  ANSWER: B
-  EXPL EN : Viruses, worms, trojans and spyware all fall under this umbrella term.
-  EXPL HI : वायरस, वर्म, ट्रोजन और स्पाइवेयर सब इसी शब्द में आते हैं।
-
-Q110  [DRAFT-DQ-0110]  EASY  sources: NIST-CSRC-GLOSSARY-20261006
-  EN : What does a firewall mainly do for a network?
-  HI : किसी नेटवर्क के लिए फ़ायरवॉल मुख्यतः क्या करता है?
-  A  EN : Deletes duplicate files
-     HI : डुप्लिकेट फ़ाइलें मिटाता है
-  B  EN : Speeds up downloads
-     HI : डाउनलोड तेज़ करता है
-  C* EN : Allows or blocks traffic according to a set of rules
-     HI : नियमों के अनुसार ट्रैफ़िक को अनुमति देता या रोकता है
-  D  EN : Prints network reports
-     HI : नेटवर्क रिपोर्ट छापता है
-  ANSWER: C
-  EXPL EN : It sits between networks and filters what may pass in either direction.
-  EXPL HI : यह नेटवर्कों के बीच बैठकर तय करता है कि किस दिशा में क्या आ-जा सकता है।
-
-Q111  [DRAFT-DQ-0111]  MEDIUM  sources: NIST-CSRC-GLOSSARY-20261006
-  EN : Which kind of malware locks your files and then demands payment to release them?
-  HI : किस प्रकार का मालवेयर आपकी फ़ाइलें बंद करके उन्हें खोलने के लिए पैसा माँगता है?
-  A  EN : Shareware
-     HI : शेयरवेयर
-  B  EN : Adware
-     HI : एडवेयर
-  C  EN : Firmware
-     HI : फ़र्मवेयर
-  D* EN : Ransomware
-     HI : रैनसमवेयर
-  ANSWER: D
-  EXPL EN : It encrypts the victim's data and holds the decryption key for ransom.
-  EXPL HI : यह पीड़ित का डेटा एन्क्रिप्ट करता है और डिक्रिप्शन कुंजी बंधक रखता है।
-
-Q112  [DRAFT-DQ-0112]  MEDIUM  sources: NIST-CSRC-GLOSSARY-20261006
-  EN : Two-factor authentication improves account security by requiring what?
-  HI : द्वि-कारक प्रमाणीकरण खाते की सुरक्षा कैसे बढ़ाता है?
-  A  EN : Two separate accounts
-     HI : दो अलग खाते
-  B  EN : A password changed every two days
-     HI : हर दो दिन बदला जाने वाला पासवर्ड
-  C* EN : Two different kinds of proof of identity
-     HI : पहचान के दो अलग-अलग प्रकार के प्रमाण
-  D  EN : A password twice as long
-     HI : दुगुना लंबा पासवर्ड
-  ANSWER: C
-  EXPL EN : A password you know plus a code from a device you hold are two different factors.
-  EXPL HI : आपका जाना हुआ पासवर्ड और आपके पास मौजूद उपकरण से मिला कोड दो अलग कारक हैं।
-
-Q113  [DRAFT-DQ-0113]  EASY  sources: NOAA-NWS-GLOSSARY-20261007
-  EN : Which instrument measures atmospheric pressure?
-  HI : वायुमंडलीय दाब किस यंत्र से मापा जाता है?
-  A  EN : Hygrometer
-     HI : हाइग्रोमीटर
-  B  EN : Seismometer
-     HI : सिस्मोमीटर
-  C  EN : Thermometer
-     HI : थर्मामीटर
-  D* EN : Barometer
-     HI : बैरोमीटर
-  ANSWER: D
-  EXPL EN : A falling barometer reading is one of the earliest hints of approaching bad weather.
-  EXPL HI : गिरता हुआ बैरोमीटर की रीडिंग खराब मौसम के आने का सबसे पहले मिलने वाला संकेत है।
-
-Q114  [DRAFT-DQ-0114]  MEDIUM  sources: NOAA-NWS-GLOSSARY-20261007
-  EN : What is the dew point?
-  HI : ओसांक क्या होता है?
-  A  EN : The depth of the cloud base
-     HI : बादल की तली की ऊँचाई
-  B  EN : The hottest hour of the day
-     HI : दिन का सबसे गर्म समय
-  C* EN : The temperature at which air becomes saturated and vapour condenses
-     HI : वह तापमान जिस पर वायु संतृप्त होकर वाष्प संघनित होने लगे
-  D  EN : The pressure at sea level
-     HI : समुद्र तल पर दाब
-  ANSWER: C
-  EXPL EN : When air cools to its dew point, dew, fog or clouds form.
-  EXPL HI : जब वायु अपने ओसांक तक ठंडी होती है तो ओस, कोहरा या बादल बनते हैं।
-
-Q115  [DRAFT-DQ-0115]  EASY  sources: NOAA-NWS-GLOSSARY-20261007
-  EN : Wind speed at a weather station is recorded with which instrument?
-  HI : मौसम केंद्र पर हवा की गति किस यंत्र से दर्ज की जाती है?
-  A  EN : Barometer
-     HI : बैरोमीटर
-  B* EN : Anemometer
-     HI : एनीमोमीटर
-  C  EN : Pyranometer
-     HI : पायरानोमीटर
-  D  EN : Rain gauge
-     HI : वर्षा मापक
-  ANSWER: B
-  EXPL EN : Cup or ultrasonic anemometers spin or sense airflow to give the speed.
-  EXPL HI : कप या अल्ट्रासोनिक एनीमोमीटर हवा के प्रवाह से गति बताते हैं।
-
-Q116  [DRAFT-DQ-0116]  MEDIUM  sources: NOAA-NWS-GLOSSARY-20261007
-  EN : In weather language, what does a cyclone refer to?
-  HI : मौसम विज्ञान की भाषा में चक्रवात किसे कहते हैं?
-  A  EN : A sudden fall in humidity
-     HI : आर्द्रता में अचानक गिरावट
-  B  EN : A long period without rain
-     HI : बिना वर्षा की लंबी अवधि
-  C  EN : A layer of cold air near the ground
-     HI : ज़मीन के पास ठंडी हवा की परत
-  D* EN : A large low-pressure system with winds spiralling inward
-     HI : कम दाब का बड़ा तंत्र जिसमें हवाएँ अंदर की ओर घूमती हैं
-  ANSWER: D
-  EXPL EN : The opposite, a high-pressure system with outward spiralling winds, is an anticyclone.
-  EXPL HI : इसके विपरीत, बाहर की ओर घूमती हवाओं वाला उच्च दाब तंत्र प्रतिचक्रवात कहलाता है।
-
-Q117  [DRAFT-DQ-0117]  EASY  sources: WHO-FIVE-KEYS
-  EN : The WHO's five keys to safer food open with which piece of advice?
-  HI : सुरक्षित भोजन के लिए WHO की पाँच कुंजियाँ किस सलाह से शुरू होती हैं?
-  A  EN : Eat quickly
-     HI : जल्दी खाएँ
-  B  EN : Serve food hot at all times
-     HI : भोजन हर समय गर्म परोसें
-  C* EN : Keep clean
-     HI : साफ़ रखें
-  D  EN : Add more salt
-     HI : अधिक नमक डालें
-  ANSWER: C
-  EXPL EN : The other four are separating raw and cooked food, cooking thoroughly, safe temperatures and safe water and raw materials.
-  EXPL HI : अन्य चार हैं कच्चे और पके भोजन को अलग रखना, अच्छी तरह पकाना, सुरक्षित तापमान और सुरक्षित जल व कच्ची सामग्री।
-
-Q118  [DRAFT-DQ-0118]  HARD  sources: WHO-FOOD-SAFETY
-  EN : In which temperature band do food-poisoning bacteria multiply fastest?
-  HI : भोजन से विषाक्त करने वाले जीवाणु किस तापमान सीमा में सबसे तेज़ी से बढ़ते हैं?
-  A* EN : Between 5 and 60 degrees Celsius
-     HI : 5 से 60 डिग्री सेल्सियस के बीच
-  B  EN : Between 0 and 2 degrees Celsius
-     HI : 0 से 2 डिग्री सेल्सियस के बीच
-  C  EN : Below minus 18 degrees Celsius
-     HI : माइनस 18 डिग्री सेल्सियस से नीचे
-  D  EN : Above 100 degrees Celsius
-     HI : 100 डिग्री सेल्सियस से ऊपर
-  ANSWER: A
-  EXPL EN : Keeping hot food above 60 degrees and cold food below 5 degrees avoids that band.
-  EXPL HI : गर्म भोजन 60 डिग्री से ऊपर और ठंडा भोजन 5 डिग्री से नीचे रखने पर यह सीमा टल जाती है।
-
-Q119  [DRAFT-DQ-0119]  MEDIUM  sources: WHO-FOOD-SAFETY, WHO-FIVE-KEYS
-  EN : Why should raw meat be kept apart from ready-to-eat food in the kitchen?
-  HI : रसोई में कच्चे मांस को खाने के लिए तैयार भोजन से अलग क्यों रखना चाहिए?
-  A* EN : To stop harmful germs transferring between them
-     HI : उनके बीच हानिकारक जीवाणुओं के जाने को रोकने के लिए
-  B  EN : To reduce the cooking time
-     HI : पकाने का समय घटाने के लिए
-  C  EN : To keep the colours separate
-     HI : रंग अलग रखने के लिए
-  D  EN : To save refrigerator space
-     HI : फ़्रिज में जगह बचाने के लिए
-  ANSWER: A
-  EXPL EN : That transfer is called cross-contamination and is a leading cause of food-borne illness.
-  EXPL HI : इस स्थानांतरण को क्रॉस-कंटैमिनेशन कहते हैं और यह भोजन जनित बीमारी का प्रमुख कारण है।
-
-Q120  [DRAFT-DQ-0120]  MEDIUM  sources: WHO-FOOD-SAFETY
-  EN : What does putting cooked food in the refrigerator actually do to the bacteria on it?
-  HI : पके भोजन को फ़्रिज में रखने से उस पर मौजूद जीवाणुओं का क्या होता है?
-  A  EN : It turns them into harmless spores
-     HI : वे हानिरहित बीजाणु बन जाते हैं
-  B  EN : It kills all of them at once
-     HI : वे एक साथ सभी मर जाते हैं
-  C* EN : It slows their growth without destroying them
-     HI : वे धीमे पड़ जाते हैं पर नष्ट नहीं होते
-  D  EN : It makes them multiply faster
-     HI : वे तेज़ी से बढ़ने लगते हैं
-  ANSWER: C
-  EXPL EN : Only heat, or long cooking, reduces the number of live bacteria in cooked food.
-  EXPL HI : पके भोजन में जीवित जीवाणुओं की संख्या केवल गर्मी या पर्याप्त पकाने से घटती है।
-
-Q121  [DRAFT-DQ-0121]  EASY  sources: FIDE-LAWS-2023
-  EN : How many pieces does each player command at the start of a chess game?
-  HI : शतरंज की शुरुआत में प्रत्येक खिलाड़ी के पास कितने मोहरे होते हैं?
-  A  EN : Twelve
-     HI : बारह
-  B  EN : Thirty-two
-     HI : बत्तीस
-  C  EN : Twenty
-     HI : बीस
-  D* EN : Sixteen
-     HI : सोलह
-  ANSWER: D
-  EXPL EN : One king, one queen, two rooks, two bishops, two knights and eight pawns.
-  EXPL HI : एक राजा, एक वज़ीर, दो हाथी, दो ऊँट, दो घोड़े और आठ प्यादे।
-
-Q122  [DRAFT-DQ-0122]  EASY  sources: FIDE-LAWS-2023
-  EN : In chess, which side makes the first move?
-  HI : शतरंज में पहली चाल किस पक्ष की होती है?
-  A  EN : The higher-rated player
-     HI : उच्च रेटिंग वाला खिलाड़ी
-  B  EN : The player with the black pieces
-     HI : काले मोहरों वाला खिलाड़ी
-  C* EN : The player with the white pieces
-     HI : सफ़ेद मोहरों वाला खिलाड़ी
-  D  EN : Whoever wins the coin toss
-     HI : जो टॉस जीते
-  ANSWER: C
-  EXPL EN : After that, players alternate one move at a time.
-  EXPL HI : इसके बाद दोनों खिलाड़ी बारी-बारी से एक-एक चाल चलते हैं।
-
-Q123  [DRAFT-DQ-0123]  HARD  sources: FIDE-LAWS-2023
-  EN : What is stalemate in chess?
-  HI : शतरंज में 'स्टेलमेट' क्या होता है?
-  A  EN : Neither player can deliver checkmate within fifty moves
-     HI : पचास चालों में कोई भी खिलाड़ी शहमात नहीं दे पाता
-  B* EN : The side to move has no legal move and its king is not in check, so the game is a draw
-     HI : जिस पक्ष की चाल है उसके पास कोई वैध चाल नहीं है और उसका राजा शह में नहीं है, इसलिए खेल बराबरी रहता है
-  C  EN : Both players repeat the same position three times
-     HI : दोनों खिलाड़ी एक ही स्थिति तीन बार दोहराते हैं
-  D  EN : A player's clock runs out while ahead on material
-     HI : मोहरों में आगे रहते हुए खिलाड़ी का समय समाप्त हो जाता है
-  ANSWER: B
-  EXPL EN : Stalemate saves many lost positions because the result becomes a draw, not a win.
-  EXPL HI : स्टेलमेट कई हारी हुई बाज़ी बचा लेता है क्योंकि परिणाम जीत नहीं बल्कि बराबरी होती है।
-
-Q124  [DRAFT-DQ-0124]  MEDIUM  sources: FIDE-LAWS-2023
-  EN : Castling is a single move that involves which two pieces?
-  HI : कैसलिंग एक ही चाल है जिसमें कौन से दो मोहरे शामिल होते हैं?
-  A* EN : The king and a rook
-     HI : राजा और हाथी
-  B  EN : A pawn and the king
-     HI : प्यादा और राजा
-  C  EN : Two bishops
-     HI : दो ऊँट
-  D  EN : The queen and a knight
-     HI : वज़ीर और घोड़ा
-  ANSWER: A
-  EXPL EN : The king moves two squares towards the rook, which jumps over it.
-  EXPL HI : राजा हाथी की ओर दो खाने चलता है और हाथी उसके ऊपर से कूद जाता है।
-
-Q125  [DRAFT-DQ-0125]  HARD  sources: FIDE-LAWS-2023
-  EN : En passant is a special capture that can be made only by which piece?
-  HI : 'एन पासॉ' नामक विशेष कब्ज़ा केवल कौन सा मोहरा कर सकता है?
-  A* EN : A pawn
-     HI : प्यादा
-  B  EN : A knight
-     HI : घोड़ा
-  C  EN : The queen
-     HI : वज़ीर
-  D  EN : A rook
-     HI : हाथी
-  ANSWER: A
-  EXPL EN : It is allowed only on the move immediately after an enemy pawn advances two squares.
-  EXPL HI : यह केवल उसी चाल पर संभव है जब विरोधी प्यादा दो खाने आगे बढ़ा हो।
-
-Q126  [DRAFT-DQ-0126]  HARD  sources: FIDE-LAWS-2023
-  EN : Under the FIDE Laws of Chess, what happens when a player completes a first illegal move in a standard game?
-  HI : FIDE शतरंज नियमों के अनुसार, मानक खेल में किसी खिलाड़ी की पहली अवैध चाल पूरी होने पर क्या होता है?
-  A* EN : Two minutes are added to the opponent's clock
-     HI : प्रतिद्वंद्वी की घड़ी में दो मिनट जोड़े जाते हैं
-  B  EN : The game ends immediately as a loss
-     HI : खेल तुरंत हार के साथ समाप्त हो जाता है
-  C  EN : One point is deducted from the player
-     HI : खिलाड़ी का एक अंक काटा जाता है
-  D  EN : The move is simply taken back
-     HI : चाल को सीधे वापस ले लिया जाता है
-  ANSWER: A
-  EXPL EN : A second illegal move adds four minutes and a third loses the game.
-  EXPL HI : दूसरी अवैध चाल पर चार मिनट जुड़ते हैं और तीसरी पर खेल हार जाता है।
-
-Q127  [DRAFT-DQ-0127]  MEDIUM  sources: SMG-CINEMA
-  EN : Who held the famous public film screening in Paris in 1895?
-  HI : 1895 में पेरिस में प्रसिद्ध सार्वजनिक फ़िल्म प्रदर्शन किसने किया?
-  A  EN : The Warner brothers
-     HI : वार्नर बंधु
-  B  EN : Charlie Chaplin
-     HI : चार्ली चैपलिन
-  C* EN : The Lumiere brothers
-     HI : लूमियर बंधु
-  D  EN : Georges Melies
-     HI : जॉर्ज मेलियस
-  ANSWER: C
-  EXPL EN : Their short films of workers leaving a factory and a train arriving amazed the audience.
-  EXPL HI : कारख़ाने से निकलते मज़दूरों और आती हुई ट्रेन की उनकी छोटी फ़िल्में दर्शकों को चकित कर देती थीं।
-
-Q128  [DRAFT-DQ-0128]  HARD  sources: SMG-CINEMA
-  EN : Which 1927 release is remembered for bringing synchronised sound to mainstream cinema?
-  HI : 1927 की कौन सी फ़िल्म मुख्यधारा सिनेमा में समकालिक ध्वनि लाने के लिए याद की जाती है?
-  A* EN : The Jazz Singer
-     HI : द जैज़ सिंगर
-  B  EN : The Great Train Robbery
-     HI : द ग्रेट ट्रेन रॉबरी
-  C  EN : A Trip to the Moon
-     HI : अ ट्रिप टू द मून
-  D  EN : Metropolis
-     HI : मेट्रोपॉलिस
-  ANSWER: A
-  EXPL EN : Within a few years silent production had all but disappeared in Hollywood.
-  EXPL HI : कुछ ही वर्षों में हॉलीवुड में मूक फ़िल्म निर्माण लगभग समाप्त हो गया।
-
-Q129  [DRAFT-DQ-0129]  EASY  sources: MET-GREEK-GODS
-  EN : In Greek tradition, who rules the sky and leads the gods?
-  HI : यूनानी परंपरा में आकाश पर शासन करने वाले और देवताओं के प्रमुख कौन हैं?
-  A  EN : Hermes
-     HI : हरमीस
-  B* EN : Zeus
-     HI : ज़ीउस
-  C  EN : Ares
-     HI : एरीज़
-  D  EN : Apollo
-     HI : अपोलो
-  ANSWER: B
-  EXPL EN : Zeus is shown with the thunderbolt and presides over the council of gods.
-  EXPL HI : ज़ीउस को वज्र के साथ दर्शाया जाता है और वे देवताओं की सभा की अध्यक्षता करते हैं।
-
-Q130  [DRAFT-DQ-0130]  EASY  sources: MET-GREEK-GODS
-  EN : Which Greek goddess is linked with wisdom and strategic warfare?
-  HI : बुद्धि और रणनीतिक युद्ध से जुड़ी यूनानी देवी कौन हैं?
-  A* EN : Athena
-     HI : एथीना
-  B  EN : Demeter
-     HI : डेमीटर
-  C  EN : Artemis
-     HI : आर्टेमिस
-  D  EN : Hera
-     HI : हीरा
-  ANSWER: A
-  EXPL EN : Athens takes its name from her, and the Parthenon was built in her honour.
-  EXPL HI : एथेंस शहर का नाम उन्हीं पर है और पार्थेनॉन उनके सम्मान में बना।
-
-Q131  [DRAFT-DQ-0131]  EASY  sources: MET-GREEK-GODS
-  EN : Who is the Greek god of the sea, earthquakes and horses?
-  HI : समुद्र, भूकंप और घोड़ों के यूनानी देवता कौन हैं?
-  A  EN : Hephaestus
-     HI : हेफ़ेस्तस
-  B* EN : Poseidon
-     HI : पोसायडन
-  C  EN : Cronus
-     HI : क्रोनस
-  D  EN : Dionysus
-     HI : डायोनिसस
-  ANSWER: B
-  EXPL EN : He carries a trident and is the brother of Zeus and Hades.
-  EXPL HI : वे त्रिशूल धारण करते हैं और ज़ीउस व हेडीज़ के भाई हैं।
-
-Q132  [DRAFT-DQ-0132]  MEDIUM  sources: MET-GREEK-GODS
-  EN : Which Greek god rules the realm of the dead?
-  HI : मृतकों के लोक पर शासन करने वाले यूनानी देवता कौन हैं?
-  A  EN : Tartarus
-     HI : टार्टारस
-  B  EN : Hypnos
-     HI : हिप्नोस
-  C* EN : Hades
-     HI : हेडीज़
-  D  EN : Thanatos
-     HI : थानाटोस
-  ANSWER: C
-  EXPL EN : Hades himself is a god; Tartarus is a region beneath the underworld.
-  EXPL HI : हेडीज़ स्वयं देवता हैं; टार्टारस पाताल के नीचे का क्षेत्र है।
-
-Q133  [DRAFT-DQ-0133]  EASY  sources: MET-GREEK-GODS
-  EN : Which Greek goddess is associated with love and beauty?
-  HI : प्रेम और सौंदर्य से जुड़ी यूनानी देवी कौन हैं?
-  A  EN : Hestia
-     HI : हेस्तिया
-  B  EN : Nike
-     HI : नाइकी
-  C* EN : Aphrodite
-     HI : एफ़्रोडाइटी
-  D  EN : Persephone
-     HI : पर्सेफ़ोनी
-  ANSWER: C
-  EXPL EN : The Romans identified her with Venus.
-  EXPL HI : रोमन लोग उन्हें वीनस के रूप में देखते थे।
-
-Q134  [DRAFT-DQ-0134]  MEDIUM  sources: NIH-NCI-GLOSSARY-20261007
-  EN : The spread of cancer from where it started to distant parts of the body is called what?
-  HI : कैंसर का अपने आरंभिक स्थान से शरीर के दूर भागों तक फैलना क्या कहलाता है?
-  A* EN : Metastasis
-     HI : मेटास्टेसिस
-  B  EN : Remission
-     HI : रेमिशन
-  C  EN : Dialysis
-     HI : डायलिसिस
-  D  EN : Biopsy
-     HI : बायोप्सी
-  ANSWER: A
-  EXPL EN : Cancer cells travel through blood or lymph to form secondary growths.
-  EXPL HI : कैंसर कोशिकाएँ रक्त या लसीका के ज़रिए जाकर द्वितीयक गाँठें बनाती हैं।
-
-Q135  [DRAFT-DQ-0135]  MEDIUM  sources: NIH-NCI-GLOSSARY-20261007
-  EN : A growth that stays in one place and does not invade nearby tissue is described as what?
-  HI : ऐसी गाँठ जो एक जगह रहती है और आसपास के ऊतकों पर आक्रमण नहीं करती, उसे क्या कहते हैं?
-  A  EN : Metastatic
-     HI : मेटास्टैटिक
-  B  EN : Malignant
-     HI : घातक
-  C* EN : Benign
-     HI : सौम्य
-  D  EN : Invasive
-     HI : आक्रामक
-  ANSWER: C
-  EXPL EN : Malignant growths are the ones that invade and can spread.
-  EXPL HI : घातक गाँठें ही आक्रमण करती हैं और फैल सकती हैं।
-
-Q136  [DRAFT-DQ-0136]  EASY  sources: NIH-NCI-GLOSSARY-20261007
-  EN : What is a biopsy?
-  HI : बायोप्सी क्या होती है?
-  A* EN : Removing a small sample of tissue for examination under a microscope
-     HI : सूक्ष्मदर्शी से जाँच के लिए ऊतक का छोटा नमूना लेना
-  B  EN : Scanning bones with X-rays
-     HI : एक्स-रे से हड्डियों का स्कैन
-  C  EN : Recording the heart's rhythm
-     HI : हृदय की लय दर्ज करना
-  D  EN : Measuring blood pressure twice
-     HI : रक्तचाप दो बार मापना
-  ANSWER: A
-  EXPL EN : Pathologists study the sample to decide whether the cells are cancerous.
-  EXPL HI : पैथोलॉजिस्ट उस नमूने से तय करते हैं कि कोशिकाएँ कैंसरयुक्त हैं या नहीं।
-
-Q137  [DRAFT-DQ-0137]  EASY  sources: NIH-NCI-GLOSSARY-20261007
-  EN : Which treatment uses drugs to destroy or slow fast-growing cells?
-  HI : तेज़ी से बढ़ने वाली कोशिकाओं को नष्ट करने या धीमा करने के लिए किस उपचार में दवाइयाँ दी जाती हैं?
-  A  EN : Physiotherapy
-     HI : फ़िज़ियोथेरेपी
-  B* EN : Chemotherapy
-     HI : कीमोथेरेपी
-  C  EN : Radiotherapy
-     HI : रेडियोथेरेपी
-  D  EN : Anaesthesia
-     HI : संवेदनाहरण
-  ANSWER: B
-  EXPL EN : Radiotherapy uses radiation instead of circulating drugs.
-  EXPL HI : रेडियोथेरेपी में दवाओं के बजाय विकिरण का उपयोग होता है।
-
-Q138  [DRAFT-DQ-0138]  MEDIUM  sources: WHO-FOOD-SAFETY, UN-MAIN-BODIES
-  EN : The World Health Organization works as a specialised agency of which body?
-  HI : विश्व स्वास्थ्य संगठन किस संस्था की विशिष्ट एजेंसी के रूप में कार्य करता है?
-  A  EN : The Commonwealth Secretariat
-     HI : राष्ट्रमंडल सचिवालय
-  B* EN : The United Nations
-     HI : संयुक्त राष्ट्र
-  C  EN : The World Trade Organization
-     HI : विश्व व्यापार संगठन
-  D  EN : The International Monetary Fund
-     HI : अंतर्राष्ट्रीय मुद्रा कोष
-  ANSWER: B
-  EXPL EN : WHO was founded on 7 April 1948 and coordinates international health work.
-  EXPL HI : WHO की स्थापना 7 अप्रैल 1948 को हुई और यह अंतर्राष्ट्रीय स्वास्थ्य कार्य का समन्वय करता है।
+CROREPATI REVISION V2 — COMPLETE QUESTION BANK (DRAFT)
+============================================================
+Total questions : 298
+Lifecycle       : DRAFT_PENDING_REVIEW (not eligible for practice until VERIFIED)
+Generated       : 2026-10-10
+Rules enforced  : one question per fact, zero repeats, zero curriculum meta-language
+                : no answer sits in the same slot on more than 40% of items
+
+Format: no. EN question / हिंदी प्रश्न — optionA · optionB · optionC · optionD -> **answer**
+
+1. Which planet has the largest diameter in our solar system? / हमारे सौर मंडल में सबसे बड़ा व्यास किस ग्रह का है? — Venus/शुक्र · Jupiter/बृहस्पति · Mars/मंगल · Mercury/बुध -> **B. Jupiter**
+2. Which planet has the hottest surface because of a thick carbon dioxide atmosphere? / कार्बन डाइऑक्साइड की घनी परत के कारण किस ग्रह की सतह सबसे अधिक गर्म रहती है? — Venus/शुक्र · Mars/मंगल · Mercury/बुध · Earth/पृथ्वी -> **A. Venus**
+3. Which of these is a rocky planet rather than a gas giant? / इनमें से कौन गैस दानव नहीं बल्कि चट्टानी ग्रह है? — Earth/पृथ्वी · Jupiter/बृहस्पति · Saturn/शनि · Neptune/वरुण -> **A. Earth**
+4. Which planet rolls around the Sun tipped on its side, with an axial tilt near 98 degrees? / कौन सा ग्रह लगभग 98 डिग्री झुकाव के साथ अपनी करवट पर सूर्य की परिक्रमा करता है? — Mars/मंगल · Saturn/शनि · Neptune/वरुण · Uranus/अरुण -> **D. Uranus**
+5. Which world finishes one full trip around the Sun in the shortest time? / सूर्य का एक पूरा चक्कर सबसे कम समय में कौन सा ग्रह पूरा करता है? — Mars/मंगल · Earth/पृथ्वी · Venus/शुक्र · Mercury/बुध -> **D. Mercury**
+6. What kind of feature is Jupiter's Great Red Spot? / बृहस्पति का 'ग्रेट रेड स्पॉट' किस प्रकार की संरचना है? — A ring of red dust/लाल धूल का वलय · An erupting volcano/फटता हुआ ज्वालामुखी · A crater filled with ice/बर्फ़ से भरा गड्ढा · A long-lived giant storm/एक दीर्घकालिक विशाल तूफ़ान -> **D. A long-lived giant storm**
+7. Phobos and Deimos orbit which planet? / फोबोस और डीमोस किस ग्रह के उपग्रह हैं? — Mars/मंगल · Jupiter/बृहस्पति · Saturn/शनि · Mercury/बुध -> **A. Mars**
+8. Which planet is known for a wide, bright ring system seen even through small telescopes? / किस ग्रह की चौड़ी और चमकीली वलय प्रणाली छोटी दूरबीन से भी दिख जाती है? — Saturn/शनि · Mars/मंगल · Venus/शुक्र · Mercury/बुध -> **A. Saturn**
+9. What is the Sun's visible surface layer, from which most sunlight escapes, called? / सूर्य की वह दृश्य सतह परत क्या कहलाती है जहाँ से अधिकांश प्रकाश निकलता है? — Core/क्रोड · Chromosphere/वर्णमंडल · Photosphere/प्रकाशमंडल · Corona/किरीट -> **C. Photosphere**
+10. Why do sunspots appear darker than the gas around them? / सनस्पॉट अपने आसपास की गैस से अधिक काले क्यों दिखते हैं? — They are cooler than the surrounding gas/वे आसपास की गैस से ठंडे होते हैं · They are made of solid rock/वे ठोस चट्टान से बने होते हैं · They cast a shadow from the Moon/वे चंद्रमा की छाया डालते हैं · They absorb all incoming light/वे सारा आने वाला प्रकाश सोख लेते हैं -> **A. They are cooler than the surrounding gas**
+11. Which part of the Sun becomes visible as a pearly halo during a total solar eclipse? / पूर्ण सूर्य ग्रहण के समय सूर्य का कौन सा भाग मोती जैसा घेरा बनकर दिखता है? — The corona/किरीट · The photosphere/प्रकाशमंडल · The core/क्रोड · The radiative zone/विकिरण क्षेत्र -> **A. The corona**
+12. Roughly how long does sunlight take to travel from the Sun to Earth? / सूर्य से पृथ्वी तक प्रकाश पहुँचने में लगभग कितना समय लगता है? — About 8 days/लगभग 8 दिन · About 8 minutes/लगभग 8 मिनट · About 8 hours/लगभग 8 घंटे · About 8 seconds/लगभग 8 सेकंड -> **B. About 8 minutes**
+13. Which mission first carried humans down to the Moon's surface? / मनुष्यों को पहली बार चंद्रमा की सतह तक कौन से मिशन ने पहुँचाया? — Vostok 1/वोस्तोक 1 · Gemini 12/जेमिनी 12 · Apollo 8/अपोलो 8 · Apollo 11/अपोलो 11 -> **D. Apollo 11**
+14. Who was the first person to walk on the Moon? / चंद्रमा पर चलने वाले पहले व्यक्ति कौन थे? — Buzz Aldrin/बज़ एल्ड्रिन · Yuri Gagarin/यूरी गगारिन · Michael Collins/माइकल कॉलिन्स · Neil Armstrong/नील आर्मस्ट्रांग -> **D. Neil Armstrong**
+15. During the first Moon landing, who remained alone in orbit inside the Command Module? / पहली चंद्र लैंडिंग के दौरान कमांड मॉड्यूल में कक्षा में अकेले कौन रहे? — Michael Collins/माइकल कॉलिन्स · Neil Armstrong/नील आर्मस्ट्रांग · Buzz Aldrin/बज़ एल्ड्रिन · Alan Shepard/एलन शेपर्ड -> **A. Michael Collins**
+16. What name was given to the lander that touched down on the Moon in 1969? / 1969 में चंद्रमा पर उतरने वाले लैंडर का क्या नाम था? — Eagle/ईगल · Columbia/कोलंबिया · Endeavour/एंडेवर · Falcon/फ़ाल्कन -> **A. Eagle**
+17. How many base units does the International System of Units contain? / अंतर्राष्ट्रीय इकाई प्रणाली में कितनी मूल इकाइयाँ होती हैं? — Twelve/बारह · Five/पाँच · Seven/सात · Nine/नौ -> **C. Seven**
+18. Which is the SI base unit of electric current? / विद्युत धारा की SI मूल इकाई कौन सी है? — Ampere/ऐम्पियर · Volt/वोल्ट · Ohm/ओम · Watt/वाट -> **A. Ampere**
+19. Luminous intensity is measured in which SI base unit? / ज्योति तीव्रता किस SI मूल इकाई में मापी जाती है? — Lux/लक्स · Lumen/लुमेन · Kelvin/केल्विन · Candela/कैंडेला -> **D. Candela**
+20. Which SI base unit counts the amount of substance? / पदार्थ की मात्रा किस SI मूल इकाई में गिनी जाती है? — Mole/मोल · Gram/ग्राम · Litre/लीटर · Kelvin/केल्विन -> **A. Mole**
+21. Thermodynamic temperature uses which SI base unit? / ऊष्मागतिक तापमान किस SI मूल इकाई में व्यक्त होता है? — Kelvin/केल्विन · Celsius/सेल्सियस · Fahrenheit/फ़ारेनहाइट · Joule/जूल -> **A. Kelvin**
+22. Which of these is not one of the seven SI base units? / इनमें से कौन सात SI मूल इकाइयों में शामिल नहीं है? — Mole/मोल · Candela/कैंडेला · Newton/न्यूटन · Kelvin/केल्विन -> **C. Newton**
+23. The SI prefix 'kilo' stands for which factor? / SI उपसर्ग 'किलो' किस गुणक को दर्शाता है? — 10,000/10,000 · 100/100 · 1,000,000/10,00,000 · 1,000/1,000 -> **D. 1,000**
+24. Which SI prefix represents one billionth, 10 to the minus 9? / कौन सा SI उपसर्ग एक अरबवाँ भाग, 10 की घात माइनस 9, दर्शाता है? — milli/मिली · pico/पिको · micro/माइक्रो · nano/नैनो -> **D. nano**
+25. A red blood cell is roughly 8 micrometres wide. What does the prefix 'micro' mean in micrometre? / लाल रक्त कोशिका लगभग 8 माइक्रोमीटर चौड़ी होती है। माइक्रोमीटर में उपसर्ग 'माइक्रो' का क्या अर्थ है? — One millionth/दस लाखवाँ भाग · One thousandth/हज़ारवाँ भाग · One billionth/अरबवाँ भाग · One hundredth/सौवाँ भाग -> **A. One millionth**
+26. The SI prefix 'tera' stands for which factor? / SI उपसर्ग 'टेरा' किस गुणक को दर्शाता है? — One quadrillion, 10 to the power 15/एक करोड़ अरब, 10 की घात 15 · One million, 10 to the power 6/दस लाख, 10 की घात 6 · One trillion, 10 to the power 12/एक खरब, 10 की घात 12 · One billion, 10 to the power 9/एक अरब, 10 की घात 9 -> **C. One trillion, 10 to the power 12**
+27. One inch is exactly equal to how many centimetres? / एक इंच ठीक-ठीक कितने सेंटीमीटर के बराबर होता है? — 2.5/2.5 · 3.28/3.28 · 25/25 · 2.54/2.54 -> **D. 2.54**
+28. A nautical mile, used by ships and aircraft, is exactly how many metres? / जहाज़ों और विमानों में प्रयुक्त एक समुद्री मील ठीक कितने मीटर होती है? — 1,000/1,000 · 1,852/1,852 · 1,609/1,609 · 2,000/2,000 -> **B. 1,852**
+29. Which technique maps the seafloor by timing sound pulses that bounce back from it? / समुद्र तल से टकराकर लौटने वाली ध्वनि तरंगों का समय मापकर उसे किस तकनीक से चित्रित किया जाता है? — Sonar/सोनार · Radar/राडार · Lidar/लाइडार · Magnetometry/चुंबकमिति -> **A. Sonar**
+30. In ocean exploration, what does the abbreviation ROV stand for? / समुद्र अन्वेषण में ROV का पूर्ण रूप क्या है? — Reef observation volume/रीफ़ ऑब्ज़र्वेशन वॉल्यूम · Remotely operated vehicle/रिमोटली ऑपरेटेड व्हीकल · Rotating observation valve/रोटेटिंग ऑब्ज़र्वेशन वाल्व · Rapid ocean vessel/रैपिड ओशन वेसल -> **B. Remotely operated vehicle**
+31. The deepest known point in the world's oceans lies in which trench? / विश्व के महासागरों का सबसे गहरा ज्ञात बिंदु किस खाई में स्थित है? — Java Trench/जावा खाई · Puerto Rico Trench/प्यूर्टो रिको खाई · Tonga Trench/टोंगा खाई · Mariana Trench/मारियाना खाई -> **D. Mariana Trench**
+32. Life clustered around deep-sea hydrothermal vents draws its energy mainly through which process? / गहरे समुद्र की हाइड्रोथर्मल वेंट के आसपास का जीवन मुख्यतः किस प्रक्रिया से ऊर्जा पाता है? — Fermentation/किण्वन · Respiration of sunlight/सूर्य प्रकाश का श्वसन · Chemosynthesis/रसोसंश्लेषण · Photosynthesis/प्रकाशसंश्लेषण -> **C. Chemosynthesis**
+33. In ocean exploration, what does the abbreviation AUV stand for? / समुद्र अन्वेषण में AUV का पूर्ण रूप क्या है? — Autonomous underwater vehicle/ऑटोनोमस अंडरवाटर व्हीकल · Assisted uplift valve/असिस्टेड अपलिफ़्ट वाल्व · Aerial underwater viewer/एरियल अंडरवाटर व्यूअर · Anchor utility vessel/एंकर यूटिलिटी वेसल -> **A. Autonomous underwater vehicle**
+34. Which planet is whipped by the fastest winds measured in the solar system? / सौर मंडल में मापी गई सबसे तेज़ हवाएँ किस ग्रह पर चलती हैं? — Earth/पृथ्वी · Venus/शुक्र · Neptune/वरुण · Jupiter/बृहस्पति -> **C. Neptune**
+35. The SI second is defined by counting vibrations of which atom? / SI सेकंड की परिभाषा किस परमाणु के कंपन गिनकर की जाती है? — Hydrogen-1/हाइड्रोजन-1 · Carbon-12/कार्बन-12 · Caesium-133/सीज़ियम-133 · Oxygen-16/ऑक्सीजन-16 -> **C. Caesium-133**
+36. The Parliament of India is made up of which three parts? / भारत की संसद किन तीन भागों से मिलकर बनी है? — The President, the Lok Sabha and the Rajya Sabha/राष्ट्रपति, लोक सभा और राज्य सभा · The Prime Minister, the Lok Sabha and the Rajya Sabha/प्रधानमंत्री, लोक सभा और राज्य सभा · The President, the Supreme Court and the Lok Sabha/राष्ट्रपति, सर्वोच्च न्यायालय और लोक सभा · The President, the Lok Sabha and the state assemblies/राष्ट्रपति, लोक सभा और राज्य विधानसभाएँ -> **A. The President, the Lok Sabha and the Rajya Sabha**
+37. Which House of Parliament is described as the Council of States? / संसद के किस सदन को राज्य परिषद कहा जाता है? — Rajya Sabha/राज्य सभा · Lok Sabha/लोक सभा · Legislative Council/विधान परिषद · NITI Aayog/नीति आयोग -> **A. Rajya Sabha**
+38. A money bill can be introduced only in which House? / धन विधेयक केवल किस सदन में प्रस्तुत किया जा सकता है? — Lok Sabha/लोक सभा · Either House/किसी भी सदन में · A joint sitting of both/दोनों के संयुक्त सत्र में · Rajya Sabha/राज्य सभा -> **A. Lok Sabha**
+39. Who presides over the sittings of the Lok Sabha? / लोक सभा की बैठकों की अध्यक्षता कौन करता है? — The Speaker/अध्यक्ष (स्पीकर) · The President/राष्ट्रपति · The Prime Minister/प्रधानमंत्री · The Chief Justice of India/भारत के मुख्य न्यायाधीश -> **A. The Speaker**
+40. What is the maximum strength of the Lok Sabha provided by the Constitution? / संविधान के अनुसार लोक सभा की अधिकतम सदस्य संख्या कितनी है? — 550/550 · 545/545 · 500/500 · 600/600 -> **A. 550**
+41. The Rajya Sabha is never dissolved. What share of its members retires every two years? / राज्य सभा कभी भंग नहीं होती। इसके कितने भाग के सदस्य हर दो वर्ष में सेवानिवृत्त होते हैं? — One fourth/एक चौथाई · Two thirds/दो तिहाई · One third/एक तिहाई · One half/आधा -> **C. One third**
+42. On which date did the Constitution of India come into effect? / भारत का संविधान किस तिथि को लागू हुआ? — 26 January 1950/26 जनवरी 1950 · 26 November 1949/26 नवंबर 1949 · 15 August 1947/15 अगस्त 1947 · 26 January 1930/26 जनवरी 1930 -> **A. 26 January 1950**
+43. Which Part of the Constitution of India deals with Panchayats? / भारत के संविधान का कौन सा भाग पंचायतों से संबंधित है? — Part XI/भाग XI · Part IXA/भाग IXA · Part III/भाग III · Part IX/भाग IX -> **D. Part IX**
+44. Which Part of the Constitution sets out the framework for Municipalities? / संविधान का कौन सा भाग नगरपालिकाओं का ढाँचा तय करता है? — Part IXA/भाग IXA · Part IX/भाग IX · Part IV/भाग IV · Part XIV/भाग XIV -> **A. Part IXA**
+45. Panchayati Raj institutions received constitutional status through which Amendment Act? / पंचायती राज संस्थाओं को संवैधानिक दर्जा किस संशोधन अधिनियम से मिला? — The 73rd Amendment/73वाँ संशोधन · The 42nd Amendment/42वाँ संशोधन · The 44th Amendment/44वाँ संशोधन · The 101st Amendment/101वाँ संशोधन -> **A. The 73rd Amendment**
+46. The Gram Sabha consists of whom? / ग्राम सभा किन लोगों से बनती है? — Every registered voter in the village panchayat area/ग्राम पंचायत क्षेत्र के प्रत्येक पंजीकृत मतदाता · Only the elected ward members/केवल निर्वाचित वार्ड सदस्य · Only land-owning families/केवल भूमिधारक परिवार · The sarpanch and the block officer/सरपंच और ब्लॉक अधिकारी -> **A. Every registered voter in the village panchayat area**
+47. Which committee's 1957 report recommended democratic decentralisation behind Panchayati Raj? / 1957 में किस समिति की रिपोर्ट ने पंचायती राज के पीछे लोकतांत्रिक विकेंद्रीकरण की सिफ़ारिश की? — Balwant Rai Mehta Committee/बलवंत राय मेहता समिति · Sarkaria Commission/सरकारिया आयोग · Narasimham Committee/नरसिम्हम समिति · Dhar Commission/धर आयोग -> **A. Balwant Rai Mehta Committee**
+48. Which Act provides for a legislature and council of ministers for certain Union territories? / कौन सा अधिनियम कुछ केंद्र शासित प्रदेशों के लिए विधानमंडल और मंत्रिपरिषद की व्यवस्था करता है? — The Delhi Municipal Corporation Act, 1957/दिल्ली नगर निगम अधिनियम, 1957 · The Representation of the People Act, 1951/जन प्रतिनिधित्व अधिनियम, 1951 · The States Reorganisation Act, 1956/राज्य पुनर्गठन अधिनियम, 1956 · The Government of Union Territories Act, 1963/सरकार संघ राज्य क्षेत्र अधिनियम, 1963 -> **D. The Government of Union Territories Act, 1963**
+49. Fundamental Rights are contained in which Part of the Constitution of India? / भारत के संविधान में मौलिक अधिकार किस भाग में दिए गए हैं? — Part III/भाग III · Part IV/भाग IV · Part II/भाग II · Part V/भाग V -> **A. Part III**
+50. Which Article lets a citizen move the Supreme Court directly to enforce a Fundamental Right? / किस अनुच्छेद के तहत नागरिक मौलिक अधिकार के प्रवर्तन हेतु सीधे सर्वोच्च न्यायालय जा सकता है? — Article 51A/अनुच्छेद 51A · Article 21/अनुच्छेद 21 · Article 32/अनुच्छेद 32 · Article 44/अनुच्छेद 44 -> **C. Article 32**
+51. Which institution is the final interpreter of the Constitution of India? / भारत के संविधान का अंतिम व्याख्याकार कौन सी संस्था है? — The Supreme Court/सर्वोच्च न्यायालय · The Parliament/संसद · The Law Commission/विधि आयोग · The Election Commission/निर्वाचन आयोग -> **A. The Supreme Court**
+52. Which country shares the longest land border with India? / भारत के साथ सबसे लंबी स्थल सीमा किस देश की है? — Pakistan/पाकिस्तान · Bangladesh/बांग्लादेश · China/चीन · Nepal/नेपाल -> **B. Bangladesh**
+53. How many countries share a land boundary with India, according to the Ministry of Home Affairs? / गृह मंत्रालय के अनुसार कितने देशों की भारत के साथ स्थल सीमा लगती है? — Nine/नौ · Seven/सात · Six/छह · Five/पाँच -> **B. Seven**
+54. Which Indian state has the longest international border? / किस भारतीय राज्य की अंतर्राष्ट्रीय सीमा सबसे लंबी है? — West Bengal/पश्चिम बंगाल · Jammu and Kashmir/जम्मू और कश्मीर · Assam/असम · Rajasthan/राजस्थान -> **A. West Bengal**
+55. Which line marked the 1947 boundary between India and Pakistan? / 1947 में भारत और पाकिस्तान के बीच की सीमा किस रेखा से तय हुई? — The McMahon Line/मैकमोहन रेखा · The Radcliffe Line/रेडक्लिफ रेखा · The 24th parallel/24वाँ समांतर · The Durand Line/डूरंड रेखा -> **B. The Radcliffe Line**
+56. Indian Standard Time runs ahead of UTC by how much? / भारतीय मानक समय UTC से कितना आगे है? — 4 hours 30 minutes/4 घंटे 30 मिनट · 5 hours 30 minutes/5 घंटे 30 मिनट · 6 hours/6 घंटे · 5 hours/5 घंटे -> **B. 5 hours 30 minutes**
+57. Which Indian laboratory keeps the country's official time and frequency standards? / भारत के आधिकारिक समय और आवृत्ति मानक कौन सी प्रयोगशाला रखती है? — CSIR-National Physical Laboratory/सीएसआईआर-राष्ट्रीय भौतिकी प्रयोगशाला · ISRO/इसरो · Indian Meteorological Department/भारत मौसम विज्ञान विभाग · Survey of India/भारतीय सर्वेक्षण -> **A. CSIR-National Physical Laboratory**
+58. Indian Standard Time is calculated from the standard meridian at which longitude? / भारतीय मानक समय किस देशांतर के मानक मध्याह्न से निकाला जाता है? — 82 degrees 30 minutes east/82 डिग्री 30 मिनट पूर्व · 80 degrees east/80 डिग्री पूर्व · 90 degrees east/90 डिग्री पूर्व · 75 degrees 30 minutes east/75 डिग्री 30 मिनट पूर्व -> **A. 82 degrees 30 minutes east**
+59. Who issues currency notes in India? / भारत में मुद्रा नोट कौन जारी करता है? — NITI Aayog/नीति आयोग · State Bank of India/स्टेट बैंक ऑफ़ इंडिया · Reserve Bank of India/भारतीय रिज़र्व बैंक · Securities and Exchange Board of India/भारतीय प्रतिभूति और विनिमय बोर्ड -> **C. Reserve Bank of India**
+60. Which body issues the one rupee note in India? / भारत में एक रुपये का नोट कौन जारी करता है? — The Ministry of Commerce/वाणिज्य मंत्रालय · The Government of India/भारत सरकार · The Reserve Bank of India/भारतीय रिज़र्व बैंक · The National Payments Corporation/राष्ट्रीय भुगतान निगम -> **B. The Government of India**
+61. Who designed the rupee symbol that India adopted in 2010? / 2010 में भारत द्वारा अपनाए गए रुपये के प्रतीक चिह्न को किसने डिज़ाइन किया? — M. F. Husain/एम. एफ. हुसैन · D. Udaya Kumar/डी. उदय कुमार · R. K. Laxman/आर. के. लक्ष्मण · Satyajit Ray/सत्यजित रे -> **B. D. Udaya Kumar**
+62. How many mints in India produce coins? / भारत में कितने टकसालें सिक्के बनाती हैं? — Four/चार · Two/दो · Six/छह · Eight/आठ -> **A. Four**
+63. The Himalayas rose mainly because of the collision between which two tectonic plates? / हिमालय मुख्यतः किन दो विवर्तनिक प्लेटों की टक्कर से बना? — The African and the Arabian plates/अफ़्रीकी और अरब प्लेट · The Pacific and the Nazca plates/प्रशांत और नाज़का प्लेट · The Indian and the Eurasian plates/भारतीय और यूरेशियाई प्लेट · The Antarctic and the Indo-Australian plates/अंटार्कटिक और भारत-ऑस्ट्रेलियाई प्लेट -> **C. The Indian and the Eurasian plates**
+64. The Northern Plains of India are built mainly from what kind of material? / भारत का उत्तरी मैदान मुख्यतः किस प्रकार की सामग्री से बना है? — Volcanic lava/ज्वालामुखीय लावा · Alluvium carried by rivers/नदियों द्वारा लाई गई जलोढ़ मिट्टी · Glacial granite/हिमनदी ग्रेनाइट · Coral reef debris/प्रवाल भित्ति का मलबा -> **B. Alluvium carried by rivers**
+65. The Thar Desert lies mainly in which Indian state? / थार मरुस्थल मुख्यतः किस भारतीय राज्य में स्थित है? — Madhya Pradesh/मध्य प्रदेश · Rajasthan/राजस्थान · Punjab/पंजाब · Gujarat/गुजरात -> **B. Rajasthan**
+66. The eastern coast of India between the deltas of the Krishna and Kaveri is known by which name? / कृष्णा और कावेरी के डेल्टाओं के बीच भारत के पूर्वी तट को किस नाम से जाना जाता है? — Malabar Coast/मालाबार तट · Coromandel Coast/कोरोमंडल तट · Kutch Coast/कच्छ तट · Konkan Coast/कोंकण तट -> **B. Coromandel Coast**
+67. Which plateau is bounded by the Western Ghats on one side and the Eastern Ghats on the other? / किस पठार की एक ओर पश्चिमी घाट और दूसरी ओर पूर्वी घाट हैं? — The Deccan Plateau/दक्कन का पठार · The Chotanagpur Plateau/छोटानागपुर पठार · The Malwa Plateau/मालवा पठार · The Ladakh Plateau/लद्दाख पठार -> **A. The Deccan Plateau**
+68. In which city was the Charter of the United Nations signed in 1945? / 1945 में संयुक्त राष्ट्र का चार्टर किस शहर में हस्ताक्षरित हुआ? — San Francisco/सैन फ़्रांसिस्को · Geneva/जिनेवा · New York/न्यूयॉर्क · London/लंदन -> **A. San Francisco**
+69. On which date did the United Nations officially come into existence? / संयुक्त राष्ट्र आधिकारिक रूप से किस तिथि को अस्तित्व में आया? — 24 October 1945/24 अक्टूबर 1945 · 26 June 1945/26 जून 1945 · 1 January 1946/1 जनवरी 1946 · 10 December 1948/10 दिसंबर 1948 -> **A. 24 October 1945**
+70. The Charter opens by stating the United Nations' first purpose. What is it? / चार्टर संयुक्त राष्ट्र का पहला उद्देश्य बताते हुए शुरू होता है। वह क्या है? — To elect national governments/राष्ट्रीय सरकारों का चुनाव कराना · To run a common currency/एक साझा मुद्रा चलाना · To fix world trade tariffs/विश्व व्यापार शुल्क तय करना · To maintain international peace and security/अंतर्राष्ट्रीय शांति और सुरक्षा बनाए रखना -> **D. To maintain international peace and security**
+71. How many principal organs does the United Nations have? / संयुक्त राष्ट्र के कितने प्रधान अंग हैं? — Six/छह · Four/चार · Five/पाँच · Seven/सात -> **A. Six**
+72. Which principal organ of the United Nations sits in The Hague? / संयुक्त राष्ट्र का कौन सा प्रधान अंग हेग में स्थित है? — The International Court of Justice/अंतर्राष्ट्रीय न्यायालय · The General Assembly/महासभा · The Security Council/सुरक्षा परिषद · The Secretariat/सचिवालय -> **A. The International Court of Justice**
+73. How many permanent members sit on the United Nations Security Council? / संयुक्त राष्ट्र सुरक्षा परिषद में कितने स्थायी सदस्य हैं? — Seven/सात · Ten/दस · Five/पाँच · Three/तीन -> **C. Five**
+74. Including the permanent ones, how many members does the Security Council have? / स्थायी सदस्यों सहित सुरक्षा परिषद में कुल कितने सदस्य होते हैं? — Fifteen/पंद्रह · Twelve/बारह · Ten/दस · Twenty/बीस -> **A. Fifteen**
+75. Which United Nations organ suspended its operations in 1994 after the last trust territory became independent? / 1994 में अंतिम न्यासिता क्षेत्र के स्वतंत्र होने के बाद किस संयुक्त राष्ट्र अंग ने अपना कार्य निलंबित कर दिया? — The General Assembly/महासभा · The International Court of Justice/अंतर्राष्ट्रीय न्यायालय · The Trusteeship Council/न्यासिता परिषद · The Economic and Social Council/आर्थिक और सामाजिक परिषद -> **C. The Trusteeship Council**
+76. Which body recommends the appointment of the Secretary-General of the United Nations? / संयुक्त राष्ट्र के महासचिव की नियुक्ति की सिफ़ारिश कौन सा निकाय करता है? — The Security Council/सुरक्षा परिषद · The Economic and Social Council/आर्थिक और सामाजिक परिषद · The Trusteeship Council/न्यासिता परिषद · The International Court of Justice/अंतर्राष्ट्रीय न्यायालय -> **A. The Security Council**
+77. The ruins of Mohenjo-daro, a World Heritage site, lie in which country? / विश्व धरोहर स्थल मोहनजोदड़ो के अवशेष किस देश में हैं? — Iran/ईरान · Pakistan/पाकिस्तान · Afghanistan/अफ़ग़ानिस्तान · India/भारत -> **B. Pakistan**
+78. Mohenjo-daro belonged to which ancient civilisation? / मोहनजोदड़ो किस प्राचीन सभ्यता का हिस्सा था? — The Egyptian civilisation/मिस्र सभ्यता · The Mayan civilisation/माया सभ्यता · The Indus Valley civilisation/सिंधु घाटी सभ्यता · The Mesopotamian civilisation/मेसोपोटामिया सभ्यता -> **C. The Indus Valley civilisation**
+79. Which large brick water structure is a famous feature of Mohenjo-daro? / मोहनजोदड़ो की प्रसिद्ध विशाल ईंटों की जल संरचना कौन सी है? — The Great Bath/ग्रेट बाथ · The Royal Cistern/रॉयल सिस्टर्न · The Step Well/बावड़ी · The Granary Tank/अन्नागार जलाशय -> **A. The Great Bath**
+80. The name 'Mohenjo-daro' is usually translated into English as what? / 'मोहनजोदड़ो' नाम का अंग्रेज़ी में सामान्यतः क्या अर्थ लगाया जाता है? — City of kings/राजाओं का नगर · Gate of the river/नदी का द्वार · Mound of the dead/मुर्दों का टीला · Field of grain/अनाज का खेत -> **C. Mound of the dead**
+81. Lumbini, the birthplace of the Lord Buddha, is located in which country? / भगवान बुद्ध की जन्मस्थली लुंबिनी किस देश में स्थित है? — Nepal/नेपाल · India/भारत · Sri Lanka/श्रीलंका · Bhutan/भूटान -> **A. Nepal**
+82. Which ancient pillar stands at Lumbini as a marker of the Buddha's birthplace? / लुंबिनी में बुद्ध की जन्मस्थली का चिह्न कौन सा प्राचीन स्तंभ है? — The Heliodorus pillar/हेलियोडोरस स्तंभ · The Vijaya pillar/विजय स्तंभ · The Ashoka pillar/अशोक स्तंभ · The Iron Pillar/लौह स्तंभ -> **C. The Ashoka pillar**
+83. The UNESCO Convention adopted in 2003 is meant to safeguard which kind of heritage? / 2003 में अपनाया गया यूनेस्को सम्मेलन किस प्रकार की धरोहर की रक्षा के लिए है? — Fossil beds/जीवाश्म क्षेत्र · Underwater shipwrecks/जलमग्न जहाज़ · Intangible cultural heritage/अमूर्त सांस्कृतिक धरोहर · Monuments of stone/पाषाण स्मारक -> **C. Intangible cultural heritage**
+84. In which country was the 1944 Bretton Woods Conference held? / 1944 का ब्रेटन वुड्स सम्मेलन किस देश में आयोजित हुआ? — The United States/अमेरिका · The United Kingdom/ब्रिटेन · Switzerland/स्विट्ज़रलैंड · France/फ़्रांस -> **A. The United States**
+85. The Bretton Woods Conference led to the creation of which pair of institutions? / ब्रेटन वुड्स सम्मेलन से किन दो संस्थाओं का निर्माण हुआ? — The IMF and the World Bank/IMF और विश्व बैंक · The WTO and the UN/WTO और संयुक्त राष्ट्र · The WHO and UNICEF/WHO और यूनिसेफ़ · The Asian Development Bank and the AIIB/एशियाई विकास बैंक और AIIB -> **A. The IMF and the World Bank**
+86. Where is the headquarters of the International Monetary Fund? / अंतर्राष्ट्रीय मुद्रा कोष का मुख्यालय कहाँ है? — Washington, D.C./वॉशिंगटन, डी.सी. · Nairobi/नैरोबी · Geneva/जिनेवा · Paris/पेरिस -> **A. Washington, D.C.**
+87. What is the name of the reserve asset and unit of account used by the IMF? / IMF द्वारा प्रयुक्त आरक्षित परिसंपत्ति और लेखा इकाई का क्या नाम है? — Bretton Notes/ब्रेटन नोट्स · Convertible Trade Credits/कन्वर्टिबल ट्रेड क्रेडिट्स · Global Reserve Bonds/वैश्विक आरक्षित पत्र · Special Drawing Rights/स्पेशल ड्रॉइंग राइट्स -> **D. Special Drawing Rights**
+88. The IMF describes its central job in one phrase. Which of these is it? / IMF अपने मुख्य कार्य को एक वाक्यांश में बताता है। वह कौन सा है? — Safeguarding the stability of the international monetary system/अंतर्राष्ट्रीय मौद्रिक प्रणाली की स्थिरता की रक्षा करना · Setting interest rates for member countries/सदस्य देशों के लिए ब्याज दरें तय करना · Printing a common world currency/विश्व की साझा मुद्रा छापना · Approving national budgets/राष्ट्रीय बजट स्वीकृत करना -> **A. Safeguarding the stability of the international monetary system**
+89. The World Bank Group is made up of how many institutions? / विश्व बैंक समूह कितनी संस्थाओं से मिलकर बना है? — Three/तीन · Seven/सात · Five/पाँच · Two/दो -> **C. Five**
+90. Which World Bank Group institution works directly with private companies in developing countries? / विकासशील देशों में निजी कंपनियों के साथ सीधे काम करने वाली विश्व बैंक समूह की कौन सी संस्था है? — The International Development Association/अंतर्राष्ट्रीय विकास संघ · The International Finance Corporation/अंतर्राष्ट्रीय वित्त निगम · The International Centre for Settlement of Investment Disputes/निवेश विवाद निपटान हेतु अंतर्राष्ट्रीय केंद्र · The Multilateral Investment Guarantee Agency/बहुपक्षीय निवेश गारंटी एजेंसी -> **B. The International Finance Corporation**
+91. Which World Bank Group body provides political risk insurance to foreign investors? / विदेशी निवेशकों को राजनीतिक जोखिम बीमा देने वाला विश्व बैंक समूह का कौन सा निकाय है? — ICSID/ICSID · MIGA/MIGA · IBRD/IBRD · IDA/IDA -> **B. MIGA**
+92. Which World Bank Group body settles investment disputes between governments and foreign investors? / सरकारों और विदेशी निवेशकों के बीच निवेश विवाद निपटाने वाला विश्व बैंक समूह का कौन सा निकाय है? — IFC/IFC · IBRD/IBRD · ICSID/ICSID · MIGA/MIGA -> **C. ICSID**
+93. Which World Bank Group institution gives interest-free credits and grants to the poorest countries? / सबसे ग़रीब देशों को ब्याज-मुक्त ऋण और अनुदान देने वाली विश्व बैंक समूह की कौन सी संस्था है? — IDA/IDA · IFC/IFC · MIGA/MIGA · ICSID/ICSID -> **A. IDA**
+94. Alfred Nobel's will created prizes in how many original fields? / अल्फ्रेड नोबेल की वसीयत से कितने मूल क्षेत्रों में पुरस्कार बने? — Five/पाँच · Three/तीन · Six/छह · Four/चार -> **A. Five**
+95. Which Nobel Prize is presented in Oslo rather than Stockholm? / कौन सा नोबेल पुरस्कार स्टॉकहोम के बजाय ओस्लो में दिया जाता है? — The Peace Prize/शांति पुरस्कार · The Physics Prize/भौतिकी पुरस्कार · The Literature Prize/साहित्य पुरस्कार · The Chemistry Prize/रसायन विज्ञान पुरस्कार -> **A. The Peace Prize**
+96. In which year were the first Nobel Prizes handed out? / पहले नोबेल पुरस्कार किस वर्ष दिए गए? — 1901/1901 · 1896/1896 · 1910/1910 · 1921/1921 -> **A. 1901**
+97. In which year did Rabindranath Tagore receive the Nobel Prize in Literature? / रवींद्रनाथ टैगोर को साहित्य का नोबेल पुरस्कार किस वर्ष मिला? — 1913/1913 · 1901/1901 · 1921/1921 · 1930/1930 -> **A. 1913**
+98. Tagore's Nobel award was cited for which collection of poems? / टैगोर को नोबेल पुरस्कार किस कविता संग्रह के लिए दिया गया? — Gitanjali/गीतांजलि · Gora/गोरा · Ghare-Baire/घरे-बाइरे · Dak Ghar/डाक घर -> **A. Gitanjali**
+99. Which national anthem of India was written by Rabindranath Tagore? / भारत का कौन सा राष्ट्रीय गान रवींद्रनाथ टैगोर ने लिखा? — Jana Gana Mana/जन गण मन · Vande Mataram/वंदे मातरम् · Saare Jahan Se Achha/सारे जहाँ से अच्छा · Amar Shonar Bangla/अमर सोनार बांग्ला -> **A. Jana Gana Mana**
+100. On which date was the American Declaration of Independence adopted? / अमेरिकी स्वतंत्रता की घोषणा किस तिथि को अपनाई गई? — 14 July 1776/14 जुलाई 1776 · 4 June 1776/4 जून 1776 · 4 July 1776/4 जुलाई 1776 · 4 July 1789/4 जुलाई 1789 -> **C. 4 July 1776**
+101. Who was the principal author of the American Declaration of Independence? / अमेरिकी स्वतंत्रता की घोषणा के मुख्य लेखक कौन थे? — Alexander Hamilton/अलेक्ज़ेंडर हैमिल्टन · James Madison/जेम्स मैडिसन · Thomas Jefferson/थॉमस जेफ़रसन · George Washington/जॉर्ज वॉशिंगटन -> **C. Thomas Jefferson**
+102. The Declaration of Independence says governments draw their just powers from what? / स्वतंत्रता की घोषणा के अनुसार सरकारें अपनी न्यायोचित शक्तियाँ कहाँ से प्राप्त करती हैं? — A vote taken by the army/सेना द्वारा लिए गए मत से · The authority of the Crown/राजमुकुट के अधिकार से · The consent of the governed/शासितों की सहमति से · A treaty signed with France/फ़्रांस से हुई संधि द्वारा -> **C. The consent of the governed**
+103. In networking, what does DNS stand for? / नेटवर्किंग में DNS का पूर्ण रूप क्या है? — Domain Name System/डोमेन नेम सिस्टम · Digital Node Service/डिजिटल नोड सर्विस · Direct Network Socket/डायरेक्ट नेटवर्क सॉकेट · Dynamic Naming Standard/डायनामिक नेमिंग स्टैंडर्ड -> **A. Domain Name System**
+104. What is the main job of DNS? / DNS का मुख्य काम क्या है? — Turning domain names into IP addresses/डोमेन नामों को IP पतों में बदलना · Encrypting web traffic/वेब ट्रैफ़िक एन्क्रिप्ट करना · Storing email messages/ईमेल संदेश सहेजना · Compressing images/छवियाँ संपीड़ित करना -> **A. Turning domain names into IP addresses**
+105. In which year was RFC 1034, the paper that set out domain name concepts, published? / डोमेन नाम की अवधारणाएँ देने वाला RFC 1034 किस वर्ष प्रकाशित हुआ? — 1987/1987 · 1975/1975 · 1995/1995 · 2001/2001 -> **A. 1987**
+106. In the domain name system, what does the word 'zone' mean? / डोमेन नाम प्रणाली में 'ज़ोन' शब्द का क्या अर्थ है? — A portion of the name space that one name server is responsible for/नाम स्थान का वह भाग जिसकी ज़िम्मेदारी एक नाम सर्वर लेता है · A physical room holding the servers/सर्वर रखने वाला भौतिक कमरा · A country's border on the internet/इंटरनेट पर किसी देश की सीमा · A time period for cached records/सहेजे गए रिकॉर्ड की समय अवधि -> **A. A portion of the name space that one name server is responsible for**
+107. The domain name space is arranged as an upside-down tree. What sits at its very top? / डोमेन नाम स्थान एक उल्टे वृक्ष जैसा है। इसके सबसे ऊपर क्या होता है? — The root/रूट · The .com domain/.com डोमेन · The local host/स्थानीय होस्ट · The resolver cache/रिज़ॉल्वर कैश -> **A. The root**
+108. What does 'phishing' describe in cybersecurity? / साइबर सुरक्षा में 'फ़िशिंग' किसे कहते हैं? — Copying a website's look for design study/डिज़ाइन अध्ययन के लिए वेबसाइट की नक़ल करना · Slowing a server with heavy traffic/भारी ट्रैफ़िक से सर्वर धीमा करना · Scanning a network for open ports/नेटवर्क पर खुले पोर्ट खोजना · Tricking people into revealing sensitive details by posing as a trusted party/विश्वसनीय पक्ष बनकर लोगों से संवेदनशील जानकारी उगलवाना -> **D. Tricking people into revealing sensitive details by posing as a trusted party**
+109. The word 'malware' is short for what? / 'मालवेयर' शब्द किसका संक्षिप्त रूप है? — Mobile application/मोबाइल एप्लिकेशन · Mailing warehouse/मेलिंग वेयरहाउस · Managed hardware/प्रबंधित हार्डवेयर · Malicious software/दुर्भावनापूर्ण सॉफ़्टवेयर -> **D. Malicious software**
+110. What does a firewall mainly do for a network? / किसी नेटवर्क के लिए फ़ायरवॉल मुख्यतः क्या करता है? — Allows or blocks traffic according to a set of rules/नियमों के अनुसार ट्रैफ़िक को अनुमति देता या रोकता है · Speeds up downloads/डाउनलोड तेज़ करता है · Deletes duplicate files/डुप्लिकेट फ़ाइलें मिटाता है · Prints network reports/नेटवर्क रिपोर्ट छापता है -> **A. Allows or blocks traffic according to a set of rules**
+111. Which kind of malware locks your files and then demands payment to release them? / किस प्रकार का मालवेयर आपकी फ़ाइलें बंद करके उन्हें खोलने के लिए पैसा माँगता है? — Ransomware/रैनसमवेयर · Adware/एडवेयर · Firmware/फ़र्मवेयर · Shareware/शेयरवेयर -> **A. Ransomware**
+112. Two-factor authentication improves account security by requiring what? / द्वि-कारक प्रमाणीकरण खाते की सुरक्षा कैसे बढ़ाता है? — Two different kinds of proof of identity/पहचान के दो अलग-अलग प्रकार के प्रमाण · A password twice as long/दुगुना लंबा पासवर्ड · Two separate accounts/दो अलग खाते · A password changed every two days/हर दो दिन बदला जाने वाला पासवर्ड -> **A. Two different kinds of proof of identity**
+113. Which instrument measures atmospheric pressure? / वायुमंडलीय दाब किस यंत्र से मापा जाता है? — Seismometer/सिस्मोमीटर · Barometer/बैरोमीटर · Thermometer/थर्मामीटर · Hygrometer/हाइग्रोमीटर -> **B. Barometer**
+114. What is the dew point? / ओसांक क्या होता है? — The temperature at which air becomes saturated and vapour condenses/वह तापमान जिस पर वायु संतृप्त होकर वाष्प संघनित होने लगे · The hottest hour of the day/दिन का सबसे गर्म समय · The depth of the cloud base/बादल की तली की ऊँचाई · The pressure at sea level/समुद्र तल पर दाब -> **A. The temperature at which air becomes saturated and vapour condenses**
+115. Wind speed at a weather station is recorded with which instrument? / मौसम केंद्र पर हवा की गति किस यंत्र से दर्ज की जाती है? — Anemometer/एनीमोमीटर · Barometer/बैरोमीटर · Rain gauge/वर्षा मापक · Pyranometer/पायरानोमीटर -> **A. Anemometer**
+116. In weather language, what does a cyclone refer to? / मौसम विज्ञान की भाषा में चक्रवात किसे कहते हैं? — A layer of cold air near the ground/ज़मीन के पास ठंडी हवा की परत · A long period without rain/बिना वर्षा की लंबी अवधि · A large low-pressure system with winds spiralling inward/कम दाब का बड़ा तंत्र जिसमें हवाएँ अंदर की ओर घूमती हैं · A sudden fall in humidity/आर्द्रता में अचानक गिरावट -> **C. A large low-pressure system with winds spiralling inward**
+117. The WHO's five keys to safer food open with which piece of advice? / सुरक्षित भोजन के लिए WHO की पाँच कुंजियाँ किस सलाह से शुरू होती हैं? — Serve food hot at all times/भोजन हर समय गर्म परोसें · Add more salt/अधिक नमक डालें · Eat quickly/जल्दी खाएँ · Keep clean/साफ़ रखें -> **D. Keep clean**
+118. In which temperature band do food-poisoning bacteria multiply fastest? / भोजन से विषाक्त करने वाले जीवाणु किस तापमान सीमा में सबसे तेज़ी से बढ़ते हैं? — Between 5 and 60 degrees Celsius/5 से 60 डिग्री सेल्सियस के बीच · Above 100 degrees Celsius/100 डिग्री सेल्सियस से ऊपर · Between 0 and 2 degrees Celsius/0 से 2 डिग्री सेल्सियस के बीच · Below minus 18 degrees Celsius/माइनस 18 डिग्री सेल्सियस से नीचे -> **A. Between 5 and 60 degrees Celsius**
+119. Why should raw meat be kept apart from ready-to-eat food in the kitchen? / रसोई में कच्चे मांस को खाने के लिए तैयार भोजन से अलग क्यों रखना चाहिए? — To stop harmful germs transferring between them/उनके बीच हानिकारक जीवाणुओं के जाने को रोकने के लिए · To save refrigerator space/फ़्रिज में जगह बचाने के लिए · To keep the colours separate/रंग अलग रखने के लिए · To reduce the cooking time/पकाने का समय घटाने के लिए -> **A. To stop harmful germs transferring between them**
+120. What does putting cooked food in the refrigerator actually do to the bacteria on it? / पके भोजन को फ़्रिज में रखने से उस पर मौजूद जीवाणुओं का क्या होता है? — It makes them multiply faster/वे तेज़ी से बढ़ने लगते हैं · It kills all of them at once/वे एक साथ सभी मर जाते हैं · It turns them into harmless spores/वे हानिरहित बीजाणु बन जाते हैं · It slows their growth without destroying them/वे धीमे पड़ जाते हैं पर नष्ट नहीं होते -> **D. It slows their growth without destroying them**
+121. How many pieces does each player command at the start of a chess game? / शतरंज की शुरुआत में प्रत्येक खिलाड़ी के पास कितने मोहरे होते हैं? — Thirty-two/बत्तीस · Sixteen/सोलह · Twenty/बीस · Twelve/बारह -> **B. Sixteen**
+122. In chess, which side makes the first move? / शतरंज में पहली चाल किस पक्ष की होती है? — Whoever wins the coin toss/जो टॉस जीते · The player with the black pieces/काले मोहरों वाला खिलाड़ी · The higher-rated player/उच्च रेटिंग वाला खिलाड़ी · The player with the white pieces/सफ़ेद मोहरों वाला खिलाड़ी -> **D. The player with the white pieces**
+123. What is stalemate in chess? / शतरंज में 'स्टेलमेट' क्या होता है? — A player's clock runs out while ahead on material/मोहरों में आगे रहते हुए खिलाड़ी का समय समाप्त हो जाता है · Neither player can deliver checkmate within fifty moves/पचास चालों में कोई भी खिलाड़ी शहमात नहीं दे पाता · The side to move has no legal move and its king is not in check, so the game is a draw/जिस पक्ष की चाल है उसके पास कोई वैध चाल नहीं है और उसका राजा शह में नहीं है, इसलिए खेल बराबरी रहता है · Both players repeat the same position three times/दोनों खिलाड़ी एक ही स्थिति तीन बार दोहराते हैं -> **C. The side to move has no legal move and its king is not in check, so the game is a draw**
+124. Castling is a single move that involves which two pieces? / कैसलिंग एक ही चाल है जिसमें कौन से दो मोहरे शामिल होते हैं? — The king and a rook/राजा और हाथी · The queen and a knight/वज़ीर और घोड़ा · Two bishops/दो ऊँट · A pawn and the king/प्यादा और राजा -> **A. The king and a rook**
+125. En passant is a special capture that can be made only by which piece? / 'एन पासॉ' नामक विशेष कब्ज़ा केवल कौन सा मोहरा कर सकता है? — A pawn/प्यादा · A knight/घोड़ा · A rook/हाथी · The queen/वज़ीर -> **A. A pawn**
+126. Under the FIDE Laws of Chess, what happens when a player completes a first illegal move in a standard game? / FIDE शतरंज नियमों के अनुसार, मानक खेल में किसी खिलाड़ी की पहली अवैध चाल पूरी होने पर क्या होता है? — Two minutes are added to the opponent's clock/प्रतिद्वंद्वी की घड़ी में दो मिनट जोड़े जाते हैं · The game ends immediately as a loss/खेल तुरंत हार के साथ समाप्त हो जाता है · The move is simply taken back/चाल को सीधे वापस ले लिया जाता है · One point is deducted from the player/खिलाड़ी का एक अंक काटा जाता है -> **A. Two minutes are added to the opponent's clock**
+127. Who held the famous public film screening in Paris in 1895? / 1895 में पेरिस में प्रसिद्ध सार्वजनिक फ़िल्म प्रदर्शन किसने किया? — Charlie Chaplin/चार्ली चैपलिन · The Lumiere brothers/लूमियर बंधु · The Warner brothers/वार्नर बंधु · Georges Melies/जॉर्ज मेलियस -> **B. The Lumiere brothers**
+128. Which 1927 release is remembered for bringing synchronised sound to mainstream cinema? / 1927 की कौन सी फ़िल्म मुख्यधारा सिनेमा में समकालिक ध्वनि लाने के लिए याद की जाती है? — The Jazz Singer/द जैज़ सिंगर · A Trip to the Moon/अ ट्रिप टू द मून · Metropolis/मेट्रोपॉलिस · The Great Train Robbery/द ग्रेट ट्रेन रॉबरी -> **A. The Jazz Singer**
+129. In Greek tradition, who rules the sky and leads the gods? / यूनानी परंपरा में आकाश पर शासन करने वाले और देवताओं के प्रमुख कौन हैं? — Ares/एरीज़ · Hermes/हरमीस · Apollo/अपोलो · Zeus/ज़ीउस -> **D. Zeus**
+130. Which Greek goddess is linked with wisdom and strategic warfare? / बुद्धि और रणनीतिक युद्ध से जुड़ी यूनानी देवी कौन हैं? — Athena/एथीना · Artemis/आर्टेमिस · Hera/हीरा · Demeter/डेमीटर -> **A. Athena**
+131. Who is the Greek god of the sea, earthquakes and horses? / समुद्र, भूकंप और घोड़ों के यूनानी देवता कौन हैं? — Poseidon/पोसायडन · Hephaestus/हेफ़ेस्तस · Dionysus/डायोनिसस · Cronus/क्रोनस -> **A. Poseidon**
+132. Which Greek god rules the realm of the dead? / मृतकों के लोक पर शासन करने वाले यूनानी देवता कौन हैं? — Thanatos/थानाटोस · Hades/हेडीज़ · Tartarus/टार्टारस · Hypnos/हिप्नोस -> **B. Hades**
+133. Which Greek goddess is associated with love and beauty? / प्रेम और सौंदर्य से जुड़ी यूनानी देवी कौन हैं? — Nike/नाइकी · Aphrodite/एफ़्रोडाइटी · Hestia/हेस्तिया · Persephone/पर्सेफ़ोनी -> **B. Aphrodite**
+134. The spread of cancer from where it started to distant parts of the body is called what? / कैंसर का अपने आरंभिक स्थान से शरीर के दूर भागों तक फैलना क्या कहलाता है? — Metastasis/मेटास्टेसिस · Remission/रेमिशन · Biopsy/बायोप्सी · Dialysis/डायलिसिस -> **A. Metastasis**
+135. A growth that stays in one place and does not invade nearby tissue is described as what? / ऐसी गाँठ जो एक जगह रहती है और आसपास के ऊतकों पर आक्रमण नहीं करती, उसे क्या कहते हैं? — Benign/सौम्य · Malignant/घातक · Metastatic/मेटास्टैटिक · Invasive/आक्रामक -> **A. Benign**
+136. What is a biopsy? / बायोप्सी क्या होती है? — Removing a small sample of tissue for examination under a microscope/सूक्ष्मदर्शी से जाँच के लिए ऊतक का छोटा नमूना लेना · Recording the heart's rhythm/हृदय की लय दर्ज करना · Measuring blood pressure twice/रक्तचाप दो बार मापना · Scanning bones with X-rays/एक्स-रे से हड्डियों का स्कैन -> **A. Removing a small sample of tissue for examination under a microscope**
+137. Which treatment uses drugs to destroy or slow fast-growing cells? / तेज़ी से बढ़ने वाली कोशिकाओं को नष्ट करने या धीमा करने के लिए किस उपचार में दवाइयाँ दी जाती हैं? — Chemotherapy/कीमोथेरेपी · Physiotherapy/फ़िज़ियोथेरेपी · Radiotherapy/रेडियोथेरेपी · Anaesthesia/संवेदनाहरण -> **A. Chemotherapy**
+138. The World Health Organization works as a specialised agency of which body? / विश्व स्वास्थ्य संगठन किस संस्था की विशिष्ट एजेंसी के रूप में कार्य करता है? — The International Monetary Fund/अंतर्राष्ट्रीय मुद्रा कोष · The Commonwealth Secretariat/राष्ट्रमंडल सचिवालय · The United Nations/संयुक्त राष्ट्र · The World Trade Organization/विश्व व्यापार संगठन -> **C. The United Nations**
+139. Who is the constitutional head of state of India? / भारत का संवैधानिक राष्ट्रप्रमुख कौन होता है? — The Chief Justice/मुख्य न्यायाधीश · The Prime Minister/प्रधानमंत्री · The President/राष्ट्रपति · The Vice President/उपराष्ट्रपति -> **C. The President**
+140. Who is the ex-officio Chairman of NITI Aayog? / नीति आयोग के पदेन अध्यक्ष कौन होते हैं? — The Prime Minister/प्रधानमंत्री · The Finance Minister/वित्त मंत्री · The Home Minister/गृह मंत्री · The President/राष्ट्रपति -> **A. The Prime Minister**
+141. Who is the ex-officio Chairman of the Rajya Sabha? / राज्य सभा के पदेन सभापति कौन होते हैं? — The Speaker/लोक सभा अध्यक्ष · The President/राष्ट्रपति · The Vice President/उपराष्ट्रपति · The Leader of the House/सदन के नेता -> **C. The Vice President**
+142. What is the minimum age to become a member of the Lok Sabha? / लोक सभा सदस्य बनने के लिए न्यूनतम आयु कितनी है? — 25 years/25 वर्ष · 30 years/30 वर्ष · 18 years/18 वर्ष · 21 years/21 वर्ष -> **A. 25 years**
+143. What is the minimum age to become a member of the Rajya Sabha? / राज्य सभा सदस्य बनने के लिए न्यूनतम आयु कितनी है? — 21 years/21 वर्ष · 25 years/25 वर्ष · 30 years/30 वर्ष · 35 years/35 वर्ष -> **C. 30 years**
+144. What is the minimum voting age in India? / भारत में मतदान की न्यूनतम आयु क्या है? — 18 years/18 वर्ष · 25 years/25 वर्ष · 16 years/16 वर्ष · 21 years/21 वर्ष -> **A. 18 years**
+145. Which Article of the Constitution guarantees equality before the law? / संविधान का कौन सा अनुच्छेद विधि के समक्ष समानता की गारंटी देता है? — Article 18/अनुच्छेद 18 · Article 12/अनुच्छेद 12 · Article 16/अनुच्छेद 16 · Article 14/अनुच्छेद 14 -> **D. Article 14**
+146. Freedom of speech and expression comes under which Article? / वाक की स्वतंत्रता किस अनुच्छेद के अंतर्गत आती है? — Article 19/अनुच्छेद 19 · Article 22/अनुच्छेद 22 · Article 20/अनुच्छेद 20 · Article 15/अनुच्छेद 15 -> **A. Article 19**
+147. Which Article abolishes untouchability in India? / भारत में छुआछूत किस अनुच्छेद द्वारा समाप्त की गई? — Article 23/अनुच्छेद 23 · Article 14/अनुच्छेद 14 · Article 25/अनुच्छेद 25 · Article 17/अनुच्छेद 17 -> **D. Article 17**
+148. The Fundamental Duties of Indian citizens are listed in which Article? / भारतीय नागरिकों के मौलिक कर्तव्य किस अनुच्छेद में दिए गए हैं? — Article 21/अनुच्छेद 21 · Article 51A/अनुच्छेद 51A · Article 32/अनुच्छेद 32 · Article 44/अनुच्छेद 44 -> **B. Article 51A**
+149. The Directive Principles of State Policy sit in which Part of the Constitution? / राज्य के नीति निर्देशक तत्व संविधान के किस भाग में हैं? — Part IV/भाग IV · Part XII/भाग XII · Part IX/भाग IX · Part III/भाग III -> **A. Part IV**
+150. How many Schedules does the Constitution of India contain? / भारत के संविधान में कितनी अनुसूचियाँ हैं? — Ten/दस · Twelve/बारह · Eight/आठ · Fourteen/चौदह -> **B. Twelve**
+151. Who chaired the Drafting Committee of the Constituent Assembly? / संविधान सभा की प्रारूप समिति के अध्यक्ष कौन थे? — Dr B. R. Ambedkar/डॉ. बी. आर. अम्बेडकर · Dr Rajendra Prasad/डॉ. राजेन्द्र प्रसाद · Jawaharlal Nehru/जवाहरलाल नेहरू · Sardar Vallabhbhai Patel/सरदार वल्लभभाई पटेल -> **A. Dr B. R. Ambedkar**
+152. With which words does the Preamble of the Indian Constitution begin? / भारत के संविधान की प्रस्तावना किन शब्दों से शुरू होती है? — India, that is Bharat/इंडिया, देट इज़ भारत · We, the people of India/हम, भारत के लोग · Satyameva Jayate/सत्यमेव जयते · Jana Gana Mana/जन गण मन -> **B. We, the people of India**
+153. Which Amendment added the words 'Socialist' and 'Secular' to the Preamble? / प्रस्तावना में 'समाजवादी' और 'पंथनिरपेक्ष' शब्द किस संशोधन से जोड़े गए? — The 73rd Amendment/73वाँ संशोधन · The 42nd Amendment/42वाँ संशोधन · The 86th Amendment/86वाँ संशोधन · The 44th Amendment/44वाँ संशोधन -> **B. The 42nd Amendment**
+154. What is the quorum required to hold a sitting of either House of Parliament? / संसद के किसी भी सदन की बैठक के लिए आवश्यक कोरम क्या है? — One fourth of the total members/कुल सदस्यों का चौथाई भाग · One tenth of the total members/कुल सदस्यों का दसवाँ भाग · Half of the total members/कुल सदस्यों का आधा भाग · One third of the total members/कुल सदस्यों का एक तिहाई -> **B. One tenth of the total members**
+155. Who presides over a joint sitting of the two Houses of Parliament? / संसद के दोनों सदनों की संयुक्त बैठक की अध्यक्षता कौन करता है? — The Speaker of the Lok Sabha/लोक सभा के अध्यक्ष · The President/राष्ट्रपति · The Chairman of the Rajya Sabha/राज्य सभा के सभापति · The senior-most member/सबसे वरिष्ठ सदस्य -> **A. The Speaker of the Lok Sabha**
+156. Who administers the oath of office to the President of India? / भारत के राष्ट्रपति को पद की शपथ कौन दिलाता है? — The outgoing President/निवर्तमान राष्ट्रपति · The Chief Justice of India/भारत के मुख्य न्यायाधीश · The Prime Minister/प्रधानमंत्री · The Vice President/उपराष्ट्रपति -> **B. The Chief Justice of India**
+157. The establishment of the Supreme Court of India is provided for in which Article? / भारत के सर्वोच्च न्यायालय की स्थापना किस अनुच्छेद में की गई है? — Article 226/अनुच्छेद 226 · Article 124/अनुच्छेद 124 · Article 32/अनुच्छेद 32 · Article 143/अनुच्छेद 143 -> **B. Article 124**
+158. The office of the Attorney General for India is created by which Article? / भारत के महान्यायवादी का पद किस अनुच्छेद द्वारा बनाया गया है? — Article 76/अनुच्छेद 76 · Article 112/अनुच्छेद 112 · Article 85/अनुच्छेद 85 · Article 72/अनुच्छेद 72 -> **A. Article 76**
+159. The Comptroller and Auditor General of India is provided for in which Article? / भारत के नियंत्रक एवं महालेखा परीक्षक की व्यवस्था किस अनुच्छेद में है? — Article 280/अनुच्छेद 280 · Article 112/अनुच्छेद 112 · Article 266/अनुच्छेद 266 · Article 148/अनुच्छेद 148 -> **D. Article 148**
+160. Which Article establishes the Election Commission of India? / भारत के निर्वाचन आयोग की स्थापना कौन सा अनुच्छेद करता है? — Article 370/अनुच्छेद 370 · Article 239/अनुच्छेद 239 · Article 324/अनुच्छेद 324 · Article 356/अनुच्छेद 356 -> **C. Article 324**
+161. On which date was the national flag of India adopted by the Constituent Assembly? / भारत का राष्ट्रीय ध्वज संविधान सभा ने किस तिथि को अपनाया? — 22 July 1947/22 जुलाई 1947 · 26 January 1950/26 जनवरी 1950 · 26 November 1949/26 नवंबर 1949 · 15 August 1947/15 अगस्त 1947 -> **A. 22 July 1947**
+162. On which date was Jana Gana Mana adopted as the national anthem? / जन गण मन को राष्ट्रीय गान के रूप में किस तिथि को अपनाया गया? — 22 July 1947/22 जुलाई 1947 · 24 January 1950/24 जनवरी 1950 · 26 January 1950/26 जनवरी 1950 · 15 August 1947/15 अगस्त 1947 -> **B. 24 January 1950**
+163. In which year was the Reserve Bank of India established? / भारतीय रिज़र्व बैंक की स्थापना किस वर्ष हुई? — 1949/1949 · 1935/1935 · 1947/1947 · 1921/1921 -> **B. 1935**
+164. In which year was the Reserve Bank of India nationalised? / भारतीय रिज़र्व बैंक का राष्ट्रीयकरण किस वर्ष हुआ? — 1935/1935 · 1969/1969 · 1955/1955 · 1949/1949 -> **D. 1949**
+165. Where is the central office of the Reserve Bank of India? / भारतीय रिज़र्व बैंक का केंद्रीय कार्यालय कहाँ है? — New Delhi/नई दिल्ली · Mumbai/मुंबई · Chennai/चेन्नई · Kolkata/कोलकाता -> **B. Mumbai**
+166. Whose signature appears on Indian currency notes other than the one rupee note? / एक रुपये के नोट के अलावा अन्य भारतीय नोटों पर किसके हस्ताक्षर होते हैं? — The Finance Minister/वित्त मंत्री · The Governor of the Reserve Bank of India/भारतीय रिज़र्व बैंक के गवर्नर · The Prime Minister/प्रधानमंत्री · The Finance Secretary/वित्त सचिव -> **B. The Governor of the Reserve Bank of India**
+167. After the ₹2,000 note was withdrawn from circulation in 2023, which is the highest denomination the RBI issues? / 2023 में ₹2,000 का नोट प्रचलन से वापस लेने के बाद RBI किस सबसे बड़े मूल्यवर्ग का नोट जारी करता है? — ₹500/₹500 · ₹200/₹200 · ₹2,000/₹2,000 · ₹1,000/₹1,000 -> **A. ₹500**
+168. In which month and year were the ₹500 and ₹1,000 notes demonetised in India? / भारत में ₹500 और ₹1,000 के नोट किस माह और वर्ष में अमान्य किए गए? — November 2016/नवंबर 2016 · March 2019/मार्च 2019 · January 2015/जनवरी 2015 · August 2017/अगस्त 2017 -> **A. November 2016**
+169. Which is the longest river flowing within India? / भारत के भीतर बहने वाली सबसे लंबी नदी कौन सी है? — The Brahmaputra/ब्रह्मपुत्र · The Godavari/गोदावरी · The Ganga/गंगा · The Krishna/कृष्णा -> **C. The Ganga**
+170. Which is the largest Indian state by area? / क्षेत्रफल की दृष्टि से सबसे बड़ा भारतीय राज्य कौन सा है? — Uttar Pradesh/उत्तर प्रदेश · Madhya Pradesh/मध्य प्रदेश · Maharashtra/महाराष्ट्र · Rajasthan/राजस्थान -> **D. Rajasthan**
+171. Which is the smallest Indian state by area? / क्षेत्रफल की दृष्टि से सबसे छोटा भारतीय राज्य कौन सा है? — Sikkim/सिक्किम · Goa/गोवा · Tripura/त्रिपुरा · Nagaland/नागालैंड -> **B. Goa**
+172. Which Indian state had the largest population in the 2011 census? / 2011 की जनगणना में किस भारतीय राज्य की जनसंख्या सबसे अधिक थी? — West Bengal/पश्चिम बंगाल · Bihar/बिहार · Uttar Pradesh/उत्तर प्रदेश · Maharashtra/महाराष्ट्र -> **C. Uttar Pradesh**
+173. Which Indian state has the longest coastline? / किस भारतीय राज्य की तटरेखा सबसे लंबी है? — Andhra Pradesh/आंध्र प्रदेश · Gujarat/गुजरात · Tamil Nadu/तमिलनाडु · Kerala/केरल -> **B. Gujarat**
+174. The Lakshadweep islands lie in which body of water? / लक्षद्वीप द्वीप समूह किस जल निकाय में स्थित है? — The Arabian Sea/अरब सागर · The Palk Strait/पाक जलडमरूमध्य · The Bay of Bengal/बंगाल की खाड़ी · The Indian Ocean south of Sri Lanka/श्रीलंका के दक्षिण में हिंद महासागर -> **A. The Arabian Sea**
+175. The Andaman and Nicobar Islands lie in which body of water? / अंडमान और निकोबार द्वीप समूह किस जल निकाय में स्थित है? — The Bay of Bengal/बंगाल की खाड़ी · The Gulf of Mannar/मन्नार की खाड़ी · The Arabian Sea/अरब सागर · The Laccadive Sea/लक्षद्वीप सागर -> **A. The Bay of Bengal**
+176. The Narmada river empties into which sea? / नर्मदा नदी किस सागर में गिरती है? — The Bay of Bengal/बंगाल की खाड़ी · The Indian Ocean near Sri Lanka/श्रीलंका के पास हिंद महासागर · The Gulf of Khambhat in the Arabian Sea/अरब सागर में खंभात की खाड़ी · The Palk Strait/पाक जलडमरूमध्य -> **C. The Gulf of Khambhat in the Arabian Sea**
+177. The Tropic of Cancer passes through how many Indian states? / कर्क रेखा कितने भारतीय राज्यों से होकर गुज़रती है? — Eight states/आठ राज्य · Ten/दस · Six/छह · Five/पाँच -> **A. Eight states**
+178. The Sundarbans delta is formed by which pair of rivers? / सुंदरबन डेल्टा किन दो नदियों से बना है? — The Godavari and the Krishna/गोदावरी और कृष्णा · The Mahanadi and the Subarnarekha/महानदी और स्वर्णरेखा · The Kaveri and the Vaigai/कावेरी और वैगई · The Ganga and the Brahmaputra/गंगा और ब्रह्मपुत्र -> **D. The Ganga and the Brahmaputra**
+179. In which city is the headquarters of the United Nations? / संयुक्त राष्ट्र का मुख्यालय किस शहर में है? — Vienna/वियना · Geneva/जिनेवा · Nairobi/नैरोबी · New York/न्यूयॉर्क -> **D. New York**
+180. For how many years is the Secretary-General of the United Nations appointed at a time? / संयुक्त राष्ट्र के महासचिव एक बार में कितने वर्षों के लिए नियुक्त होते हैं? — Four years/चार वर्ष · Three years/तीन वर्ष · Five years/पाँच वर्ष · Six years/छह वर्ष -> **C. Five years**
+181. How many member states does the United Nations currently have? / संयुक्त राष्ट्र में वर्तमान में कितने सदस्य देश हैं? — 193/193 · 200/200 · 180/180 · 175/175 -> **A. 193**
+182. Which international organisation came before the United Nations? / संयुक्त राष्ट्र से पहले कौन सा अंतर्राष्ट्रीय संगठन था? — The League of Nations/राष्ट्र संघ · The Non-Aligned Movement/गुटनिरपेक्ष आंदोलन · The Warsaw Pact/वॉरसॉ संधि · The Commonwealth/राष्ट्रमंडल -> **A. The League of Nations**
+183. In which year was the Universal Declaration of Human Rights adopted? / मानव अधिकारों की सार्वभौम घोषणा किस वर्ष अपनाई गई? — 1950/1950 · 1966/1966 · 1948/1948 · 1945/1945 -> **C. 1948**
+184. Who chaired the committee that drafted the Universal Declaration of Human Rights? / मानव अधिकारों की सार्वभौम घोषणा का मसविदा तैयार करने वाली समिति की अध्यक्षता किसने की? — Eleanor Roosevelt/एलेनोर रूज़वेल्ट · Indira Gandhi/इंदिरा गांधी · Golda Meir/गोल्डा मेयर · Margaret Thatcher/मार्गरेट थैचर -> **A. Eleanor Roosevelt**
+185. How many official languages does the United Nations have? / संयुक्त राष्ट्र की कितनी आधिकारिक भाषाएँ हैं? — Four/चार · Three/तीन · Eight/आठ · Six languages/छह भाषाएँ -> **D. Six languages**
+186. Which of these is not an official language of the United Nations? / इनमें से कौन सी संयुक्त राष्ट्र की आधिकारिक भाषा नहीं है? — Arabic/अरबी · Hindi/हिंदी · Russian/रूसी · Spanish/स्पेनिश -> **B. Hindi**
+187. Where is the headquarters of the World Health Organization? / विश्व स्वास्थ्य संगठन का मुख्यालय कहाँ है? — Rome/रोम · New York/न्यूयॉर्क · Paris/पेरिस · Geneva/जिनेवा -> **D. Geneva**
+188. Where is the headquarters of UNESCO? / यूनेस्को का मुख्यालय कहाँ है? — Berlin/बर्लिन · London/लंदन · Geneva/जिनेवा · Paris/पेरिस -> **D. Paris**
+189. In which year did the World Trade Organization come into being? / विश्व व्यापार संगठन का अस्तित्व किस वर्ष में आया? — 2001/2001 · 1985/1985 · 1995/1995 · 1990/1990 -> **C. 1995**
+190. The World Trade Organization took over from which earlier agreement? / विश्व व्यापार संगठन ने किस पूर्ववर्ती समझौते का स्थान लिया? — The Bretton Woods Accord/ब्रेटन वुड्स समझौता · The General Agreement on Tariffs and Trade/जनरल एग्रीमेंट ऑन टैरिफ़्स एंड ट्रेड · The Schengen Agreement/शेंगेन समझौता · The Kyoto Protocol/क्योटो प्रोटोकॉल -> **B. The General Agreement on Tariffs and Trade**
+191. In which city was the North Atlantic Treaty signed in April 1949? / अप्रैल 1949 में उत्तरी अटलांटिक संधि पर किस शहर में हस्ताक्षर हुए? — Brussels/ब्रुसेल्स · Ottawa/ओटावा · London/लंदन · Washington, D.C./वॉशिंगटन, डी.सी. -> **D. Washington, D.C.**
+192. How many member states does ASEAN have? / आसियान में कितने सदस्य देश हैं? — Six/छह · Eight/आठ · Ten/दस · Twelve/बारह -> **C. Ten**
+193. How many member states does SAARC have? / सार्क में कितने सदस्य देश हैं? — Seven/सात · Six/छह · Eight member states/आठ सदस्य देश · Ten/दस -> **C. Eight member states**
+194. Which country joined the original BRIC grouping in 2010 to make it BRICS? / 2010 में कौन सा देश मूल ब्रिक समूह में जुड़कर उसे ब्रिक्स बना? — Argentina/अर्जेंटीना · Indonesia/इंडोनेशिया · South Africa/दक्षिण अफ़्रीका · Mexico/मेक्सिको -> **C. South Africa**
+195. Who founded the International Committee of the Red Cross? / रेड क्रॉस की अंतर्राष्ट्रीय समिति की स्थापना किसने की? — Henry Dunant/हेनरी ड्यूनां · Florence Nightingale/फ़्लोरेंस नाइटिंगेल · Louis Pasteur/लुई पाश्चर · Pierre de Coubertin/पियरे डी कूपर्टें -> **A. Henry Dunant**
+196. In which French city is the headquarters of INTERPOL? / इंटरपोल का मुख्यालय फ़्रांस के किस शहर में है? — Marseille/मार्सिले · Nice/नीस · Paris/पेरिस · Lyon/लियोन -> **D. Lyon**
+197. How many judges sit on the International Court of Justice? / अंतर्राष्ट्रीय न्यायालय में कितने न्यायाधीश होते हैं? — Nine/नौ · Twenty-one/इक्कीस · Fifteen/पंद्रह · Eleven/ग्यारह -> **C. Fifteen**
+198. For how long is a judge of the International Court of Justice elected? / अंतर्राष्ट्रीय न्यायालय का न्यायाधीश कितने समय के लिए चुना जाता है? — Twelve years/बारह वर्ष · Nine years/नौ वर्ष · Life/आजीवन · Six years/छह वर्ष -> **B. Nine years**
+199. Which is the largest continent by area? / क्षेत्रफल की दृष्टि से सबसे बड़ा महाद्वीप कौन सा है? — Europe/यूरोप · North America/उत्तरी अमेरिका · Africa/अफ़्रीका · Asia/एशिया -> **D. Asia**
+200. Which is the smallest continent by area? / क्षेत्रफल की दृष्टि से सबसे छोटा महाद्वीप कौन सा है? — Europe/यूरोप · Australia/ऑस्ट्रेलिया · Antarctica/अंटार्कटिका · South America/दक्षिण अमेरिका -> **B. Australia**
+201. Which is the largest ocean on Earth? / पृथ्वी का सबसे बड़ा महासागर कौन सा है? — The Atlantic/अटलांटिक · The Pacific/प्रशांत · The Southern/दक्षिणी · The Indian/हिंद -> **B. The Pacific**
+202. Which is the highest mountain above sea level? / समुद्र तल से सबसे ऊँचा पर्वत कौन सा है? — K2/के2 · Mount Everest/माउंट एवरेस्ट · Kangchenjunga/कंचनजंगा · Mount Kilimanjaro/माउंट किलिमांजारो -> **B. Mount Everest**
+203. Which is the largest country in the world by area? / क्षेत्रफल की दृष्टि से विश्व का सबसे बड़ा देश कौन सा है? — Canada/कनाडा · Brazil/ब्राज़ील · Russia/रूस · China/चीन -> **C. Russia**
+204. Which is the smallest country in the world by area? / क्षेत्रफल की दृष्टि से विश्व का सबसे छोटा देश कौन सा है? — San Marino/सैन मारिनो · Liechtenstein/लिकटेंस्टीन · Monaco/मोनाको · Vatican City/वैटिकन सिटी -> **D. Vatican City**
+205. The line of zero degrees latitude is known by what name? / शून्य डिग्री अक्षांश की रेखा को किस नाम से जाना जाता है? — The Tropic of Capricorn/मकर रेखा · The Prime Meridian/प्रधान मध्याह्न · The Arctic Circle/आर्कटिक वृत्त · The Equator/भूमध्य रेखा -> **D. The Equator**
+206. The Prime Meridian of zero degrees longitude passes through which place? / शून्य डिग्री देशांतर का प्रधान मध्याह्न किस स्थान से गुज़रता है? — Reykjavik/रेकजाविक · Paris/पेरिस · Washington, D.C./वॉशिंगटन, डी.सी. · Greenwich in London/लंदन का ग्रीनविच -> **D. Greenwich in London**
+207. How many continents are there on Earth? / पृथ्वी पर कितने महाद्वीप हैं? — Five/पाँच · Eight/आठ · Six/छह · Seven/सात -> **D. Seven**
+208. Which continent contains the greatest number of countries? / किस महाद्वीप में सबसे अधिक देश हैं? — South America/दक्षिण अमेरिका · Europe/यूरोप · Africa/अफ़्रीका · Asia/एशिया -> **C. Africa**
+209. Which river carries the greatest volume of water to the sea? / कौन सी नदी समुद्र तक सबसे अधिक जल ले जाती है? — The Nile/नील · The Yangtze/यांग्त्ज़ी · The Congo/कांगो · The Amazon/अमेज़न -> **D. The Amazon**
+210. Which is the largest hot desert in the world? / विश्व का सबसे बड़ा गर्म मरुस्थल कौन सा है? — The Kalahari/कालाहारी · The Thar/थार · The Sahara/सहारा · The Gobi/गोबी -> **C. The Sahara**
+211. Which is the deepest lake in the world? / विश्व की सबसे गहरी झील कौन सी है? — Lake Baikal/बाइकाल झील · Lake Victoria/विक्टोरिया झील · Lake Tanganyika/तांगानिका झील · Lake Superior/सुपीरियर झील -> **A. Lake Baikal**
+212. Which is the longest mountain range on land? / स्थल पर सबसे लंबी पर्वत श्रृंखला कौन सी है? — The Alps/आल्प्स · The Andes/एंडीज़ · The Rockies/रॉकीज़ · The Himalayas/हिमालय -> **B. The Andes**
+213. Which country is known as the Land of the Rising Sun? / किस देश को उगते सूर्य की भूमि कहा जाता है? — Thailand/थाईलैंड · South Korea/दक्षिण कोरिया · Norway/नॉर्वे · Japan/जापान -> **D. Japan**
+214. What is the currency of Japan? / जापान की मुद्रा क्या है? — Yuan/युआन · Won/वोन · Yen/येन · Ringgit/रिंगिट -> **C. Yen**
+215. What is the currency of the United Kingdom? / यूनाइटेड किंगडम की मुद्रा क्या है? — Dollar/डॉलर · Euro/यूरो · Krona/क्रोना · Pound sterling/पाउंड स्टर्लिंग -> **D. Pound sterling**
+216. What is the official currency of China? / चीन की आधिकारिक मुद्रा क्या है? — Yen/येन · Renminbi/रेनमिन्बी · Dong/डोंग · Won/वोन -> **B. Renminbi**
+217. What is the capital city of Australia? / ऑस्ट्रेलिया की राजधानी क्या है? — Sydney/सिडनी · Perth/पर्थ · Canberra/कैनबरा · Melbourne/मेलबर्न -> **C. Canberra**
+218. What is the capital city of Canada? / कनाडा की राजधानी क्या है? — Ottawa/ओटावा · Montreal/मॉन्ट्रियल · Toronto/टोरंटो · Vancouver/वैंकूवर -> **A. Ottawa**
+219. How many chambers does the human heart have? / मानव हृदय में कितने कक्ष होते हैं? — Two/दो · Six/छह · Three/तीन · Four/चार -> **D. Four**
+220. How many bones are there in a normal adult human body? / सामान्य वयस्क मानव शरीर में कितनी हड्डियाँ होती हैं? — 300/300 · 206/206 · 196/196 · 216/216 -> **B. 206**
+221. Which organ produces insulin? / इंसुलिन का उत्पादन कौन सा अंग करता है? — The spleen/प्लीहा · The pancreas/अग्न्याशय · The kidney/गुर्दा · The liver/यकृत -> **B. The pancreas**
+222. Which blood cells defend the body against infection? / संक्रमण से शरीर की रक्षा कौन सी रक्त कोशिकाएँ करती हैं? — Red blood cells/लाल रक्त कोशिकाएँ · White blood cells/श्वेत रक्त कोशिकाएँ · Plasma cells only/केवल प्लाज़्मा कोशिकाएँ · Platelets/प्लेटलेट्स -> **B. White blood cells**
+223. Which vitamin does the skin manufacture when exposed to sunlight? / धूप में आने पर त्वचा कौन सा विटामिन बनाती है? — Vitamin C/विटामिन C · Vitamin A/विटामिन A · Vitamin D/विटामिन D · Vitamin B12/विटामिन B12 -> **C. Vitamin D**
+224. Which nutrient is the body's principal source of energy? / शरीर की ऊर्जा का मुख्य स्रोत कौन सा पोषक तत्व है? — Carbohydrates/कार्बोहाइड्रेट · Minerals/खनिज · Vitamins/विटामिन · Proteins/प्रोटीन -> **A. Carbohydrates**
+225. Which is the largest organ of the human body? / मानव शरीर का सबसे बड़ा अंग कौन सा है? — The liver/यकृत · The skin/त्वचा · The brain/मस्तिष्क · The lungs/फेफड़े -> **B. The skin**
+226. Which part of the brain coordinates balance and posture? / मस्तिष्क का कौन सा भाग संतुलन और मुद्रा का समन्वय करता है? — The medulla/मेडुला · The hypothalamus/हाइपोथैलेमस · The cerebellum/अनुमस्तिष्क · The cerebrum/प्रमस्तिष्क -> **C. The cerebellum**
+227. What is the normal core temperature of the human body in degrees Celsius? / मानव शरीर का सामान्य आंतरिक तापमान डिग्री सेल्सियस में कितना होता है? — About 37/लगभग 37 · About 45/लगभग 45 · About 40/लगभग 40 · About 32/लगभग 32 -> **A. About 37**
+228. How many teeth does a normal adult have? / सामान्य वयस्क में कितने दाँत होते हैं? — 28/28 · 36/36 · 30/30 · 32/32 -> **D. 32**
+229. Which pigment gives human skin its colour? / मानव त्वचा को रंग कौन सा वर्णक देता है? — Haemoglobin/हीमोग्लोबिन · Chlorophyll/क्लोरोफ़िल · Keratin/केराटिन · Melanin/मेलेनिन -> **D. Melanin**
+230. Which is the largest gland in the human body? / मानव शरीर की सबसे बड़ी ग्रंथि कौन सी है? — The liver/यकृत · The thyroid/थायरॉइड · The pancreas/अग्न्याशय · The pituitary/पीयूष -> **A. The liver**
+231. Who discovered the human blood groups? / मानव रक्त समूहों की खोज किसने की? — William Harvey/विलियम हार्वे · Louis Pasteur/लुई पाश्चर · Karl Landsteiner/कार्ल लैंडस्टीनर · Edward Jenner/एडवर्ड जेनर -> **C. Karl Landsteiner**
+232. Which acid is present in the human stomach? / मानव पेट में कौन सा अम्ल पाया जाता है? — Hydrochloric acid/हाइड्रोक्लोरिक अम्ल · Sulphuric acid/सल्फ्यूरिक अम्ल · Citric acid/सिट्रिक अम्ल · Acetic acid/एसिटिक अम्ल -> **A. Hydrochloric acid**
+233. Which gas must be present for a fire to keep burning? / आग जलती रहने के लिए कौन सी गैस आवश्यक है? — Argon/आर्गन · Nitrogen/नाइट्रोजन · Oxygen/ऑक्सीजन · Helium/हीलियम -> **C. Oxygen**
+234. What is the chemical symbol for gold? / सोने का रासायनिक प्रतीक क्या है? — Au/Au · Gd/Gd · Go/Go · Ag/Ag -> **A. Au**
+235. What is the chemical symbol for iron? / लोहे का रासायनिक प्रतीक क्या है? — In/In · Fe/Fe · Ir/Ir · Io/Io -> **B. Fe**
+236. What is the chemical formula of water? / जल का रासायनिक सूत्र क्या है? — CO2/CO2 · H2O/H2O · O2/O2 · NaCl/NaCl -> **B. H2O**
+237. Common table salt is chemically known as what? / साधारण नमक रासायनिक रूप से क्या कहलाता है? — Calcium carbonate/कैल्शियम कार्बोनेट · Potassium nitrate/पोटैशियम नाइट्रेट · Sodium bicarbonate/सोडियम बाइकार्बोनेट · Sodium chloride/सोडियम क्लोराइड -> **D. Sodium chloride**
+238. Which gas is the most abundant in Earth's atmosphere? / पृथ्वी के वायुमंडल में सबसे प्रचुर गैस कौन सी है? — Carbon dioxide/कार्बन डाइऑक्साइड · Nitrogen/नाइट्रोजन · Argon/आर्गन · Oxygen/ऑक्सीजन -> **B. Nitrogen**
+239. What is the pH of pure water at room temperature? / कमरे के तापमान पर शुद्ध जल का pH कितना होता है? — 10/10 · 0/0 · 7/7 · 14/14 -> **C. 7**
+240. Which metal is liquid at room temperature? / कमरे के तापमान पर कौन सी धातु द्रव रहती है? — Mercury/पारा · Aluminium/एल्युमिनियम · Lead/सीसा · Tin/टिन -> **A. Mercury**
+241. Which non-metal is liquid at room temperature? / कमरे के तापमान पर कौन सी अधातु द्रव रहती है? — Bromine/ब्रोमीन · Iodine/आयोडीन · Phosphorus/फ़ास्फोरस · Sulphur/गंधक -> **A. Bromine**
+242. Which is the lightest element in the periodic table? / आवर्त सारणी की सबसे हल्की तत्व कौन सी है? — Helium/हीलियम · Hydrogen/हाइड्रोजन · Lithium/लिथियम · Carbon/कार्बन -> **B. Hydrogen**
+243. Which gas do green plants take in for photosynthesis? / प्रकाशसंश्लेषण के लिए हरे पौधे कौन सी गैस लेते हैं? — Methane/मीथेन · Nitrogen/नाइट्रोजन · Oxygen/ऑक्सीजन · Carbon dioxide/कार्बन डाइऑक्साइड -> **D. Carbon dioxide**
+244. Which part of a cell is called its powerhouse? / कोशिका के किस भाग को उसका शक्ति गृह कहते हैं? — Mitochondria/माइटोकॉन्ड्रिया · Nucleus/केन्द्रक · Golgi body/गॉल्जी काय · Ribosome/राइबोसोम -> **A. Mitochondria**
+245. Who formulated the three laws of motion? / गति के तीन नियम किसने प्रतिपादित किए? — James Watt/जेम्स वाट · Galileo Galilei/गैलिलियो गैलिली · Isaac Newton/आइज़क न्यूटन · Michael Faraday/माइकल फैराडे -> **C. Isaac Newton**
+246. Who proposed the theory of relativity? / सापेक्षता का सिद्धांत किसने प्रस्तुत किया? — Niels Bohr/नील्स बोर · Albert Einstein/अल्बर्ट आइंस्टीन · Max Planck/मैक्स प्लांक · Erwin Schrödinger/इरविन श्रोडिंगर -> **B. Albert Einstein**
+247. Who discovered penicillin? / पेनिसिलिन की खोज किसने की? — Alexander Fleming/अलेक्ज़ेंडर फ़्लेमिंग · Antoine Lavoisier/एंटोनी लवॉइज़ियर · Robert Koch/रॉबर्ट कॉक · Joseph Lister/जोसेफ़ लिस्टर -> **A. Alexander Fleming**
+248. Who proposed evolution by natural selection? / प्राकृतिक चयन द्वारा विकास का सिद्धांत किसने दिया? — Jean-Baptiste Lamarck/जीन-बैप्टिस्ट लामार्क · Gregor Mendel/ग्रेगर मेंडल · Alfred Russel only/केवल अल्फ्रेड रसेल · Charles Darwin/चार्ल्स डार्विन -> **D. Charles Darwin**
+249. Who is known as the father of genetics? / आनुवंशिकी का जनक किसे कहा जाता है? — Thomas Hunt Morgan/थॉमस हंट मॉर्गन · Gregor Mendel/ग्रेगर मेंडल · Charles Darwin/चार्ल्स डार्विन · Louis Pasteur/लुई पाश्चर -> **B. Gregor Mendel**
+250. Which is the SI unit of electrical resistance? / विद्युत प्रतिरोध की SI इकाई कौन सी है? — Henry/हेनरी · Volt/वोल्ट · Ampere/ऐम्पियर · Ohm/ओम -> **D. Ohm**
+251. Which is the SI unit of capacitance? / धारिता की SI इकाई कौन सी है? — Farad/फ़ैराड · Henry/हेनरी · Tesla/टेस्ला · Weber/वेबर -> **A. Farad**
+252. What is the approximate speed of light in a vacuum? / निर्वात में प्रकाश की अनुमानित गति कितनी है? — 30,000 kilometres per second/30,000 किलोमीटर प्रति सेकंड · 300 kilometres per second/300 किलोमीटर प्रति सेकंड · 300,000 kilometres per second/3,00,000 किलोमीटर प्रति सेकंड · 3,000 kilometres per second/3,000 किलोमीटर प्रति सेकंड -> **C. 300,000 kilometres per second**
+253. Through which medium can sound not travel at all? / ध्वनि किस माध्यम से बिल्कुल नहीं चल सकती? — Steel/इस्पात · Water/जल · Air/वायु · A vacuum/निर्वात -> **D. A vacuum**
+254. Which type of lens corrects short-sightedness? / निकट दृष्टि दोष को कौन सा लेंस ठीक करता है? — A bifocal lens only/केवल द्विफोकसी लेंस · A cylindrical lens/बेलनाकार लेंस · A concave lens/अवतल लेंस · A convex lens/उत्तल लेंस -> **C. A concave lens**
+255. A rainbow is produced mainly by which effect on sunlight inside raindrops? / वर्षा की बूंदों में सूर्य प्रकाश पर मुख्यतः किस प्रभाव से इंद्रधनुष बनता है? — Dispersion/विक्षेपण · Reflection only/केवल परावर्तन · Diffraction by dust/धूल से विवर्तन · Absorption/अवशोषण -> **A. Dispersion**
+256. Which instrument records the shaking of the ground during an earthquake? / भूकंप के दौरान ज़मीन के कंपन को कौन सा यंत्र दर्ज करता है? — A seismograph/सिस्मोग्राफ़ · A hygrometer/हाइग्रोमीटर · A spectrometer/स्पेक्ट्रोमीटर · A barometer/बैरोमीटर -> **A. A seismograph**
+257. Which machine converts mechanical energy into electrical energy? / कौन सी मशीन यांत्रिक ऊर्जा को विद्युत ऊर्जा में बदलती है? — A generator/जनरेटर · A motor/मोटर · A battery/बैटरी · A transformer/ट्रांसफ़ॉर्मर -> **A. A generator**
+258. Which force pulls objects towards the centre of the Earth? / कौन सा बल वस्तुओं को पृथ्वी के केंद्र की ओर खींचता है? — Friction/घर्षण · Gravity/गुरुत्वाकर्षण · Buoyancy/उत्प्लावकता · Magnetism/चुंबकत्व -> **B. Gravity**
+259. In computing, what does CPU stand for? / कंप्यूटर में CPU का पूर्ण रूप क्या है? — Computer Personal Utility/कंप्यूटर व्यक्तिगत उपयोगिता · Core Programme Unit/मूल कार्यक्रम इकाई · Central Print Utility/केंद्रीय मुद्रण उपयोगिता · Central Processing Unit/केंद्रीय प्रक्रमण इकाई -> **D. Central Processing Unit**
+260. In computing, what does RAM stand for? / कंप्यूटर में RAM का पूर्ण रूप क्या है? — Read And Modify/रीड एंड मॉडिफ़ाई · Rapid Archive Module/रैपिड आर्काइव मॉड्यूल · Registered Address Map/रजिस्टर्ड एड्रेस मैप · Random Access Memory/रैंडम एक्सेस मेमोरी -> **D. Random Access Memory**
+261. What does the web status code 404 mean? / वेब स्थिति कोड 404 का क्या अर्थ है? — The page was not found/पेज नहीं मिला · Access is forbidden/प्रवेश निषिद्ध है · The server is busy/सर्वर व्यस्त है · The page moved permanently/पेज स्थायी रूप से स्थानांतरित हुआ -> **A. The page was not found**
+262. Who is credited with proposing the World Wide Web? / वर्ल्ड वाइड वेब का प्रस्ताव देने का श्रेय किसे जाता है? — Vint Cerf/विंट सर्फ़ · Tim Berners-Lee/टिम बर्नर्स-ली · Bill Gates/बिल गेट्स · Steve Jobs/स्टीव जॉब्स -> **B. Tim Berners-Lee**
+263. How many bits make up one byte? / एक बाइट में कितने बिट होते हैं? — Two/दो · Sixteen/सोलह · Eight/आठ · Four/चार -> **C. Eight**
+264. What does LED stand for? / LED का पूर्ण रूप क्या है? — Light Emitting Diode/लाइट एमिटिंग डायोड · Linear Electric Device/लीनियर इलेक्ट्रिक डिवाइस · Low Energy Display/लो एनर्जी डिस्प्ले · Light Engine Driver/लाइट इंजन ड्राइवर -> **A. Light Emitting Diode**
+265. What does GPS stand for? / GPS का पूर्ण रूप क्या है? — Geographic Pin Service/जियोग्राफ़िक पिन सर्विस · Global Positioning System/ग्लोबल पोज़िशनिंग सिस्टम · Grid Placement Signal/ग्रिड प्लेसमेंट सिग्नल · General Path Sensor/जनरल पाथ सेंसर -> **B. Global Positioning System**
+266. Which protocol is used to send an email from a client to a mail server? / क्लाइंट से मेल सर्वर तक ईमेल भेजने के लिए कौन सा प्रोटोकॉल प्रयुक्त होता है? — SNMP/SNMP · SMTP/SMTP · FTP/FTP · Telnet/टेलनेट -> **B. SMTP**
+267. In the address HTTPS, what does the final letter S stand for? / HTTPS पते में अंतिम अक्षर S किसका प्रतीक है? — Server/सर्वर · Secure/सुरक्षित · Standard/मानक · Session/सत्र -> **B. Secure**
+268. How many digits does the binary number system use? / द्विआधारी संख्या प्रणाली कितने अंकों का उपयोग करती है? — Eight/आठ · Ten/दस · Sixteen/सोलह · Two/दो -> **D. Two**
+269. After how many years are the Summer Olympic Games normally held? / ग्रीष्मकालीन ओलंपिक खेल सामान्यतः कितने वर्ष बाद होते हैं? — Five years/पाँच वर्ष · Three years/तीन वर्ष · Four years/चार वर्ष · Two years/दो वर्ष -> **C. Four years**
+270. Where were the first modern Olympic Games held in 1896? / 1896 में पहले आधुनिक ओलंपिक खेल कहाँ आयोजित हुए? — Athens/एथेंस · London/लंदन · Rome/रोम · Paris/पेरिस -> **A. Athens**
+271. Which country has won the most FIFA World Cup titles? / किस देश ने सबसे अधिक फ़ीफ़ा विश्व कप जीते हैं? — Germany/जर्मनी · Argentina/अर्जेंटीना · Italy/इटली · Brazil/ब्राज़ील -> **D. Brazil**
+272. How long is a standard marathon race? / मानक मैराथन दौड़ कितनी लंबी होती है? — 50 kilometres/50 किलोमीटर · 42.195 kilometres/42.195 किलोमीटर · 45 kilometres/45 किलोमीटर · 40 kilometres/40 किलोमीटर -> **B. 42.195 kilometres**
+273. Which body governs chess worldwide? / शतरंज का विश्व स्तरीय नियामक निकाय कौन सा है? — ICC/आईसीसी · IOC/आईओसी · FIDE/फ़ीडे · FIFA/फ़ीफ़ा -> **C. FIDE**
+274. Which body governs international cricket? / अंतर्राष्ट्रीय क्रिकेट का नियामक निकाय कौन सा है? — FIFA/फ़ीफ़ा · The BWF/बीडब्ल्यूएफ · The ICC/आईसीसी · World Rugby/वर्ल्ड रगबी -> **C. The ICC**
+275. How many players from one football team are on the field during play? / खेल के दौरान एक फ़ुटबॉल टीम के कितने खिलाड़ी मैदान पर होते हैं? — Ten/दस · Twelve/बारह · Nine/नौ · Eleven/ग्यारह -> **D. Eleven**
+276. How many legal deliveries make up one over in cricket? / क्रिकेट में एक ओवर कितनी वैध गेंदों से बनता है? — Eight/आठ · Four/चार · Five/पाँच · Six/छह -> **D. Six**
+277. The Tour de France is a competition in which sport? / तूर द फ़्रांस किस खेल की प्रतियोगिता है? — Sailing/नौकायन · Motor racing/मोटर रेसिंग · Cycling/साइकलिंग · Running/दौड़ -> **C. Cycling**
+278. Wimbledon is the oldest tournament in which sport? / विंबलडन किस खेल की सबसे पुरानी प्रतियोगिता है? — Badminton/बैडमिंटन · Tennis/टेनिस · Golf/गोल्फ़ · Squash/स्क्वैश -> **B. Tennis**
+279. The Ashes cricket series is contested between which two countries? / एशेज़ क्रिकेट श्रृंखला किन दो देशों के बीच खेली जाती है? — South Africa and New Zealand/दक्षिण अफ़्रीका और न्यूज़ीलैंड · West Indies and Sri Lanka/वेस्टइंडीज़ और श्रीलंका · England and Australia/इंग्लैंड और ऑस्ट्रेलिया · India and Pakistan/भारत और पाकिस्तान -> **C. England and Australia**
+280. In tennis, which score is announced as 'love'? / टेनिस में किस स्कोर को 'लव' कहा जाता है? — Zero/शून्य · Forty/चालीस · Thirty/तीस · Fifteen/पंद्रह -> **A. Zero**
+281. In which subject did Alfred Nobel leave no prize? / किस विषय में अल्फ्रेड नोबेल ने कोई पुरस्कार नहीं छोड़ा? — Literature/साहित्य · Mathematics/गणित · Physics/भौतिकी · Peace/शांति -> **B. Mathematics**
+282. The Oscar statuette is awarded for achievement in which field? / ऑस्कर प्रतिमा किस क्षेत्र में उपलब्धि के लिए दी जाती है? — Journalism/पत्रकारिता · Film/सिनेमा · Theatre/रंगमंच · Television/टेलीविज़न -> **B. Film**
+283. The Booker Prize is awarded for which kind of work? / बुकर पुरस्कार किस प्रकार के कार्य के लिए दिया जाता है? — Scientific research/वैज्ञानिक अनुसंधान · Architectural design/वास्तु डिज़ाइन · War reporting/युद्ध रिपोर्टिंग · Fiction writing/कथा लेखन -> **D. Fiction writing**
+284. The Dadasaheb Phalke Award honours lifetime work in which field? / दादासाहब फ़ालके पुरस्कार किस क्षेत्र में जीवनभर के कार्य का सम्मान करता है? — Painting/चित्रकला · Classical music/शास्त्रीय संगीत · Indian cinema/भारतीय सिनेमा · Dance/नृत्य -> **C. Indian cinema**
+285. What is the Bharat Ratna in India? / भारत में भारत रत्न क्या है? — A national sports prize/राष्ट्रीय खेल पुरस्कार · The highest military honour/सर्वोच्च सैन्य सम्मान · A science fellowship/विज्ञान फ़ेलोशिप · The highest civilian award/सर्वोच्च नागरिक सम्मान -> **D. The highest civilian award**
+286. The Param Vir Chakra is awarded for what? / परम वीर चक्र किसके लिए दिया जाता है? — Excellence in training/प्रशिक्षण में उत्कृष्टता के लिए · Peacetime bravery only/केवल शांतिकालीन साहस के लिए · Gallantry in the face of the enemy/शत्रु के सम्मुख वीरता के लिए · Long and meritorious service/दीर्घ और उत्कृष्ट सेवा के लिए -> **C. Gallantry in the face of the enemy**
+287. Who composed the song Vande Mataram? / वंदे मातरम् गीत की रचना किसने की? — Rabindranath Tagore/रवींद्रनाथ टैगोर · Bankim Chandra Chatterjee/बंकिम चंद्र चटर्जी · Sarat Chandra Chattopadhyay/शरत चंद्र चट्टोपाध्याय · Michael Madhusudan Dutt/माइकेल मधुसूदन दत्त -> **B. Bankim Chandra Chatterjee**
+288. Who is honoured in India as the Father of the Nation? / भारत में राष्ट्रपिता के रूप में किसे सम्मानित किया जाता है? — Jawaharlal Nehru/जवाहरलाल नेहरू · Bal Gangadhar Tilak/बाल गंगाधर तिलक · Mahatma Gandhi/महात्मा गांधी · Bhagat Singh/भगत सिंह -> **C. Mahatma Gandhi**
+289. Who was the first President of India? / भारत के पहले राष्ट्रपति कौन थे? — Dr Rajendra Prasad/डॉ. राजेन्द्र प्रसाद · C. Rajagopalachari/सी. राजगोपालाचारी · Zakir Husain/ज़ाकिर हुसैन · Dr S. Radhakrishnan/डॉ. एस. राधाकृष्णन -> **A. Dr Rajendra Prasad**
+290. Who was the first Prime Minister of independent India? / स्वतंत्र भारत के पहले प्रधानमंत्री कौन थे? — Sardar Patel/सरदार पटेल · Morarji Desai/मोरारजी देसाई · Lal Bahadur Shastri/लाल बहादुर शास्त्री · Jawaharlal Nehru/जवाहरलाल नेहरू -> **D. Jawaharlal Nehru**
+291. Who is remembered as the Iron Man of India for uniting the princely states? / रियासतों को मिलाने के लिए किसे भारत का लौह पुरुष कहा जाता है? — Sardar Vallabhbhai Patel/सरदार वल्लभभाई पटेल · Rajendra Prasad/राजेन्द्र प्रसाद · Abul Kalam Azad/अबुल कलाम आज़ाद · B. R. Ambedkar/बी. आर. अम्बेडकर -> **A. Sardar Vallabhbhai Patel**
+292. Who was the first woman to serve as Prime Minister of India? / भारत की पहली महिला प्रधानमंत्री कौन थीं? — Sarojini Naidu/सरोजिनी नायडू · Indira Gandhi/इंदिरा गांधी · Sucheta Kripalani/सुचेता कृपलानी · Pratibha Patil/प्रतिभा पाटिल -> **B. Indira Gandhi**
+293. Who gave the slogan 'Jai Hind'? / 'जय हिंद' का नारा किसने दिया? — Lala Lajpat Rai/लाला लाजपत राय · Subhas Chandra Bose/सुभाष चंद्र बोस · Chandra Shekhar Azad/चंद्रशेखर आज़ाद · Bhagat Singh/भगत सिंह -> **B. Subhas Chandra Bose**
+294. Who founded the Maurya Empire? / मौर्य साम्राज्य की स्थापना किसने की? — Chandragupta Maurya/चंद्रगुप्त मौर्य · Chanakya/चाणक्य · Bindusara/बिंदुसार · Ashoka/अशोक -> **A. Chandragupta Maurya**
+295. The Taj Mahal was built on the orders of which emperor? / ताजमहल किस सम्राट के आदेश से बना? — Shah Jahan/शाहजहां · Jahangir/जहाँगीर · Akbar/अकबर · Aurangzeb/औरंगज़ेब -> **A. Shah Jahan**
+296. Who founded the Mughal dynasty in India? / भारत में मुग़ल वंश की स्थापना किसने की? — Babur/बाबर · Akbar/अकबर · Sher Shah Suri/शेर शाह सूरी · Humayun/हुमायूँ -> **A. Babur**
+297. In which city does the Qutub Minar stand? / क़ुतुब मीनार किस शहर में स्थित है? — Agra/आगरा · Jaipur/जयपुर · Delhi/दिल्ली · Lucknow/लखनऊ -> **C. Delhi**
+298. The Great Stupa at Sanchi is associated with which emperor? / सांची का महास्तूप किस सम्राट से जुड़ा है? — Kanishka/कनिष्क · Chandragupta II/चंद्रगुप्त द्वितीय · Ashoka/अशोक · Harsha/हर्ष -> **C. Ashoka**

@@ -12,23 +12,23 @@
     },
     "options": [
       {
-        "en": "Digital Node Service",
-        "hi": "डिजिटल नोड सर्विस"
-      },
-      {
         "en": "Domain Name System",
         "hi": "डोमेन नेम सिस्टम"
       },
       {
-        "en": "Dynamic Naming Standard",
-        "hi": "डायनामिक नेमिंग स्टैंडर्ड"
+        "en": "Digital Node Service",
+        "hi": "डिजिटल नोड सर्विस"
       },
       {
         "en": "Direct Network Socket",
         "hi": "डायरेक्ट नेटवर्क सॉकेट"
+      },
+      {
+        "en": "Dynamic Naming Standard",
+        "hi": "डायनामिक नेमिंग स्टैंडर्ड"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": {
       "en": "The system is described in RFC 1034 and RFC 1035, published in November 1987.",
       "hi": "इस प्रणाली का वर्णन RFC 1034 और RFC 1035 में है, जो नवंबर 1987 में प्रकाशित हुए।"
@@ -47,23 +47,23 @@
     },
     "options": [
       {
-        "en": "Storing email messages",
-        "hi": "ईमेल संदेश सहेजना"
+        "en": "Turning domain names into IP addresses",
+        "hi": "डोमेन नामों को IP पतों में बदलना"
       },
       {
         "en": "Encrypting web traffic",
         "hi": "वेब ट्रैफ़िक एन्क्रिप्ट करना"
       },
       {
-        "en": "Turning domain names into IP addresses",
-        "hi": "डोमेन नामों को IP पतों में बदलना"
+        "en": "Storing email messages",
+        "hi": "ईमेल संदेश सहेजना"
       },
       {
         "en": "Compressing images",
         "hi": "छवियाँ संपीड़ित करना"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": {
       "en": "It lets people use memorable names while machines still work with numeric addresses.",
       "hi": "इससे लोग याद रखने योग्य नाम उपयोग करते हैं जबकि मशीनें संख्यात्मक पतों पर काम करती हैं।"
@@ -86,12 +86,12 @@
         "hi": "1987"
       },
       {
-        "en": "1995",
-        "hi": "1995"
-      },
-      {
         "en": "1975",
         "hi": "1975"
+      },
+      {
+        "en": "1995",
+        "hi": "1995"
       },
       {
         "en": "2001",
@@ -117,8 +117,8 @@
     },
     "options": [
       {
-        "en": "A time period for cached records",
-        "hi": "सहेजे गए रिकॉर्ड की समय अवधि"
+        "en": "A portion of the name space that one name server is responsible for",
+        "hi": "नाम स्थान का वह भाग जिसकी ज़िम्मेदारी एक नाम सर्वर लेता है"
       },
       {
         "en": "A physical room holding the servers",
@@ -129,11 +129,11 @@
         "hi": "इंटरनेट पर किसी देश की सीमा"
       },
       {
-        "en": "A portion of the name space that one name server is responsible for",
-        "hi": "नाम स्थान का वह भाग जिसकी ज़िम्मेदारी एक नाम सर्वर लेता है"
+        "en": "A time period for cached records",
+        "hi": "सहेजे गए रिकॉर्ड की समय अवधि"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": {
       "en": "Zones let different organisations manage their own slice of the tree.",
       "hi": "ज़ोन के कारण अलग-अलग संगठन वृक्ष के अपने भाग का प्रबंधन कर सकते हैं।"
@@ -156,16 +156,16 @@
         "hi": "रूट"
       },
       {
-        "en": "The resolver cache",
-        "hi": "रिज़ॉल्वर कैश"
+        "en": "The .com domain",
+        "hi": ".com डोमेन"
       },
       {
         "en": "The local host",
         "hi": "स्थानीय होस्ट"
       },
       {
-        "en": "The .com domain",
-        "hi": ".com डोमेन"
+        "en": "The resolver cache",
+        "hi": "रिज़ॉल्वर कैश"
       }
     ],
     "correctIndex": 0,
@@ -187,23 +187,23 @@
     },
     "options": [
       {
-        "en": "Slowing a server with heavy traffic",
-        "hi": "भारी ट्रैफ़िक से सर्वर धीमा करना"
-      },
-      {
-        "en": "Tricking people into revealing sensitive details by posing as a trusted party",
-        "hi": "विश्वसनीय पक्ष बनकर लोगों से संवेदनशील जानकारी उगलवाना"
-      },
-      {
         "en": "Copying a website's look for design study",
         "hi": "डिज़ाइन अध्ययन के लिए वेबसाइट की नक़ल करना"
       },
       {
+        "en": "Slowing a server with heavy traffic",
+        "hi": "भारी ट्रैफ़िक से सर्वर धीमा करना"
+      },
+      {
         "en": "Scanning a network for open ports",
         "hi": "नेटवर्क पर खुले पोर्ट खोजना"
+      },
+      {
+        "en": "Tricking people into revealing sensitive details by posing as a trusted party",
+        "hi": "विश्वसनीय पक्ष बनकर लोगों से संवेदनशील जानकारी उगलवाना"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 3,
     "explanation": {
       "en": "Phishing usually arrives as an email or message asking for passwords or card details.",
       "hi": "फ़िशिंग आम तौर पर पासवर्ड या कार्ड विवरण माँगने वाले ईमेल या संदेश के रूप में आती है।"
@@ -222,23 +222,23 @@
     },
     "options": [
       {
-        "en": "Mailing warehouse",
-        "hi": "मेलिंग वेयरहाउस"
-      },
-      {
-        "en": "Malicious software",
-        "hi": "दुर्भावनापूर्ण सॉफ़्टवेयर"
-      },
-      {
         "en": "Mobile application",
         "hi": "मोबाइल एप्लिकेशन"
       },
       {
+        "en": "Mailing warehouse",
+        "hi": "मेलिंग वेयरहाउस"
+      },
+      {
         "en": "Managed hardware",
         "hi": "प्रबंधित हार्डवेयर"
+      },
+      {
+        "en": "Malicious software",
+        "hi": "दुर्भावनापूर्ण सॉफ़्टवेयर"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 3,
     "explanation": {
       "en": "Viruses, worms, trojans and spyware all fall under this umbrella term.",
       "hi": "वायरस, वर्म, ट्रोजन और स्पाइवेयर सब इसी शब्द में आते हैं।"
@@ -257,23 +257,23 @@
     },
     "options": [
       {
-        "en": "Deletes duplicate files",
-        "hi": "डुप्लिकेट फ़ाइलें मिटाता है"
+        "en": "Allows or blocks traffic according to a set of rules",
+        "hi": "नियमों के अनुसार ट्रैफ़िक को अनुमति देता या रोकता है"
       },
       {
         "en": "Speeds up downloads",
         "hi": "डाउनलोड तेज़ करता है"
       },
       {
-        "en": "Allows or blocks traffic according to a set of rules",
-        "hi": "नियमों के अनुसार ट्रैफ़िक को अनुमति देता या रोकता है"
+        "en": "Deletes duplicate files",
+        "hi": "डुप्लिकेट फ़ाइलें मिटाता है"
       },
       {
         "en": "Prints network reports",
         "hi": "नेटवर्क रिपोर्ट छापता है"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": {
       "en": "It sits between networks and filters what may pass in either direction.",
       "hi": "यह नेटवर्कों के बीच बैठकर तय करता है कि किस दिशा में क्या आ-जा सकता है।"
@@ -292,8 +292,8 @@
     },
     "options": [
       {
-        "en": "Shareware",
-        "hi": "शेयरवेयर"
+        "en": "Ransomware",
+        "hi": "रैनसमवेयर"
       },
       {
         "en": "Adware",
@@ -304,11 +304,11 @@
         "hi": "फ़र्मवेयर"
       },
       {
-        "en": "Ransomware",
-        "hi": "रैनसमवेयर"
+        "en": "Shareware",
+        "hi": "शेयरवेयर"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "explanation": {
       "en": "It encrypts the victim's data and holds the decryption key for ransom.",
       "hi": "यह पीड़ित का डेटा एन्क्रिप्ट करता है और डिक्रिप्शन कुंजी बंधक रखता है।"
@@ -327,23 +327,23 @@
     },
     "options": [
       {
-        "en": "Two separate accounts",
-        "hi": "दो अलग खाते"
-      },
-      {
-        "en": "A password changed every two days",
-        "hi": "हर दो दिन बदला जाने वाला पासवर्ड"
-      },
-      {
         "en": "Two different kinds of proof of identity",
         "hi": "पहचान के दो अलग-अलग प्रकार के प्रमाण"
       },
       {
         "en": "A password twice as long",
         "hi": "दुगुना लंबा पासवर्ड"
+      },
+      {
+        "en": "Two separate accounts",
+        "hi": "दो अलग खाते"
+      },
+      {
+        "en": "A password changed every two days",
+        "hi": "हर दो दिन बदला जाने वाला पासवर्ड"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": {
       "en": "A password you know plus a code from a device you hold are two different factors.",
       "hi": "आपका जाना हुआ पासवर्ड और आपके पास मौजूद उपकरण से मिला कोड दो अलग कारक हैं।"
@@ -362,23 +362,23 @@
     },
     "options": [
       {
-        "en": "Hygrometer",
-        "hi": "हाइग्रोमीटर"
-      },
-      {
         "en": "Seismometer",
         "hi": "सिस्मोमीटर"
+      },
+      {
+        "en": "Barometer",
+        "hi": "बैरोमीटर"
       },
       {
         "en": "Thermometer",
         "hi": "थर्मामीटर"
       },
       {
-        "en": "Barometer",
-        "hi": "बैरोमीटर"
+        "en": "Hygrometer",
+        "hi": "हाइग्रोमीटर"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": {
       "en": "A falling barometer reading is one of the earliest hints of approaching bad weather.",
       "hi": "गिरता हुआ बैरोमीटर की रीडिंग खराब मौसम के आने का सबसे पहले मिलने वाला संकेत है।"
@@ -397,23 +397,23 @@
     },
     "options": [
       {
-        "en": "The depth of the cloud base",
-        "hi": "बादल की तली की ऊँचाई"
+        "en": "The temperature at which air becomes saturated and vapour condenses",
+        "hi": "वह तापमान जिस पर वायु संतृप्त होकर वाष्प संघनित होने लगे"
       },
       {
         "en": "The hottest hour of the day",
         "hi": "दिन का सबसे गर्म समय"
       },
       {
-        "en": "The temperature at which air becomes saturated and vapour condenses",
-        "hi": "वह तापमान जिस पर वायु संतृप्त होकर वाष्प संघनित होने लगे"
+        "en": "The depth of the cloud base",
+        "hi": "बादल की तली की ऊँचाई"
       },
       {
         "en": "The pressure at sea level",
         "hi": "समुद्र तल पर दाब"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": {
       "en": "When air cools to its dew point, dew, fog or clouds form.",
       "hi": "जब वायु अपने ओसांक तक ठंडी होती है तो ओस, कोहरा या बादल बनते हैं।"
@@ -432,23 +432,23 @@
     },
     "options": [
       {
-        "en": "Barometer",
-        "hi": "बैरोमीटर"
-      },
-      {
         "en": "Anemometer",
         "hi": "एनीमोमीटर"
       },
       {
-        "en": "Pyranometer",
-        "hi": "पायरानोमीटर"
+        "en": "Barometer",
+        "hi": "बैरोमीटर"
       },
       {
         "en": "Rain gauge",
         "hi": "वर्षा मापक"
+      },
+      {
+        "en": "Pyranometer",
+        "hi": "पायरानोमीटर"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": {
       "en": "Cup or ultrasonic anemometers spin or sense airflow to give the speed.",
       "hi": "कप या अल्ट्रासोनिक एनीमोमीटर हवा के प्रवाह से गति बताते हैं।"
@@ -467,23 +467,23 @@
     },
     "options": [
       {
-        "en": "A sudden fall in humidity",
-        "hi": "आर्द्रता में अचानक गिरावट"
+        "en": "A layer of cold air near the ground",
+        "hi": "ज़मीन के पास ठंडी हवा की परत"
       },
       {
         "en": "A long period without rain",
         "hi": "बिना वर्षा की लंबी अवधि"
       },
       {
-        "en": "A layer of cold air near the ground",
-        "hi": "ज़मीन के पास ठंडी हवा की परत"
-      },
-      {
         "en": "A large low-pressure system with winds spiralling inward",
         "hi": "कम दाब का बड़ा तंत्र जिसमें हवाएँ अंदर की ओर घूमती हैं"
+      },
+      {
+        "en": "A sudden fall in humidity",
+        "hi": "आर्द्रता में अचानक गिरावट"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 2,
     "explanation": {
       "en": "The opposite, a high-pressure system with outward spiralling winds, is an anticyclone.",
       "hi": "इसके विपरीत, बाहर की ओर घूमती हवाओं वाला उच्च दाब तंत्र प्रतिचक्रवात कहलाता है।"
@@ -502,23 +502,23 @@
     },
     "options": [
       {
-        "en": "Eat quickly",
-        "hi": "जल्दी खाएँ"
-      },
-      {
         "en": "Serve food hot at all times",
         "hi": "भोजन हर समय गर्म परोसें"
       },
       {
-        "en": "Keep clean",
-        "hi": "साफ़ रखें"
-      },
-      {
         "en": "Add more salt",
         "hi": "अधिक नमक डालें"
+      },
+      {
+        "en": "Eat quickly",
+        "hi": "जल्दी खाएँ"
+      },
+      {
+        "en": "Keep clean",
+        "hi": "साफ़ रखें"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": {
       "en": "The other four are separating raw and cooked food, cooking thoroughly, safe temperatures and safe water and raw materials.",
       "hi": "अन्य चार हैं कच्चे और पके भोजन को अलग रखना, अच्छी तरह पकाना, सुरक्षित तापमान और सुरक्षित जल व कच्ची सामग्री।"
@@ -541,16 +541,16 @@
         "hi": "5 से 60 डिग्री सेल्सियस के बीच"
       },
       {
+        "en": "Above 100 degrees Celsius",
+        "hi": "100 डिग्री सेल्सियस से ऊपर"
+      },
+      {
         "en": "Between 0 and 2 degrees Celsius",
         "hi": "0 से 2 डिग्री सेल्सियस के बीच"
       },
       {
         "en": "Below minus 18 degrees Celsius",
         "hi": "माइनस 18 डिग्री सेल्सियस से नीचे"
-      },
-      {
-        "en": "Above 100 degrees Celsius",
-        "hi": "100 डिग्री सेल्सियस से ऊपर"
       }
     ],
     "correctIndex": 0,
@@ -577,16 +577,16 @@
         "hi": "उनके बीच हानिकारक जीवाणुओं के जाने को रोकने के लिए"
       },
       {
-        "en": "To reduce the cooking time",
-        "hi": "पकाने का समय घटाने के लिए"
+        "en": "To save refrigerator space",
+        "hi": "फ़्रिज में जगह बचाने के लिए"
       },
       {
         "en": "To keep the colours separate",
         "hi": "रंग अलग रखने के लिए"
       },
       {
-        "en": "To save refrigerator space",
-        "hi": "फ़्रिज में जगह बचाने के लिए"
+        "en": "To reduce the cooking time",
+        "hi": "पकाने का समय घटाने के लिए"
       }
     ],
     "correctIndex": 0,
@@ -608,23 +608,23 @@
     },
     "options": [
       {
-        "en": "It turns them into harmless spores",
-        "hi": "वे हानिरहित बीजाणु बन जाते हैं"
+        "en": "It makes them multiply faster",
+        "hi": "वे तेज़ी से बढ़ने लगते हैं"
       },
       {
         "en": "It kills all of them at once",
         "hi": "वे एक साथ सभी मर जाते हैं"
       },
       {
-        "en": "It slows their growth without destroying them",
-        "hi": "वे धीमे पड़ जाते हैं पर नष्ट नहीं होते"
+        "en": "It turns them into harmless spores",
+        "hi": "वे हानिरहित बीजाणु बन जाते हैं"
       },
       {
-        "en": "It makes them multiply faster",
-        "hi": "वे तेज़ी से बढ़ने लगते हैं"
+        "en": "It slows their growth without destroying them",
+        "hi": "वे धीमे पड़ जाते हैं पर नष्ट नहीं होते"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": {
       "en": "Only heat, or long cooking, reduces the number of live bacteria in cooked food.",
       "hi": "पके भोजन में जीवित जीवाणुओं की संख्या केवल गर्मी या पर्याप्त पकाने से घटती है।"
@@ -643,23 +643,23 @@
     },
     "options": [
       {
-        "en": "Twelve",
-        "hi": "बारह"
-      },
-      {
         "en": "Thirty-two",
         "hi": "बत्तीस"
+      },
+      {
+        "en": "Sixteen",
+        "hi": "सोलह"
       },
       {
         "en": "Twenty",
         "hi": "बीस"
       },
       {
-        "en": "Sixteen",
-        "hi": "सोलह"
+        "en": "Twelve",
+        "hi": "बारह"
       }
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "explanation": {
       "en": "One king, one queen, two rooks, two bishops, two knights and eight pawns.",
       "hi": "एक राजा, एक वज़ीर, दो हाथी, दो ऊँट, दो घोड़े और आठ प्यादे।"
@@ -678,23 +678,23 @@
     },
     "options": [
       {
-        "en": "The higher-rated player",
-        "hi": "उच्च रेटिंग वाला खिलाड़ी"
+        "en": "Whoever wins the coin toss",
+        "hi": "जो टॉस जीते"
       },
       {
         "en": "The player with the black pieces",
         "hi": "काले मोहरों वाला खिलाड़ी"
       },
       {
-        "en": "The player with the white pieces",
-        "hi": "सफ़ेद मोहरों वाला खिलाड़ी"
+        "en": "The higher-rated player",
+        "hi": "उच्च रेटिंग वाला खिलाड़ी"
       },
       {
-        "en": "Whoever wins the coin toss",
-        "hi": "जो टॉस जीते"
+        "en": "The player with the white pieces",
+        "hi": "सफ़ेद मोहरों वाला खिलाड़ी"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "explanation": {
       "en": "After that, players alternate one move at a time.",
       "hi": "इसके बाद दोनों खिलाड़ी बारी-बारी से एक-एक चाल चलते हैं।"
@@ -713,6 +713,10 @@
     },
     "options": [
       {
+        "en": "A player's clock runs out while ahead on material",
+        "hi": "मोहरों में आगे रहते हुए खिलाड़ी का समय समाप्त हो जाता है"
+      },
+      {
         "en": "Neither player can deliver checkmate within fifty moves",
         "hi": "पचास चालों में कोई भी खिलाड़ी शहमात नहीं दे पाता"
       },
@@ -723,13 +727,9 @@
       {
         "en": "Both players repeat the same position three times",
         "hi": "दोनों खिलाड़ी एक ही स्थिति तीन बार दोहराते हैं"
-      },
-      {
-        "en": "A player's clock runs out while ahead on material",
-        "hi": "मोहरों में आगे रहते हुए खिलाड़ी का समय समाप्त हो जाता है"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": {
       "en": "Stalemate saves many lost positions because the result becomes a draw, not a win.",
       "hi": "स्टेलमेट कई हारी हुई बाज़ी बचा लेता है क्योंकि परिणाम जीत नहीं बल्कि बराबरी होती है।"
@@ -752,16 +752,16 @@
         "hi": "राजा और हाथी"
       },
       {
-        "en": "A pawn and the king",
-        "hi": "प्यादा और राजा"
+        "en": "The queen and a knight",
+        "hi": "वज़ीर और घोड़ा"
       },
       {
         "en": "Two bishops",
         "hi": "दो ऊँट"
       },
       {
-        "en": "The queen and a knight",
-        "hi": "वज़ीर और घोड़ा"
+        "en": "A pawn and the king",
+        "hi": "प्यादा और राजा"
       }
     ],
     "correctIndex": 0,
@@ -791,12 +791,12 @@
         "hi": "घोड़ा"
       },
       {
-        "en": "The queen",
-        "hi": "वज़ीर"
-      },
-      {
         "en": "A rook",
         "hi": "हाथी"
+      },
+      {
+        "en": "The queen",
+        "hi": "वज़ीर"
       }
     ],
     "correctIndex": 0,
@@ -826,12 +826,12 @@
         "hi": "खेल तुरंत हार के साथ समाप्त हो जाता है"
       },
       {
-        "en": "One point is deducted from the player",
-        "hi": "खिलाड़ी का एक अंक काटा जाता है"
-      },
-      {
         "en": "The move is simply taken back",
         "hi": "चाल को सीधे वापस ले लिया जाता है"
+      },
+      {
+        "en": "One point is deducted from the player",
+        "hi": "खिलाड़ी का एक अंक काटा जाता है"
       }
     ],
     "correctIndex": 0,
@@ -853,10 +853,6 @@
     },
     "options": [
       {
-        "en": "The Warner brothers",
-        "hi": "वार्नर बंधु"
-      },
-      {
         "en": "Charlie Chaplin",
         "hi": "चार्ली चैपलिन"
       },
@@ -865,11 +861,15 @@
         "hi": "लूमियर बंधु"
       },
       {
+        "en": "The Warner brothers",
+        "hi": "वार्नर बंधु"
+      },
+      {
         "en": "Georges Melies",
         "hi": "जॉर्ज मेलियस"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": {
       "en": "Their short films of workers leaving a factory and a train arriving amazed the audience.",
       "hi": "कारख़ाने से निकलते मज़दूरों और आती हुई ट्रेन की उनकी छोटी फ़िल्में दर्शकों को चकित कर देती थीं।"
@@ -892,16 +892,16 @@
         "hi": "द जैज़ सिंगर"
       },
       {
-        "en": "The Great Train Robbery",
-        "hi": "द ग्रेट ट्रेन रॉबरी"
-      },
-      {
         "en": "A Trip to the Moon",
         "hi": "अ ट्रिप टू द मून"
       },
       {
         "en": "Metropolis",
         "hi": "मेट्रोपॉलिस"
+      },
+      {
+        "en": "The Great Train Robbery",
+        "hi": "द ग्रेट ट्रेन रॉबरी"
       }
     ],
     "correctIndex": 0,
@@ -923,23 +923,23 @@
     },
     "options": [
       {
-        "en": "Hermes",
-        "hi": "हरमीस"
-      },
-      {
-        "en": "Zeus",
-        "hi": "ज़ीउस"
-      },
-      {
         "en": "Ares",
         "hi": "एरीज़"
       },
       {
+        "en": "Hermes",
+        "hi": "हरमीस"
+      },
+      {
         "en": "Apollo",
         "hi": "अपोलो"
+      },
+      {
+        "en": "Zeus",
+        "hi": "ज़ीउस"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 3,
     "explanation": {
       "en": "Zeus is shown with the thunderbolt and presides over the council of gods.",
       "hi": "ज़ीउस को वज्र के साथ दर्शाया जाता है और वे देवताओं की सभा की अध्यक्षता करते हैं।"
@@ -962,16 +962,16 @@
         "hi": "एथीना"
       },
       {
-        "en": "Demeter",
-        "hi": "डेमीटर"
-      },
-      {
         "en": "Artemis",
         "hi": "आर्टेमिस"
       },
       {
         "en": "Hera",
         "hi": "हीरा"
+      },
+      {
+        "en": "Demeter",
+        "hi": "डेमीटर"
       }
     ],
     "correctIndex": 0,
@@ -993,23 +993,23 @@
     },
     "options": [
       {
-        "en": "Hephaestus",
-        "hi": "हेफ़ेस्तस"
-      },
-      {
         "en": "Poseidon",
         "hi": "पोसायडन"
       },
       {
-        "en": "Cronus",
-        "hi": "क्रोनस"
+        "en": "Hephaestus",
+        "hi": "हेफ़ेस्तस"
       },
       {
         "en": "Dionysus",
         "hi": "डायोनिसस"
+      },
+      {
+        "en": "Cronus",
+        "hi": "क्रोनस"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": {
       "en": "He carries a trident and is the brother of Zeus and Hades.",
       "hi": "वे त्रिशूल धारण करते हैं और ज़ीउस व हेडीज़ के भाई हैं।"
@@ -1028,23 +1028,23 @@
     },
     "options": [
       {
-        "en": "Tartarus",
-        "hi": "टार्टारस"
-      },
-      {
-        "en": "Hypnos",
-        "hi": "हिप्नोस"
+        "en": "Thanatos",
+        "hi": "थानाटोस"
       },
       {
         "en": "Hades",
         "hi": "हेडीज़"
       },
       {
-        "en": "Thanatos",
-        "hi": "थानाटोस"
+        "en": "Tartarus",
+        "hi": "टार्टारस"
+      },
+      {
+        "en": "Hypnos",
+        "hi": "हिप्नोस"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": {
       "en": "Hades himself is a god; Tartarus is a region beneath the underworld.",
       "hi": "हेडीज़ स्वयं देवता हैं; टार्टारस पाताल के नीचे का क्षेत्र है।"
@@ -1063,10 +1063,6 @@
     },
     "options": [
       {
-        "en": "Hestia",
-        "hi": "हेस्तिया"
-      },
-      {
         "en": "Nike",
         "hi": "नाइकी"
       },
@@ -1075,11 +1071,15 @@
         "hi": "एफ़्रोडाइटी"
       },
       {
+        "en": "Hestia",
+        "hi": "हेस्तिया"
+      },
+      {
         "en": "Persephone",
         "hi": "पर्सेफ़ोनी"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": {
       "en": "The Romans identified her with Venus.",
       "hi": "रोमन लोग उन्हें वीनस के रूप में देखते थे।"
@@ -1106,12 +1106,12 @@
         "hi": "रेमिशन"
       },
       {
-        "en": "Dialysis",
-        "hi": "डायलिसिस"
-      },
-      {
         "en": "Biopsy",
         "hi": "बायोप्सी"
+      },
+      {
+        "en": "Dialysis",
+        "hi": "डायलिसिस"
       }
     ],
     "correctIndex": 0,
@@ -1133,23 +1133,23 @@
     },
     "options": [
       {
-        "en": "Metastatic",
-        "hi": "मेटास्टैटिक"
+        "en": "Benign",
+        "hi": "सौम्य"
       },
       {
         "en": "Malignant",
         "hi": "घातक"
       },
       {
-        "en": "Benign",
-        "hi": "सौम्य"
+        "en": "Metastatic",
+        "hi": "मेटास्टैटिक"
       },
       {
         "en": "Invasive",
         "hi": "आक्रामक"
       }
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": {
       "en": "Malignant growths are the ones that invade and can spread.",
       "hi": "घातक गाँठें ही आक्रमण करती हैं और फैल सकती हैं।"
@@ -1172,16 +1172,16 @@
         "hi": "सूक्ष्मदर्शी से जाँच के लिए ऊतक का छोटा नमूना लेना"
       },
       {
-        "en": "Scanning bones with X-rays",
-        "hi": "एक्स-रे से हड्डियों का स्कैन"
-      },
-      {
         "en": "Recording the heart's rhythm",
         "hi": "हृदय की लय दर्ज करना"
       },
       {
         "en": "Measuring blood pressure twice",
         "hi": "रक्तचाप दो बार मापना"
+      },
+      {
+        "en": "Scanning bones with X-rays",
+        "hi": "एक्स-रे से हड्डियों का स्कैन"
       }
     ],
     "correctIndex": 0,
@@ -1203,12 +1203,12 @@
     },
     "options": [
       {
-        "en": "Physiotherapy",
-        "hi": "फ़िज़ियोथेरेपी"
-      },
-      {
         "en": "Chemotherapy",
         "hi": "कीमोथेरेपी"
+      },
+      {
+        "en": "Physiotherapy",
+        "hi": "फ़िज़ियोथेरेपी"
       },
       {
         "en": "Radiotherapy",
@@ -1219,7 +1219,7 @@
         "hi": "संवेदनाहरण"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": {
       "en": "Radiotherapy uses radiation instead of circulating drugs.",
       "hi": "रेडियोथेरेपी में दवाओं के बजाय विकिरण का उपयोग होता है।"
@@ -1239,6 +1239,10 @@
     },
     "options": [
       {
+        "en": "The International Monetary Fund",
+        "hi": "अंतर्राष्ट्रीय मुद्रा कोष"
+      },
+      {
         "en": "The Commonwealth Secretariat",
         "hi": "राष्ट्रमंडल सचिवालय"
       },
@@ -1249,13 +1253,9 @@
       {
         "en": "The World Trade Organization",
         "hi": "विश्व व्यापार संगठन"
-      },
-      {
-        "en": "The International Monetary Fund",
-        "hi": "अंतर्राष्ट्रीय मुद्रा कोष"
       }
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": {
       "en": "WHO was founded on 7 April 1948 and coordinates international health work.",
       "hi": "WHO की स्थापना 7 अप्रैल 1948 को हुई और यह अंतर्राष्ट्रीय स्वास्थ्य कार्य का समन्वय करता है।"

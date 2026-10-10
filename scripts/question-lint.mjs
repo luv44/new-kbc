@@ -11,7 +11,10 @@ import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
-const PARTS = ['part-01-physical-world', 'part-02-india', 'part-03-international', 'part-04-science-culture'];
+const PARTS = [
+  'part-01-physical-world', 'part-02-india', 'part-03-international', 'part-04-science-culture',
+  'part-05-india-extended', 'part-06-world-extended', 'part-07-science-extended', 'part-08-culture-extended',
+];
 
 // Words that talk about the course instead of the world. Banned in both languages.
 // 'module' is not banned bare: "Command Module" and "lunar module" are NASA proper names.
@@ -119,6 +122,13 @@ for (const q of records) {
   const answer = norm(q.options[q.correctIndex]?.en ?? '');
   const key = answer;
   const w = words(q.q.en);
+
+  // Owner rule: one question per fact, not three or four reworded variants of it.
+  // A fact is identified by the answer plus the source it was drawn from.
+  const factKey = `${answer}|${(q.sourceIds ?? []).join(',')}`;
+  if (facts.has(`FACT${factKey}`)) {
+    fail(q.id, 'SAME_FACT_REWORDED', `the fact "${q.options[q.correctIndex].en}" already has a question (${facts.get(`FACT${factKey}`)[0].id}); one question per fact`);
+  } else facts.set(`FACT${factKey}`, [{ id: q.id, words: w }]);
   if (facts.has(key)) {
     for (const prior of facts.get(key)) {
       if (jaccard(w, prior.words) >= 0.5) fail(q.id, 'SAME_FACT_REWORDED', `same answer "${q.options[q.correctIndex].en}" as ${prior.id} with similar wording`);

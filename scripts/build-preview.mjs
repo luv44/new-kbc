@@ -3,14 +3,12 @@
 // Usage: node scripts/build-preview.mjs
 // Re-run it after any edit to content/questions/parts/*.json + `node scripts/question-lint.mjs --write`.
 
-import { readFileSync, writeFileSync, mkdirSync, existsSync, rmSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, existsSync, rmSync, readdirSync } from 'node:fs';
 import { execFileSync } from 'node:child_process';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
-const ZIP_NAME = 'Crorepati_Questions_138_DRAFT.zip';
-const bank = JSON.parse(readFileSync(join(ROOT, 'content/questions/DRAFT_UNIQUE_QUESTIONS.json'), 'utf8'));
 
 // ---- ZIP ---------------------------------------------------------------
 const staging = join(ROOT, 'preview/.zipstage');
@@ -18,19 +16,33 @@ rmSync(staging, { recursive: true, force: true });
 mkdirSync(staging, { recursive: true });
 
 // The lint scan runs first so the ZIP can never ship records that fail the owner's two rules.
+// It also regenerates DRAFT_UNIQUE_QUESTIONS.json, so the bank and the count in the file
+// name are read only after this step -- a hardcoded count goes stale the moment a part is added.
 execFileSync('node', [join(ROOT, 'scripts/question-lint.mjs'), '--write'], { stdio: 'inherit' });
 
+const bank = JSON.parse(readFileSync(join(ROOT, 'content/questions/DRAFT_UNIQUE_QUESTIONS.json'), 'utf8'));
+if (bank.count !== bank.questions.length) throw new Error('merged bank count does not match its records');
+const ZIP_NAME = `Crorepati_Questions_${bank.count}_DRAFT.zip`;
+const FOLDER = ZIP_NAME.replace('.zip', '');
+
+// Drop any ZIP left over from an earlier count so only the current build is downloadable.
+for (const dir of ['preview', 'content/questions']) {
+  for (const f of readdirSync(join(ROOT, dir))) {
+    if (/^Crorepati_Questions_\d+_DRAFT\.zip$/.test(f) && f !== ZIP_NAME) rmSync(join(ROOT, dir, f));
+  }
+}
+
 const files = {
-  [ZIP_NAME.replace('.zip', '') + '/README.md']: 'content/questions/README.md',
-  [ZIP_NAME.replace('.zip', '') + '/DRAFT_UNIQUE_QUESTIONS.json']: 'content/questions/DRAFT_UNIQUE_QUESTIONS.json',
-  [ZIP_NAME.replace('.zip', '') + '/DRAFT_UNIQUE_QUESTIONS.md']: 'content/questions/DRAFT_UNIQUE_QUESTIONS.md',
-  [ZIP_NAME.replace('.zip', '') + '/parts/part-01-physical-world.json']: 'content/questions/parts/part-01-physical-world.json',
-  [ZIP_NAME.replace('.zip', '') + '/parts/part-02-india.json']: 'content/questions/parts/part-02-india.json',
-  [ZIP_NAME.replace('.zip', '') + '/parts/part-03-international.json']: 'content/questions/parts/part-03-international.json',
-  [ZIP_NAME.replace('.zip', '') + '/parts/part-04-science-culture.json']: 'content/questions/parts/part-04-science-culture.json',
-  [ZIP_NAME.replace('.zip', '') + '/COMPLETE_QUESTION_BANK.txt']: 'content/questions/COMPLETE_QUESTION_BANK.txt',
-  [ZIP_NAME.replace('.zip', '') + '/scripts/question-lint.mjs']: 'scripts/question-lint.mjs',
+  [`${FOLDER}/README.md`]: 'content/questions/README.md',
+  [`${FOLDER}/DRAFT_UNIQUE_QUESTIONS.json`]: 'content/questions/DRAFT_UNIQUE_QUESTIONS.json',
+  [`${FOLDER}/DRAFT_UNIQUE_QUESTIONS.md`]: 'content/questions/DRAFT_UNIQUE_QUESTIONS.md',
+  [`${FOLDER}/COMPLETE_QUESTION_BANK.txt`]: 'content/questions/COMPLETE_QUESTION_BANK.txt',
+  [`${FOLDER}/scripts/question-lint.mjs`]: 'scripts/question-lint.mjs',
 };
+// Every part file on disk ships, discovered rather than listed by hand.
+for (const f of readdirSync(join(ROOT, 'content/questions/parts')).filter((n) => n.endsWith('.json')).sort()) {
+  files[`${FOLDER}/parts/${f}`] = `content/questions/parts/${f}`;
+}
 
 // Plain-text CSV alongside the JSON, for anyone opening the bank in a spreadsheet.
 const esc = (s) => `"${String(s ?? '').replace(/"/g, '""')}"`;
