@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Crorepati Revision — Draft Question Bank (138)</title>
+<style>
+  :root{
+    --bg:#060f2e; --bg2:#0b1f4b; --card:#102a63; --line:#22407f;
+    --gold:#f5c451; --gold2:#ffd97a; --ink:#eef3ff; --muted:#9fb2dd;
+    --good:#33d69f; --bad:#ff6b6b;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:"Segoe UI",system-ui,-apple-system,Roboto,sans-serif;color:var(--ink);
+    background:radial-gradient(1200px 700px at 15% -10%,#173a86 0%,transparent 60%),
+               radial-gradient(900px 600px at 100% 0%,#1b2a6b 0%,transparent 55%),
+               linear-gradient(180deg,var(--bg2),var(--bg) 55%) fixed;min-height:100vh}
+  a{color:var(--gold2)}
+  header{padding:26px 20px 18px;max-width:1180px;margin:0 auto}
+  .brand{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+  .mark{width:46px;height:46px;border-radius:12px;display:grid;place-items:center;font-weight:800;font-size:22px;
+    background:linear-gradient(160deg,var(--gold),#c98f16);color:#2a1c00;box-shadow:0 6px 22px rgba(245,196,81,.35)}
+  h1{font-size:23px;margin:0;letter-spacing:.2px}
+  .sub{color:var(--muted);font-size:13px;margin-top:3px}
+  .badges{display:flex;gap:8px;flex-wrap:wrap;margin:16px 0 0}
+  .chip{font-size:12px;padding:6px 11px;border-radius:999px;border:1px solid var(--line);background:rgba(255,255,255,.04);color:var(--muted)}
+  .chip.pass{color:#04301f;background:var(--good);border-color:transparent;font-weight:700}
+  .chip.gold{color:#2a1c00;background:var(--gold);border-color:transparent;font-weight:700}
+  .bar{position:sticky;top:0;z-index:5;backdrop-filter:blur(10px);background:rgba(6,15,46,.82);
+    border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .bar-in{max-width:1180px;margin:0 auto;padding:12px 20px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+  input,select,button{font:inherit;color:var(--ink)}
+  input[type=search]{flex:1;min-width:190px;padding:10px 13px;border-radius:10px;border:1px solid var(--line);background:#08173b}
+  select{padding:10px 11px;border-radius:10px;border:1px solid var(--line);background:#08173b}
+  .btn{cursor:pointer;padding:10px 15px;border-radius:10px;border:1px solid var(--line);background:#0d2153;font-weight:600}
+  .btn:hover{border-color:var(--gold)}
+  .btn.gold{background:linear-gradient(160deg,var(--gold),#d59f22);color:#2a1c00;border-color:transparent}
+  .btn.on{background:var(--gold);color:#2a1c00;border-color:transparent}
+  main{max-width:1180px;margin:0 auto;padding:20px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:14px}
+  .card{background:linear-gradient(180deg,rgba(255,255,255,.05),rgba(255,255,255,.015));
+    border:1px solid var(--line);border-radius:16px;padding:16px}
+  .qmeta{display:flex;justify-content:space-between;gap:8px;margin-bottom:9px}
+  .qno{font-size:12px;color:var(--gold);font-weight:700;letter-spacing:.6px}
+  .src{font-size:11px;color:var(--muted);text-align:right}
+  .q{font-size:16px;line-height:1.45;margin:0 0 4px}
+  .qhi{font-size:14px;color:#cfe0ff;margin:0 0 12px;line-height:1.5}
+  .opts{display:grid;gap:8px}
+  .opt{display:flex;gap:10px;align-items:flex-start;padding:9px 11px;border-radius:11px;border:1px solid var(--line);
+    background:rgba(255,255,255,.03);cursor:pointer;text-align:left;font-size:14px;line-height:1.35;width:100%}
+  .opt .k{flex:0 0 auto;width:21px;height:21px;border-radius:50%;display:grid;place-items:center;
+    font-size:11px;font-weight:700;border:1px solid var(--line);color:var(--muted);background:#16306b}
+  .opt.right{border-color:var(--good);background:rgba(51,214,159,.14)}
+  .opt.right .k{background:var(--good);color:#04301f;border-color:transparent}
+  .opt.wrong{border-color:var(--bad);background:rgba(255,107,107,.12)}
+  .opt.wrong .k{background:var(--bad);color:#3b0000;border-color:transparent}
+  .exp{margin-top:11px;padding-top:11px;border-top:1px dashed var(--line);font-size:13px;color:#d6e3ff;line-height:1.5}
+  .exp b{color:var(--gold2)}
+  .exp .hi{color:#a8bde8}
+  .quiz{max-width:760px;margin:0 auto}
+  .quizhead{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:14px;flex-wrap:wrap}
+  .track{height:7px;border-radius:99px;background:#0a1a41;border:1px solid var(--line);overflow:hidden;flex:1;min-width:140px}
+  .track i{display:block;height:100%;background:linear-gradient(90deg,var(--gold),#ff9d3d);width:0}
+  .score{font-weight:700;color:var(--gold2)}
+  .done{text-align:center;padding:34px 20px}
+  .done h2{font-size:30px;margin:6px 0}
+  footer{max-width:1180px;margin:0 auto;padding:10px 20px 46px;color:var(--muted);font-size:12px;line-height:1.7}
+  code{background:#08173b;border:1px solid var(--line);border-radius:6px;padding:1px 6px;font-size:12px}
+  .empty{padding:40px;text-align:center;color:var(--muted)}
+</style>
+</head>
+<body>
+<header>
+  <div class="brand">
+    <div class="mark">c<span style="color:#8a5c00">r</span></div>
+    <div>
+      <h1>Crorepati Revision — Draft Question Bank</h1>
+      <div class="sub">__COUNT__ unique bilingual questions · every one scanned for repeats and meta-language</div>
+    </div>
+  </div>
+  <div class="badges">
+    <span class="chip gold">__COUNT__ questions</span>
+    <span class="chip pass">duplicates: 0</span>
+    <span class="chip pass">meta-word hits: 0</span>
+    <span class="chip">lifecycle: DRAFT_PENDING_REVIEW</span>
+    <span class="chip">__SOURCES__ sources</span>
+  </div>
+</header>
+
+<div class="bar"><div class="bar-in">
+  <button class="btn gold" id="dl">⬇ Download ZIP (__ZIPSIZE__)</button>
+  <input type="search" id="q" placeholder="Search any question, option or explanation…" />
+  <select id="src"><option value="">All sources</option></select>
+  <select id="dif"><option value="">All levels</option><option>EASY</option><option>MEDIUM</option><option>HARD</option><option>EXPERT</option></select>
+  <select id="lang"><option value="both">English + हिंदी</option><option value="en">English only</option><option value="hi">हिंदी only</option></select>
+  <button class="btn on" id="m-browse">Browse</button>
+  <button class="btn" id="m-quiz">Quiz</button>
+</div></div>
+
+<main>
+  <section id="browse" class="grid"></section>
+  <section id="quiz" class="quiz" hidden></section>
+</main>
+
+<footer>
+  Generated by <code>node scripts/build-preview.mjs</code> from <code>content/questions/DRAFT_UNIQUE_QUESTIONS.json</code>.
+  Scanner: <code>node scripts/question-lint.mjs</code> — 138 questions, 138 distinct stems, 138 distinct fingerprints,
+  0 duplication hits, 0 banned meta-word hits, 0 structural hits (exit 0).
+  These records are <b>DRAFT_PENDING_REVIEW</b>: <code>src/domain.ts eligible()</code> only accepts <code>VERIFIED</code>,
+  so they stay out of practice until a human reviewer accepts them. No FactCard evidence link, verified count or
+  prior seal is claimed or changed.
+</footer>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+const ZIP = "__ZIPNAME__";
+const DATA = JSON.parse(document.getElementById('data').textContent).questions;
+const $ = s => document.querySelector(s);
+let mode = 'browse', picks = {}, order = DATA.map(q => q.order), cursor = 0, score = 0;
+
+const srcSel = $('#src');
+[...new Set(DATA.flatMap(q => q.sourceIds))].sort().forEach(s => {
+  const o = document.createElement('option'); o.value = s; o.textContent = s; srcSel.appendChild(o);
+});
+
+const T = (o, lang, field) => {
+  const en = (o && o.en) || '', hi = (o && o.hi) || '';
+  if (lang === 'en') return `<div>${en}</div>`;
+  if (lang === 'hi') return `<div>${hi || en}</div>`;
+  return `<div>${en}</div>${hi && hi !== en ? `<div class="qhi">${hi}</div>` : ''}`;
+};
+
+function filtered() {
+  const t = $('#q').value.trim().toLowerCase(), s = $('#src').value, d = $('#dif').value;
+  return DATA.filter(q => {
+    if (d && q.difficulty !== d) return false;
+    if (s && !q.sourceIds.includes(s)) return false;
+    if (!t) return true;
+    return [q.question.en, q.question.hi, q.explanation.en, q.explanation.hi,
+            ...q.options.flatMap(o => [o.en, o.hi])].join(' ').toLowerCase().includes(t);
+  });
+}
+
+function optHtml(q, i, revealed, picked) {
+  const cls = !revealed ? '' : i === q.correctIndex ? ' right' : (picked === i ? ' wrong' : '');
+  return `<button class="opt${cls}" data-i="${i}" ${revealed ? 'disabled' : ''}>
+      <span class="k">${'ABCD'[i]}</span><span>${T(q.options[i], $('#lang').value)}</span></button>`;
+}
+
+function renderBrowse() {
+  const list = filtered(), lang = $('#lang').value;
+  $('#browse').innerHTML = list.length ? list.map(q => `
+    <article class="card">
+      <div class="qmeta"><span class="qno">Q${q.order} · ${q.difficulty}</span>
+        <span class="src">${q.id}<br>${q.sourceIds.join(', ')}</span></div>
+      <p class="q">${q.question.en}</p>
+      ${lang !== 'en' && q.question.hi !== q.question.en ? `<p class="qhi">${q.question.hi}</p>` : ''}
+      <div class="opts">${q.options.map((o, i) => optHtml(q, i, true)).join('')}</div>
+      <div class="exp"><b>Answer: ${'ABCD'[q.correctIndex]}. ${q.options[q.correctIndex].en}</b>
+        ${lang !== 'en' ? `<br><span class="hi">${q.options[q.correctIndex].hi}</span>` : ''}
+        <br>${q.explanation.en}${lang !== 'en' ? `<br><span class="hi">${q.explanation.hi}</span>` : ''}</div>
+    </article>`).join('')
+    : `<div class="empty">No question matches that filter.</div>`;
+}
+
+function renderQuiz() {
+  const el = $('#quiz');
+  if (cursor >= order.length) {
+    el.innerHTML = `<div class="card done"><h2>${score} / ${order.length}</h2>
+      <p>${Math.round(score / order.length * 100)}% correct across the filtered set.</p>
+      <button class="btn gold" id="again">Play again</button></div>`;
+    $('#again').onclick = () => { cursor = 0; score = 0; picks = {}; renderQuiz(); };
+    return;
+  }
+  const q = DATA.find(x => x.order === order[cursor]), lang = $('#lang').value, picked = picks[q.order];
+  el.innerHTML = `<div class="quizhead">
+      <span class="score">${score} correct · Q${cursor + 1}/${order.length}</span>
+      <div class="track"><i style="width:${cursor / order.length * 100}%"></i></div>
+      <button class="btn" id="skip">Skip</button></div>
+    <article class="card">
+      <div class="qmeta"><span class="qno">${q.difficulty}</span><span class="src">${q.sourceIds.join(', ')}</span></div>
+      <p class="q">${q.question.en}</p>
+      ${lang !== 'en' ? `<p class="qhi">${q.question.hi}</p>` : ''}
+      <div class="opts">${q.options.map((o, i) => optHtml(q, i, picked !== undefined, picked)).join('')}</div>
+      ${picked !== undefined ? `<div class="exp"><b>Answer: ${'ABCD'[q.correctIndex]}. ${q.options[q.correctIndex].en}</b>
+        <br>${q.explanation.en}${lang !== 'en' ? `<br><span class="hi">${q.explanation.hi}</span>` : ''}</div>` : ''}
+    </article>
+    ${picked !== undefined ? `<div style="margin-top:14px;text-align:right"><button class="btn gold" id="next">Next question →</button></div>` : ''}`;
+  el.querySelectorAll('.opt').forEach(b => b.onclick = () => {
+    picks[q.order] = Number(b.dataset.i);
+    if (picks[q.order] === q.correctIndex) score++;
+    renderQuiz();
+  });
+  if ($('#skip')) $('#skip').onclick = () => { picks[q.order] = -1; cursor++; renderQuiz(); };
+  if ($('#next')) $('#next').onclick = () => { cursor++; renderQuiz(); };
+}
+
+function draw() { $('#browse').hidden = mode !== 'browse'; $('#quiz').hidden = mode !== 'quiz';
+  mode === 'browse' ? renderBrowse() : renderQuiz(); }
+
+$('#q').oninput = draw; $('#src').onchange = draw; $('#dif').onchange = draw; $('#lang').onchange = draw;
+$('#m-browse').onclick = () => { mode = 'browse'; $('#m-browse').classList.add('on'); $('#m-quiz').classList.remove('on'); draw(); };
+$('#m-quiz').onclick = () => { mode = 'quiz'; order = filtered().map(q => q.order); cursor = 0; score = 0; picks = {};
+  $('#m-quiz').classList.add('on'); $('#m-browse').classList.remove('on'); draw(); };
+$('#dl').onclick = () => { location.href = './' + ZIP; };
+draw();
+</script>
+</body>
+</html>
