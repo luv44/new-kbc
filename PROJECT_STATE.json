@@ -1,0 +1,103 @@
+{
+  "project": "Crorepati Revision V2",
+  "authoritativeWorkspace": "/home/harsh/CrorePati_Revision_V2_Work",
+  "checkpointRoot": "/mnt/d/crorepati revision v2",
+  "updatedAt": "2026-10-07T16:41:55.003Z",
+  "milestone": "5,016 source-verified questions; 5,000-question recovery baseline preserved",
+  "counts": {
+    "uniqueVerifiedQuestions": 5016,
+    "uniqueQuestionIds": 5016,
+    "uniqueQuestionFingerprints": 5016,
+    "uniqueSemanticKeys": 5016,
+    "completeVerifiedFactCards": 4985,
+    "uniqueFactCardIds": 4985,
+    "authoritativeSources": 34,
+    "subjects": 26,
+    "topicsWithQuestions": 32,
+    "topics": 345,
+    "questionGapToFrozen20000Requirement": 14984
+  },
+  "contentStatus": {
+    "allQuestionsLifecycle": "VERIFIED",
+    "allFactCardsLifecycle": "VERIFIED",
+    "sourceEvidenceAndSchemaValidation": "PASS: B06 chunk 15; 20K completion blocked by evidence/review gates; next outer batch capped at 3,000 with 250-question saves",
+    "b05FinalChunk": {
+      "chunkIndex": 19,
+      "selectedFacts": 43,
+      "totalGeneratedFacts": 4793,
+      "questionsAfterSave": 5000,
+      "factCardsAfterSave": 4969,
+      "preservation": "PASS",
+      "seal": "reports/B05_PUBLISHED_5000.json",
+      "checks": "reports/B05_CHECKS_5000.json"
+    },
+    "b06LatestBatch": {
+      "chunkIndex": 15,
+      "chunkSize": 1,
+      "selectedFacts": 1,
+      "cumulativeFacts": 16,
+      "questionsAfterSave": 5016,
+      "factCardsAfterSave": 4985,
+      "topicsWithQuestionsAfterSave": 32,
+      "newSources": 0,
+      "reviewer": "SINGH",
+      "decision": "ACCEPT",
+      "preservation": "PASS",
+      "baseline": "reports/B06_BASELINE_5000.json",
+      "priorSeal": "reports/B06_PUBLISHED_5015.json",
+      "seal": "reports/B06_PUBLISHED_5016.json",
+      "checks": "reports/B06_CHECKS_5016.json"
+    },
+    "emptySubjects": [
+      "S02",
+      "S25"
+    ],
+    "approvedVideos": 0,
+    "evidenceBlockedVideoPlans": 342,
+    "expertDepthAuditComplete": false,
+    "actualPyqs": 0
+  },
+  "verification": {
+    "pipelineValidation": "PASS: 5,016 questions / 4,985 FactCards",
+    "nodeTests": "PASS: 33 passed, 0 failed, 0 skipped",
+    "productionBuild": "PASS at 5,000 baseline; not rerun for this content-only B06 batch",
+    "browserE2E": "NOT_RUN_FOR_THIS_MILESTONE",
+    "deployment": "NOT_DEPLOYED"
+  },
+  "rescueBackup": "/mnt/d/crorepati revision v2/deliverables/CROREPATI_RESCUE_20261005",
+  "finalZip": "D:\\crorepati revision v2\\deliverables\\Crorepati_Revision_V2_FINAL_5000.zip",
+  "latestBatchCheckpoint": "D:\\crorepati revision v2\\deliverables\\Crorepati_Revision_V2_CHECKPOINT_REVIEWED_5016_V2.zip",
+  "nextBatchPolicy": {
+    "maxNewQuestions": 3000,
+    "progressEvery": 250,
+    "progressSlots": 12,
+    "status": "CANDIDATE_BATCH_COMPLETE_REVIEW_PENDING",
+    "publicationRequiresHumanReview": true
+  },
+  "gapAssessmentReport": "reports/B06_GAP_ASSESSMENT.md",
+  "twentyKBlockerReport": "reports/20K_BLOCKER_REPORT.md",
+  "independentReviewBlocker": "reports/INDEPENDENT_REVIEW_BLOCKER.md",
+  "progressReport": "reports/PROGRESS_20000.md",
+  "completionStatus": "BLOCKED_BEFORE_20000",
+  "overallFinalEligible": false,
+  "knownGaps": [
+    "Frozen specification still requires 20,000 questions; 14,984 remain.",
+    "S02 Current Affairs has no questions because dated fresh evidence was not accepted.",
+    "S25 Visual / Identification GK has no questions because usable verified visual evidence/assets are absent.",
+    "1,568 broad concepts remain without evidence and 313 topics have no questions.",
+    "No actual PYQs, approved videos, authorized HTTPS deployment, or independent expert-depth audit are claimed."
+  ],
+  "pendingContent": {
+    "batch": "B07N",
+    "status": "CANDIDATE_BATCH_COMPLETE",
+    "newQuestions": 9000,
+    "reviewStatus": "PENDING_REVIEW",
+    "verifiedCorpusQuestions": 5016,
+    "totalWrittenQuestions": 14016,
+    "progressLedger": "reports/B07_PROGRESS.json",
+    "finalChecks": "reports/B07_FINAL_CHECKS_14016.json",
+    "newQuestionsLatestBatch": 3000,
+    "progressEvery": 250
+  },
+  "latestContentCheckpoint": "D:\\crorepati revision v2\\deliverables\\Crorepati_Revision_V2_CHECKPOINT_20261007T160643220282Z.zip"
+}

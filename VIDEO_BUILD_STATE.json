@@ -1,0 +1,10 @@
+{
+  "phase": "PROMPTS_PREPARED_AUTHORIZATION_REQUIRED",
+  "required": 345,
+  "promptReady": 3,
+  "blocked": 342,
+  "submitted": 0,
+  "generated": 0,
+  "approved": 0,
+  "next": "Acquire verified evidence across the missing subjects; authorize Google Flow and inspect available capability/credit cost before submission."
+}

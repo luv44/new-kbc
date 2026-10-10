@@ -1,0 +1,44 @@
+{
+  "mediaChecked": 0,
+  "approved": 0,
+  "sceneFailures": 0,
+  "automatedPromptValidation": [
+    {
+      "topicId": "S08-C9270c63f-Te9c942c8",
+      "factsComplete": true,
+      "promptReady": true,
+      "hindiScriptContainsDevanagari": true,
+      "plannedSceneDurationPass": true,
+      "productionAudioVisualQA": "NOT_RUN",
+      "reviewerRequired": true
+    },
+    {
+      "topicId": "S09-C3ee11016-T31f3c4c1",
+      "factsComplete": true,
+      "promptReady": true,
+      "hindiScriptContainsDevanagari": true,
+      "plannedSceneDurationPass": true,
+      "productionAudioVisualQA": "NOT_RUN",
+      "reviewerRequired": true
+    },
+    {
+      "topicId": "S19-C03e5a72a-T68a81807",
+      "factsComplete": true,
+      "promptReady": true,
+      "hindiScriptContainsDevanagari": true,
+      "plannedSceneDurationPass": true,
+      "productionAudioVisualQA": "NOT_RUN",
+      "reviewerRequired": true
+    }
+  ],
+  "status": "NO_MEDIA_GENERATED",
+  "manualChecksRequired": [
+    "factual accuracy",
+    "visual relevance",
+    "Hindi pronunciation",
+    "caption synchronization",
+    "continuity",
+    "no unverified claims",
+    "no watermark or copyright issue"
+  ]
+}

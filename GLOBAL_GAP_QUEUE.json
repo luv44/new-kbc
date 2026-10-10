@@ -1,0 +1,5016 @@
+[
+  {
+    "id": "STRUCTURAL-DEPTH-AUDIT",
+    "priority": 1,
+    "status": "OPEN",
+    "reason": "Subtopic facets represented; many need finer atomic decomposition and expert reconciliation against all required dimensions."
+  },
+  {
+    "id": "GAP-S01-C8994e811-T60e40ec2",
+    "subjectId": "S01",
+    "topicId": "S01-C8994e811-T60e40ec2",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S01-C8994e811-T60e40ec2-ST321bb462-A321bb462",
+      "S01-C8994e811-T60e40ec2-ST77b5e075-A77b5e075",
+      "S01-C8994e811-T60e40ec2-STc841dee1-Ac841dee1",
+      "S01-C8994e811-T60e40ec2-STd3e78458-Ad3e78458"
+    ],
+    "questions": 25,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S01-C8994e811-T3e34ee56",
+    "subjectId": "S01",
+    "topicId": "S01-C8994e811-T3e34ee56",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S01-C8994e811-T3e34ee56-STf3a9cf26-Af3a9cf26",
+      "S01-C8994e811-T3e34ee56-ST510be2aa-A510be2aa",
+      "S01-C8994e811-T3e34ee56-STbfd4444e-Abfd4444e",
+      "S01-C8994e811-T3e34ee56-ST26a85813-A26a85813"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S01-C8994e811-T08108e0a",
+    "subjectId": "S01",
+    "topicId": "S01-C8994e811-T08108e0a",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S01-C8994e811-T08108e0a-ST1effe548-A1effe548",
+      "S01-C8994e811-T08108e0a-ST74fe23b0-A74fe23b0",
+      "S01-C8994e811-T08108e0a-ST74d8173f-A74d8173f",
+      "S01-C8994e811-T08108e0a-ST82259016-A82259016"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S01-C8994e811-T2831b63d",
+    "subjectId": "S01",
+    "topicId": "S01-C8994e811-T2831b63d",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S01-C8994e811-T2831b63d-STbd521665-Abd521665",
+      "S01-C8994e811-T2831b63d-ST912c0027-A912c0027",
+      "S01-C8994e811-T2831b63d-ST4be5dd43-A4be5dd43",
+      "S01-C8994e811-T2831b63d-STc65870ac-Ac65870ac",
+      "S01-C8994e811-T2831b63d-ST632af2ba-A632af2ba"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S01-C8994e811-Te3d2bcad",
+    "subjectId": "S01",
+    "topicId": "S01-C8994e811-Te3d2bcad",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S01-C8994e811-Te3d2bcad-STa2672b2e-Aa2672b2e",
+      "S01-C8994e811-Te3d2bcad-ST6bf62938-A6bf62938",
+      "S01-C8994e811-Te3d2bcad-STb57989ec-Ab57989ec",
+      "S01-C8994e811-Te3d2bcad-STaf379f9b-Aaf379f9b"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S01-Cac567568-T4bd530b2",
+    "subjectId": "S01",
+    "topicId": "S01-Cac567568-T4bd530b2",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S01-Cac567568-T4bd530b2-ST44476547-A44476547",
+      "S01-Cac567568-T4bd530b2-ST582a5164-A582a5164",
+      "S01-Cac567568-T4bd530b2-STa361eb94-Aa361eb94",
+      "S01-Cac567568-T4bd530b2-ST03fbc0b8-A03fbc0b8"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S01-Cac567568-T0c81bfa6",
+    "subjectId": "S01",
+    "topicId": "S01-Cac567568-T0c81bfa6",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S01-Cac567568-T0c81bfa6-ST646837fb-A646837fb",
+      "S01-Cac567568-T0c81bfa6-STb40b32e4-Ab40b32e4",
+      "S01-Cac567568-T0c81bfa6-ST87afb3f7-A87afb3f7",
+      "S01-Cac567568-T0c81bfa6-STd9903ac9-Ad9903ac9",
+      "S01-Cac567568-T0c81bfa6-ST9307be15-A9307be15"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S01-Cac567568-Td6b3a21e",
+    "subjectId": "S01",
+    "topicId": "S01-Cac567568-Td6b3a21e",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S01-Cac567568-Td6b3a21e-ST1dbe80b9-A1dbe80b9",
+      "S01-Cac567568-Td6b3a21e-STd7623df8-Ad7623df8",
+      "S01-Cac567568-Td6b3a21e-ST839000d3-A839000d3",
+      "S01-Cac567568-Td6b3a21e-ST9f9db481-A9f9db481"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S01-Cac567568-T1926c9af",
+    "subjectId": "S01",
+    "topicId": "S01-Cac567568-T1926c9af",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S01-Cac567568-T1926c9af-ST976ea3da-A976ea3da",
+      "S01-Cac567568-T1926c9af-ST829a14bf-A829a14bf",
+      "S01-Cac567568-T1926c9af-ST231e0159-A231e0159",
+      "S01-Cac567568-T1926c9af-ST5cc80e81-A5cc80e81"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S01-C4d19bee9-Tc78825d7",
+    "subjectId": "S01",
+    "topicId": "S01-C4d19bee9-Tc78825d7",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S01-C4d19bee9-Tc78825d7-ST668c74e5-A668c74e5",
+      "S01-C4d19bee9-Tc78825d7-ST98bb8706-A98bb8706",
+      "S01-C4d19bee9-Tc78825d7-STfc4c666c-Afc4c666c",
+      "S01-C4d19bee9-Tc78825d7-ST5367836e-A5367836e"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S01-C4d19bee9-T35a8071f",
+    "subjectId": "S01",
+    "topicId": "S01-C4d19bee9-T35a8071f",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S01-C4d19bee9-T35a8071f-ST4e6b4ebb-A4e6b4ebb",
+      "S01-C4d19bee9-T35a8071f-STd6441076-Ad6441076",
+      "S01-C4d19bee9-T35a8071f-ST41a5a318-A41a5a318",
+      "S01-C4d19bee9-T35a8071f-ST086e38db-A086e38db"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S01-C4d19bee9-T3359b180",
+    "subjectId": "S01",
+    "topicId": "S01-C4d19bee9-T3359b180",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S01-C4d19bee9-T3359b180-ST3355d3c2-A3355d3c2",
+      "S01-C4d19bee9-T3359b180-STd5d80178-Ad5d80178",
+      "S01-C4d19bee9-T3359b180-ST9c0ce4a4-A9c0ce4a4",
+      "S01-C4d19bee9-T3359b180-ST545a8b02-A545a8b02"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S01-C4d19bee9-T0132a4d2",
+    "subjectId": "S01",
+    "topicId": "S01-C4d19bee9-T0132a4d2",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S01-C4d19bee9-T0132a4d2-STec27fc4a-Aec27fc4a",
+      "S01-C4d19bee9-T0132a4d2-STd221bc04-Ad221bc04",
+      "S01-C4d19bee9-T0132a4d2-STf9902908-Af9902908",
+      "S01-C4d19bee9-T0132a4d2-ST1223325c-A1223325c"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S02-Cda5068db-Tf0293276",
+    "subjectId": "S02",
+    "topicId": "S02-Cda5068db-Tf0293276",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S02-Cda5068db-Tf0293276-STb1526465-Ab1526465",
+      "S02-Cda5068db-Tf0293276-STadb3f7a9-Aadb3f7a9",
+      "S02-Cda5068db-Tf0293276-ST066df84f-A066df84f",
+      "S02-Cda5068db-Tf0293276-ST7b8e134c-A7b8e134c"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S02-Cda5068db-T32608e97",
+    "subjectId": "S02",
+    "topicId": "S02-Cda5068db-T32608e97",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S02-Cda5068db-T32608e97-ST130e3e4f-A130e3e4f",
+      "S02-Cda5068db-T32608e97-STec14a596-Aec14a596",
+      "S02-Cda5068db-T32608e97-STf7e55b35-Af7e55b35",
+      "S02-Cda5068db-T32608e97-STedae1bc1-Aedae1bc1"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S02-Cda5068db-Tb44b8624",
+    "subjectId": "S02",
+    "topicId": "S02-Cda5068db-Tb44b8624",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S02-Cda5068db-Tb44b8624-STabe34d17-Aabe34d17",
+      "S02-Cda5068db-Tb44b8624-STeb08ebb6-Aeb08ebb6",
+      "S02-Cda5068db-Tb44b8624-ST437f95fd-A437f95fd",
+      "S02-Cda5068db-Tb44b8624-ST9c71e32c-A9c71e32c"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S02-Cd08481ed-Tacff6a2e",
+    "subjectId": "S02",
+    "topicId": "S02-Cd08481ed-Tacff6a2e",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S02-Cd08481ed-Tacff6a2e-ST88965218-A88965218",
+      "S02-Cd08481ed-Tacff6a2e-ST4c3f03bb-A4c3f03bb",
+      "S02-Cd08481ed-Tacff6a2e-STca8ecc05-Aca8ecc05",
+      "S02-Cd08481ed-Tacff6a2e-ST9cc38f0b-A9cc38f0b"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S02-Cd08481ed-T84b59d27",
+    "subjectId": "S02",
+    "topicId": "S02-Cd08481ed-T84b59d27",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S02-Cd08481ed-T84b59d27-STd11920ae-Ad11920ae",
+      "S02-Cd08481ed-T84b59d27-STb11a1833-Ab11a1833",
+      "S02-Cd08481ed-T84b59d27-ST9c858d13-A9c858d13",
+      "S02-Cd08481ed-T84b59d27-ST4984e598-A4984e598"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S02-Cd08481ed-T7c794ec0",
+    "subjectId": "S02",
+    "topicId": "S02-Cd08481ed-T7c794ec0",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S02-Cd08481ed-T7c794ec0-ST118dcf48-A118dcf48",
+      "S02-Cd08481ed-T7c794ec0-STeaa81375-Aeaa81375",
+      "S02-Cd08481ed-T7c794ec0-STde71e7ee-Ade71e7ee",
+      "S02-Cd08481ed-T7c794ec0-ST65f9d16a-A65f9d16a"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S02-C4b3f8fdc-T29719707",
+    "subjectId": "S02",
+    "topicId": "S02-C4b3f8fdc-T29719707",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S02-C4b3f8fdc-T29719707-STab8ab2ef-Aab8ab2ef",
+      "S02-C4b3f8fdc-T29719707-ST822fe367-A822fe367",
+      "S02-C4b3f8fdc-T29719707-ST05776d4d-A05776d4d",
+      "S02-C4b3f8fdc-T29719707-STbe52205f-Abe52205f"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S02-C4b3f8fdc-T02046d38",
+    "subjectId": "S02",
+    "topicId": "S02-C4b3f8fdc-T02046d38",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S02-C4b3f8fdc-T02046d38-ST3990f3c4-A3990f3c4",
+      "S02-C4b3f8fdc-T02046d38-STdc30f2aa-Adc30f2aa",
+      "S02-C4b3f8fdc-T02046d38-STc4b2af47-Ac4b2af47",
+      "S02-C4b3f8fdc-T02046d38-ST6afbcd75-A6afbcd75"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S02-C4b3f8fdc-T5c89c160",
+    "subjectId": "S02",
+    "topicId": "S02-C4b3f8fdc-T5c89c160",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S02-C4b3f8fdc-T5c89c160-ST8238480a-A8238480a",
+      "S02-C4b3f8fdc-T5c89c160-STd43c8bd5-Ad43c8bd5",
+      "S02-C4b3f8fdc-T5c89c160-STf6a214f7-Af6a214f7",
+      "S02-C4b3f8fdc-T5c89c160-ST73a0904b-A73a0904b"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S02-C4b3f8fdc-T125d28b6",
+    "subjectId": "S02",
+    "topicId": "S02-C4b3f8fdc-T125d28b6",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S02-C4b3f8fdc-T125d28b6-ST56265222-A56265222",
+      "S02-C4b3f8fdc-T125d28b6-STedb2cd3b-Aedb2cd3b",
+      "S02-C4b3f8fdc-T125d28b6-ST665d0698-A665d0698",
+      "S02-C4b3f8fdc-T125d28b6-STe5ba0d7a-Ae5ba0d7a"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S02-C4b3f8fdc-T1fbcc754",
+    "subjectId": "S02",
+    "topicId": "S02-C4b3f8fdc-T1fbcc754",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S02-C4b3f8fdc-T1fbcc754-ST6013f596-A6013f596",
+      "S02-C4b3f8fdc-T1fbcc754-STc89329aa-Ac89329aa",
+      "S02-C4b3f8fdc-T1fbcc754-STb8e1f80b-Ab8e1f80b",
+      "S02-C4b3f8fdc-T1fbcc754-STbd03bb59-Abd03bb59"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-Cf57dd5c3-T80b6a594",
+    "subjectId": "S03",
+    "topicId": "S03-Cf57dd5c3-T80b6a594",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-Cf57dd5c3-T80b6a594-STeb2561e7-Aeb2561e7",
+      "S03-Cf57dd5c3-T80b6a594-STb36baff7-Ab36baff7",
+      "S03-Cf57dd5c3-T80b6a594-ST594c0e98-A594c0e98",
+      "S03-Cf57dd5c3-T80b6a594-ST642bba69-A642bba69"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-Cf57dd5c3-T160839f2",
+    "subjectId": "S03",
+    "topicId": "S03-Cf57dd5c3-T160839f2",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-Cf57dd5c3-T160839f2-ST767aba7f-A767aba7f",
+      "S03-Cf57dd5c3-T160839f2-ST321bb462-A321bb462",
+      "S03-Cf57dd5c3-T160839f2-ST967f6272-A967f6272",
+      "S03-Cf57dd5c3-T160839f2-ST849c2585-A849c2585",
+      "S03-Cf57dd5c3-T160839f2-ST3760b237-A3760b237",
+      "S03-Cf57dd5c3-T160839f2-ST00e2b542-A00e2b542",
+      "S03-Cf57dd5c3-T160839f2-STd5aa95cc-Ad5aa95cc",
+      "S03-Cf57dd5c3-T160839f2-STcb42d5ec-Acb42d5ec",
+      "S03-Cf57dd5c3-T160839f2-ST98bb48f7-A98bb48f7",
+      "S03-Cf57dd5c3-T160839f2-ST344d4143-A344d4143",
+      "S03-Cf57dd5c3-T160839f2-ST54f21aba-A54f21aba",
+      "S03-Cf57dd5c3-T160839f2-ST33fc36cd-A33fc36cd",
+      "S03-Cf57dd5c3-T160839f2-ST9d6040f8-A9d6040f8",
+      "S03-Cf57dd5c3-T160839f2-STefb67a5b-Aefb67a5b",
+      "S03-Cf57dd5c3-T160839f2-STbef77627-Abef77627"
+    ],
+    "questions": 5,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-Cf57dd5c3-T45a487ce",
+    "subjectId": "S03",
+    "topicId": "S03-Cf57dd5c3-T45a487ce",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-Cf57dd5c3-T45a487ce-ST1a738670-A1a738670",
+      "S03-Cf57dd5c3-T45a487ce-ST2b289848-A2b289848",
+      "S03-Cf57dd5c3-T45a487ce-STe3e003cf-Ae3e003cf",
+      "S03-Cf57dd5c3-T45a487ce-ST78aee8c6-A78aee8c6"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-Cf57dd5c3-Tf30465e3",
+    "subjectId": "S03",
+    "topicId": "S03-Cf57dd5c3-Tf30465e3",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-Cf57dd5c3-Tf30465e3-STe176650c-Ae176650c",
+      "S03-Cf57dd5c3-Tf30465e3-ST26ca2c5a-A26ca2c5a",
+      "S03-Cf57dd5c3-Tf30465e3-ST811dc5ce-A811dc5ce",
+      "S03-Cf57dd5c3-Tf30465e3-ST6d9b33f2-A6d9b33f2"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-Cf57dd5c3-T9f2b0316",
+    "subjectId": "S03",
+    "topicId": "S03-Cf57dd5c3-T9f2b0316",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-Cf57dd5c3-T9f2b0316-ST4e91ad38-A4e91ad38",
+      "S03-Cf57dd5c3-T9f2b0316-ST6f224846-A6f224846",
+      "S03-Cf57dd5c3-T9f2b0316-ST8ff8dea9-A8ff8dea9",
+      "S03-Cf57dd5c3-T9f2b0316-STf031dab7-Af031dab7"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-Cf57dd5c3-T650d525d",
+    "subjectId": "S03",
+    "topicId": "S03-Cf57dd5c3-T650d525d",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-Cf57dd5c3-T650d525d-STc77be623-Ac77be623",
+      "S03-Cf57dd5c3-T650d525d-STff073281-Aff073281",
+      "S03-Cf57dd5c3-T650d525d-STbf89f78e-Abf89f78e",
+      "S03-Cf57dd5c3-T650d525d-ST1515d87c-A1515d87c"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C6d03bcc2-Tf654b176",
+    "subjectId": "S03",
+    "topicId": "S03-C6d03bcc2-Tf654b176",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C6d03bcc2-Tf654b176-ST8a24572c-A8a24572c",
+      "S03-C6d03bcc2-Tf654b176-STe114f317-Ae114f317",
+      "S03-C6d03bcc2-Tf654b176-ST512afb6c-A512afb6c",
+      "S03-C6d03bcc2-Tf654b176-ST8256fffa-A8256fffa",
+      "S03-C6d03bcc2-Tf654b176-STcff0b02c-Acff0b02c"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C6d03bcc2-Tdf7d8836",
+    "subjectId": "S03",
+    "topicId": "S03-C6d03bcc2-Tdf7d8836",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C6d03bcc2-Tdf7d8836-STb8259f01-Ab8259f01",
+      "S03-C6d03bcc2-Tdf7d8836-ST84592409-A84592409",
+      "S03-C6d03bcc2-Tdf7d8836-ST52ec2a12-A52ec2a12",
+      "S03-C6d03bcc2-Tdf7d8836-STcb78fad1-Acb78fad1",
+      "S03-C6d03bcc2-Tdf7d8836-STd78c896c-Ad78c896c"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C6d03bcc2-Tacfae539",
+    "subjectId": "S03",
+    "topicId": "S03-C6d03bcc2-Tacfae539",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C6d03bcc2-Tacfae539-ST28517027-A28517027",
+      "S03-C6d03bcc2-Tacfae539-STff26f061-Aff26f061",
+      "S03-C6d03bcc2-Tacfae539-ST276446ba-A276446ba",
+      "S03-C6d03bcc2-Tacfae539-ST516c0420-A516c0420"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C6d03bcc2-Te8ae9127",
+    "subjectId": "S03",
+    "topicId": "S03-C6d03bcc2-Te8ae9127",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C6d03bcc2-Te8ae9127-STca345ab6-Aca345ab6",
+      "S03-C6d03bcc2-Te8ae9127-ST512afb6c-A512afb6c",
+      "S03-C6d03bcc2-Te8ae9127-ST92493179-A92493179",
+      "S03-C6d03bcc2-Te8ae9127-STd3cec991-Ad3cec991",
+      "S03-C6d03bcc2-Te8ae9127-ST982223ce-A982223ce"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C6d03bcc2-Tb9257690",
+    "subjectId": "S03",
+    "topicId": "S03-C6d03bcc2-Tb9257690",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C6d03bcc2-Tb9257690-ST41c49685-A41c49685",
+      "S03-C6d03bcc2-Tb9257690-ST14e8f12b-A14e8f12b",
+      "S03-C6d03bcc2-Tb9257690-ST28517027-A28517027",
+      "S03-C6d03bcc2-Tb9257690-ST4d4f61d8-A4d4f61d8"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C6d03bcc2-Ta2cf3b8f",
+    "subjectId": "S03",
+    "topicId": "S03-C6d03bcc2-Ta2cf3b8f",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C6d03bcc2-Ta2cf3b8f-ST02c3a158-A02c3a158",
+      "S03-C6d03bcc2-Ta2cf3b8f-ST0d71656f-A0d71656f",
+      "S03-C6d03bcc2-Ta2cf3b8f-STbe972577-Abe972577",
+      "S03-C6d03bcc2-Ta2cf3b8f-STf1edf61a-Af1edf61a"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C4734d498-T6b7258f3",
+    "subjectId": "S03",
+    "topicId": "S03-C4734d498-T6b7258f3",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C4734d498-T6b7258f3-ST96c2851f-A96c2851f",
+      "S03-C4734d498-T6b7258f3-ST77f2b269-A77f2b269",
+      "S03-C4734d498-T6b7258f3-STfad0c616-Afad0c616",
+      "S03-C4734d498-T6b7258f3-ST8a5af311-A8a5af311",
+      "S03-C4734d498-T6b7258f3-ST8c4b81d2-A8c4b81d2",
+      "S03-C4734d498-T6b7258f3-ST512afb6c-A512afb6c"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C4734d498-Te8567d69",
+    "subjectId": "S03",
+    "topicId": "S03-C4734d498-Te8567d69",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C4734d498-Te8567d69-ST0d0599a1-A0d0599a1",
+      "S03-C4734d498-Te8567d69-ST546c6522-A546c6522",
+      "S03-C4734d498-Te8567d69-STf931630b-Af931630b",
+      "S03-C4734d498-Te8567d69-ST4ca303a3-A4ca303a3",
+      "S03-C4734d498-Te8567d69-STe22334d0-Ae22334d0"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C4734d498-T55ed059c",
+    "subjectId": "S03",
+    "topicId": "S03-C4734d498-T55ed059c",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C4734d498-T55ed059c-ST512afb6c-A512afb6c",
+      "S03-C4734d498-T55ed059c-STda65c7a1-Ada65c7a1",
+      "S03-C4734d498-T55ed059c-ST40e2aeef-A40e2aeef",
+      "S03-C4734d498-T55ed059c-ST4ade3f6d-A4ade3f6d",
+      "S03-C4734d498-T55ed059c-ST1cb3e83c-A1cb3e83c"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C4734d498-Tb6237732",
+    "subjectId": "S03",
+    "topicId": "S03-C4734d498-Tb6237732",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C4734d498-Tb6237732-ST560238e8-A560238e8",
+      "S03-C4734d498-Tb6237732-ST913005d1-A913005d1",
+      "S03-C4734d498-Tb6237732-STc71f9f31-Ac71f9f31",
+      "S03-C4734d498-Tb6237732-STbef77627-Abef77627"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C4734d498-T51ef0a90",
+    "subjectId": "S03",
+    "topicId": "S03-C4734d498-T51ef0a90",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C4734d498-T51ef0a90-STca345ab6-Aca345ab6",
+      "S03-C4734d498-T51ef0a90-ST319e5ab1-A319e5ab1",
+      "S03-C4734d498-T51ef0a90-STb30e01e4-Ab30e01e4",
+      "S03-C4734d498-T51ef0a90-STae382130-Aae382130",
+      "S03-C4734d498-T51ef0a90-ST4ca303a3-A4ca303a3"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C4734d498-T037c8c7a",
+    "subjectId": "S03",
+    "topicId": "S03-C4734d498-T037c8c7a",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C4734d498-T037c8c7a-ST195ecd12-A195ecd12",
+      "S03-C4734d498-T037c8c7a-ST5a22eed2-A5a22eed2",
+      "S03-C4734d498-T037c8c7a-STc7bc8db7-Ac7bc8db7",
+      "S03-C4734d498-T037c8c7a-ST0a90e56f-A0a90e56f",
+      "S03-C4734d498-T037c8c7a-STeb28d990-Aeb28d990"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C4734d498-T411b56c7",
+    "subjectId": "S03",
+    "topicId": "S03-C4734d498-T411b56c7",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C4734d498-T411b56c7-ST3d95ff4c-A3d95ff4c",
+      "S03-C4734d498-T411b56c7-ST72ecf784-A72ecf784",
+      "S03-C4734d498-T411b56c7-STdc9c50f7-Adc9c50f7",
+      "S03-C4734d498-T411b56c7-ST10b18864-A10b18864",
+      "S03-C4734d498-T411b56c7-ST4c7ad466-A4c7ad466"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C8a2f389f-T77eee160",
+    "subjectId": "S03",
+    "topicId": "S03-C8a2f389f-T77eee160",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C8a2f389f-T77eee160-STe35242c8-Ae35242c8",
+      "S03-C8a2f389f-T77eee160-STccb36736-Accb36736",
+      "S03-C8a2f389f-T77eee160-ST21bb36ad-A21bb36ad",
+      "S03-C8a2f389f-T77eee160-STb6234d2e-Ab6234d2e",
+      "S03-C8a2f389f-T77eee160-ST7311140f-A7311140f"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C8a2f389f-T6249a1fe",
+    "subjectId": "S03",
+    "topicId": "S03-C8a2f389f-T6249a1fe",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C8a2f389f-T6249a1fe-ST90a4abc4-A90a4abc4",
+      "S03-C8a2f389f-T6249a1fe-ST92e27bf2-A92e27bf2",
+      "S03-C8a2f389f-T6249a1fe-ST30c59418-A30c59418",
+      "S03-C8a2f389f-T6249a1fe-ST5d37c82d-A5d37c82d"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C8a2f389f-Teaae757a",
+    "subjectId": "S03",
+    "topicId": "S03-C8a2f389f-Teaae757a",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C8a2f389f-Teaae757a-ST69bbcbe6-A69bbcbe6",
+      "S03-C8a2f389f-Teaae757a-STd526deb1-Ad526deb1",
+      "S03-C8a2f389f-Teaae757a-STbb5c138f-Abb5c138f",
+      "S03-C8a2f389f-Teaae757a-ST424f7c77-A424f7c77"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C8a2f389f-T3dc7df45",
+    "subjectId": "S03",
+    "topicId": "S03-C8a2f389f-T3dc7df45",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C8a2f389f-T3dc7df45-ST6d9c2afb-A6d9c2afb",
+      "S03-C8a2f389f-T3dc7df45-ST4689f05c-A4689f05c",
+      "S03-C8a2f389f-T3dc7df45-STa908043e-Aa908043e",
+      "S03-C8a2f389f-T3dc7df45-STde00163e-Ade00163e",
+      "S03-C8a2f389f-T3dc7df45-ST2ad63d58-A2ad63d58"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C9ba1a621-T15f9dac8",
+    "subjectId": "S03",
+    "topicId": "S03-C9ba1a621-T15f9dac8",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C9ba1a621-T15f9dac8-ST0d0eff74-A0d0eff74",
+      "S03-C9ba1a621-T15f9dac8-ST71556e2c-A71556e2c",
+      "S03-C9ba1a621-T15f9dac8-STa13ee58c-Aa13ee58c",
+      "S03-C9ba1a621-T15f9dac8-ST67838477-A67838477"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C9ba1a621-T7dfc8df1",
+    "subjectId": "S03",
+    "topicId": "S03-C9ba1a621-T7dfc8df1",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C9ba1a621-T7dfc8df1-ST282b7d78-A282b7d78",
+      "S03-C9ba1a621-T7dfc8df1-STbc25c283-Abc25c283",
+      "S03-C9ba1a621-T7dfc8df1-STee01bd39-Aee01bd39",
+      "S03-C9ba1a621-T7dfc8df1-ST71ebeb52-A71ebeb52",
+      "S03-C9ba1a621-T7dfc8df1-ST8734a28b-A8734a28b"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C9ba1a621-T8ca4debf",
+    "subjectId": "S03",
+    "topicId": "S03-C9ba1a621-T8ca4debf",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C9ba1a621-T8ca4debf-ST4471bc3d-A4471bc3d",
+      "S03-C9ba1a621-T8ca4debf-ST681ca320-A681ca320",
+      "S03-C9ba1a621-T8ca4debf-ST189d7b70-A189d7b70",
+      "S03-C9ba1a621-T8ca4debf-ST878a52fc-A878a52fc"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C9ba1a621-T5e9c6cf0",
+    "subjectId": "S03",
+    "topicId": "S03-C9ba1a621-T5e9c6cf0",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C9ba1a621-T5e9c6cf0-ST6e74ba39-A6e74ba39",
+      "S03-C9ba1a621-T5e9c6cf0-STa61af2ce-Aa61af2ce",
+      "S03-C9ba1a621-T5e9c6cf0-ST329900fc-A329900fc",
+      "S03-C9ba1a621-T5e9c6cf0-ST959a9132-A959a9132"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C9ba1a621-T9bfb202d",
+    "subjectId": "S03",
+    "topicId": "S03-C9ba1a621-T9bfb202d",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C9ba1a621-T9bfb202d-ST56db20cc-A56db20cc",
+      "S03-C9ba1a621-T9bfb202d-ST247a2023-A247a2023",
+      "S03-C9ba1a621-T9bfb202d-STe4828e4b-Ae4828e4b",
+      "S03-C9ba1a621-T9bfb202d-ST66b92a70-A66b92a70"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C9ba1a621-T875737ad",
+    "subjectId": "S03",
+    "topicId": "S03-C9ba1a621-T875737ad",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C9ba1a621-T875737ad-ST00bfaa15-A00bfaa15",
+      "S03-C9ba1a621-T875737ad-ST5512e530-A5512e530",
+      "S03-C9ba1a621-T875737ad-ST838f9fcd-A838f9fcd",
+      "S03-C9ba1a621-T875737ad-STed016c43-Aed016c43"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S03-C9ba1a621-T70616f19",
+    "subjectId": "S03",
+    "topicId": "S03-C9ba1a621-T70616f19",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S03-C9ba1a621-T70616f19-ST6ef1a769-A6ef1a769",
+      "S03-C9ba1a621-T70616f19-ST63dea7e3-A63dea7e3",
+      "S03-C9ba1a621-T70616f19-STeb2dea1d-Aeb2dea1d",
+      "S03-C9ba1a621-T70616f19-ST9a416468-A9a416468"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-C4112654a-Te2dd2157",
+    "subjectId": "S04",
+    "topicId": "S04-C4112654a-Te2dd2157",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-C4112654a-Te2dd2157-ST492fceea-A492fceea",
+      "S04-C4112654a-Te2dd2157-STee871105-Aee871105",
+      "S04-C4112654a-Te2dd2157-STfb98cc27-Afb98cc27",
+      "S04-C4112654a-Te2dd2157-ST0330d7aa-A0330d7aa"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-C4112654a-T2b03c6b8",
+    "subjectId": "S04",
+    "topicId": "S04-C4112654a-T2b03c6b8",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-C4112654a-T2b03c6b8-ST5481cab1-A5481cab1",
+      "S04-C4112654a-T2b03c6b8-STb674847a-Ab674847a",
+      "S04-C4112654a-T2b03c6b8-ST9923ce8c-A9923ce8c",
+      "S04-C4112654a-T2b03c6b8-ST3d6668dc-A3d6668dc"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-C4112654a-T4c7718ba",
+    "subjectId": "S04",
+    "topicId": "S04-C4112654a-T4c7718ba",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-C4112654a-T4c7718ba-ST17470850-A17470850",
+      "S04-C4112654a-T4c7718ba-ST4549f626-A4549f626",
+      "S04-C4112654a-T4c7718ba-STabce7d4f-Aabce7d4f",
+      "S04-C4112654a-T4c7718ba-ST7ef4a4fc-A7ef4a4fc"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-C4112654a-Tb3ada9a2",
+    "subjectId": "S04",
+    "topicId": "S04-C4112654a-Tb3ada9a2",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-C4112654a-Tb3ada9a2-STa1cd94c4-Aa1cd94c4",
+      "S04-C4112654a-Tb3ada9a2-STd602bf8f-Ad602bf8f",
+      "S04-C4112654a-Tb3ada9a2-ST8f1f74ad-A8f1f74ad",
+      "S04-C4112654a-Tb3ada9a2-ST167f448f-A167f448f",
+      "S04-C4112654a-Tb3ada9a2-ST92090d11-A92090d11"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-C4112654a-T22edf736",
+    "subjectId": "S04",
+    "topicId": "S04-C4112654a-T22edf736",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-C4112654a-T22edf736-STcc270110-Acc270110",
+      "S04-C4112654a-T22edf736-ST04397a30-A04397a30",
+      "S04-C4112654a-T22edf736-ST905b9717-A905b9717",
+      "S04-C4112654a-T22edf736-ST264744ca-A264744ca"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-C4112654a-Tebba800a",
+    "subjectId": "S04",
+    "topicId": "S04-C4112654a-Tebba800a",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-C4112654a-Tebba800a-ST6f21a653-A6f21a653",
+      "S04-C4112654a-Tebba800a-ST908d2c6d-A908d2c6d",
+      "S04-C4112654a-Tebba800a-ST303f97c9-A303f97c9",
+      "S04-C4112654a-Tebba800a-STff078a09-Aff078a09"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-Ccead5806-T3eee5a53",
+    "subjectId": "S04",
+    "topicId": "S04-Ccead5806-T3eee5a53",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-Ccead5806-T3eee5a53-STf7d49e09-Af7d49e09",
+      "S04-Ccead5806-T3eee5a53-ST9535bf84-A9535bf84",
+      "S04-Ccead5806-T3eee5a53-STff7a692c-Aff7a692c",
+      "S04-Ccead5806-T3eee5a53-ST276446ba-A276446ba",
+      "S04-Ccead5806-T3eee5a53-STbffde034-Abffde034"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-Ccead5806-T693bb1d9",
+    "subjectId": "S04",
+    "topicId": "S04-Ccead5806-T693bb1d9",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-Ccead5806-T693bb1d9-ST0ba82904-A0ba82904",
+      "S04-Ccead5806-T693bb1d9-ST5189fe28-A5189fe28",
+      "S04-Ccead5806-T693bb1d9-STd3d58430-Ad3d58430",
+      "S04-Ccead5806-T693bb1d9-ST64b5c329-A64b5c329"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-Ccead5806-T1791a311",
+    "subjectId": "S04",
+    "topicId": "S04-Ccead5806-T1791a311",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-Ccead5806-T1791a311-STdd119193-Add119193",
+      "S04-Ccead5806-T1791a311-ST47651c27-A47651c27",
+      "S04-Ccead5806-T1791a311-STd327e08d-Ad327e08d",
+      "S04-Ccead5806-T1791a311-ST00f2c07b-A00f2c07b"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-Ccead5806-T70e81ce9",
+    "subjectId": "S04",
+    "topicId": "S04-Ccead5806-T70e81ce9",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-Ccead5806-T70e81ce9-ST6d9c2afb-A6d9c2afb",
+      "S04-Ccead5806-T70e81ce9-ST352bf810-A352bf810",
+      "S04-Ccead5806-T70e81ce9-ST34ef94a0-A34ef94a0",
+      "S04-Ccead5806-T70e81ce9-STde00163e-Ade00163e"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-Ccead5806-T885f966c",
+    "subjectId": "S04",
+    "topicId": "S04-Ccead5806-T885f966c",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-Ccead5806-T885f966c-ST9c1cfc5f-A9c1cfc5f",
+      "S04-Ccead5806-T885f966c-ST22e6f852-A22e6f852",
+      "S04-Ccead5806-T885f966c-ST167f448f-A167f448f",
+      "S04-Ccead5806-T885f966c-ST5bab995c-A5bab995c"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-C780a1737-T356696a1",
+    "subjectId": "S04",
+    "topicId": "S04-C780a1737-T356696a1",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-C780a1737-T356696a1-ST471ec488-A471ec488",
+      "S04-C780a1737-T356696a1-STd3cec991-Ad3cec991",
+      "S04-C780a1737-T356696a1-ST38594e27-A38594e27",
+      "S04-C780a1737-T356696a1-STaae5570e-Aaae5570e"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-C780a1737-Td70bc8b4",
+    "subjectId": "S04",
+    "topicId": "S04-C780a1737-Td70bc8b4",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-C780a1737-Td70bc8b4-ST4c810d50-A4c810d50",
+      "S04-C780a1737-Td70bc8b4-ST69bbf6bf-A69bbf6bf",
+      "S04-C780a1737-Td70bc8b4-STb6a2d158-Ab6a2d158",
+      "S04-C780a1737-Td70bc8b4-ST09fd4c3f-A09fd4c3f"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-C780a1737-Ta16777e7",
+    "subjectId": "S04",
+    "topicId": "S04-C780a1737-Ta16777e7",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-C780a1737-Ta16777e7-ST40468cfd-A40468cfd",
+      "S04-C780a1737-Ta16777e7-ST10c3a47d-A10c3a47d",
+      "S04-C780a1737-Ta16777e7-STe59412e9-Ae59412e9",
+      "S04-C780a1737-Ta16777e7-STb13a497b-Ab13a497b"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-C780a1737-T02743591",
+    "subjectId": "S04",
+    "topicId": "S04-C780a1737-T02743591",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-C780a1737-T02743591-ST4bfc1da6-A4bfc1da6",
+      "S04-C780a1737-T02743591-STba3d8230-Aba3d8230",
+      "S04-C780a1737-T02743591-ST71914169-A71914169",
+      "S04-C780a1737-T02743591-ST17603f34-A17603f34"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-C780a1737-T8123fc57",
+    "subjectId": "S04",
+    "topicId": "S04-C780a1737-T8123fc57",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-C780a1737-T8123fc57-ST8fcfccf6-A8fcfccf6",
+      "S04-C780a1737-T8123fc57-ST8c659fe8-A8c659fe8",
+      "S04-C780a1737-T8123fc57-ST481dd9f6-A481dd9f6",
+      "S04-C780a1737-T8123fc57-STd6891106-Ad6891106"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-C511c1907-T85fc68d9",
+    "subjectId": "S04",
+    "topicId": "S04-C511c1907-T85fc68d9",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-C511c1907-T85fc68d9-STf6d7f3fd-Af6d7f3fd",
+      "S04-C511c1907-T85fc68d9-STabcd0ee1-Aabcd0ee1",
+      "S04-C511c1907-T85fc68d9-STa2d8daa4-Aa2d8daa4",
+      "S04-C511c1907-T85fc68d9-ST9f83a479-A9f83a479"
+    ],
+    "questions": 8,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-C511c1907-Tc3d40b77",
+    "subjectId": "S04",
+    "topicId": "S04-C511c1907-Tc3d40b77",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-C511c1907-Tc3d40b77-ST01d3a9fb-A01d3a9fb",
+      "S04-C511c1907-Tc3d40b77-STcbf48411-Acbf48411",
+      "S04-C511c1907-Tc3d40b77-STa0a367a0-Aa0a367a0",
+      "S04-C511c1907-Tc3d40b77-STb7059a7a-Ab7059a7a"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-C511c1907-Tee366cf4",
+    "subjectId": "S04",
+    "topicId": "S04-C511c1907-Tee366cf4",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-C511c1907-Tee366cf4-ST7ca03562-A7ca03562",
+      "S04-C511c1907-Tee366cf4-ST381cfb6e-A381cfb6e",
+      "S04-C511c1907-Tee366cf4-STe0e1e067-Ae0e1e067",
+      "S04-C511c1907-Tee366cf4-ST811dc5ce-A811dc5ce",
+      "S04-C511c1907-Tee366cf4-ST63bff13f-A63bff13f"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-C511c1907-T919a3be3",
+    "subjectId": "S04",
+    "topicId": "S04-C511c1907-T919a3be3",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-C511c1907-T919a3be3-ST93ff074c-A93ff074c",
+      "S04-C511c1907-T919a3be3-STb2c01c8a-Ab2c01c8a",
+      "S04-C511c1907-T919a3be3-STbe95acc4-Abe95acc4",
+      "S04-C511c1907-T919a3be3-STf79fae48-Af79fae48"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-C511c1907-Te5f7cc87",
+    "subjectId": "S04",
+    "topicId": "S04-C511c1907-Te5f7cc87",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-C511c1907-Te5f7cc87-STb937266c-Ab937266c",
+      "S04-C511c1907-Te5f7cc87-STcaa785dc-Acaa785dc",
+      "S04-C511c1907-Te5f7cc87-STbe970d09-Abe970d09",
+      "S04-C511c1907-Te5f7cc87-ST4b098a5f-A4b098a5f"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-C2a69d8ec-T6d64f4b8",
+    "subjectId": "S04",
+    "topicId": "S04-C2a69d8ec-T6d64f4b8",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-C2a69d8ec-T6d64f4b8-ST449495ea-A449495ea",
+      "S04-C2a69d8ec-T6d64f4b8-ST6d9c2afb-A6d9c2afb",
+      "S04-C2a69d8ec-T6d64f4b8-ST0970b434-A0970b434",
+      "S04-C2a69d8ec-T6d64f4b8-ST930d46d9-A930d46d9"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-C2a69d8ec-T90ebca31",
+    "subjectId": "S04",
+    "topicId": "S04-C2a69d8ec-T90ebca31",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-C2a69d8ec-T90ebca31-STe869fd33-Ae869fd33",
+      "S04-C2a69d8ec-T90ebca31-ST6bbf7bd5-A6bbf7bd5",
+      "S04-C2a69d8ec-T90ebca31-STe192c90e-Ae192c90e",
+      "S04-C2a69d8ec-T90ebca31-STde03c303-Ade03c303"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-C2a69d8ec-T52cfe34e",
+    "subjectId": "S04",
+    "topicId": "S04-C2a69d8ec-T52cfe34e",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-C2a69d8ec-T52cfe34e-ST07e6e871-A07e6e871",
+      "S04-C2a69d8ec-T52cfe34e-STa62d4502-Aa62d4502",
+      "S04-C2a69d8ec-T52cfe34e-STa69c5307-Aa69c5307",
+      "S04-C2a69d8ec-T52cfe34e-ST75b790f1-A75b790f1"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-C2a69d8ec-Tc75f4bd5",
+    "subjectId": "S04",
+    "topicId": "S04-C2a69d8ec-Tc75f4bd5",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-C2a69d8ec-Tc75f4bd5-ST8cdfcb11-A8cdfcb11",
+      "S04-C2a69d8ec-Tc75f4bd5-ST25c20e8c-A25c20e8c",
+      "S04-C2a69d8ec-Tc75f4bd5-ST6e08621f-A6e08621f",
+      "S04-C2a69d8ec-Tc75f4bd5-ST1fb94c58-A1fb94c58"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-C2a69d8ec-T59ddfdad",
+    "subjectId": "S04",
+    "topicId": "S04-C2a69d8ec-T59ddfdad",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-C2a69d8ec-T59ddfdad-ST6d9c2afb-A6d9c2afb",
+      "S04-C2a69d8ec-T59ddfdad-STd1feabd2-Ad1feabd2",
+      "S04-C2a69d8ec-T59ddfdad-ST8cc9fc73-A8cc9fc73",
+      "S04-C2a69d8ec-T59ddfdad-ST5227d2c7-A5227d2c7"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-C2a69d8ec-Tba7463ed",
+    "subjectId": "S04",
+    "topicId": "S04-C2a69d8ec-Tba7463ed",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-C2a69d8ec-Tba7463ed-ST5ba84f71-A5ba84f71",
+      "S04-C2a69d8ec-Tba7463ed-STdd8e06e6-Add8e06e6",
+      "S04-C2a69d8ec-Tba7463ed-STa1c1a3b7-Aa1c1a3b7",
+      "S04-C2a69d8ec-Tba7463ed-ST007068bb-A007068bb"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-Cacadfdde-Tecff8b64",
+    "subjectId": "S04",
+    "topicId": "S04-Cacadfdde-Tecff8b64",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-Cacadfdde-Tecff8b64-ST542cb153-A542cb153",
+      "S04-Cacadfdde-Tecff8b64-ST703cdf7b-A703cdf7b",
+      "S04-Cacadfdde-Tecff8b64-ST8399e574-A8399e574",
+      "S04-Cacadfdde-Tecff8b64-STd496d0fd-Ad496d0fd"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-Cacadfdde-T1026c24e",
+    "subjectId": "S04",
+    "topicId": "S04-Cacadfdde-T1026c24e",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-Cacadfdde-T1026c24e-STb02ad435-Ab02ad435",
+      "S04-Cacadfdde-T1026c24e-ST449495ea-A449495ea",
+      "S04-Cacadfdde-T1026c24e-STa05c9fae-Aa05c9fae",
+      "S04-Cacadfdde-T1026c24e-STe069638f-Ae069638f",
+      "S04-Cacadfdde-T1026c24e-STb53f4c77-Ab53f4c77"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-Cacadfdde-Tdc02f467",
+    "subjectId": "S04",
+    "topicId": "S04-Cacadfdde-Tdc02f467",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-Cacadfdde-Tdc02f467-STdf0db2ef-Adf0db2ef",
+      "S04-Cacadfdde-Tdc02f467-ST477859e1-A477859e1",
+      "S04-Cacadfdde-Tdc02f467-ST85df9851-A85df9851",
+      "S04-Cacadfdde-Tdc02f467-ST22c7cd75-A22c7cd75"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-Cacadfdde-Tdc155499",
+    "subjectId": "S04",
+    "topicId": "S04-Cacadfdde-Tdc155499",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-Cacadfdde-Tdc155499-ST1323b15e-A1323b15e",
+      "S04-Cacadfdde-Tdc155499-STe192c90e-Ae192c90e",
+      "S04-Cacadfdde-Tdc155499-ST501b7672-A501b7672",
+      "S04-Cacadfdde-Tdc155499-ST2585a01a-A2585a01a"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S04-Cacadfdde-T2e661757",
+    "subjectId": "S04",
+    "topicId": "S04-Cacadfdde-T2e661757",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S04-Cacadfdde-T2e661757-STf65421b6-Af65421b6",
+      "S04-Cacadfdde-T2e661757-ST431101cd-A431101cd",
+      "S04-Cacadfdde-T2e661757-ST416d7a6d-A416d7a6d",
+      "S04-Cacadfdde-T2e661757-STde00163e-Ade00163e"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S05-Cd1fc9546-Td2a9d7d4",
+    "subjectId": "S05",
+    "topicId": "S05-Cd1fc9546-Td2a9d7d4",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S05-Cd1fc9546-Td2a9d7d4-STf58940a3-Af58940a3",
+      "S05-Cd1fc9546-Td2a9d7d4-ST224610f1-A224610f1",
+      "S05-Cd1fc9546-Td2a9d7d4-ST70b6144f-A70b6144f",
+      "S05-Cd1fc9546-Td2a9d7d4-ST7ff87f6b-A7ff87f6b",
+      "S05-Cd1fc9546-Td2a9d7d4-ST7dd0c85c-A7dd0c85c"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S05-Cd1fc9546-T27ca1ebe",
+    "subjectId": "S05",
+    "topicId": "S05-Cd1fc9546-T27ca1ebe",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S05-Cd1fc9546-T27ca1ebe-STf469802a-Af469802a",
+      "S05-Cd1fc9546-T27ca1ebe-ST1b250ea1-A1b250ea1",
+      "S05-Cd1fc9546-T27ca1ebe-ST1ea50a8c-A1ea50a8c",
+      "S05-Cd1fc9546-T27ca1ebe-ST1ab28bea-A1ab28bea",
+      "S05-Cd1fc9546-T27ca1ebe-ST238d99f0-A238d99f0"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S05-Cd1fc9546-T5d2f806b",
+    "subjectId": "S05",
+    "topicId": "S05-Cd1fc9546-T5d2f806b",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S05-Cd1fc9546-T5d2f806b-ST95bf8d0c-A95bf8d0c",
+      "S05-Cd1fc9546-T5d2f806b-STea945658-Aea945658",
+      "S05-Cd1fc9546-T5d2f806b-STae3dd49a-Aae3dd49a",
+      "S05-Cd1fc9546-T5d2f806b-STfd54e5a8-Afd54e5a8",
+      "S05-Cd1fc9546-T5d2f806b-STd457d71a-Ad457d71a"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S05-C2da5cfd3-T3948cd23",
+    "subjectId": "S05",
+    "topicId": "S05-C2da5cfd3-T3948cd23",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S05-C2da5cfd3-T3948cd23-ST34876e0b-A34876e0b",
+      "S05-C2da5cfd3-T3948cd23-ST80ba35b2-A80ba35b2",
+      "S05-C2da5cfd3-T3948cd23-STd715cff9-Ad715cff9",
+      "S05-C2da5cfd3-T3948cd23-ST0274395c-A0274395c",
+      "S05-C2da5cfd3-T3948cd23-ST96889517-A96889517"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S05-C2da5cfd3-Ta30f1012",
+    "subjectId": "S05",
+    "topicId": "S05-C2da5cfd3-Ta30f1012",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S05-C2da5cfd3-Ta30f1012-STb7b6aa4b-Ab7b6aa4b",
+      "S05-C2da5cfd3-Ta30f1012-ST8883af25-A8883af25",
+      "S05-C2da5cfd3-Ta30f1012-ST0c98d743-A0c98d743",
+      "S05-C2da5cfd3-Ta30f1012-STd0c24cc7-Ad0c24cc7",
+      "S05-C2da5cfd3-Ta30f1012-ST5bf03708-A5bf03708"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S05-C2da5cfd3-T0f437662",
+    "subjectId": "S05",
+    "topicId": "S05-C2da5cfd3-T0f437662",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S05-C2da5cfd3-T0f437662-ST4e3caad6-A4e3caad6",
+      "S05-C2da5cfd3-T0f437662-STbe623853-Abe623853",
+      "S05-C2da5cfd3-T0f437662-ST0e714fd9-A0e714fd9",
+      "S05-C2da5cfd3-T0f437662-ST3d67e123-A3d67e123",
+      "S05-C2da5cfd3-T0f437662-ST7937941b-A7937941b"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S05-C2da5cfd3-Tbfd5a8ed",
+    "subjectId": "S05",
+    "topicId": "S05-C2da5cfd3-Tbfd5a8ed",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S05-C2da5cfd3-Tbfd5a8ed-ST918e64ca-A918e64ca",
+      "S05-C2da5cfd3-Tbfd5a8ed-STb667446e-Ab667446e",
+      "S05-C2da5cfd3-Tbfd5a8ed-ST248d3a2a-A248d3a2a",
+      "S05-C2da5cfd3-Tbfd5a8ed-STba3fb020-Aba3fb020",
+      "S05-C2da5cfd3-Tbfd5a8ed-ST029aa3da-A029aa3da"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S05-C2da5cfd3-T10db6998",
+    "subjectId": "S05",
+    "topicId": "S05-C2da5cfd3-T10db6998",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S05-C2da5cfd3-T10db6998-ST3c3bcd42-A3c3bcd42",
+      "S05-C2da5cfd3-T10db6998-ST6db52cf4-A6db52cf4",
+      "S05-C2da5cfd3-T10db6998-ST9032419a-A9032419a",
+      "S05-C2da5cfd3-T10db6998-ST8563b5b7-A8563b5b7",
+      "S05-C2da5cfd3-T10db6998-STd03c56c1-Ad03c56c1"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S05-C2da5cfd3-T9bf258e9",
+    "subjectId": "S05",
+    "topicId": "S05-C2da5cfd3-T9bf258e9",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S05-C2da5cfd3-T9bf258e9-ST3eb95cbe-A3eb95cbe",
+      "S05-C2da5cfd3-T9bf258e9-ST701e5ae2-A701e5ae2",
+      "S05-C2da5cfd3-T9bf258e9-ST683c371d-A683c371d",
+      "S05-C2da5cfd3-T9bf258e9-STd715cff9-Ad715cff9",
+      "S05-C2da5cfd3-T9bf258e9-STf4873b35-Af4873b35"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S05-C2da5cfd3-T6d1dd231",
+    "subjectId": "S05",
+    "topicId": "S05-C2da5cfd3-T6d1dd231",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S05-C2da5cfd3-T6d1dd231-STdc8ede06-Adc8ede06",
+      "S05-C2da5cfd3-T6d1dd231-ST60984198-A60984198",
+      "S05-C2da5cfd3-T6d1dd231-ST93354845-A93354845",
+      "S05-C2da5cfd3-T6d1dd231-ST02f9d5fb-A02f9d5fb"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S05-C4d9a5be9-Ta42bcf2e",
+    "subjectId": "S05",
+    "topicId": "S05-C4d9a5be9-Ta42bcf2e",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S05-C4d9a5be9-Ta42bcf2e-ST9dd19828-A9dd19828",
+      "S05-C4d9a5be9-Ta42bcf2e-ST01dab2b7-A01dab2b7",
+      "S05-C4d9a5be9-Ta42bcf2e-STe47becb6-Ae47becb6",
+      "S05-C4d9a5be9-Ta42bcf2e-ST8a122891-A8a122891",
+      "S05-C4d9a5be9-Ta42bcf2e-STcdce8218-Acdce8218"
+    ],
+    "questions": 12,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S05-C4d9a5be9-T8be9b1ac",
+    "subjectId": "S05",
+    "topicId": "S05-C4d9a5be9-T8be9b1ac",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S05-C4d9a5be9-T8be9b1ac-ST99da9968-A99da9968",
+      "S05-C4d9a5be9-T8be9b1ac-ST6da14bf7-A6da14bf7",
+      "S05-C4d9a5be9-T8be9b1ac-ST14d24f98-A14d24f98",
+      "S05-C4d9a5be9-T8be9b1ac-ST6694ea80-A6694ea80",
+      "S05-C4d9a5be9-T8be9b1ac-ST62a1e63d-A62a1e63d"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S05-C4d9a5be9-Tec321beb",
+    "subjectId": "S05",
+    "topicId": "S05-C4d9a5be9-Tec321beb",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S05-C4d9a5be9-Tec321beb-ST88d0ac70-A88d0ac70",
+      "S05-C4d9a5be9-Tec321beb-ST87e05932-A87e05932",
+      "S05-C4d9a5be9-Tec321beb-ST096d2364-A096d2364",
+      "S05-C4d9a5be9-Tec321beb-ST61d86ae0-A61d86ae0",
+      "S05-C4d9a5be9-Tec321beb-ST68b3ffc0-A68b3ffc0"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S05-Cc13f58d9-T5189973c",
+    "subjectId": "S05",
+    "topicId": "S05-Cc13f58d9-T5189973c",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S05-Cc13f58d9-T5189973c-STbc266cd3-Abc266cd3",
+      "S05-Cc13f58d9-T5189973c-ST645099e3-A645099e3",
+      "S05-Cc13f58d9-T5189973c-STe721ff96-Ae721ff96",
+      "S05-Cc13f58d9-T5189973c-ST4b1dc356-A4b1dc356"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S05-Cc13f58d9-Tf3dff13a",
+    "subjectId": "S05",
+    "topicId": "S05-Cc13f58d9-Tf3dff13a",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S05-Cc13f58d9-Tf3dff13a-ST583dc021-A583dc021",
+      "S05-Cc13f58d9-Tf3dff13a-STe436e912-Ae436e912",
+      "S05-Cc13f58d9-Tf3dff13a-ST466e5b9c-A466e5b9c",
+      "S05-Cc13f58d9-Tf3dff13a-ST82259016-A82259016",
+      "S05-Cc13f58d9-Tf3dff13a-STd3798542-Ad3798542"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S05-Cc13f58d9-Tb9480244",
+    "subjectId": "S05",
+    "topicId": "S05-Cc13f58d9-Tb9480244",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S05-Cc13f58d9-Tb9480244-ST91ae3094-A91ae3094",
+      "S05-Cc13f58d9-Tb9480244-ST4263bf16-A4263bf16",
+      "S05-Cc13f58d9-Tb9480244-ST571806cc-A571806cc",
+      "S05-Cc13f58d9-Tb9480244-ST7daae41e-A7daae41e",
+      "S05-Cc13f58d9-Tb9480244-STb72f3408-Ab72f3408"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S05-Cc13f58d9-T6a8a152b",
+    "subjectId": "S05",
+    "topicId": "S05-Cc13f58d9-T6a8a152b",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S05-Cc13f58d9-T6a8a152b-STe6eaea18-Ae6eaea18",
+      "S05-Cc13f58d9-T6a8a152b-STdc9a5dcd-Adc9a5dcd",
+      "S05-Cc13f58d9-T6a8a152b-STf76a8006-Af76a8006",
+      "S05-Cc13f58d9-T6a8a152b-STd9fa0734-Ad9fa0734"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S06-C4397a951-T1c0849a9",
+    "subjectId": "S06",
+    "topicId": "S06-C4397a951-T1c0849a9",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S06-C4397a951-T1c0849a9-ST9a9b9a1c-A9a9b9a1c",
+      "S06-C4397a951-T1c0849a9-ST6e9a1ab2-A6e9a1ab2",
+      "S06-C4397a951-T1c0849a9-ST878a52fc-A878a52fc",
+      "S06-C4397a951-T1c0849a9-ST86f1d4ff-A86f1d4ff"
+    ],
+    "questions": 1,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S06-C4397a951-Tcf748189",
+    "subjectId": "S06",
+    "topicId": "S06-C4397a951-Tcf748189",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S06-C4397a951-Tcf748189-STadaafa86-Aadaafa86",
+      "S06-C4397a951-Tcf748189-ST3b8fc5b4-A3b8fc5b4",
+      "S06-C4397a951-Tcf748189-ST62123d68-A62123d68",
+      "S06-C4397a951-Tcf748189-STc09b79e4-Ac09b79e4"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S06-C4397a951-T119dfc36",
+    "subjectId": "S06",
+    "topicId": "S06-C4397a951-T119dfc36",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S06-C4397a951-T119dfc36-ST9f0c8aa5-A9f0c8aa5",
+      "S06-C4397a951-T119dfc36-STc6eaf18d-Ac6eaf18d",
+      "S06-C4397a951-T119dfc36-STda31012c-Ada31012c",
+      "S06-C4397a951-T119dfc36-ST5849de3f-A5849de3f"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S06-C4397a951-Tc4d588a0",
+    "subjectId": "S06",
+    "topicId": "S06-C4397a951-Tc4d588a0",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S06-C4397a951-Tc4d588a0-ST2a86f276-A2a86f276",
+      "S06-C4397a951-Tc4d588a0-ST7243384a-A7243384a",
+      "S06-C4397a951-Tc4d588a0-ST5f161c91-A5f161c91",
+      "S06-C4397a951-Tc4d588a0-ST722029ca-A722029ca"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S06-C5c3ba939-Ta362f257",
+    "subjectId": "S06",
+    "topicId": "S06-C5c3ba939-Ta362f257",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S06-C5c3ba939-Ta362f257-ST7a47d46e-A7a47d46e",
+      "S06-C5c3ba939-Ta362f257-STf8a0ac4a-Af8a0ac4a",
+      "S06-C5c3ba939-Ta362f257-ST26ac9819-A26ac9819",
+      "S06-C5c3ba939-Ta362f257-ST319fd5a1-A319fd5a1",
+      "S06-C5c3ba939-Ta362f257-ST0e25d57d-A0e25d57d"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S06-C5c3ba939-T7ee162f2",
+    "subjectId": "S06",
+    "topicId": "S06-C5c3ba939-T7ee162f2",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S06-C5c3ba939-T7ee162f2-ST0b7b13bc-A0b7b13bc",
+      "S06-C5c3ba939-T7ee162f2-ST6b967a11-A6b967a11",
+      "S06-C5c3ba939-T7ee162f2-ST0af96a8e-A0af96a8e",
+      "S06-C5c3ba939-T7ee162f2-ST7600486a-A7600486a"
+    ],
+    "questions": 1,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S06-C5c3ba939-T0c99b1ad",
+    "subjectId": "S06",
+    "topicId": "S06-C5c3ba939-T0c99b1ad",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S06-C5c3ba939-T0c99b1ad-STb3f6a67e-Ab3f6a67e",
+      "S06-C5c3ba939-T0c99b1ad-ST6be20ba6-A6be20ba6",
+      "S06-C5c3ba939-T0c99b1ad-ST2454d319-A2454d319",
+      "S06-C5c3ba939-T0c99b1ad-ST747beb6b-A747beb6b"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S06-C5c3ba939-T995fd621",
+    "subjectId": "S06",
+    "topicId": "S06-C5c3ba939-T995fd621",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S06-C5c3ba939-T995fd621-ST222c7208-A222c7208",
+      "S06-C5c3ba939-T995fd621-ST00f876b3-A00f876b3",
+      "S06-C5c3ba939-T995fd621-STbcd3a888-Abcd3a888",
+      "S06-C5c3ba939-T995fd621-STc97ace4c-Ac97ace4c",
+      "S06-C5c3ba939-T995fd621-STfbb6337a-Afbb6337a"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S06-Cbd122131-Tbbd84dc0",
+    "subjectId": "S06",
+    "topicId": "S06-Cbd122131-Tbbd84dc0",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S06-Cbd122131-Tbbd84dc0-STb5c73027-Ab5c73027",
+      "S06-Cbd122131-Tbbd84dc0-STbc29ccbd-Abc29ccbd",
+      "S06-Cbd122131-Tbbd84dc0-ST12f495fb-A12f495fb",
+      "S06-Cbd122131-Tbbd84dc0-ST3704ee64-A3704ee64"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S06-Cbd122131-Tabe7f08b",
+    "subjectId": "S06",
+    "topicId": "S06-Cbd122131-Tabe7f08b",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S06-Cbd122131-Tabe7f08b-STe4378329-Ae4378329",
+      "S06-Cbd122131-Tabe7f08b-ST542a1fb0-A542a1fb0",
+      "S06-Cbd122131-Tabe7f08b-STf617176b-Af617176b",
+      "S06-Cbd122131-Tabe7f08b-STef7d009c-Aef7d009c"
+    ],
+    "questions": 12,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S06-Cbd122131-T14b62587",
+    "subjectId": "S06",
+    "topicId": "S06-Cbd122131-T14b62587",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S06-Cbd122131-T14b62587-ST1632b97c-A1632b97c",
+      "S06-Cbd122131-T14b62587-STc58d3283-Ac58d3283",
+      "S06-Cbd122131-T14b62587-ST7bd875bf-A7bd875bf",
+      "S06-Cbd122131-T14b62587-STebbc31fe-Aebbc31fe"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S06-Cbd122131-Tc4ffc3bf",
+    "subjectId": "S06",
+    "topicId": "S06-Cbd122131-Tc4ffc3bf",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S06-Cbd122131-Tc4ffc3bf-ST21197089-A21197089",
+      "S06-Cbd122131-Tc4ffc3bf-STe41d99da-Ae41d99da",
+      "S06-Cbd122131-Tc4ffc3bf-STf3b6d54b-Af3b6d54b",
+      "S06-Cbd122131-Tc4ffc3bf-ST64f203a1-A64f203a1",
+      "S06-Cbd122131-Tc4ffc3bf-STdec26a67-Adec26a67"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S06-Cbd122131-T3ca0de2d",
+    "subjectId": "S06",
+    "topicId": "S06-Cbd122131-T3ca0de2d",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S06-Cbd122131-T3ca0de2d-STbe92e8c5-Abe92e8c5",
+      "S06-Cbd122131-T3ca0de2d-ST10309187-A10309187",
+      "S06-Cbd122131-T3ca0de2d-ST1ae92290-A1ae92290",
+      "S06-Cbd122131-T3ca0de2d-ST32ef7cad-A32ef7cad"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S06-Cbd122131-Tf617176b",
+    "subjectId": "S06",
+    "topicId": "S06-Cbd122131-Tf617176b",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S06-Cbd122131-Tf617176b-ST284bedc2-A284bedc2",
+      "S06-Cbd122131-Tf617176b-ST69ad6e06-A69ad6e06",
+      "S06-Cbd122131-Tf617176b-ST905b7924-A905b7924",
+      "S06-Cbd122131-Tf617176b-ST77470607-A77470607"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S06-Cbd122131-Tb12804d8",
+    "subjectId": "S06",
+    "topicId": "S06-Cbd122131-Tb12804d8",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S06-Cbd122131-Tb12804d8-ST03939fbe-A03939fbe",
+      "S06-Cbd122131-Tb12804d8-STf45b5973-Af45b5973",
+      "S06-Cbd122131-Tb12804d8-STbb157752-Abb157752",
+      "S06-Cbd122131-Tb12804d8-ST3cdc6d6e-A3cdc6d6e",
+      "S06-Cbd122131-Tb12804d8-ST70a69423-A70a69423"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S06-C22b72712-Tedf550c0",
+    "subjectId": "S06",
+    "topicId": "S06-C22b72712-Tedf550c0",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S06-C22b72712-Tedf550c0-ST1a48379a-A1a48379a",
+      "S06-C22b72712-Tedf550c0-ST8eaed2cf-A8eaed2cf",
+      "S06-C22b72712-Tedf550c0-ST1f766b33-A1f766b33",
+      "S06-C22b72712-Tedf550c0-ST0dd2b359-A0dd2b359"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S06-C22b72712-T2c2fb2da",
+    "subjectId": "S06",
+    "topicId": "S06-C22b72712-T2c2fb2da",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S06-C22b72712-T2c2fb2da-STf7a8465f-Af7a8465f",
+      "S06-C22b72712-T2c2fb2da-ST0ee761d2-A0ee761d2",
+      "S06-C22b72712-T2c2fb2da-STbcd3a888-Abcd3a888",
+      "S06-C22b72712-T2c2fb2da-STa0fe55e7-Aa0fe55e7",
+      "S06-C22b72712-T2c2fb2da-ST135a615a-A135a615a"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S07-C81cde124-T323fe647",
+    "subjectId": "S07",
+    "topicId": "S07-C81cde124-T323fe647",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S07-C81cde124-T323fe647-STdffc177f-Adffc177f",
+      "S07-C81cde124-T323fe647-STf30dfe1c-Af30dfe1c",
+      "S07-C81cde124-T323fe647-ST5ff40de7-A5ff40de7",
+      "S07-C81cde124-T323fe647-STbf889ad9-Abf889ad9",
+      "S07-C81cde124-T323fe647-ST1b7bbb88-A1b7bbb88"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S07-C81cde124-T8ce1b739",
+    "subjectId": "S07",
+    "topicId": "S07-C81cde124-T8ce1b739",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S07-C81cde124-T8ce1b739-ST069bce3d-A069bce3d",
+      "S07-C81cde124-T8ce1b739-ST19c64195-A19c64195",
+      "S07-C81cde124-T8ce1b739-ST35d92ca0-A35d92ca0",
+      "S07-C81cde124-T8ce1b739-STfdaf38f9-Afdaf38f9"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S07-C81cde124-T91de7c3a",
+    "subjectId": "S07",
+    "topicId": "S07-C81cde124-T91de7c3a",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S07-C81cde124-T91de7c3a-ST85b16ab9-A85b16ab9",
+      "S07-C81cde124-T91de7c3a-ST2e73f9b3-A2e73f9b3",
+      "S07-C81cde124-T91de7c3a-ST62f16dc7-A62f16dc7",
+      "S07-C81cde124-T91de7c3a-STc86429c3-Ac86429c3",
+      "S07-C81cde124-T91de7c3a-ST1c03142d-A1c03142d"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S07-C81cde124-T6d731a5e",
+    "subjectId": "S07",
+    "topicId": "S07-C81cde124-T6d731a5e",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S07-C81cde124-T6d731a5e-ST73772093-A73772093",
+      "S07-C81cde124-T6d731a5e-ST3320e2d9-A3320e2d9",
+      "S07-C81cde124-T6d731a5e-ST455387df-A455387df",
+      "S07-C81cde124-T6d731a5e-ST63e427f4-A63e427f4"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S07-C81cde124-T0b22f40b",
+    "subjectId": "S07",
+    "topicId": "S07-C81cde124-T0b22f40b",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S07-C81cde124-T0b22f40b-STfc9587c1-Afc9587c1",
+      "S07-C81cde124-T0b22f40b-ST33679014-A33679014",
+      "S07-C81cde124-T0b22f40b-STe4b1eefb-Ae4b1eefb",
+      "S07-C81cde124-T0b22f40b-ST3ea38fc3-A3ea38fc3"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S07-Cef3bcdf8-T8d2ac8b5",
+    "subjectId": "S07",
+    "topicId": "S07-Cef3bcdf8-T8d2ac8b5",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S07-Cef3bcdf8-T8d2ac8b5-STef7d009c-Aef7d009c",
+      "S07-Cef3bcdf8-T8d2ac8b5-ST8bec8757-A8bec8757",
+      "S07-Cef3bcdf8-T8d2ac8b5-STd908af39-Ad908af39",
+      "S07-Cef3bcdf8-T8d2ac8b5-STf9c83f22-Af9c83f22"
+    ],
+    "questions": 10,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S07-Cef3bcdf8-T7215c876",
+    "subjectId": "S07",
+    "topicId": "S07-Cef3bcdf8-T7215c876",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S07-Cef3bcdf8-T7215c876-STd959b638-Ad959b638",
+      "S07-Cef3bcdf8-T7215c876-ST9af27fd5-A9af27fd5",
+      "S07-Cef3bcdf8-T7215c876-STed8e7e3d-Aed8e7e3d",
+      "S07-Cef3bcdf8-T7215c876-ST0785ddc5-A0785ddc5"
+    ],
+    "questions": 4,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S07-Cef3bcdf8-T68ba9b33",
+    "subjectId": "S07",
+    "topicId": "S07-Cef3bcdf8-T68ba9b33",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S07-Cef3bcdf8-T68ba9b33-STa68005ca-Aa68005ca",
+      "S07-Cef3bcdf8-T68ba9b33-STecc4873a-Aecc4873a",
+      "S07-Cef3bcdf8-T68ba9b33-STd1b9127b-Ad1b9127b",
+      "S07-Cef3bcdf8-T68ba9b33-ST43b09fbd-A43b09fbd",
+      "S07-Cef3bcdf8-T68ba9b33-ST9d343658-A9d343658"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S07-Cef3bcdf8-Td0f882bc",
+    "subjectId": "S07",
+    "topicId": "S07-Cef3bcdf8-Td0f882bc",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S07-Cef3bcdf8-Td0f882bc-ST77c01bfc-A77c01bfc",
+      "S07-Cef3bcdf8-Td0f882bc-ST393fe81f-A393fe81f",
+      "S07-Cef3bcdf8-Td0f882bc-STd2885143-Ad2885143",
+      "S07-Cef3bcdf8-Td0f882bc-ST589f3ad7-A589f3ad7",
+      "S07-Cef3bcdf8-Td0f882bc-ST5dec36a9-A5dec36a9"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S07-Cef3bcdf8-Te0b0bd3d",
+    "subjectId": "S07",
+    "topicId": "S07-Cef3bcdf8-Te0b0bd3d",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S07-Cef3bcdf8-Te0b0bd3d-ST0af96a8e-A0af96a8e",
+      "S07-Cef3bcdf8-Te0b0bd3d-ST4879b243-A4879b243",
+      "S07-Cef3bcdf8-Te0b0bd3d-STb3c8a901-Ab3c8a901",
+      "S07-Cef3bcdf8-Te0b0bd3d-STe7d78e39-Ae7d78e39",
+      "S07-Cef3bcdf8-Te0b0bd3d-ST3619a1d0-A3619a1d0"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S07-Cef3bcdf8-T9a28ff6b",
+    "subjectId": "S07",
+    "topicId": "S07-Cef3bcdf8-T9a28ff6b",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S07-Cef3bcdf8-T9a28ff6b-ST30703a5c-A30703a5c",
+      "S07-Cef3bcdf8-T9a28ff6b-ST0f13e1a2-A0f13e1a2",
+      "S07-Cef3bcdf8-T9a28ff6b-STdcf8b9e9-Adcf8b9e9",
+      "S07-Cef3bcdf8-T9a28ff6b-ST4ad92a45-A4ad92a45",
+      "S07-Cef3bcdf8-T9a28ff6b-ST2c6ef0f0-A2c6ef0f0"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S07-Cd8d761ef-Tbfeeeeaf",
+    "subjectId": "S07",
+    "topicId": "S07-Cd8d761ef-Tbfeeeeaf",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S07-Cd8d761ef-Tbfeeeeaf-ST413da54b-A413da54b",
+      "S07-Cd8d761ef-Tbfeeeeaf-STbd1b1600-Abd1b1600",
+      "S07-Cd8d761ef-Tbfeeeeaf-STfe81f939-Afe81f939",
+      "S07-Cd8d761ef-Tbfeeeeaf-STecc4873a-Aecc4873a",
+      "S07-Cd8d761ef-Tbfeeeeaf-STe2a530e2-Ae2a530e2"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S07-Cd8d761ef-T2392c837",
+    "subjectId": "S07",
+    "topicId": "S07-Cd8d761ef-T2392c837",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S07-Cd8d761ef-T2392c837-ST039d6add-A039d6add",
+      "S07-Cd8d761ef-T2392c837-STef1c4b45-Aef1c4b45",
+      "S07-Cd8d761ef-T2392c837-ST381cfb6e-A381cfb6e",
+      "S07-Cd8d761ef-T2392c837-ST6694ea80-A6694ea80",
+      "S07-Cd8d761ef-T2392c837-ST47fb336f-A47fb336f"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S07-Cd8d761ef-Ta4e019f6",
+    "subjectId": "S07",
+    "topicId": "S07-Cd8d761ef-Ta4e019f6",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S07-Cd8d761ef-Ta4e019f6-ST18e79f17-A18e79f17",
+      "S07-Cd8d761ef-Ta4e019f6-STee2acfe4-Aee2acfe4",
+      "S07-Cd8d761ef-Ta4e019f6-ST276446ba-A276446ba",
+      "S07-Cd8d761ef-Ta4e019f6-STfda756c5-Afda756c5"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S07-Cd8d761ef-Td7f28529",
+    "subjectId": "S07",
+    "topicId": "S07-Cd8d761ef-Td7f28529",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S07-Cd8d761ef-Td7f28529-STd84afde2-Ad84afde2",
+      "S07-Cd8d761ef-Td7f28529-ST13f6df6b-A13f6df6b",
+      "S07-Cd8d761ef-Td7f28529-ST2b9161b6-A2b9161b6",
+      "S07-Cd8d761ef-Td7f28529-STd2501c07-Ad2501c07"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S07-Cd8d761ef-Tdc413a39",
+    "subjectId": "S07",
+    "topicId": "S07-Cd8d761ef-Tdc413a39",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S07-Cd8d761ef-Tdc413a39-ST05b4e425-A05b4e425",
+      "S07-Cd8d761ef-Tdc413a39-STa902bb17-Aa902bb17",
+      "S07-Cd8d761ef-Tdc413a39-ST3841a924-A3841a924",
+      "S07-Cd8d761ef-Tdc413a39-ST4721819b-A4721819b",
+      "S07-Cd8d761ef-Tdc413a39-ST5a36dc1d-A5a36dc1d"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S08-C9270c63f-Ta60b7a9c",
+    "subjectId": "S08",
+    "topicId": "S08-C9270c63f-Ta60b7a9c",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S08-C9270c63f-Ta60b7a9c-ST2d3cafeb-A2d3cafeb",
+      "S08-C9270c63f-Ta60b7a9c-ST8da078cc-A8da078cc",
+      "S08-C9270c63f-Ta60b7a9c-ST8c899b72-A8c899b72",
+      "S08-C9270c63f-Ta60b7a9c-ST446be308-A446be308",
+      "S08-C9270c63f-Ta60b7a9c-STb0de598f-Ab0de598f"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S08-C9270c63f-T41d32629",
+    "subjectId": "S08",
+    "topicId": "S08-C9270c63f-T41d32629",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S08-C9270c63f-T41d32629-ST00e13ed7-A00e13ed7",
+      "S08-C9270c63f-T41d32629-ST07d715ed-A07d715ed",
+      "S08-C9270c63f-T41d32629-STf4873b35-Af4873b35",
+      "S08-C9270c63f-T41d32629-STd5451fa9-Ad5451fa9"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S08-C9270c63f-T9526e8f6",
+    "subjectId": "S08",
+    "topicId": "S08-C9270c63f-T9526e8f6",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S08-C9270c63f-T9526e8f6-ST88d745fc-A88d745fc",
+      "S08-C9270c63f-T9526e8f6-ST7310e188-A7310e188",
+      "S08-C9270c63f-T9526e8f6-ST0e77d950-A0e77d950",
+      "S08-C9270c63f-T9526e8f6-STa02b9420-Aa02b9420",
+      "S08-C9270c63f-T9526e8f6-STd7740a75-Ad7740a75"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S08-C9270c63f-T5f5f5018",
+    "subjectId": "S08",
+    "topicId": "S08-C9270c63f-T5f5f5018",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S08-C9270c63f-T5f5f5018-ST01400f07-A01400f07",
+      "S08-C9270c63f-T5f5f5018-ST4cad1791-A4cad1791",
+      "S08-C9270c63f-T5f5f5018-STdb5e18d0-Adb5e18d0",
+      "S08-C9270c63f-T5f5f5018-ST23e6580e-A23e6580e",
+      "S08-C9270c63f-T5f5f5018-ST61d04203-A61d04203"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S08-C9270c63f-T9369e240",
+    "subjectId": "S08",
+    "topicId": "S08-C9270c63f-T9369e240",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S08-C9270c63f-T9369e240-STf30409c5-Af30409c5",
+      "S08-C9270c63f-T9369e240-ST3e0aa7ed-A3e0aa7ed",
+      "S08-C9270c63f-T9369e240-ST9de04455-A9de04455",
+      "S08-C9270c63f-T9369e240-STeb81ba5f-Aeb81ba5f",
+      "S08-C9270c63f-T9369e240-ST2e9089fe-A2e9089fe",
+      "S08-C9270c63f-T9369e240-STcf1a8e2f-Acf1a8e2f"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S08-C9270c63f-T65eaef94",
+    "subjectId": "S08",
+    "topicId": "S08-C9270c63f-T65eaef94",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S08-C9270c63f-T65eaef94-ST97b05602-A97b05602",
+      "S08-C9270c63f-T65eaef94-ST01112e70-A01112e70",
+      "S08-C9270c63f-T65eaef94-STbe970d09-Abe970d09",
+      "S08-C9270c63f-T65eaef94-STe5895263-Ae5895263",
+      "S08-C9270c63f-T65eaef94-STa99d6ed6-Aa99d6ed6",
+      "S08-C9270c63f-T65eaef94-ST856e8bd3-A856e8bd3"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S08-Cde0152f9-T7e532e59",
+    "subjectId": "S08",
+    "topicId": "S08-Cde0152f9-T7e532e59",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S08-Cde0152f9-T7e532e59-STc7bb3a32-Ac7bb3a32",
+      "S08-Cde0152f9-T7e532e59-STb9ccbcad-Ab9ccbcad",
+      "S08-Cde0152f9-T7e532e59-ST2a7bb844-A2a7bb844",
+      "S08-Cde0152f9-T7e532e59-ST897942c4-A897942c4"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S08-Cde0152f9-T78aa32d4",
+    "subjectId": "S08",
+    "topicId": "S08-Cde0152f9-T78aa32d4",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S08-Cde0152f9-T78aa32d4-STd2854b6b-Ad2854b6b",
+      "S08-Cde0152f9-T78aa32d4-ST69a83a0a-A69a83a0a",
+      "S08-Cde0152f9-T78aa32d4-STf61921a1-Af61921a1",
+      "S08-Cde0152f9-T78aa32d4-ST6374b0b1-A6374b0b1"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S08-Cde0152f9-T8fd7190e",
+    "subjectId": "S08",
+    "topicId": "S08-Cde0152f9-T8fd7190e",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S08-Cde0152f9-T8fd7190e-STa89604ce-Aa89604ce",
+      "S08-Cde0152f9-T8fd7190e-STf2e11c6d-Af2e11c6d",
+      "S08-Cde0152f9-T8fd7190e-ST132a1a39-A132a1a39",
+      "S08-Cde0152f9-T8fd7190e-STac800699-Aac800699",
+      "S08-Cde0152f9-T8fd7190e-ST0add51a1-A0add51a1"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S08-C062cef1d-T8a2d6fc7",
+    "subjectId": "S08",
+    "topicId": "S08-C062cef1d-T8a2d6fc7",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S08-C062cef1d-T8a2d6fc7-STe1bc613c-Ae1bc613c",
+      "S08-C062cef1d-T8a2d6fc7-STba2d3b89-Aba2d3b89",
+      "S08-C062cef1d-T8a2d6fc7-ST896c6d0e-A896c6d0e",
+      "S08-C062cef1d-T8a2d6fc7-STe3e84697-Ae3e84697"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S08-C062cef1d-Tc009d126",
+    "subjectId": "S08",
+    "topicId": "S08-C062cef1d-Tc009d126",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S08-C062cef1d-Tc009d126-ST6c165a93-A6c165a93",
+      "S08-C062cef1d-Tc009d126-STe8f77ab5-Ae8f77ab5",
+      "S08-C062cef1d-Tc009d126-ST70f19470-A70f19470",
+      "S08-C062cef1d-Tc009d126-ST3b5c5e18-A3b5c5e18",
+      "S08-C062cef1d-Tc009d126-ST968413a2-A968413a2",
+      "S08-C062cef1d-Tc009d126-ST81523a71-A81523a71"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S08-C062cef1d-Tec586a22",
+    "subjectId": "S08",
+    "topicId": "S08-C062cef1d-Tec586a22",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S08-C062cef1d-Tec586a22-ST97f64d5e-A97f64d5e",
+      "S08-C062cef1d-Tec586a22-ST6694ea80-A6694ea80",
+      "S08-C062cef1d-Tec586a22-STb634bf17-Ab634bf17",
+      "S08-C062cef1d-Tec586a22-STff566c2a-Aff566c2a"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S08-C062cef1d-T2681ac13",
+    "subjectId": "S08",
+    "topicId": "S08-C062cef1d-T2681ac13",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S08-C062cef1d-T2681ac13-STd0331ca0-Ad0331ca0",
+      "S08-C062cef1d-T2681ac13-ST912d5f84-A912d5f84",
+      "S08-C062cef1d-T2681ac13-ST40c079d1-A40c079d1",
+      "S08-C062cef1d-T2681ac13-ST819b60bb-A819b60bb",
+      "S08-C062cef1d-T2681ac13-ST42dd086e-A42dd086e"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S08-C062cef1d-T5e361578",
+    "subjectId": "S08",
+    "topicId": "S08-C062cef1d-T5e361578",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S08-C062cef1d-T5e361578-STcffbce9d-Acffbce9d",
+      "S08-C062cef1d-T5e361578-STd524a453-Ad524a453",
+      "S08-C062cef1d-T5e361578-ST9d503be0-A9d503be0",
+      "S08-C062cef1d-T5e361578-ST257c4a12-A257c4a12",
+      "S08-C062cef1d-T5e361578-ST93255449-A93255449"
+    ],
+    "questions": 4,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S08-C062cef1d-T78496f25",
+    "subjectId": "S08",
+    "topicId": "S08-C062cef1d-T78496f25",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S08-C062cef1d-T78496f25-STcbd2b550-Acbd2b550",
+      "S08-C062cef1d-T78496f25-ST74c3a7da-A74c3a7da",
+      "S08-C062cef1d-T78496f25-ST4f9edc4d-A4f9edc4d",
+      "S08-C062cef1d-T78496f25-ST82f04a25-A82f04a25"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S08-C062cef1d-T853ce66c",
+    "subjectId": "S08",
+    "topicId": "S08-C062cef1d-T853ce66c",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S08-C062cef1d-T853ce66c-ST88153431-A88153431",
+      "S08-C062cef1d-T853ce66c-ST78ede015-A78ede015",
+      "S08-C062cef1d-T853ce66c-STfd54e5a8-Afd54e5a8",
+      "S08-C062cef1d-T853ce66c-STe5f81f95-Ae5f81f95"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S08-C062cef1d-T88e2fced",
+    "subjectId": "S08",
+    "topicId": "S08-C062cef1d-T88e2fced",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S08-C062cef1d-T88e2fced-ST0732898d-A0732898d",
+      "S08-C062cef1d-T88e2fced-ST7677f535-A7677f535",
+      "S08-C062cef1d-T88e2fced-ST19931a6c-A19931a6c",
+      "S08-C062cef1d-T88e2fced-STdb709dbd-Adb709dbd",
+      "S08-C062cef1d-T88e2fced-ST98acd628-A98acd628"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S09-C3ee11016-Tf99f996d",
+    "subjectId": "S09",
+    "topicId": "S09-C3ee11016-Tf99f996d",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S09-C3ee11016-Tf99f996d-ST520cdb56-A520cdb56",
+      "S09-C3ee11016-Tf99f996d-STf5d36c67-Af5d36c67",
+      "S09-C3ee11016-Tf99f996d-ST06af04a7-A06af04a7",
+      "S09-C3ee11016-Tf99f996d-STc8ead2f6-Ac8ead2f6"
+    ],
+    "questions": 6,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S09-C3ee11016-T6154f56b",
+    "subjectId": "S09",
+    "topicId": "S09-C3ee11016-T6154f56b",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S09-C3ee11016-T6154f56b-STb8246843-Ab8246843",
+      "S09-C3ee11016-T6154f56b-STeb52c985-Aeb52c985",
+      "S09-C3ee11016-T6154f56b-STbbfc6a4a-Abbfc6a4a",
+      "S09-C3ee11016-T6154f56b-ST8474b056-A8474b056",
+      "S09-C3ee11016-T6154f56b-ST90a5e578-A90a5e578"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S09-C327a7380-Tb2547aa0",
+    "subjectId": "S09",
+    "topicId": "S09-C327a7380-Tb2547aa0",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S09-C327a7380-Tb2547aa0-ST3eb95cbe-A3eb95cbe",
+      "S09-C327a7380-Tb2547aa0-STe7c89854-Ae7c89854",
+      "S09-C327a7380-Tb2547aa0-STe285cdd8-Ae285cdd8",
+      "S09-C327a7380-Tb2547aa0-ST538db2a6-A538db2a6"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S09-C327a7380-Ted49013c",
+    "subjectId": "S09",
+    "topicId": "S09-C327a7380-Ted49013c",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S09-C327a7380-Ted49013c-ST74d5b4ec-A74d5b4ec",
+      "S09-C327a7380-Ted49013c-STe878c49b-Ae878c49b",
+      "S09-C327a7380-Ted49013c-ST40ec9a88-A40ec9a88",
+      "S09-C327a7380-Ted49013c-STbfc5a6b4-Abfc5a6b4"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S09-C327a7380-T5396f2da",
+    "subjectId": "S09",
+    "topicId": "S09-C327a7380-T5396f2da",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S09-C327a7380-T5396f2da-ST63089659-A63089659",
+      "S09-C327a7380-T5396f2da-STefa6e810-Aefa6e810",
+      "S09-C327a7380-T5396f2da-ST26e04042-A26e04042",
+      "S09-C327a7380-T5396f2da-ST9bbe5183-A9bbe5183",
+      "S09-C327a7380-T5396f2da-ST9019f805-A9019f805"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S09-C327a7380-T23154d1e",
+    "subjectId": "S09",
+    "topicId": "S09-C327a7380-T23154d1e",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S09-C327a7380-T23154d1e-STa23591bf-Aa23591bf",
+      "S09-C327a7380-T23154d1e-ST0ec51a75-A0ec51a75",
+      "S09-C327a7380-T23154d1e-ST69e483e8-A69e483e8",
+      "S09-C327a7380-T23154d1e-STd5213d96-Ad5213d96"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S09-Cba335bae-Tdac31d7f",
+    "subjectId": "S09",
+    "topicId": "S09-Cba335bae-Tdac31d7f",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S09-Cba335bae-Tdac31d7f-ST7a77c515-A7a77c515",
+      "S09-Cba335bae-Tdac31d7f-ST2081cc0d-A2081cc0d",
+      "S09-Cba335bae-Tdac31d7f-ST444b0c88-A444b0c88",
+      "S09-Cba335bae-Tdac31d7f-ST7a114327-A7a114327"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S09-Cba335bae-T5925c1a9",
+    "subjectId": "S09",
+    "topicId": "S09-Cba335bae-T5925c1a9",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S09-Cba335bae-T5925c1a9-ST071086d8-A071086d8",
+      "S09-Cba335bae-T5925c1a9-STf712d322-Af712d322",
+      "S09-Cba335bae-T5925c1a9-STaa941920-Aaa941920",
+      "S09-Cba335bae-T5925c1a9-ST3f45ebd1-A3f45ebd1",
+      "S09-Cba335bae-T5925c1a9-STfd54e5a8-Afd54e5a8"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S09-Cba335bae-T25098b1d",
+    "subjectId": "S09",
+    "topicId": "S09-Cba335bae-T25098b1d",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S09-Cba335bae-T25098b1d-STcd47d8ab-Acd47d8ab",
+      "S09-Cba335bae-T25098b1d-STed6f14c8-Aed6f14c8",
+      "S09-Cba335bae-T25098b1d-ST4f9704fb-A4f9704fb",
+      "S09-Cba335bae-T25098b1d-ST29928383-A29928383"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S09-Cba335bae-T30616e49",
+    "subjectId": "S09",
+    "topicId": "S09-Cba335bae-T30616e49",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S09-Cba335bae-T30616e49-STc4ba7c3a-Ac4ba7c3a",
+      "S09-Cba335bae-T30616e49-STe3a1f0c6-Ae3a1f0c6",
+      "S09-Cba335bae-T30616e49-STcd3587ae-Acd3587ae",
+      "S09-Cba335bae-T30616e49-STce86ea9c-Ace86ea9c",
+      "S09-Cba335bae-T30616e49-STdec277ca-Adec277ca"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S09-Cba335bae-Tfdb23086",
+    "subjectId": "S09",
+    "topicId": "S09-Cba335bae-Tfdb23086",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S09-Cba335bae-Tfdb23086-ST03a5978b-A03a5978b",
+      "S09-Cba335bae-Tfdb23086-ST05b264b5-A05b264b5",
+      "S09-Cba335bae-Tfdb23086-ST06a3a48e-A06a3a48e",
+      "S09-Cba335bae-Tfdb23086-ST27bb1b78-A27bb1b78"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S09-Cba335bae-T8438ee15",
+    "subjectId": "S09",
+    "topicId": "S09-Cba335bae-T8438ee15",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S09-Cba335bae-T8438ee15-STc0a91100-Ac0a91100",
+      "S09-Cba335bae-T8438ee15-ST943dec84-A943dec84",
+      "S09-Cba335bae-T8438ee15-ST888a53be-A888a53be",
+      "S09-Cba335bae-T8438ee15-ST1ca1b2c3-A1ca1b2c3"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S10-C0f1997cd-T205dd9e9",
+    "subjectId": "S10",
+    "topicId": "S10-C0f1997cd-T205dd9e9",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S10-C0f1997cd-T205dd9e9-ST26787dd2-A26787dd2",
+      "S10-C0f1997cd-T205dd9e9-STc064fbca-Ac064fbca",
+      "S10-C0f1997cd-T205dd9e9-STb639eb91-Ab639eb91",
+      "S10-C0f1997cd-T205dd9e9-ST733718e9-A733718e9",
+      "S10-C0f1997cd-T205dd9e9-ST3d7db37d-A3d7db37d"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S10-C0f1997cd-T3aec55aa",
+    "subjectId": "S10",
+    "topicId": "S10-C0f1997cd-T3aec55aa",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S10-C0f1997cd-T3aec55aa-ST89986171-A89986171",
+      "S10-C0f1997cd-T3aec55aa-STdd75a9d6-Add75a9d6",
+      "S10-C0f1997cd-T3aec55aa-STfc6672ad-Afc6672ad",
+      "S10-C0f1997cd-T3aec55aa-ST3e5ed49a-A3e5ed49a",
+      "S10-C0f1997cd-T3aec55aa-STfd3a3b84-Afd3a3b84"
+    ],
+    "questions": 6,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S10-C0f1997cd-T24499db5",
+    "subjectId": "S10",
+    "topicId": "S10-C0f1997cd-T24499db5",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S10-C0f1997cd-T24499db5-ST56156a4e-A56156a4e",
+      "S10-C0f1997cd-T24499db5-ST07193df4-A07193df4",
+      "S10-C0f1997cd-T24499db5-ST89bd8cfd-A89bd8cfd",
+      "S10-C0f1997cd-T24499db5-ST33acb1be-A33acb1be",
+      "S10-C0f1997cd-T24499db5-ST4e828741-A4e828741"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S10-C0f1997cd-T64a1e197",
+    "subjectId": "S10",
+    "topicId": "S10-C0f1997cd-T64a1e197",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S10-C0f1997cd-T64a1e197-STb9d90628-Ab9d90628",
+      "S10-C0f1997cd-T64a1e197-STbf86075c-Abf86075c",
+      "S10-C0f1997cd-T64a1e197-ST2ce4ce94-A2ce4ce94",
+      "S10-C0f1997cd-T64a1e197-ST2f293f67-A2f293f67",
+      "S10-C0f1997cd-T64a1e197-STf0f33bca-Af0f33bca"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S10-Cc1c9f435-Tf03c2ef0",
+    "subjectId": "S10",
+    "topicId": "S10-Cc1c9f435-Tf03c2ef0",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S10-Cc1c9f435-Tf03c2ef0-ST7b3c1125-A7b3c1125",
+      "S10-Cc1c9f435-Tf03c2ef0-STcbebbd9b-Acbebbd9b",
+      "S10-Cc1c9f435-Tf03c2ef0-ST942d6441-A942d6441",
+      "S10-Cc1c9f435-Tf03c2ef0-STfa4824e8-Afa4824e8",
+      "S10-Cc1c9f435-Tf03c2ef0-STefe77b20-Aefe77b20"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S10-Cc1c9f435-T7793ba1a",
+    "subjectId": "S10",
+    "topicId": "S10-Cc1c9f435-T7793ba1a",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S10-Cc1c9f435-T7793ba1a-STe22dfb01-Ae22dfb01",
+      "S10-Cc1c9f435-T7793ba1a-ST39721adf-A39721adf",
+      "S10-Cc1c9f435-T7793ba1a-ST0fcd568a-A0fcd568a",
+      "S10-Cc1c9f435-T7793ba1a-ST6d65ed5c-A6d65ed5c",
+      "S10-Cc1c9f435-T7793ba1a-STfd54e5a8-Afd54e5a8"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S10-Cc1c9f435-Tef7797e1",
+    "subjectId": "S10",
+    "topicId": "S10-Cc1c9f435-Tef7797e1",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S10-Cc1c9f435-Tef7797e1-ST7285f716-A7285f716",
+      "S10-Cc1c9f435-Tef7797e1-STc983c585-Ac983c585",
+      "S10-Cc1c9f435-Tef7797e1-ST81dc075c-A81dc075c",
+      "S10-Cc1c9f435-Tef7797e1-ST81fbd2f1-A81fbd2f1",
+      "S10-Cc1c9f435-Tef7797e1-STd457d71a-Ad457d71a"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S10-Cc1c9f435-T769fcfe9",
+    "subjectId": "S10",
+    "topicId": "S10-Cc1c9f435-T769fcfe9",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S10-Cc1c9f435-T769fcfe9-ST41b68cd4-A41b68cd4",
+      "S10-Cc1c9f435-T769fcfe9-STf2cb73a7-Af2cb73a7",
+      "S10-Cc1c9f435-T769fcfe9-ST961b164f-A961b164f",
+      "S10-Cc1c9f435-T769fcfe9-ST0b3275c5-A0b3275c5"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S10-C64dfa5ec-T5c4c78bc",
+    "subjectId": "S10",
+    "topicId": "S10-C64dfa5ec-T5c4c78bc",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S10-C64dfa5ec-T5c4c78bc-ST40269673-A40269673",
+      "S10-C64dfa5ec-T5c4c78bc-STe63aa315-Ae63aa315",
+      "S10-C64dfa5ec-T5c4c78bc-STae8eb25b-Aae8eb25b",
+      "S10-C64dfa5ec-T5c4c78bc-STbf48b60b-Abf48b60b",
+      "S10-C64dfa5ec-T5c4c78bc-STe22dfb01-Ae22dfb01"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S10-C64dfa5ec-T9bc2b435",
+    "subjectId": "S10",
+    "topicId": "S10-C64dfa5ec-T9bc2b435",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S10-C64dfa5ec-T9bc2b435-ST2bfbc118-A2bfbc118",
+      "S10-C64dfa5ec-T9bc2b435-ST9b58e681-A9b58e681",
+      "S10-C64dfa5ec-T9bc2b435-STb47f9adc-Ab47f9adc",
+      "S10-C64dfa5ec-T9bc2b435-STe7f90b03-Ae7f90b03",
+      "S10-C64dfa5ec-T9bc2b435-STa024ee96-Aa024ee96"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S10-C64dfa5ec-T41234f1f",
+    "subjectId": "S10",
+    "topicId": "S10-C64dfa5ec-T41234f1f",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S10-C64dfa5ec-T41234f1f-ST578bbf6d-A578bbf6d",
+      "S10-C64dfa5ec-T41234f1f-STf74414fb-Af74414fb",
+      "S10-C64dfa5ec-T41234f1f-STb2371c3a-Ab2371c3a",
+      "S10-C64dfa5ec-T41234f1f-STaf73d8c3-Aaf73d8c3",
+      "S10-C64dfa5ec-T41234f1f-ST6d65ed5c-A6d65ed5c"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S10-C64dfa5ec-T1bf32e33",
+    "subjectId": "S10",
+    "topicId": "S10-C64dfa5ec-T1bf32e33",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S10-C64dfa5ec-T1bf32e33-ST9187cc2a-A9187cc2a",
+      "S10-C64dfa5ec-T1bf32e33-ST72f02cc0-A72f02cc0",
+      "S10-C64dfa5ec-T1bf32e33-STd6dd4d19-Ad6dd4d19",
+      "S10-C64dfa5ec-T1bf32e33-STd70d5a79-Ad70d5a79",
+      "S10-C64dfa5ec-T1bf32e33-ST856e8bd3-A856e8bd3"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S10-C64dfa5ec-T7dc0291c",
+    "subjectId": "S10",
+    "topicId": "S10-C64dfa5ec-T7dc0291c",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S10-C64dfa5ec-T7dc0291c-ST8fa78148-A8fa78148",
+      "S10-C64dfa5ec-T7dc0291c-STf6e9cec9-Af6e9cec9",
+      "S10-C64dfa5ec-T7dc0291c-ST76a7f40e-A76a7f40e",
+      "S10-C64dfa5ec-T7dc0291c-STbb0764f1-Abb0764f1",
+      "S10-C64dfa5ec-T7dc0291c-ST6f34a493-A6f34a493"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S10-C64dfa5ec-Tb445eb33",
+    "subjectId": "S10",
+    "topicId": "S10-C64dfa5ec-Tb445eb33",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S10-C64dfa5ec-Tb445eb33-ST3ee591fc-A3ee591fc",
+      "S10-C64dfa5ec-Tb445eb33-ST4170bd62-A4170bd62",
+      "S10-C64dfa5ec-Tb445eb33-ST112b659d-A112b659d",
+      "S10-C64dfa5ec-Tb445eb33-STfdf1ffbe-Afdf1ffbe"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S11-C7bd7bee9-Tca225dcd",
+    "subjectId": "S11",
+    "topicId": "S11-C7bd7bee9-Tca225dcd",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S11-C7bd7bee9-Tca225dcd-ST7124ead6-A7124ead6",
+      "S11-C7bd7bee9-Tca225dcd-ST3fa3fcb2-A3fa3fcb2",
+      "S11-C7bd7bee9-Tca225dcd-ST58d61360-A58d61360",
+      "S11-C7bd7bee9-Tca225dcd-ST2e047ac7-A2e047ac7"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S11-C7bd7bee9-T6e4641eb",
+    "subjectId": "S11",
+    "topicId": "S11-C7bd7bee9-T6e4641eb",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S11-C7bd7bee9-T6e4641eb-ST212136de-A212136de",
+      "S11-C7bd7bee9-T6e4641eb-ST50b59139-A50b59139",
+      "S11-C7bd7bee9-T6e4641eb-ST272148e2-A272148e2",
+      "S11-C7bd7bee9-T6e4641eb-STb3a3b23e-Ab3a3b23e",
+      "S11-C7bd7bee9-T6e4641eb-STe82f9546-Ae82f9546"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S11-C7bd7bee9-T39c65f13",
+    "subjectId": "S11",
+    "topicId": "S11-C7bd7bee9-T39c65f13",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S11-C7bd7bee9-T39c65f13-ST9065dc29-A9065dc29",
+      "S11-C7bd7bee9-T39c65f13-ST910b3f8a-A910b3f8a",
+      "S11-C7bd7bee9-T39c65f13-ST3c3d33d7-A3c3d33d7",
+      "S11-C7bd7bee9-T39c65f13-ST971a4ab2-A971a4ab2",
+      "S11-C7bd7bee9-T39c65f13-ST8df8fbb9-A8df8fbb9"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S11-C7bd7bee9-Tc6a5223f",
+    "subjectId": "S11",
+    "topicId": "S11-C7bd7bee9-Tc6a5223f",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S11-C7bd7bee9-Tc6a5223f-STc5e6b2dd-Ac5e6b2dd",
+      "S11-C7bd7bee9-Tc6a5223f-STe3b8bd45-Ae3b8bd45",
+      "S11-C7bd7bee9-Tc6a5223f-ST02f9d5fb-A02f9d5fb",
+      "S11-C7bd7bee9-Tc6a5223f-ST8a6cead4-A8a6cead4",
+      "S11-C7bd7bee9-Tc6a5223f-ST9ee78ce2-A9ee78ce2"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S11-C7bd7bee9-Tfabcbf03",
+    "subjectId": "S11",
+    "topicId": "S11-C7bd7bee9-Tfabcbf03",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S11-C7bd7bee9-Tfabcbf03-ST9e8302d3-A9e8302d3",
+      "S11-C7bd7bee9-Tfabcbf03-ST02f9d5fb-A02f9d5fb",
+      "S11-C7bd7bee9-Tfabcbf03-ST6b1d752d-A6b1d752d",
+      "S11-C7bd7bee9-Tfabcbf03-ST0b29bc8d-A0b29bc8d"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S11-C917a7c20-Tde2c2dcf",
+    "subjectId": "S11",
+    "topicId": "S11-C917a7c20-Tde2c2dcf",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S11-C917a7c20-Tde2c2dcf-ST3e7c7302-A3e7c7302",
+      "S11-C917a7c20-Tde2c2dcf-ST41f21a0e-A41f21a0e",
+      "S11-C917a7c20-Tde2c2dcf-STe170718c-Ae170718c",
+      "S11-C917a7c20-Tde2c2dcf-STefe2a5c0-Aefe2a5c0",
+      "S11-C917a7c20-Tde2c2dcf-ST0bb5e932-A0bb5e932"
+    ],
+    "questions": 2,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S11-C917a7c20-Tf28d567c",
+    "subjectId": "S11",
+    "topicId": "S11-C917a7c20-Tf28d567c",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S11-C917a7c20-Tf28d567c-ST2c4e580c-A2c4e580c",
+      "S11-C917a7c20-Tf28d567c-STee8250fb-Aee8250fb",
+      "S11-C917a7c20-Tf28d567c-ST52a6efef-A52a6efef",
+      "S11-C917a7c20-Tf28d567c-ST2fe1d615-A2fe1d615",
+      "S11-C917a7c20-Tf28d567c-ST3ee591fc-A3ee591fc"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S11-C917a7c20-Tf4873b35",
+    "subjectId": "S11",
+    "topicId": "S11-C917a7c20-Tf4873b35",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S11-C917a7c20-Tf4873b35-ST38ccd038-A38ccd038",
+      "S11-C917a7c20-Tf4873b35-ST1568431f-A1568431f",
+      "S11-C917a7c20-Tf4873b35-STa7fd11eb-Aa7fd11eb",
+      "S11-C917a7c20-Tf4873b35-ST825e788f-A825e788f",
+      "S11-C917a7c20-Tf4873b35-ST19606432-A19606432"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S11-C917a7c20-T1afcabcb",
+    "subjectId": "S11",
+    "topicId": "S11-C917a7c20-T1afcabcb",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S11-C917a7c20-T1afcabcb-ST4f277f3b-A4f277f3b",
+      "S11-C917a7c20-T1afcabcb-STd8b4e056-Ad8b4e056",
+      "S11-C917a7c20-T1afcabcb-ST0da73c6d-A0da73c6d",
+      "S11-C917a7c20-T1afcabcb-ST8b972d36-A8b972d36",
+      "S11-C917a7c20-T1afcabcb-ST6f0897fe-A6f0897fe"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S11-C917a7c20-Te101c91b",
+    "subjectId": "S11",
+    "topicId": "S11-C917a7c20-Te101c91b",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S11-C917a7c20-Te101c91b-STfee43daa-Afee43daa",
+      "S11-C917a7c20-Te101c91b-ST894dfdf5-A894dfdf5",
+      "S11-C917a7c20-Te101c91b-ST382b6f65-A382b6f65",
+      "S11-C917a7c20-Te101c91b-ST86dcba29-A86dcba29",
+      "S11-C917a7c20-Te101c91b-ST68607844-A68607844",
+      "S11-C917a7c20-Te101c91b-STfa30f79a-Afa30f79a"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-Ce9c56ff6-T5caddc4c",
+    "subjectId": "S12",
+    "topicId": "S12-Ce9c56ff6-T5caddc4c",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-Ce9c56ff6-T5caddc4c-ST70110e84-A70110e84",
+      "S12-Ce9c56ff6-T5caddc4c-STf7452493-Af7452493",
+      "S12-Ce9c56ff6-T5caddc4c-ST1ea50a8c-A1ea50a8c",
+      "S12-Ce9c56ff6-T5caddc4c-ST862417b9-A862417b9",
+      "S12-Ce9c56ff6-T5caddc4c-ST23e4fd49-A23e4fd49",
+      "S12-Ce9c56ff6-T5caddc4c-STa05e0ebf-Aa05e0ebf"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-Ce9c56ff6-T8855e88d",
+    "subjectId": "S12",
+    "topicId": "S12-Ce9c56ff6-T8855e88d",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-Ce9c56ff6-T8855e88d-ST9f0c8aa5-A9f0c8aa5",
+      "S12-Ce9c56ff6-T8855e88d-ST1cb54222-A1cb54222",
+      "S12-Ce9c56ff6-T8855e88d-ST259aa8ef-A259aa8ef",
+      "S12-Ce9c56ff6-T8855e88d-ST85af4b91-A85af4b91",
+      "S12-Ce9c56ff6-T8855e88d-ST23e4fd49-A23e4fd49"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-Ce9c56ff6-Tc85a599b",
+    "subjectId": "S12",
+    "topicId": "S12-Ce9c56ff6-Tc85a599b",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-Ce9c56ff6-Tc85a599b-ST259aa8ef-A259aa8ef",
+      "S12-Ce9c56ff6-Tc85a599b-ST1cb54222-A1cb54222",
+      "S12-Ce9c56ff6-Tc85a599b-ST4f8a2cc3-A4f8a2cc3",
+      "S12-Ce9c56ff6-Tc85a599b-ST23e4fd49-A23e4fd49",
+      "S12-Ce9c56ff6-Tc85a599b-STa94e7bcf-Aa94e7bcf"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-Ce9c56ff6-Te52633f3",
+    "subjectId": "S12",
+    "topicId": "S12-Ce9c56ff6-Te52633f3",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-Ce9c56ff6-Te52633f3-ST259aa8ef-A259aa8ef",
+      "S12-Ce9c56ff6-Te52633f3-ST3ea38fc3-A3ea38fc3",
+      "S12-Ce9c56ff6-Te52633f3-ST1cb54222-A1cb54222",
+      "S12-Ce9c56ff6-Te52633f3-STf5e17b01-Af5e17b01",
+      "S12-Ce9c56ff6-Te52633f3-ST23e4fd49-A23e4fd49"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-Caa1e76e7-T1134e4f4",
+    "subjectId": "S12",
+    "topicId": "S12-Caa1e76e7-T1134e4f4",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-Caa1e76e7-T1134e4f4-ST259aa8ef-A259aa8ef",
+      "S12-Caa1e76e7-T1134e4f4-ST461171f0-A461171f0",
+      "S12-Caa1e76e7-T1134e4f4-ST6c95538d-A6c95538d",
+      "S12-Caa1e76e7-T1134e4f4-STa55f65e7-Aa55f65e7",
+      "S12-Caa1e76e7-T1134e4f4-STc2792b43-Ac2792b43",
+      "S12-Caa1e76e7-T1134e4f4-ST84248da3-A84248da3",
+      "S12-Caa1e76e7-T1134e4f4-STbc318ecb-Abc318ecb",
+      "S12-Caa1e76e7-T1134e4f4-STafc0d772-Aafc0d772",
+      "S12-Caa1e76e7-T1134e4f4-ST64d90abe-A64d90abe",
+      "S12-Caa1e76e7-T1134e4f4-ST471e20d3-A471e20d3"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-Caa1e76e7-T6382deaf",
+    "subjectId": "S12",
+    "topicId": "S12-Caa1e76e7-T6382deaf",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-Caa1e76e7-T6382deaf-STb34b4150-Ab34b4150",
+      "S12-Caa1e76e7-T6382deaf-ST23e8a33e-A23e8a33e",
+      "S12-Caa1e76e7-T6382deaf-ST6c95538d-A6c95538d",
+      "S12-Caa1e76e7-T6382deaf-STc2792b43-Ac2792b43",
+      "S12-Caa1e76e7-T6382deaf-STbf0bddc8-Abf0bddc8",
+      "S12-Caa1e76e7-T6382deaf-STd3e79adf-Ad3e79adf",
+      "S12-Caa1e76e7-T6382deaf-STafc0d772-Aafc0d772",
+      "S12-Caa1e76e7-T6382deaf-ST8d116bea-A8d116bea"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-Caa1e76e7-T308738b8",
+    "subjectId": "S12",
+    "topicId": "S12-Caa1e76e7-T308738b8",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-Caa1e76e7-T308738b8-ST36f0be7f-A36f0be7f",
+      "S12-Caa1e76e7-T308738b8-ST1c09f5a7-A1c09f5a7",
+      "S12-Caa1e76e7-T308738b8-ST6c95538d-A6c95538d",
+      "S12-Caa1e76e7-T308738b8-ST4c610cf6-A4c610cf6",
+      "S12-Caa1e76e7-T308738b8-ST1953e645-A1953e645",
+      "S12-Caa1e76e7-T308738b8-ST7f993d2d-A7f993d2d",
+      "S12-Caa1e76e7-T308738b8-ST23e4fd49-A23e4fd49"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-Caa1e76e7-Tf02c9635",
+    "subjectId": "S12",
+    "topicId": "S12-Caa1e76e7-Tf02c9635",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-Caa1e76e7-Tf02c9635-STa2f89e6f-Aa2f89e6f",
+      "S12-Caa1e76e7-Tf02c9635-ST1c09f5a7-A1c09f5a7",
+      "S12-Caa1e76e7-Tf02c9635-ST6c95538d-A6c95538d",
+      "S12-Caa1e76e7-Tf02c9635-STc6ba710e-Ac6ba710e",
+      "S12-Caa1e76e7-Tf02c9635-ST2ef54caf-A2ef54caf",
+      "S12-Caa1e76e7-Tf02c9635-STafc0d772-Aafc0d772"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-Caa1e76e7-T3580c926",
+    "subjectId": "S12",
+    "topicId": "S12-Caa1e76e7-T3580c926",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-Caa1e76e7-T3580c926-STa2f89e6f-Aa2f89e6f",
+      "S12-Caa1e76e7-T3580c926-ST1c09f5a7-A1c09f5a7",
+      "S12-Caa1e76e7-T3580c926-ST224610f1-A224610f1",
+      "S12-Caa1e76e7-T3580c926-ST6c95538d-A6c95538d",
+      "S12-Caa1e76e7-T3580c926-ST2ef54caf-A2ef54caf",
+      "S12-Caa1e76e7-T3580c926-STee64d92d-Aee64d92d"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-Caa1e76e7-T03c98aac",
+    "subjectId": "S12",
+    "topicId": "S12-Caa1e76e7-T03c98aac",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-Caa1e76e7-T03c98aac-STa2f89e6f-Aa2f89e6f",
+      "S12-Caa1e76e7-T03c98aac-ST153d8f1b-A153d8f1b",
+      "S12-Caa1e76e7-T03c98aac-ST6c95538d-A6c95538d",
+      "S12-Caa1e76e7-T03c98aac-ST349b7b80-A349b7b80",
+      "S12-Caa1e76e7-T03c98aac-ST1953e645-A1953e645",
+      "S12-Caa1e76e7-T03c98aac-ST23e4fd49-A23e4fd49"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-C7b539aa0-Tf1996a7c",
+    "subjectId": "S12",
+    "topicId": "S12-C7b539aa0-Tf1996a7c",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-C7b539aa0-Tf1996a7c-STeb93fe5b-Aeb93fe5b",
+      "S12-C7b539aa0-Tf1996a7c-ST1c09f5a7-A1c09f5a7",
+      "S12-C7b539aa0-Tf1996a7c-ST6c95538d-A6c95538d",
+      "S12-C7b539aa0-Tf1996a7c-ST16a2122c-A16a2122c",
+      "S12-C7b539aa0-Tf1996a7c-STafc0d772-Aafc0d772",
+      "S12-C7b539aa0-Tf1996a7c-ST23e4fd49-A23e4fd49"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-C7b539aa0-T99e1ff40",
+    "subjectId": "S12",
+    "topicId": "S12-C7b539aa0-T99e1ff40",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-C7b539aa0-T99e1ff40-STa2f89e6f-Aa2f89e6f",
+      "S12-C7b539aa0-T99e1ff40-ST48f42260-A48f42260",
+      "S12-C7b539aa0-T99e1ff40-ST6c95538d-A6c95538d",
+      "S12-C7b539aa0-T99e1ff40-ST1953e645-A1953e645",
+      "S12-C7b539aa0-T99e1ff40-STafc0d772-Aafc0d772",
+      "S12-C7b539aa0-T99e1ff40-ST23e4fd49-A23e4fd49"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-C7b539aa0-T76c92dcf",
+    "subjectId": "S12",
+    "topicId": "S12-C7b539aa0-T76c92dcf",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-C7b539aa0-T76c92dcf-ST9f70cd04-A9f70cd04",
+      "S12-C7b539aa0-T76c92dcf-ST9df6b026-A9df6b026",
+      "S12-C7b539aa0-T76c92dcf-ST6c95538d-A6c95538d",
+      "S12-C7b539aa0-T76c92dcf-ST1953e645-A1953e645",
+      "S12-C7b539aa0-T76c92dcf-STafc0d772-Aafc0d772",
+      "S12-C7b539aa0-T76c92dcf-ST23e4fd49-A23e4fd49"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-C7b539aa0-Tac739dcc",
+    "subjectId": "S12",
+    "topicId": "S12-C7b539aa0-Tac739dcc",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-C7b539aa0-Tac739dcc-ST68940a51-A68940a51",
+      "S12-C7b539aa0-Tac739dcc-ST5d9ad169-A5d9ad169",
+      "S12-C7b539aa0-Tac739dcc-ST8326f470-A8326f470",
+      "S12-C7b539aa0-Tac739dcc-ST9c38e1f6-A9c38e1f6",
+      "S12-C7b539aa0-Tac739dcc-STd9ad71b7-Ad9ad71b7",
+      "S12-C7b539aa0-Tac739dcc-ST1953e645-A1953e645",
+      "S12-C7b539aa0-Tac739dcc-ST23e4fd49-A23e4fd49"
+    ],
+    "questions": 6,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-C60e112b2-T59ab849d",
+    "subjectId": "S12",
+    "topicId": "S12-C60e112b2-T59ab849d",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-C60e112b2-T59ab849d-ST7018ba50-A7018ba50",
+      "S12-C60e112b2-T59ab849d-ST7c4e1da5-A7c4e1da5",
+      "S12-C60e112b2-T59ab849d-ST1c09f5a7-A1c09f5a7",
+      "S12-C60e112b2-T59ab849d-ST6c5a6990-A6c5a6990",
+      "S12-C60e112b2-T59ab849d-ST6c621d1a-A6c621d1a",
+      "S12-C60e112b2-T59ab849d-ST23e4fd49-A23e4fd49",
+      "S12-C60e112b2-T59ab849d-ST73a0904b-A73a0904b"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-C60e112b2-T114049bf",
+    "subjectId": "S12",
+    "topicId": "S12-C60e112b2-T114049bf",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-C60e112b2-T114049bf-STdb3561b2-Adb3561b2",
+      "S12-C60e112b2-T114049bf-ST1c09f5a7-A1c09f5a7",
+      "S12-C60e112b2-T114049bf-ST6c95538d-A6c95538d",
+      "S12-C60e112b2-T114049bf-STb8bf0733-Ab8bf0733",
+      "S12-C60e112b2-T114049bf-STee3117b9-Aee3117b9",
+      "S12-C60e112b2-T114049bf-ST23e4fd49-A23e4fd49"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-C60e112b2-T2a7018de",
+    "subjectId": "S12",
+    "topicId": "S12-C60e112b2-T2a7018de",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-C60e112b2-T2a7018de-ST1d562000-A1d562000",
+      "S12-C60e112b2-T2a7018de-STbb9000d6-Abb9000d6",
+      "S12-C60e112b2-T2a7018de-ST6c95538d-A6c95538d",
+      "S12-C60e112b2-T2a7018de-STdb3561b2-Adb3561b2",
+      "S12-C60e112b2-T2a7018de-ST23e4fd49-A23e4fd49"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-C60e112b2-Tc41faeb3",
+    "subjectId": "S12",
+    "topicId": "S12-C60e112b2-Tc41faeb3",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-C60e112b2-Tc41faeb3-STec0bb5a4-Aec0bb5a4",
+      "S12-C60e112b2-Tc41faeb3-ST26cafb94-A26cafb94",
+      "S12-C60e112b2-Tc41faeb3-ST1c09f5a7-A1c09f5a7",
+      "S12-C60e112b2-Tc41faeb3-ST6c95538d-A6c95538d",
+      "S12-C60e112b2-Tc41faeb3-ST2ef54caf-A2ef54caf",
+      "S12-C60e112b2-Tc41faeb3-ST23e4fd49-A23e4fd49"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-C60e112b2-T772b1793",
+    "subjectId": "S12",
+    "topicId": "S12-C60e112b2-T772b1793",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-C60e112b2-T772b1793-ST3e3b76cf-A3e3b76cf",
+      "S12-C60e112b2-T772b1793-ST26cafb94-A26cafb94",
+      "S12-C60e112b2-T772b1793-ST6c95538d-A6c95538d",
+      "S12-C60e112b2-T772b1793-STc2792b43-Ac2792b43",
+      "S12-C60e112b2-T772b1793-ST2ef54caf-A2ef54caf",
+      "S12-C60e112b2-T772b1793-ST23e4fd49-A23e4fd49"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-C60e112b2-Tae0c7200",
+    "subjectId": "S12",
+    "topicId": "S12-C60e112b2-Tae0c7200",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-C60e112b2-Tae0c7200-ST6cd512a8-A6cd512a8",
+      "S12-C60e112b2-Tae0c7200-STb765f5b7-Ab765f5b7",
+      "S12-C60e112b2-Tae0c7200-STa6216ea0-Aa6216ea0",
+      "S12-C60e112b2-Tae0c7200-ST6c95538d-A6c95538d",
+      "S12-C60e112b2-Tae0c7200-ST23e4fd49-A23e4fd49"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-C60e112b2-T625fe74c",
+    "subjectId": "S12",
+    "topicId": "S12-C60e112b2-T625fe74c",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-C60e112b2-T625fe74c-STa908043e-Aa908043e",
+      "S12-C60e112b2-T625fe74c-ST4856d3c1-A4856d3c1",
+      "S12-C60e112b2-T625fe74c-ST6c95538d-A6c95538d",
+      "S12-C60e112b2-T625fe74c-ST349b7b80-A349b7b80",
+      "S12-C60e112b2-T625fe74c-STc6f50c12-Ac6f50c12",
+      "S12-C60e112b2-T625fe74c-STf2087957-Af2087957"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-C60e112b2-T2c645a53",
+    "subjectId": "S12",
+    "topicId": "S12-C60e112b2-T2c645a53",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-C60e112b2-T2c645a53-STd98fea2a-Ad98fea2a",
+      "S12-C60e112b2-T2c645a53-ST2934fb49-A2934fb49",
+      "S12-C60e112b2-T2c645a53-ST6c95538d-A6c95538d",
+      "S12-C60e112b2-T2c645a53-ST856e8bd3-A856e8bd3",
+      "S12-C60e112b2-T2c645a53-STe5895263-Ae5895263",
+      "S12-C60e112b2-T2c645a53-STee64d92d-Aee64d92d"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-C60e112b2-T7aab06cd",
+    "subjectId": "S12",
+    "topicId": "S12-C60e112b2-T7aab06cd",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-C60e112b2-T7aab06cd-ST1cf43c8d-A1cf43c8d",
+      "S12-C60e112b2-T7aab06cd-STfe30549c-Afe30549c",
+      "S12-C60e112b2-T7aab06cd-STf6cfb8c3-Af6cfb8c3",
+      "S12-C60e112b2-T7aab06cd-ST6c621d1a-A6c621d1a",
+      "S12-C60e112b2-T7aab06cd-STa94e7bcf-Aa94e7bcf",
+      "S12-C60e112b2-T7aab06cd-STee64d92d-Aee64d92d"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S12-C60e112b2-T89ed7952",
+    "subjectId": "S12",
+    "topicId": "S12-C60e112b2-T89ed7952",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S12-C60e112b2-T89ed7952-ST0dd6a4f6-A0dd6a4f6",
+      "S12-C60e112b2-T89ed7952-ST8e3cde28-A8e3cde28",
+      "S12-C60e112b2-T89ed7952-STc16bd7eb-Ac16bd7eb",
+      "S12-C60e112b2-T89ed7952-ST1c09f5a7-A1c09f5a7",
+      "S12-C60e112b2-T89ed7952-ST6c621d1a-A6c621d1a",
+      "S12-C60e112b2-T89ed7952-STec229532-Aec229532"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S13-C3b0201a3-T1f7dd233",
+    "subjectId": "S13",
+    "topicId": "S13-C3b0201a3-T1f7dd233",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S13-C3b0201a3-T1f7dd233-STea983925-Aea983925",
+      "S13-C3b0201a3-T1f7dd233-ST63d32175-A63d32175",
+      "S13-C3b0201a3-T1f7dd233-STf79e2ecc-Af79e2ecc",
+      "S13-C3b0201a3-T1f7dd233-STafba1a0c-Aafba1a0c",
+      "S13-C3b0201a3-T1f7dd233-ST9960efbd-A9960efbd"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S13-C3b0201a3-T8caa2167",
+    "subjectId": "S13",
+    "topicId": "S13-C3b0201a3-T8caa2167",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S13-C3b0201a3-T8caa2167-STafba1a0c-Aafba1a0c",
+      "S13-C3b0201a3-T8caa2167-ST90a7578c-A90a7578c",
+      "S13-C3b0201a3-T8caa2167-STb3692796-Ab3692796",
+      "S13-C3b0201a3-T8caa2167-ST6f5efb7f-A6f5efb7f",
+      "S13-C3b0201a3-T8caa2167-ST3ee591fc-A3ee591fc"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S13-C3b0201a3-T4ca303a3",
+    "subjectId": "S13",
+    "topicId": "S13-C3b0201a3-T4ca303a3",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S13-C3b0201a3-T4ca303a3-ST3a70ef51-A3a70ef51",
+      "S13-C3b0201a3-T4ca303a3-ST2034c37d-A2034c37d",
+      "S13-C3b0201a3-T4ca303a3-STf96b4c6b-Af96b4c6b",
+      "S13-C3b0201a3-T4ca303a3-STafba1a0c-Aafba1a0c",
+      "S13-C3b0201a3-T4ca303a3-STdc7a570f-Adc7a570f"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S13-C3b0201a3-T87b5d9a2",
+    "subjectId": "S13",
+    "topicId": "S13-C3b0201a3-T87b5d9a2",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S13-C3b0201a3-T87b5d9a2-STec229532-Aec229532",
+      "S13-C3b0201a3-T87b5d9a2-STd54baa24-Ad54baa24",
+      "S13-C3b0201a3-T87b5d9a2-STafba1a0c-Aafba1a0c",
+      "S13-C3b0201a3-T87b5d9a2-ST64270103-A64270103",
+      "S13-C3b0201a3-T87b5d9a2-ST3ee591fc-A3ee591fc"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S13-C8395c7f1-T789dc2d4",
+    "subjectId": "S13",
+    "topicId": "S13-C8395c7f1-T789dc2d4",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S13-C8395c7f1-T789dc2d4-ST57059073-A57059073",
+      "S13-C8395c7f1-T789dc2d4-ST0635ea31-A0635ea31",
+      "S13-C8395c7f1-T789dc2d4-ST6b1243a8-A6b1243a8",
+      "S13-C8395c7f1-T789dc2d4-ST241562d9-A241562d9",
+      "S13-C8395c7f1-T789dc2d4-ST3a28eb62-A3a28eb62"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S13-C8395c7f1-Tfc026b48",
+    "subjectId": "S13",
+    "topicId": "S13-C8395c7f1-Tfc026b48",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S13-C8395c7f1-Tfc026b48-ST5b5be903-A5b5be903",
+      "S13-C8395c7f1-Tfc026b48-STcf4f203c-Acf4f203c",
+      "S13-C8395c7f1-Tfc026b48-ST024604ab-A024604ab",
+      "S13-C8395c7f1-Tfc026b48-STa989b635-Aa989b635",
+      "S13-C8395c7f1-Tfc026b48-ST1406ccbd-A1406ccbd"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S13-C8395c7f1-T8fa1f1c3",
+    "subjectId": "S13",
+    "topicId": "S13-C8395c7f1-T8fa1f1c3",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S13-C8395c7f1-T8fa1f1c3-ST473287f8-A473287f8",
+      "S13-C8395c7f1-T8fa1f1c3-ST9b58e681-A9b58e681",
+      "S13-C8395c7f1-T8fa1f1c3-STf16adb0c-Af16adb0c",
+      "S13-C8395c7f1-T8fa1f1c3-STff38791d-Aff38791d",
+      "S13-C8395c7f1-T8fa1f1c3-ST7851f3bc-A7851f3bc"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S13-C8395c7f1-T40cf8539",
+    "subjectId": "S13",
+    "topicId": "S13-C8395c7f1-T40cf8539",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S13-C8395c7f1-T40cf8539-STb362848d-Ab362848d",
+      "S13-C8395c7f1-T40cf8539-STec229532-Aec229532",
+      "S13-C8395c7f1-T40cf8539-ST88b27a97-A88b27a97",
+      "S13-C8395c7f1-T40cf8539-STf8fbae28-Af8fbae28"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S13-C21e5550f-T3f206ef3",
+    "subjectId": "S13",
+    "topicId": "S13-C21e5550f-T3f206ef3",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S13-C21e5550f-T3f206ef3-STe481e8e2-Ae481e8e2",
+      "S13-C21e5550f-T3f206ef3-ST61f947d8-A61f947d8",
+      "S13-C21e5550f-T3f206ef3-ST537280d9-A537280d9",
+      "S13-C21e5550f-T3f206ef3-ST58989402-A58989402"
+    ],
+    "questions": 6,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S13-C21e5550f-T40f2741c",
+    "subjectId": "S13",
+    "topicId": "S13-C21e5550f-T40f2741c",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S13-C21e5550f-T40f2741c-ST36c970ad-A36c970ad",
+      "S13-C21e5550f-T40f2741c-STbef77627-Abef77627",
+      "S13-C21e5550f-T40f2741c-ST0a8db454-A0a8db454",
+      "S13-C21e5550f-T40f2741c-STf5fed735-Af5fed735",
+      "S13-C21e5550f-T40f2741c-ST21feb8dd-A21feb8dd"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S14-Cc877e372-T682eda1e",
+    "subjectId": "S14",
+    "topicId": "S14-Cc877e372-T682eda1e",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S14-Cc877e372-T682eda1e-ST65b9c0fd-A65b9c0fd",
+      "S14-Cc877e372-T682eda1e-STec229532-Aec229532",
+      "S14-Cc877e372-T682eda1e-ST50e17f79-A50e17f79",
+      "S14-Cc877e372-T682eda1e-STfb8c1a03-Afb8c1a03"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S14-Cc877e372-Tb2e22bd2",
+    "subjectId": "S14",
+    "topicId": "S14-Cc877e372-Tb2e22bd2",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S14-Cc877e372-Tb2e22bd2-ST45decee4-A45decee4",
+      "S14-Cc877e372-Tb2e22bd2-STd73fcf1a-Ad73fcf1a",
+      "S14-Cc877e372-Tb2e22bd2-STfb8c1a03-Afb8c1a03",
+      "S14-Cc877e372-Tb2e22bd2-STb3eff28a-Ab3eff28a"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S14-Cc877e372-T2271ce30",
+    "subjectId": "S14",
+    "topicId": "S14-Cc877e372-T2271ce30",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S14-Cc877e372-T2271ce30-ST218d70f9-A218d70f9",
+      "S14-Cc877e372-T2271ce30-STfffdd2b8-Afffdd2b8",
+      "S14-Cc877e372-T2271ce30-ST623f3fea-A623f3fea",
+      "S14-Cc877e372-T2271ce30-ST4856d20b-A4856d20b",
+      "S14-Cc877e372-T2271ce30-ST3ee591fc-A3ee591fc"
+    ],
+    "questions": 8,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S14-C268685b0-T5e219b78",
+    "subjectId": "S14",
+    "topicId": "S14-C268685b0-T5e219b78",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S14-C268685b0-T5e219b78-STbc44e7f8-Abc44e7f8",
+      "S14-C268685b0-T5e219b78-ST08d29ac2-A08d29ac2",
+      "S14-C268685b0-T5e219b78-ST8d6c137d-A8d6c137d",
+      "S14-C268685b0-T5e219b78-ST335f6906-A335f6906"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S14-C268685b0-Tfad3ec7f",
+    "subjectId": "S14",
+    "topicId": "S14-C268685b0-Tfad3ec7f",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S14-C268685b0-Tfad3ec7f-ST1b520689-A1b520689",
+      "S14-C268685b0-Tfad3ec7f-STb1bcdef7-Ab1bcdef7",
+      "S14-C268685b0-Tfad3ec7f-ST89cdd4c2-A89cdd4c2",
+      "S14-C268685b0-Tfad3ec7f-ST93c4abe2-A93c4abe2",
+      "S14-C268685b0-Tfad3ec7f-STd00ddac7-Ad00ddac7"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S14-Cc150b231-Tc34ea890",
+    "subjectId": "S14",
+    "topicId": "S14-Cc150b231-Tc34ea890",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S14-Cc150b231-Tc34ea890-ST541abc3e-A541abc3e",
+      "S14-Cc150b231-Tc34ea890-STa6216ea0-Aa6216ea0",
+      "S14-Cc150b231-Tc34ea890-ST533cbfe9-A533cbfe9",
+      "S14-Cc150b231-Tc34ea890-STce6a5409-Ace6a5409",
+      "S14-Cc150b231-Tc34ea890-STd3798542-Ad3798542"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S14-Cc150b231-Tde3adf24",
+    "subjectId": "S14",
+    "topicId": "S14-Cc150b231-Tde3adf24",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S14-Cc150b231-Tde3adf24-STdb0afe45-Adb0afe45",
+      "S14-Cc150b231-Tde3adf24-STaae5570e-Aaae5570e",
+      "S14-Cc150b231-Tde3adf24-ST28ef0b80-A28ef0b80",
+      "S14-Cc150b231-Tde3adf24-ST6bad89f3-A6bad89f3",
+      "S14-Cc150b231-Tde3adf24-STd660cd0d-Ad660cd0d"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S15-Cc19ffbe1-Tfb10e1e8",
+    "subjectId": "S15",
+    "topicId": "S15-Cc19ffbe1-Tfb10e1e8",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S15-Cc19ffbe1-Tfb10e1e8-STa30e5e2b-Aa30e5e2b",
+      "S15-Cc19ffbe1-Tfb10e1e8-STc634c341-Ac634c341",
+      "S15-Cc19ffbe1-Tfb10e1e8-ST284aaadf-A284aaadf",
+      "S15-Cc19ffbe1-Tfb10e1e8-ST4d85be83-A4d85be83",
+      "S15-Cc19ffbe1-Tfb10e1e8-ST184dd9f4-A184dd9f4"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S15-Cc19ffbe1-T284ff655",
+    "subjectId": "S15",
+    "topicId": "S15-Cc19ffbe1-T284ff655",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S15-Cc19ffbe1-T284ff655-STa30e5e2b-Aa30e5e2b",
+      "S15-Cc19ffbe1-T284ff655-STabf908fa-Aabf908fa",
+      "S15-Cc19ffbe1-T284ff655-STd5a0d8f5-Ad5a0d8f5",
+      "S15-Cc19ffbe1-T284ff655-ST9af919cc-A9af919cc",
+      "S15-Cc19ffbe1-T284ff655-ST6e0534af-A6e0534af"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S15-Cc19ffbe1-Tde39961a",
+    "subjectId": "S15",
+    "topicId": "S15-Cc19ffbe1-Tde39961a",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S15-Cc19ffbe1-Tde39961a-ST921cd5e5-A921cd5e5",
+      "S15-Cc19ffbe1-Tde39961a-STf6f34f5b-Af6f34f5b",
+      "S15-Cc19ffbe1-Tde39961a-ST1ea50a8c-A1ea50a8c",
+      "S15-Cc19ffbe1-Tde39961a-ST417cf7ba-A417cf7ba",
+      "S15-Cc19ffbe1-Tde39961a-STf2c0b9d3-Af2c0b9d3"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S15-C4a2b9352-Tcea0912b",
+    "subjectId": "S15",
+    "topicId": "S15-C4a2b9352-Tcea0912b",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S15-C4a2b9352-Tcea0912b-ST5c486fd6-A5c486fd6",
+      "S15-C4a2b9352-Tcea0912b-ST1660a56f-A1660a56f",
+      "S15-C4a2b9352-Tcea0912b-ST1ea50a8c-A1ea50a8c",
+      "S15-C4a2b9352-Tcea0912b-ST3bec98a9-A3bec98a9"
+    ],
+    "questions": 8,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S15-C4a2b9352-T0b8a2387",
+    "subjectId": "S15",
+    "topicId": "S15-C4a2b9352-T0b8a2387",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S15-C4a2b9352-T0b8a2387-ST9e42dce9-A9e42dce9",
+      "S15-C4a2b9352-T0b8a2387-ST5396f2da-A5396f2da",
+      "S15-C4a2b9352-T0b8a2387-ST19d9bfc0-A19d9bfc0",
+      "S15-C4a2b9352-T0b8a2387-ST1ea50a8c-A1ea50a8c"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S15-C4a2b9352-T601f3945",
+    "subjectId": "S15",
+    "topicId": "S15-C4a2b9352-T601f3945",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S15-C4a2b9352-T601f3945-ST921cd5e5-A921cd5e5",
+      "S15-C4a2b9352-T601f3945-ST5396f2da-A5396f2da",
+      "S15-C4a2b9352-T601f3945-STe250a262-Ae250a262",
+      "S15-C4a2b9352-T601f3945-ST78c52b94-A78c52b94"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S15-C4a2b9352-T21a518bb",
+    "subjectId": "S15",
+    "topicId": "S15-C4a2b9352-T21a518bb",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S15-C4a2b9352-T21a518bb-STad1726eb-Aad1726eb",
+      "S15-C4a2b9352-T21a518bb-STdd680195-Add680195",
+      "S15-C4a2b9352-T21a518bb-STa16f5c61-Aa16f5c61",
+      "S15-C4a2b9352-T21a518bb-ST79aa35ba-A79aa35ba"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S15-C8922c19d-T392007b1",
+    "subjectId": "S15",
+    "topicId": "S15-C8922c19d-T392007b1",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S15-C8922c19d-T392007b1-ST3acb897e-A3acb897e",
+      "S15-C8922c19d-T392007b1-ST330d9196-A330d9196",
+      "S15-C8922c19d-T392007b1-ST9af919cc-A9af919cc",
+      "S15-C8922c19d-T392007b1-STa6cba535-Aa6cba535"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S15-C8922c19d-T2c24d9d0",
+    "subjectId": "S15",
+    "topicId": "S15-C8922c19d-T2c24d9d0",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S15-C8922c19d-T2c24d9d0-ST152a2a41-A152a2a41",
+      "S15-C8922c19d-T2c24d9d0-STc520dfd4-Ac520dfd4",
+      "S15-C8922c19d-T2c24d9d0-STec229532-Aec229532",
+      "S15-C8922c19d-T2c24d9d0-STed60532c-Aed60532c"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S16-Cb8158434-T69643d61",
+    "subjectId": "S16",
+    "topicId": "S16-Cb8158434-T69643d61",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S16-Cb8158434-T69643d61-STd8acd871-Ad8acd871",
+      "S16-Cb8158434-T69643d61-ST046262b6-A046262b6",
+      "S16-Cb8158434-T69643d61-ST7c4ddcec-A7c4ddcec",
+      "S16-Cb8158434-T69643d61-STd73fcf1a-Ad73fcf1a"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S16-Cb8158434-T4fd4367a",
+    "subjectId": "S16",
+    "topicId": "S16-Cb8158434-T4fd4367a",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S16-Cb8158434-T4fd4367a-ST63233166-A63233166",
+      "S16-Cb8158434-T4fd4367a-STdb1fad1c-Adb1fad1c",
+      "S16-Cb8158434-T4fd4367a-ST8dc717aa-A8dc717aa",
+      "S16-Cb8158434-T4fd4367a-STccc699a4-Accc699a4"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S16-Cb8158434-T204496ed",
+    "subjectId": "S16",
+    "topicId": "S16-Cb8158434-T204496ed",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S16-Cb8158434-T204496ed-ST19d5af04-A19d5af04",
+      "S16-Cb8158434-T204496ed-ST3076d056-A3076d056",
+      "S16-Cb8158434-T204496ed-ST40f2741c-A40f2741c",
+      "S16-Cb8158434-T204496ed-STd73fcf1a-Ad73fcf1a"
+    ],
+    "questions": 8,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S16-Cb8158434-T94af9401",
+    "subjectId": "S16",
+    "topicId": "S16-Cb8158434-T94af9401",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S16-Cb8158434-T94af9401-ST63b57b86-A63b57b86",
+      "S16-Cb8158434-T94af9401-ST66cf5513-A66cf5513",
+      "S16-Cb8158434-T94af9401-ST788805d6-A788805d6",
+      "S16-Cb8158434-T94af9401-ST3ee591fc-A3ee591fc"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S16-C3cea2eaa-Tdebe773a",
+    "subjectId": "S16",
+    "topicId": "S16-C3cea2eaa-Tdebe773a",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S16-C3cea2eaa-Tdebe773a-ST2bcb13a5-A2bcb13a5",
+      "S16-C3cea2eaa-Tdebe773a-ST7bff6468-A7bff6468",
+      "S16-C3cea2eaa-Tdebe773a-STd73fcf1a-Ad73fcf1a",
+      "S16-C3cea2eaa-Tdebe773a-ST3ebb153f-A3ebb153f",
+      "S16-C3cea2eaa-Tdebe773a-STbe379a30-Abe379a30"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S16-C3cea2eaa-T30ab42bf",
+    "subjectId": "S16",
+    "topicId": "S16-C3cea2eaa-T30ab42bf",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S16-C3cea2eaa-T30ab42bf-STc2792b43-Ac2792b43",
+      "S16-C3cea2eaa-T30ab42bf-ST143579bd-A143579bd",
+      "S16-C3cea2eaa-T30ab42bf-STdc31d616-Adc31d616",
+      "S16-C3cea2eaa-T30ab42bf-ST1ddddbc8-A1ddddbc8"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S16-C3cea2eaa-T77272602",
+    "subjectId": "S16",
+    "topicId": "S16-C3cea2eaa-T77272602",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S16-C3cea2eaa-T77272602-STb79f98d9-Ab79f98d9",
+      "S16-C3cea2eaa-T77272602-STa6216ea0-Aa6216ea0",
+      "S16-C3cea2eaa-T77272602-STce6a5409-Ace6a5409",
+      "S16-C3cea2eaa-T77272602-ST7c6b918b-A7c6b918b"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S16-C865f07fa-T3aeb4966",
+    "subjectId": "S16",
+    "topicId": "S16-C865f07fa-T3aeb4966",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S16-C865f07fa-T3aeb4966-ST20f9ac62-A20f9ac62",
+      "S16-C865f07fa-T3aeb4966-STc2792b43-Ac2792b43",
+      "S16-C865f07fa-T3aeb4966-ST0684f6b9-A0684f6b9",
+      "S16-C865f07fa-T3aeb4966-STf2f44b13-Af2f44b13",
+      "S16-C865f07fa-T3aeb4966-STc2fca2aa-Ac2fca2aa"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S16-C865f07fa-Teba15d08",
+    "subjectId": "S16",
+    "topicId": "S16-C865f07fa-Teba15d08",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S16-C865f07fa-Teba15d08-STe8d7b047-Ae8d7b047",
+      "S16-C865f07fa-Teba15d08-ST7f93fe86-A7f93fe86",
+      "S16-C865f07fa-Teba15d08-ST1ccf70eb-A1ccf70eb",
+      "S16-C865f07fa-Teba15d08-ST1953e645-A1953e645",
+      "S16-C865f07fa-Teba15d08-ST349b7b80-A349b7b80"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S17-C0375a3bf-T6512a741",
+    "subjectId": "S17",
+    "topicId": "S17-C0375a3bf-T6512a741",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S17-C0375a3bf-T6512a741-ST61f27c0c-A61f27c0c",
+      "S17-C0375a3bf-T6512a741-ST4a5377ac-A4a5377ac",
+      "S17-C0375a3bf-T6512a741-ST0178c081-A0178c081",
+      "S17-C0375a3bf-T6512a741-ST533cbfe9-A533cbfe9",
+      "S17-C0375a3bf-T6512a741-STf0e3d3c5-Af0e3d3c5"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S17-C0375a3bf-T8ca7eb18",
+    "subjectId": "S17",
+    "topicId": "S17-C0375a3bf-T8ca7eb18",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S17-C0375a3bf-T8ca7eb18-STb4b184bc-Ab4b184bc",
+      "S17-C0375a3bf-T8ca7eb18-ST61216c5f-A61216c5f",
+      "S17-C0375a3bf-T8ca7eb18-ST65823413-A65823413",
+      "S17-C0375a3bf-T8ca7eb18-STce6a5409-Ace6a5409",
+      "S17-C0375a3bf-T8ca7eb18-ST1e484ead-A1e484ead"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S17-C0375a3bf-T644ad148",
+    "subjectId": "S17",
+    "topicId": "S17-C0375a3bf-T644ad148",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S17-C0375a3bf-T644ad148-ST8aef6176-A8aef6176",
+      "S17-C0375a3bf-T644ad148-STa6216ea0-Aa6216ea0",
+      "S17-C0375a3bf-T644ad148-ST533cbfe9-A533cbfe9",
+      "S17-C0375a3bf-T644ad148-STc4b4eeaf-Ac4b4eeaf",
+      "S17-C0375a3bf-T644ad148-STce6a5409-Ace6a5409"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S17-C47d03ca3-T28de89d3",
+    "subjectId": "S17",
+    "topicId": "S17-C47d03ca3-T28de89d3",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S17-C47d03ca3-T28de89d3-STc0deff30-Ac0deff30",
+      "S17-C47d03ca3-T28de89d3-ST8aef6176-A8aef6176",
+      "S17-C47d03ca3-T28de89d3-ST65045134-A65045134",
+      "S17-C47d03ca3-T28de89d3-STd9a22528-Ad9a22528",
+      "S17-C47d03ca3-T28de89d3-ST3695f1ef-A3695f1ef"
+    ],
+    "questions": 12,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S17-C47d03ca3-T321c2c76",
+    "subjectId": "S17",
+    "topicId": "S17-C47d03ca3-T321c2c76",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S17-C47d03ca3-T321c2c76-ST95f1454d-A95f1454d",
+      "S17-C47d03ca3-T321c2c76-STec0bb5a4-Aec0bb5a4",
+      "S17-C47d03ca3-T321c2c76-STb79f98d9-Ab79f98d9",
+      "S17-C47d03ca3-T321c2c76-ST6ee18b42-A6ee18b42"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S17-C47d03ca3-T3fa11251",
+    "subjectId": "S17",
+    "topicId": "S17-C47d03ca3-T3fa11251",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S17-C47d03ca3-T3fa11251-ST3f57a9f1-A3f57a9f1",
+      "S17-C47d03ca3-T3fa11251-ST508034ef-A508034ef",
+      "S17-C47d03ca3-T3fa11251-STa6216ea0-Aa6216ea0",
+      "S17-C47d03ca3-T3fa11251-ST8218ddfb-A8218ddfb"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S17-C47d03ca3-T6d3d6eab",
+    "subjectId": "S17",
+    "topicId": "S17-C47d03ca3-T6d3d6eab",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S17-C47d03ca3-T6d3d6eab-STb79f98d9-Ab79f98d9",
+      "S17-C47d03ca3-T6d3d6eab-STa6216ea0-Aa6216ea0",
+      "S17-C47d03ca3-T6d3d6eab-ST4cc52e2c-A4cc52e2c",
+      "S17-C47d03ca3-T6d3d6eab-STf6b319cb-Af6b319cb"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S17-C47d03ca3-Tc4804790",
+    "subjectId": "S17",
+    "topicId": "S17-C47d03ca3-Tc4804790",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S17-C47d03ca3-Tc4804790-STca1f4bb1-Aca1f4bb1",
+      "S17-C47d03ca3-Tc4804790-ST4ab31f2a-A4ab31f2a",
+      "S17-C47d03ca3-Tc4804790-ST13cf5673-A13cf5673",
+      "S17-C47d03ca3-Tc4804790-ST60d40f2c-A60d40f2c"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S18-C2b02f8ee-T3f514b82",
+    "subjectId": "S18",
+    "topicId": "S18-C2b02f8ee-T3f514b82",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S18-C2b02f8ee-T3f514b82-STb1ed5326-Ab1ed5326",
+      "S18-C2b02f8ee-T3f514b82-STd5d80178-Ad5d80178",
+      "S18-C2b02f8ee-T3f514b82-ST53d8ba90-A53d8ba90",
+      "S18-C2b02f8ee-T3f514b82-STb3b42be7-Ab3b42be7"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S18-C2b02f8ee-Te59db0b2",
+    "subjectId": "S18",
+    "topicId": "S18-C2b02f8ee-Te59db0b2",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S18-C2b02f8ee-Te59db0b2-ST4471bc3d-A4471bc3d",
+      "S18-C2b02f8ee-Te59db0b2-STa99e2af6-Aa99e2af6",
+      "S18-C2b02f8ee-Te59db0b2-ST7a4c3d21-A7a4c3d21",
+      "S18-C2b02f8ee-Te59db0b2-STdc9934fa-Adc9934fa"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S18-C2b02f8ee-T786062a1",
+    "subjectId": "S18",
+    "topicId": "S18-C2b02f8ee-T786062a1",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S18-C2b02f8ee-T786062a1-ST1a978a08-A1a978a08",
+      "S18-C2b02f8ee-T786062a1-STed2e9586-Aed2e9586",
+      "S18-C2b02f8ee-T786062a1-ST46e19632-A46e19632",
+      "S18-C2b02f8ee-T786062a1-ST3ee591fc-A3ee591fc"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S18-Cd793f594-T82048dbe",
+    "subjectId": "S18",
+    "topicId": "S18-Cd793f594-T82048dbe",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S18-Cd793f594-T82048dbe-ST81c5bf35-A81c5bf35",
+      "S18-Cd793f594-T82048dbe-ST52fb62ce-A52fb62ce",
+      "S18-Cd793f594-T82048dbe-ST3056a07f-A3056a07f",
+      "S18-Cd793f594-T82048dbe-STfdf1ffbe-Afdf1ffbe",
+      "S18-Cd793f594-T82048dbe-ST3ac9394a-A3ac9394a"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S18-Cd793f594-Tdcec6f98",
+    "subjectId": "S18",
+    "topicId": "S18-Cd793f594-Tdcec6f98",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S18-Cd793f594-Tdcec6f98-STbdc9182d-Abdc9182d",
+      "S18-Cd793f594-Tdcec6f98-ST1af0500e-A1af0500e",
+      "S18-Cd793f594-Tdcec6f98-ST43bfa168-A43bfa168",
+      "S18-Cd793f594-Tdcec6f98-ST160e8faf-A160e8faf"
+    ],
+    "questions": 4,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S18-C19aab9fd-T84094218",
+    "subjectId": "S18",
+    "topicId": "S18-C19aab9fd-T84094218",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S18-C19aab9fd-T84094218-ST93f6e11d-A93f6e11d",
+      "S18-C19aab9fd-T84094218-ST6cb574fa-A6cb574fa",
+      "S18-C19aab9fd-T84094218-STfb8c1a03-Afb8c1a03",
+      "S18-C19aab9fd-T84094218-STeb933218-Aeb933218"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S18-C19aab9fd-T9f78a6f5",
+    "subjectId": "S18",
+    "topicId": "S18-C19aab9fd-T9f78a6f5",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S18-C19aab9fd-T9f78a6f5-STc082456a-Ac082456a",
+      "S18-C19aab9fd-T9f78a6f5-STcb86eb2d-Acb86eb2d",
+      "S18-C19aab9fd-T9f78a6f5-ST93f6e11d-A93f6e11d",
+      "S18-C19aab9fd-T9f78a6f5-ST33ab99ef-A33ab99ef"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S18-C19aab9fd-Td39458b1",
+    "subjectId": "S18",
+    "topicId": "S18-C19aab9fd-Td39458b1",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S18-C19aab9fd-Td39458b1-ST66cf5513-A66cf5513",
+      "S18-C19aab9fd-Td39458b1-ST63b57b86-A63b57b86",
+      "S18-C19aab9fd-Td39458b1-STa99e2af6-Aa99e2af6",
+      "S18-C19aab9fd-Td39458b1-ST27cb2b5a-A27cb2b5a"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S18-C19aab9fd-T8633e350",
+    "subjectId": "S18",
+    "topicId": "S18-C19aab9fd-T8633e350",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S18-C19aab9fd-T8633e350-STd43c8bd5-Ad43c8bd5",
+      "S18-C19aab9fd-T8633e350-ST7b7e3929-A7b7e3929",
+      "S18-C19aab9fd-T8633e350-ST6ee18b42-A6ee18b42",
+      "S18-C19aab9fd-T8633e350-ST471e20d3-A471e20d3"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S19-C03e5a72a-T15cba103",
+    "subjectId": "S19",
+    "topicId": "S19-C03e5a72a-T15cba103",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S19-C03e5a72a-T15cba103-STa54873d9-Aa54873d9",
+      "S19-C03e5a72a-T15cba103-ST8f1f94d4-A8f1f94d4",
+      "S19-C03e5a72a-T15cba103-ST19902d7c-A19902d7c",
+      "S19-C03e5a72a-T15cba103-ST582a5164-A582a5164",
+      "S19-C03e5a72a-T15cba103-STd6491674-Ad6491674"
+    ],
+    "questions": 6,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S19-C8da61983-T1b4ed8e8",
+    "subjectId": "S19",
+    "topicId": "S19-C8da61983-T1b4ed8e8",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S19-C8da61983-T1b4ed8e8-ST7f26104f-A7f26104f"
+    ],
+    "questions": 9,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S19-C8da61983-Tf4ad845c",
+    "subjectId": "S19",
+    "topicId": "S19-C8da61983-Tf4ad845c",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S19-C8da61983-Tf4ad845c-ST4ff25609-A4ff25609",
+      "S19-C8da61983-Tf4ad845c-ST11d2b274-A11d2b274",
+      "S19-C8da61983-Tf4ad845c-STd8e86663-Ad8e86663",
+      "S19-C8da61983-Tf4ad845c-STbbf2df78-Abbf2df78"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S19-C8da61983-Ta38f34f9",
+    "subjectId": "S19",
+    "topicId": "S19-C8da61983-Ta38f34f9",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S19-C8da61983-Ta38f34f9-STbf5cf59e-Abf5cf59e",
+      "S19-C8da61983-Ta38f34f9-ST70110e84-A70110e84",
+      "S19-C8da61983-Ta38f34f9-ST770f0f16-A770f0f16",
+      "S19-C8da61983-Ta38f34f9-ST19902d7c-A19902d7c",
+      "S19-C8da61983-Ta38f34f9-ST4984e598-A4984e598"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S19-C8da61983-Tdf2e8d79",
+    "subjectId": "S19",
+    "topicId": "S19-C8da61983-Tdf2e8d79",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S19-C8da61983-Tdf2e8d79-ST4fdb2869-A4fdb2869",
+      "S19-C8da61983-Tdf2e8d79-STbf5cf59e-Abf5cf59e",
+      "S19-C8da61983-Tdf2e8d79-STd4313f09-Ad4313f09",
+      "S19-C8da61983-Tdf2e8d79-ST582a5164-A582a5164"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S19-C73a11e71-T9fb32bc9",
+    "subjectId": "S19",
+    "topicId": "S19-C73a11e71-T9fb32bc9",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S19-C73a11e71-T9fb32bc9-STbf5cf59e-Abf5cf59e",
+      "S19-C73a11e71-T9fb32bc9-ST70110e84-A70110e84",
+      "S19-C73a11e71-T9fb32bc9-ST5c3ba939-A5c3ba939",
+      "S19-C73a11e71-T9fb32bc9-ST73a11e71-A73a11e71"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S19-C73a11e71-Tfdb627b0",
+    "subjectId": "S19",
+    "topicId": "S19-C73a11e71-Tfdb627b0",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S19-C73a11e71-Tfdb627b0-ST8212a65d-A8212a65d",
+      "S19-C73a11e71-Tfdb627b0-STbf5cf59e-Abf5cf59e",
+      "S19-C73a11e71-Tfdb627b0-ST19902d7c-A19902d7c",
+      "S19-C73a11e71-Tfdb627b0-ST54476970-A54476970"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S19-C73a11e71-T3d08116e",
+    "subjectId": "S19",
+    "topicId": "S19-C73a11e71-T3d08116e",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S19-C73a11e71-T3d08116e-ST70110e84-A70110e84",
+      "S19-C73a11e71-T3d08116e-STbf5cf59e-Abf5cf59e",
+      "S19-C73a11e71-T3d08116e-ST77075640-A77075640",
+      "S19-C73a11e71-T3d08116e-ST770f0f16-A770f0f16"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S19-C73a11e71-T1706429c",
+    "subjectId": "S19",
+    "topicId": "S19-C73a11e71-T1706429c",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S19-C73a11e71-T1706429c-ST5c3ba939-A5c3ba939",
+      "S19-C73a11e71-T1706429c-STbf5cf59e-Abf5cf59e",
+      "S19-C73a11e71-T1706429c-STaa5d587f-Aaa5d587f",
+      "S19-C73a11e71-T1706429c-ST0ee761d2-A0ee761d2"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S19-C73a11e71-T2073c4fe",
+    "subjectId": "S19",
+    "topicId": "S19-C73a11e71-T2073c4fe",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S19-C73a11e71-T2073c4fe-ST70110e84-A70110e84",
+      "S19-C73a11e71-T2073c4fe-ST5c3ba939-A5c3ba939",
+      "S19-C73a11e71-T2073c4fe-STbf5cf59e-Abf5cf59e",
+      "S19-C73a11e71-T2073c4fe-ST33e65d47-A33e65d47"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S19-C73a11e71-T5cae49b1",
+    "subjectId": "S19",
+    "topicId": "S19-C73a11e71-T5cae49b1",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S19-C73a11e71-T5cae49b1-STb9be5adf-Ab9be5adf",
+      "S19-C73a11e71-T5cae49b1-STe62567ff-Ae62567ff",
+      "S19-C73a11e71-T5cae49b1-STbf5cf59e-Abf5cf59e",
+      "S19-C73a11e71-T5cae49b1-ST8de65c88-A8de65c88"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S19-Cb1b9a7ce-Ta0fe55e7",
+    "subjectId": "S19",
+    "topicId": "S19-Cb1b9a7ce-Ta0fe55e7",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S19-Cb1b9a7ce-Ta0fe55e7-ST1de03f1e-A1de03f1e",
+      "S19-Cb1b9a7ce-Ta0fe55e7-STf9ddee96-Af9ddee96",
+      "S19-Cb1b9a7ce-Ta0fe55e7-STbcd3a888-Abcd3a888",
+      "S19-Cb1b9a7ce-Ta0fe55e7-STe7dadf11-Ae7dadf11",
+      "S19-Cb1b9a7ce-Ta0fe55e7-STc6bc0631-Ac6bc0631"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S19-Cb1b9a7ce-T09a4eac4",
+    "subjectId": "S19",
+    "topicId": "S19-Cb1b9a7ce-T09a4eac4",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S19-Cb1b9a7ce-T09a4eac4-STfadada95-Afadada95",
+      "S19-Cb1b9a7ce-T09a4eac4-STe7dadf11-Ae7dadf11",
+      "S19-Cb1b9a7ce-T09a4eac4-STea2e8f19-Aea2e8f19",
+      "S19-Cb1b9a7ce-T09a4eac4-STda027fb9-Ada027fb9",
+      "S19-Cb1b9a7ce-T09a4eac4-STa2b608eb-Aa2b608eb"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S19-Cb1b9a7ce-T47c7f241",
+    "subjectId": "S19",
+    "topicId": "S19-Cb1b9a7ce-T47c7f241",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S19-Cb1b9a7ce-T47c7f241-ST6d92cdee-A6d92cdee",
+      "S19-Cb1b9a7ce-T47c7f241-ST5329a14c-A5329a14c",
+      "S19-Cb1b9a7ce-T47c7f241-ST585fcaa1-A585fcaa1",
+      "S19-Cb1b9a7ce-T47c7f241-STd01a6b8e-Ad01a6b8e"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S20-Ca04b08c0-T4faa3ecf",
+    "subjectId": "S20",
+    "topicId": "S20-Ca04b08c0-T4faa3ecf",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S20-Ca04b08c0-T4faa3ecf-STe60fc8bf-Ae60fc8bf",
+      "S20-Ca04b08c0-T4faa3ecf-ST10f5f77e-A10f5f77e",
+      "S20-Ca04b08c0-T4faa3ecf-STdd2a3b96-Add2a3b96",
+      "S20-Ca04b08c0-T4faa3ecf-ST6406df9d-A6406df9d",
+      "S20-Ca04b08c0-T4faa3ecf-STf776b15b-Af776b15b"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S20-Ca04b08c0-T30c98be1",
+    "subjectId": "S20",
+    "topicId": "S20-Ca04b08c0-T30c98be1",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S20-Ca04b08c0-T30c98be1-ST439cec7e-A439cec7e",
+      "S20-Ca04b08c0-T30c98be1-ST0684f6b9-A0684f6b9",
+      "S20-Ca04b08c0-T30c98be1-STef7d009c-Aef7d009c",
+      "S20-Ca04b08c0-T30c98be1-ST0ecce8e7-A0ecce8e7",
+      "S20-Ca04b08c0-T30c98be1-STcff57269-Acff57269"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S20-Ca04b08c0-T337bf0ba",
+    "subjectId": "S20",
+    "topicId": "S20-Ca04b08c0-T337bf0ba",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S20-Ca04b08c0-T337bf0ba-ST96de3f03-A96de3f03",
+      "S20-Ca04b08c0-T337bf0ba-ST83301357-A83301357",
+      "S20-Ca04b08c0-T337bf0ba-STa41f35b7-Aa41f35b7",
+      "S20-Ca04b08c0-T337bf0ba-ST88d5eb26-A88d5eb26"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S20-C8dd4bb3c-T107bcafb",
+    "subjectId": "S20",
+    "topicId": "S20-C8dd4bb3c-T107bcafb",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S20-C8dd4bb3c-T107bcafb-ST1aef00b6-A1aef00b6",
+      "S20-C8dd4bb3c-T107bcafb-ST1dfd1ef8-A1dfd1ef8",
+      "S20-C8dd4bb3c-T107bcafb-ST1b1ce2ff-A1b1ce2ff",
+      "S20-C8dd4bb3c-T107bcafb-STc099142b-Ac099142b",
+      "S20-C8dd4bb3c-T107bcafb-ST4183b779-A4183b779"
+    ],
+    "questions": 6,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S20-C8dd4bb3c-T7d9e84da",
+    "subjectId": "S20",
+    "topicId": "S20-C8dd4bb3c-T7d9e84da",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S20-C8dd4bb3c-T7d9e84da-STfd6bdd30-Afd6bdd30",
+      "S20-C8dd4bb3c-T7d9e84da-ST30252290-A30252290",
+      "S20-C8dd4bb3c-T7d9e84da-ST3a654964-A3a654964"
+    ],
+    "questions": 5,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S20-C8dd4bb3c-T98017d80",
+    "subjectId": "S20",
+    "topicId": "S20-C8dd4bb3c-T98017d80",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S20-C8dd4bb3c-T98017d80-ST06e6c8cf-A06e6c8cf",
+      "S20-C8dd4bb3c-T98017d80-ST6b7724bc-A6b7724bc",
+      "S20-C8dd4bb3c-T98017d80-STbdc9182d-Abdc9182d",
+      "S20-C8dd4bb3c-T98017d80-STae570ac6-Aae570ac6"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S20-C8dd4bb3c-T8fd498c5",
+    "subjectId": "S20",
+    "topicId": "S20-C8dd4bb3c-T8fd498c5",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S20-C8dd4bb3c-T8fd498c5-STe22bc966-Ae22bc966",
+      "S20-C8dd4bb3c-T8fd498c5-ST10c3a47d-A10c3a47d",
+      "S20-C8dd4bb3c-T8fd498c5-STbdc9182d-Abdc9182d",
+      "S20-C8dd4bb3c-T8fd498c5-STbd6643fd-Abd6643fd",
+      "S20-C8dd4bb3c-T8fd498c5-STde00163e-Ade00163e"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S20-C8dd4bb3c-T206a8632",
+    "subjectId": "S20",
+    "topicId": "S20-C8dd4bb3c-T206a8632",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S20-C8dd4bb3c-T206a8632-STf1a97511-Af1a97511",
+      "S20-C8dd4bb3c-T206a8632-ST3570e362-A3570e362",
+      "S20-C8dd4bb3c-T206a8632-ST9b4d0434-A9b4d0434",
+      "S20-C8dd4bb3c-T206a8632-ST1dfd1ef8-A1dfd1ef8",
+      "S20-C8dd4bb3c-T206a8632-ST6d2d5247-A6d2d5247"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S21-C7f420f5a-T8a915531",
+    "subjectId": "S21",
+    "topicId": "S21-C7f420f5a-T8a915531",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S21-C7f420f5a-T8a915531-ST1d562d54-A1d562d54",
+      "S21-C7f420f5a-T8a915531-ST99646b06-A99646b06",
+      "S21-C7f420f5a-T8a915531-STfabd1530-Afabd1530",
+      "S21-C7f420f5a-T8a915531-STce56cb28-Ace56cb28",
+      "S21-C7f420f5a-T8a915531-STccc699a4-Accc699a4"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S21-C7f420f5a-T0ac90a72",
+    "subjectId": "S21",
+    "topicId": "S21-C7f420f5a-T0ac90a72",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S21-C7f420f5a-T0ac90a72-ST317d294a-A317d294a",
+      "S21-C7f420f5a-T0ac90a72-STfabd1530-Afabd1530",
+      "S21-C7f420f5a-T0ac90a72-ST1d6f0475-A1d6f0475",
+      "S21-C7f420f5a-T0ac90a72-ST26c82dcd-A26c82dcd"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S21-C7f420f5a-T5c9887f1",
+    "subjectId": "S21",
+    "topicId": "S21-C7f420f5a-T5c9887f1",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S21-C7f420f5a-T5c9887f1-ST2cbecf93-A2cbecf93",
+      "S21-C7f420f5a-T5c9887f1-STfabd1530-Afabd1530",
+      "S21-C7f420f5a-T5c9887f1-ST3bd49af7-A3bd49af7",
+      "S21-C7f420f5a-T5c9887f1-ST9af919cc-A9af919cc"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S21-C7f420f5a-T00a07970",
+    "subjectId": "S21",
+    "topicId": "S21-C7f420f5a-T00a07970",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S21-C7f420f5a-T00a07970-ST78ede015-A78ede015",
+      "S21-C7f420f5a-T00a07970-ST7b7c54dc-A7b7c54dc",
+      "S21-C7f420f5a-T00a07970-ST9b786653-A9b786653",
+      "S21-C7f420f5a-T00a07970-STad3d7f7f-Aad3d7f7f",
+      "S21-C7f420f5a-T00a07970-STde39ebe6-Ade39ebe6"
+    ],
+    "questions": 6,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S21-Ce927e9b3-T87123e33",
+    "subjectId": "S21",
+    "topicId": "S21-Ce927e9b3-T87123e33",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S21-Ce927e9b3-T87123e33-ST2362ae33-A2362ae33",
+      "S21-Ce927e9b3-T87123e33-STdd973e5e-Add973e5e",
+      "S21-Ce927e9b3-T87123e33-ST613dfdea-A613dfdea",
+      "S21-Ce927e9b3-T87123e33-ST8754fcc0-A8754fcc0",
+      "S21-Ce927e9b3-T87123e33-ST753f0c1a-A753f0c1a"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S21-Ce927e9b3-Tc3ac0867",
+    "subjectId": "S21",
+    "topicId": "S21-Ce927e9b3-Tc3ac0867",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S21-Ce927e9b3-Tc3ac0867-ST4b80f4e9-A4b80f4e9",
+      "S21-Ce927e9b3-Tc3ac0867-STafba1a0c-Aafba1a0c",
+      "S21-Ce927e9b3-Tc3ac0867-ST96da90a2-A96da90a2",
+      "S21-Ce927e9b3-Tc3ac0867-ST361a56cf-A361a56cf"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S21-C1ef02426-T44d79c68",
+    "subjectId": "S21",
+    "topicId": "S21-C1ef02426-T44d79c68",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S21-C1ef02426-T44d79c68-STc8c91f8b-Ac8c91f8b",
+      "S21-C1ef02426-T44d79c68-ST5efc9327-A5efc9327",
+      "S21-C1ef02426-T44d79c68-ST833218e7-A833218e7",
+      "S21-C1ef02426-T44d79c68-ST819b60bb-A819b60bb"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S21-C1ef02426-T75e3a9bd",
+    "subjectId": "S21",
+    "topicId": "S21-C1ef02426-T75e3a9bd",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S21-C1ef02426-T75e3a9bd-STf338f4c0-Af338f4c0",
+      "S21-C1ef02426-T75e3a9bd-STd5d80178-Ad5d80178",
+      "S21-C1ef02426-T75e3a9bd-ST2b3b59a5-A2b3b59a5",
+      "S21-C1ef02426-T75e3a9bd-ST7db577ca-A7db577ca"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S22-Cbc82f40b-T5b6f40df",
+    "subjectId": "S22",
+    "topicId": "S22-Cbc82f40b-T5b6f40df",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S22-Cbc82f40b-T5b6f40df-ST30d3606f-A30d3606f",
+      "S22-Cbc82f40b-T5b6f40df-ST75cb260b-A75cb260b",
+      "S22-Cbc82f40b-T5b6f40df-ST5f161c91-A5f161c91",
+      "S22-Cbc82f40b-T5b6f40df-STae811b19-Aae811b19"
+    ],
+    "questions": 2,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S22-Cbc82f40b-Ta459e34e",
+    "subjectId": "S22",
+    "topicId": "S22-Cbc82f40b-Ta459e34e",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S22-Cbc82f40b-Ta459e34e-ST6c5a6990-A6c5a6990",
+      "S22-Cbc82f40b-Ta459e34e-STc2c5490b-Ac2c5490b",
+      "S22-Cbc82f40b-Ta459e34e-STbc373e2e-Abc373e2e",
+      "S22-Cbc82f40b-Ta459e34e-ST828bf0bf-A828bf0bf"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S22-Cbc82f40b-T417cddb0",
+    "subjectId": "S22",
+    "topicId": "S22-Cbc82f40b-T417cddb0",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S22-Cbc82f40b-T417cddb0-STd43c8bd5-Ad43c8bd5",
+      "S22-Cbc82f40b-T417cddb0-STfebfa187-Afebfa187",
+      "S22-Cbc82f40b-T417cddb0-ST69ad6e06-A69ad6e06",
+      "S22-Cbc82f40b-T417cddb0-STf7274e8f-Af7274e8f",
+      "S22-Cbc82f40b-T417cddb0-STd3798542-Ad3798542"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S22-C8e2684ea-T3cb1d618",
+    "subjectId": "S22",
+    "topicId": "S22-C8e2684ea-T3cb1d618",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S22-C8e2684ea-T3cb1d618-ST6ecce17b-A6ecce17b",
+      "S22-C8e2684ea-T3cb1d618-ST3aac1fa9-A3aac1fa9",
+      "S22-C8e2684ea-T3cb1d618-ST6e35a1e9-A6e35a1e9",
+      "S22-C8e2684ea-T3cb1d618-ST1d7f992e-A1d7f992e"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S22-C8e2684ea-Tff561fd6",
+    "subjectId": "S22",
+    "topicId": "S22-C8e2684ea-Tff561fd6",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S22-C8e2684ea-Tff561fd6-STbee2ac04-Abee2ac04",
+      "S22-C8e2684ea-Tff561fd6-STd511bef9-Ad511bef9",
+      "S22-C8e2684ea-Tff561fd6-ST99a4ef3a-A99a4ef3a",
+      "S22-C8e2684ea-Tff561fd6-STc0c03ed8-Ac0c03ed8"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S22-C8e2684ea-T63fc6593",
+    "subjectId": "S22",
+    "topicId": "S22-C8e2684ea-T63fc6593",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S22-C8e2684ea-T63fc6593-ST39e0f5ef-A39e0f5ef",
+      "S22-C8e2684ea-T63fc6593-ST0f82aca6-A0f82aca6",
+      "S22-C8e2684ea-T63fc6593-STec21b3b9-Aec21b3b9",
+      "S22-C8e2684ea-T63fc6593-ST45997301-A45997301",
+      "S22-C8e2684ea-T63fc6593-ST06730e62-A06730e62"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S22-C8e2684ea-T5cdda78c",
+    "subjectId": "S22",
+    "topicId": "S22-C8e2684ea-T5cdda78c",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S22-C8e2684ea-T5cdda78c-ST5b8a9ffe-A5b8a9ffe",
+      "S22-C8e2684ea-T5cdda78c-STa60706c7-Aa60706c7",
+      "S22-C8e2684ea-T5cdda78c-ST6460df02-A6460df02",
+      "S22-C8e2684ea-T5cdda78c-STe4188770-Ae4188770"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S23-C864e59f4-T5c9c7700",
+    "subjectId": "S23",
+    "topicId": "S23-C864e59f4-T5c9c7700",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S23-C864e59f4-T5c9c7700-ST82252291-A82252291",
+      "S23-C864e59f4-T5c9c7700-STf79e2ecc-Af79e2ecc",
+      "S23-C864e59f4-T5c9c7700-ST097323b8-A097323b8",
+      "S23-C864e59f4-T5c9c7700-ST1ea50a8c-A1ea50a8c",
+      "S23-C864e59f4-T5c9c7700-STf277b193-Af277b193"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S23-C864e59f4-Tb6a1f720",
+    "subjectId": "S23",
+    "topicId": "S23-C864e59f4-Tb6a1f720",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S23-C864e59f4-Tb6a1f720-STa4b992ab-Aa4b992ab",
+      "S23-C864e59f4-Tb6a1f720-STf79e2ecc-Af79e2ecc",
+      "S23-C864e59f4-Tb6a1f720-STb40a48df-Ab40a48df",
+      "S23-C864e59f4-Tb6a1f720-ST097323b8-A097323b8",
+      "S23-C864e59f4-Tb6a1f720-ST1297f446-A1297f446"
+    ],
+    "questions": 8,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S23-C864e59f4-Tcd8d7b2e",
+    "subjectId": "S23",
+    "topicId": "S23-C864e59f4-Tcd8d7b2e",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S23-C864e59f4-Tcd8d7b2e-STa4b992ab-Aa4b992ab",
+      "S23-C864e59f4-Tcd8d7b2e-STf79e2ecc-Af79e2ecc",
+      "S23-C864e59f4-Tcd8d7b2e-STb40a48df-Ab40a48df",
+      "S23-C864e59f4-Tcd8d7b2e-ST097323b8-A097323b8",
+      "S23-C864e59f4-Tcd8d7b2e-ST1297f446-A1297f446"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S23-C864e59f4-T48579925",
+    "subjectId": "S23",
+    "topicId": "S23-C864e59f4-T48579925",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S23-C864e59f4-T48579925-ST3d95ff4c-A3d95ff4c",
+      "S23-C864e59f4-T48579925-STabf2fe03-Aabf2fe03",
+      "S23-C864e59f4-T48579925-ST5c3ba939-A5c3ba939",
+      "S23-C864e59f4-T48579925-ST097323b8-A097323b8",
+      "S23-C864e59f4-T48579925-ST1297f446-A1297f446"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S23-C864e59f4-T19a253ad",
+    "subjectId": "S23",
+    "topicId": "S23-C864e59f4-T19a253ad",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S23-C864e59f4-T19a253ad-ST3a4fcd94-A3a4fcd94",
+      "S23-C864e59f4-T19a253ad-STfd116966-Afd116966",
+      "S23-C864e59f4-T19a253ad-ST11f4eb42-A11f4eb42",
+      "S23-C864e59f4-T19a253ad-STa4b992ab-Aa4b992ab",
+      "S23-C864e59f4-T19a253ad-STec223443-Aec223443",
+      "S23-C864e59f4-T19a253ad-ST1297f446-A1297f446"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S23-C864e59f4-T81865cef",
+    "subjectId": "S23",
+    "topicId": "S23-C864e59f4-T81865cef",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S23-C864e59f4-T81865cef-ST1c3d01f0-A1c3d01f0",
+      "S23-C864e59f4-T81865cef-STae34e3cc-Aae34e3cc",
+      "S23-C864e59f4-T81865cef-ST4e8f9d96-A4e8f9d96",
+      "S23-C864e59f4-T81865cef-STa16f5c61-Aa16f5c61",
+      "S23-C864e59f4-T81865cef-STfe31b8a5-Afe31b8a5"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S23-C2d861ea1-T0b879d5c",
+    "subjectId": "S23",
+    "topicId": "S23-C2d861ea1-T0b879d5c",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S23-C2d861ea1-T0b879d5c-ST26752413-A26752413",
+      "S23-C2d861ea1-T0b879d5c-ST3dd802dd-A3dd802dd",
+      "S23-C2d861ea1-T0b879d5c-ST1ccbcc26-A1ccbcc26",
+      "S23-C2d861ea1-T0b879d5c-STa4b992ab-Aa4b992ab",
+      "S23-C2d861ea1-T0b879d5c-STdc2e3999-Adc2e3999"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S23-C2d861ea1-Tc72a7da9",
+    "subjectId": "S23",
+    "topicId": "S23-C2d861ea1-Tc72a7da9",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S23-C2d861ea1-Tc72a7da9-STb3d38907-Ab3d38907",
+      "S23-C2d861ea1-Tc72a7da9-STcbc932c0-Acbc932c0",
+      "S23-C2d861ea1-Tc72a7da9-ST7b3235cb-A7b3235cb",
+      "S23-C2d861ea1-Tc72a7da9-STb192017d-Ab192017d"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S23-C2d861ea1-Tb40a48df",
+    "subjectId": "S23",
+    "topicId": "S23-C2d861ea1-Tb40a48df",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S23-C2d861ea1-Tb40a48df-ST33713052-A33713052",
+      "S23-C2d861ea1-Tb40a48df-ST9bb09914-A9bb09914",
+      "S23-C2d861ea1-Tb40a48df-STde00163e-Ade00163e",
+      "S23-C2d861ea1-Tb40a48df-STa036e8c8-Aa036e8c8",
+      "S23-C2d861ea1-Tb40a48df-ST0c4d01e8-A0c4d01e8"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S23-C2d861ea1-T9c90ab40",
+    "subjectId": "S23",
+    "topicId": "S23-C2d861ea1-T9c90ab40",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S23-C2d861ea1-T9c90ab40-STb192017d-Ab192017d",
+      "S23-C2d861ea1-T9c90ab40-ST925733da-A925733da",
+      "S23-C2d861ea1-T9c90ab40-ST90c0110c-A90c0110c",
+      "S23-C2d861ea1-T9c90ab40-STe0f89587-Ae0f89587",
+      "S23-C2d861ea1-T9c90ab40-STee8250fb-Aee8250fb"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S23-C2d861ea1-Tc4acc48c",
+    "subjectId": "S23",
+    "topicId": "S23-C2d861ea1-Tc4acc48c",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S23-C2d861ea1-Tc4acc48c-ST85574fa0-A85574fa0",
+      "S23-C2d861ea1-Tc4acc48c-ST3c938455-A3c938455",
+      "S23-C2d861ea1-Tc4acc48c-ST1c48f631-A1c48f631",
+      "S23-C2d861ea1-Tc4acc48c-ST689f6a62-A689f6a62",
+      "S23-C2d861ea1-Tc4acc48c-ST7ab851f1-A7ab851f1"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S23-C16cbee79-T6d37e572",
+    "subjectId": "S23",
+    "topicId": "S23-C16cbee79-T6d37e572",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S23-C16cbee79-T6d37e572-ST417cf7ba-A417cf7ba",
+      "S23-C16cbee79-T6d37e572-ST6e0534af-A6e0534af",
+      "S23-C16cbee79-T6d37e572-ST1ea50a8c-A1ea50a8c",
+      "S23-C16cbee79-T6d37e572-ST42078720-A42078720",
+      "S23-C16cbee79-T6d37e572-STca9cf36a-Aca9cf36a"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S24-Cf8311828-Td5a6a224",
+    "subjectId": "S24",
+    "topicId": "S24-Cf8311828-Td5a6a224",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S24-Cf8311828-Td5a6a224-STea7792a2-Aea7792a2",
+      "S24-Cf8311828-Td5a6a224-ST313b2181-A313b2181",
+      "S24-Cf8311828-Td5a6a224-ST0cd98673-A0cd98673",
+      "S24-Cf8311828-Td5a6a224-ST87780fa5-A87780fa5"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S24-Cf8311828-T33677d09",
+    "subjectId": "S24",
+    "topicId": "S24-Cf8311828-T33677d09",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S24-Cf8311828-T33677d09-STe50c6360-Ae50c6360",
+      "S24-Cf8311828-T33677d09-STa48fd63f-Aa48fd63f",
+      "S24-Cf8311828-T33677d09-ST464c846e-A464c846e",
+      "S24-Cf8311828-T33677d09-ST10ff8131-A10ff8131"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S24-Cf8311828-T9a0072e1",
+    "subjectId": "S24",
+    "topicId": "S24-Cf8311828-T9a0072e1",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S24-Cf8311828-T9a0072e1-ST8f521590-A8f521590",
+      "S24-Cf8311828-T9a0072e1-STea7792a2-Aea7792a2",
+      "S24-Cf8311828-T9a0072e1-ST412dff7a-A412dff7a",
+      "S24-Cf8311828-T9a0072e1-STd613a2fc-Ad613a2fc"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S24-Cf8311828-T5799aca6",
+    "subjectId": "S24",
+    "topicId": "S24-Cf8311828-T5799aca6",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S24-Cf8311828-T5799aca6-STac1f6a89-Aac1f6a89",
+      "S24-Cf8311828-T5799aca6-ST9ce061b9-A9ce061b9",
+      "S24-Cf8311828-T5799aca6-STdd1b3ba0-Add1b3ba0",
+      "S24-Cf8311828-T5799aca6-STc0c03ed8-Ac0c03ed8"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S24-Cff6d924e-T2805f928",
+    "subjectId": "S24",
+    "topicId": "S24-Cff6d924e-T2805f928",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S24-Cff6d924e-T2805f928-ST8fada320-A8fada320",
+      "S24-Cff6d924e-T2805f928-ST2e621d7d-A2e621d7d",
+      "S24-Cff6d924e-T2805f928-ST1f82db00-A1f82db00",
+      "S24-Cff6d924e-T2805f928-ST0978cd57-A0978cd57"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S24-Cff6d924e-T16abb078",
+    "subjectId": "S24",
+    "topicId": "S24-Cff6d924e-T16abb078",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S24-Cff6d924e-T16abb078-STcdc8b75c-Acdc8b75c",
+      "S24-Cff6d924e-T16abb078-ST7dc28e3d-A7dc28e3d",
+      "S24-Cff6d924e-T16abb078-ST1bb9618c-A1bb9618c",
+      "S24-Cff6d924e-T16abb078-STea7792a2-Aea7792a2"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S24-Cff6d924e-Tf273e9e9",
+    "subjectId": "S24",
+    "topicId": "S24-Cff6d924e-Tf273e9e9",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S24-Cff6d924e-Tf273e9e9-ST0169f738-A0169f738",
+      "S24-Cff6d924e-Tf273e9e9-ST8c7400e6-A8c7400e6",
+      "S24-Cff6d924e-Tf273e9e9-ST39082d8d-A39082d8d",
+      "S24-Cff6d924e-Tf273e9e9-ST4161bb4e-A4161bb4e"
+    ],
+    "questions": 3,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S24-Cff6d924e-T3c86ef5b",
+    "subjectId": "S24",
+    "topicId": "S24-Cff6d924e-T3c86ef5b",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S24-Cff6d924e-T3c86ef5b-ST39e04eeb-A39e04eeb",
+      "S24-Cff6d924e-T3c86ef5b-ST0ef8e2a5-A0ef8e2a5",
+      "S24-Cff6d924e-T3c86ef5b-ST7a4cee59-A7a4cee59",
+      "S24-Cff6d924e-T3c86ef5b-STb44e9ef6-Ab44e9ef6",
+      "S24-Cff6d924e-T3c86ef5b-STd3798542-Ad3798542"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S24-Cff6d924e-T9d289bc5",
+    "subjectId": "S24",
+    "topicId": "S24-Cff6d924e-T9d289bc5",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S24-Cff6d924e-T9d289bc5-ST00fa7960-A00fa7960",
+      "S24-Cff6d924e-T9d289bc5-ST1724b523-A1724b523",
+      "S24-Cff6d924e-T9d289bc5-ST0349f827-A0349f827",
+      "S24-Cff6d924e-T9d289bc5-ST61afda56-A61afda56"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S25-C92a15c80-Tfa42a019",
+    "subjectId": "S25",
+    "topicId": "S25-C92a15c80-Tfa42a019",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S25-C92a15c80-Tfa42a019-ST9a1ee26a-A9a1ee26a",
+      "S25-C92a15c80-Tfa42a019-ST1dc5ae5b-A1dc5ae5b",
+      "S25-C92a15c80-Tfa42a019-ST60c6e47f-A60c6e47f",
+      "S25-C92a15c80-Tfa42a019-STa73e5166-Aa73e5166",
+      "S25-C92a15c80-Tfa42a019-ST652f70cd-A652f70cd"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S25-C92a15c80-Tfe27a21d",
+    "subjectId": "S25",
+    "topicId": "S25-C92a15c80-Tfe27a21d",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S25-C92a15c80-Tfe27a21d-ST1fe0ea15-A1fe0ea15",
+      "S25-C92a15c80-Tfe27a21d-ST231e0159-A231e0159",
+      "S25-C92a15c80-Tfe27a21d-STe6eaea18-Ae6eaea18",
+      "S25-C92a15c80-Tfe27a21d-ST514cb13f-A514cb13f",
+      "S25-C92a15c80-Tfe27a21d-STbc4ea129-Abc4ea129"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S25-C92a15c80-T0f25592e",
+    "subjectId": "S25",
+    "topicId": "S25-C92a15c80-T0f25592e",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S25-C92a15c80-T0f25592e-ST31867882-A31867882",
+      "S25-C92a15c80-T0f25592e-STc59cf32b-Ac59cf32b",
+      "S25-C92a15c80-T0f25592e-ST335788a8-A335788a8",
+      "S25-C92a15c80-T0f25592e-ST81e4bb31-A81e4bb31",
+      "S25-C92a15c80-T0f25592e-ST6caeff68-A6caeff68"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S25-Cebd32d28-T9a1f2a00",
+    "subjectId": "S25",
+    "topicId": "S25-Cebd32d28-T9a1f2a00",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S25-Cebd32d28-T9a1f2a00-STc651f57b-Ac651f57b",
+      "S25-Cebd32d28-T9a1f2a00-STbf73a19e-Abf73a19e",
+      "S25-Cebd32d28-T9a1f2a00-ST5c154334-A5c154334",
+      "S25-Cebd32d28-T9a1f2a00-ST49a8ed7c-A49a8ed7c",
+      "S25-Cebd32d28-T9a1f2a00-STbc4ea129-Abc4ea129"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S25-Cebd32d28-T434b2816",
+    "subjectId": "S25",
+    "topicId": "S25-Cebd32d28-T434b2816",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S25-Cebd32d28-T434b2816-STf58940a3-Af58940a3",
+      "S25-Cebd32d28-T434b2816-ST8f82a61d-A8f82a61d",
+      "S25-Cebd32d28-T434b2816-STd887db09-Ad887db09",
+      "S25-Cebd32d28-T434b2816-STdc4d895c-Adc4d895c"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S25-Cebd32d28-Tb5697e54",
+    "subjectId": "S25",
+    "topicId": "S25-Cebd32d28-Tb5697e54",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S25-Cebd32d28-Tb5697e54-ST81f52dd5-A81f52dd5",
+      "S25-Cebd32d28-Tb5697e54-STe9284041-Ae9284041",
+      "S25-Cebd32d28-Tb5697e54-ST78f9ac01-A78f9ac01",
+      "S25-Cebd32d28-Tb5697e54-ST349b7b80-A349b7b80"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S25-Cebd32d28-Ta9010072",
+    "subjectId": "S25",
+    "topicId": "S25-Cebd32d28-Ta9010072",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S25-Cebd32d28-Ta9010072-ST40b30b4e-A40b30b4e",
+      "S25-Cebd32d28-Ta9010072-ST07397d63-A07397d63",
+      "S25-Cebd32d28-Ta9010072-STa3b142af-Aa3b142af",
+      "S25-Cebd32d28-Ta9010072-ST514cb13f-A514cb13f",
+      "S25-Cebd32d28-Ta9010072-STccc699a4-Accc699a4"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S25-Ce3c66b9e-Td9517d63",
+    "subjectId": "S25",
+    "topicId": "S25-Ce3c66b9e-Td9517d63",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S25-Ce3c66b9e-Td9517d63-STcb8ff6e3-Acb8ff6e3",
+      "S25-Ce3c66b9e-Td9517d63-ST78f9ac01-A78f9ac01",
+      "S25-Ce3c66b9e-Td9517d63-ST6c5a6990-A6c5a6990",
+      "S25-Ce3c66b9e-Td9517d63-ST5c154334-A5c154334"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S25-Ce3c66b9e-Tfa328350",
+    "subjectId": "S25",
+    "topicId": "S25-Ce3c66b9e-Tfa328350",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S25-Ce3c66b9e-Tfa328350-ST7ddbae6f-A7ddbae6f",
+      "S25-Ce3c66b9e-Tfa328350-ST78f9ac01-A78f9ac01",
+      "S25-Ce3c66b9e-Tfa328350-STdb7c79cd-Adb7c79cd",
+      "S25-Ce3c66b9e-Tfa328350-STb36c3270-Ab36c3270"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S26-C2d838fe4-Tbfe9c929",
+    "subjectId": "S26",
+    "topicId": "S26-C2d838fe4-Tbfe9c929",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S26-C2d838fe4-Tbfe9c929-ST04e51ec4-A04e51ec4",
+      "S26-C2d838fe4-Tbfe9c929-ST0ebecec6-A0ebecec6",
+      "S26-C2d838fe4-Tbfe9c929-ST7da5daa5-A7da5daa5",
+      "S26-C2d838fe4-Tbfe9c929-ST06d0e975-A06d0e975"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S26-C2d838fe4-T37be1d5f",
+    "subjectId": "S26",
+    "topicId": "S26-C2d838fe4-T37be1d5f",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S26-C2d838fe4-T37be1d5f-ST07c2780d-A07c2780d",
+      "S26-C2d838fe4-T37be1d5f-ST97c1b451-A97c1b451",
+      "S26-C2d838fe4-T37be1d5f-STe64fe7de-Ae64fe7de",
+      "S26-C2d838fe4-T37be1d5f-ST0978cd57-A0978cd57"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S26-C2d838fe4-T74ac4255",
+    "subjectId": "S26",
+    "topicId": "S26-C2d838fe4-T74ac4255",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S26-C2d838fe4-T74ac4255-STfe0aab27-Afe0aab27",
+      "S26-C2d838fe4-T74ac4255-STa8258465-Aa8258465",
+      "S26-C2d838fe4-T74ac4255-STfdf1ffbe-Afdf1ffbe",
+      "S26-C2d838fe4-T74ac4255-STee8250fb-Aee8250fb"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S26-C2d838fe4-Tbdc77998",
+    "subjectId": "S26",
+    "topicId": "S26-C2d838fe4-Tbdc77998",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S26-C2d838fe4-Tbdc77998-ST218d70f9-A218d70f9",
+      "S26-C2d838fe4-Tbdc77998-STd9ad71b7-Ad9ad71b7",
+      "S26-C2d838fe4-Tbdc77998-STa4ef304b-Aa4ef304b",
+      "S26-C2d838fe4-Tbdc77998-STb3eff28a-Ab3eff28a"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S26-C41885f6d-Te821930d",
+    "subjectId": "S26",
+    "topicId": "S26-C41885f6d-Te821930d",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S26-C41885f6d-Te821930d-ST28a73cb2-A28a73cb2",
+      "S26-C41885f6d-Te821930d-STe436e912-Ae436e912",
+      "S26-C41885f6d-Te821930d-ST466e5b9c-A466e5b9c",
+      "S26-C41885f6d-Te821930d-ST4864bfc7-A4864bfc7"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S26-C41885f6d-T3535ad6c",
+    "subjectId": "S26",
+    "topicId": "S26-C41885f6d-T3535ad6c",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S26-C41885f6d-T3535ad6c-STf18e3780-Af18e3780",
+      "S26-C41885f6d-T3535ad6c-STdd6f92ac-Add6f92ac",
+      "S26-C41885f6d-T3535ad6c-ST524af055-A524af055",
+      "S26-C41885f6d-T3535ad6c-STce6cf0df-Ace6cf0df"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S26-C41885f6d-T842453b2",
+    "subjectId": "S26",
+    "topicId": "S26-C41885f6d-T842453b2",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S26-C41885f6d-T842453b2-STec450786-Aec450786",
+      "S26-C41885f6d-T842453b2-ST4721819b-A4721819b",
+      "S26-C41885f6d-T842453b2-STb39419ef-Ab39419ef",
+      "S26-C41885f6d-T842453b2-STe904c9cc-Ae904c9cc",
+      "S26-C41885f6d-T842453b2-ST533cbfe9-A533cbfe9"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S26-Ce9261bae-T01fa0e46",
+    "subjectId": "S26",
+    "topicId": "S26-Ce9261bae-T01fa0e46",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S26-Ce9261bae-T01fa0e46-ST7921a115-A7921a115",
+      "S26-Ce9261bae-T01fa0e46-STc981a30c-Ac981a30c",
+      "S26-Ce9261bae-T01fa0e46-STd80ad2f1-Ad80ad2f1",
+      "S26-Ce9261bae-T01fa0e46-STea7792a2-Aea7792a2"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S26-Ce9261bae-T4bb10371",
+    "subjectId": "S26",
+    "topicId": "S26-Ce9261bae-T4bb10371",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S26-Ce9261bae-T4bb10371-ST2d4ad7bd-A2d4ad7bd",
+      "S26-Ce9261bae-T4bb10371-ST4084a32b-A4084a32b",
+      "S26-Ce9261bae-T4bb10371-STbbbfd12f-Abbbfd12f"
+    ],
+    "questions": 3896,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "GAP-S26-Ce9261bae-Tb0799229",
+    "subjectId": "S26",
+    "topicId": "S26-Ce9261bae-Tb0799229",
+    "status": "EVIDENCE_REQUIRED",
+    "missingConceptIds": [
+      "S26-Ce9261bae-Tb0799229-STd98a034f-Ad98a034f",
+      "S26-Ce9261bae-Tb0799229-ST38edf99f-A38edf99f",
+      "S26-Ce9261bae-Tb0799229-ST26255177-A26255177",
+      "S26-Ce9261bae-Tb0799229-STc271f2bb-Ac271f2bb",
+      "S26-Ce9261bae-Tb0799229-STed0e8343-Aed0e8343"
+    ],
+    "questions": 0,
+    "videoStatus": "BLOCKED"
+  },
+  {
+    "id": "QUESTIONS-20000",
+    "priority": 1,
+    "status": "OPEN",
+    "actual": 5016,
+    "required": 20000,
+    "reason": "Large verified corpus has not been researched or supplied. Continue source ingestion and review; do not inflate via translations or restatements."
+  },
+  {
+    "id": "FLOW-OWNER",
+    "priority": 1,
+    "status": "OWNER_ACTION",
+    "reason": "No authorized Flow session or API credentials; no paid generation approval."
+  },
+  {
+    "id": "HTTPS-OWNER",
+    "priority": 1,
+    "status": "OWNER_ACTION",
+    "reason": "No authorized Firebase hosting project or owner account session."
+  }
+]
