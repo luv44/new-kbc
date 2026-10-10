@@ -1,0 +1,1227 @@
+[
+  {
+    "id": "DQ-0068",
+    "category": "United Nations",
+    "sourceIds": [
+      "UN-CHARTER-1"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In which city was the Charter of the United Nations signed in 1945?",
+      "hi": "1945 में संयुक्त राष्ट्र का चार्टर किस शहर में हस्ताक्षरित हुआ?"
+    },
+    "options": [
+      {
+        "en": "San Francisco",
+        "hi": "सैन फ़्रांसिस्को"
+      },
+      {
+        "en": "New York",
+        "hi": "न्यूयॉर्क"
+      },
+      {
+        "en": "London",
+        "hi": "लंदन"
+      },
+      {
+        "en": "Geneva",
+        "hi": "जिनेवा"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Fifty nations signed it on 26 June 1945 at the San Francisco Conference.",
+      "hi": "26 जून 1945 को सैन फ़्रांसिस्को सम्मेलन में पचास देशों ने इस पर हस्ताक्षर किए।"
+    }
+  },
+  {
+    "id": "DQ-0069",
+    "category": "United Nations",
+    "sourceIds": [
+      "UN-CHARTER-1"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "On which date did the United Nations officially come into existence?",
+      "hi": "संयुक्त राष्ट्र आधिकारिक रूप से किस तिथि को अस्तित्व में आया?"
+    },
+    "options": [
+      {
+        "en": "24 October 1945",
+        "hi": "24 अक्टूबर 1945"
+      },
+      {
+        "en": "26 June 1945",
+        "hi": "26 जून 1945"
+      },
+      {
+        "en": "1 January 1946",
+        "hi": "1 जनवरी 1946"
+      },
+      {
+        "en": "10 December 1948",
+        "hi": "10 दिसंबर 1948"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The Charter entered into force once the required number of ratifications was deposited.",
+      "hi": "आवश्यक संख्या में अनुसमर्थन जमा होते ही चार्टर लागू हो गया।"
+    }
+  },
+  {
+    "id": "DQ-0070",
+    "category": "United Nations",
+    "sourceIds": [
+      "UN-CHARTER-1"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Charter opens by stating the United Nations' first purpose. What is it?",
+      "hi": "चार्टर संयुक्त राष्ट्र का पहला उद्देश्य बताते हुए शुरू होता है। वह क्या है?"
+    },
+    "options": [
+      {
+        "en": "To maintain international peace and security",
+        "hi": "अंतर्राष्ट्रीय शांति और सुरक्षा बनाए रखना"
+      },
+      {
+        "en": "To fix world trade tariffs",
+        "hi": "विश्व व्यापार शुल्क तय करना"
+      },
+      {
+        "en": "To run a common currency",
+        "hi": "एक साझा मुद्रा चलाना"
+      },
+      {
+        "en": "To elect national governments",
+        "hi": "राष्ट्रीय सरकारों का चुनाव कराना"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Article 1 lists peace and security first, then friendly relations and international cooperation.",
+      "hi": "अनुच्छेद 1 पहले शांति और सुरक्षा, फिर मैत्रीपूर्ण संबंध और अंतर्राष्ट्रीय सहयोग को रखता है।"
+    }
+  },
+  {
+    "id": "DQ-0071",
+    "category": "United Nations",
+    "sourceIds": [
+      "UN-MAIN-BODIES"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "How many principal organs does the United Nations have?",
+      "hi": "संयुक्त राष्ट्र के कितने प्रधान अंग हैं?"
+    },
+    "options": [
+      {
+        "en": "Six",
+        "hi": "छह"
+      },
+      {
+        "en": "Four",
+        "hi": "चार"
+      },
+      {
+        "en": "Five",
+        "hi": "पाँच"
+      },
+      {
+        "en": "Seven",
+        "hi": "सात"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "They are the General Assembly, Security Council, ECOSOC, Trusteeship Council, ICJ and Secretariat.",
+      "hi": "वे हैं महासभा, सुरक्षा परिषद, इकोसॉक, न्यासिता परिषद, अंतर्राष्ट्रीय न्यायालय और सचिवालय।"
+    }
+  },
+  {
+    "id": "DQ-0072",
+    "category": "United Nations",
+    "sourceIds": [
+      "UN-MAIN-BODIES"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which principal organ of the United Nations sits in The Hague?",
+      "hi": "संयुक्त राष्ट्र का कौन सा प्रधान अंग हेग में स्थित है?"
+    },
+    "options": [
+      {
+        "en": "The International Court of Justice",
+        "hi": "अंतर्राष्ट्रीय न्यायालय"
+      },
+      {
+        "en": "The General Assembly",
+        "hi": "महासभा"
+      },
+      {
+        "en": "The Security Council",
+        "hi": "सुरक्षा परिषद"
+      },
+      {
+        "en": "The Secretariat",
+        "hi": "सचिवालय"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Every other principal organ is based at UN Headquarters in New York.",
+      "hi": "अन्य सभी प्रधान अंग न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में हैं।"
+    }
+  },
+  {
+    "id": "DQ-0073",
+    "category": "United Nations",
+    "sourceIds": [
+      "UN-MAIN-BODIES"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "How many permanent members sit on the United Nations Security Council?",
+      "hi": "संयुक्त राष्ट्र सुरक्षा परिषद में कितने स्थायी सदस्य हैं?"
+    },
+    "options": [
+      {
+        "en": "Five",
+        "hi": "पाँच"
+      },
+      {
+        "en": "Three",
+        "hi": "तीन"
+      },
+      {
+        "en": "Seven",
+        "hi": "सात"
+      },
+      {
+        "en": "Ten",
+        "hi": "दस"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "China, France, Russia, the United Kingdom and the United States hold permanent seats.",
+      "hi": "चीन, फ़्रांस, रूस, ब्रिटेन और अमेरिका के पास स्थायी स्थान हैं।"
+    }
+  },
+  {
+    "id": "DQ-0074",
+    "category": "United Nations",
+    "sourceIds": [
+      "UN-MAIN-BODIES"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Including the permanent ones, how many members does the Security Council have?",
+      "hi": "स्थायी सदस्यों सहित सुरक्षा परिषद में कुल कितने सदस्य होते हैं?"
+    },
+    "options": [
+      {
+        "en": "Fifteen",
+        "hi": "पंद्रह"
+      },
+      {
+        "en": "Ten",
+        "hi": "दस"
+      },
+      {
+        "en": "Twenty",
+        "hi": "बीस"
+      },
+      {
+        "en": "Twelve",
+        "hi": "बारह"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Five permanent members and ten elected for two-year terms make up the Council.",
+      "hi": "पाँच स्थायी और दो वर्ष के लिए चुने गए दस सदस्य मिलकर परिषद बनाते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0075",
+    "category": "United Nations",
+    "sourceIds": [
+      "UN-MAIN-BODIES"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which United Nations organ suspended its operations in 1994 after the last trust territory became independent?",
+      "hi": "1994 में अंतिम न्यासिता क्षेत्र के स्वतंत्र होने के बाद किस संयुक्त राष्ट्र अंग ने अपना कार्य निलंबित कर दिया?"
+    },
+    "options": [
+      {
+        "en": "The Trusteeship Council",
+        "hi": "न्यासिता परिषद"
+      },
+      {
+        "en": "The Economic and Social Council",
+        "hi": "आर्थिक और सामाजिक परिषद"
+      },
+      {
+        "en": "The General Assembly",
+        "hi": "महासभा"
+      },
+      {
+        "en": "The International Court of Justice",
+        "hi": "अंतर्राष्ट्रीय न्यायालय"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Palau's independence on 1 October 1994 ended the trusteeship system.",
+      "hi": "1 अक्टूबर 1994 को पलाऊ की स्वतंत्रता के साथ न्यासिता प्रणाली समाप्त हुई।"
+    }
+  },
+  {
+    "id": "DQ-0076",
+    "category": "United Nations",
+    "sourceIds": [
+      "UN-MAIN-BODIES"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which body recommends the appointment of the Secretary-General of the United Nations?",
+      "hi": "संयुक्त राष्ट्र के महासचिव की नियुक्ति की सिफ़ारिश कौन सा निकाय करता है?"
+    },
+    "options": [
+      {
+        "en": "The Security Council",
+        "hi": "सुरक्षा परिषद"
+      },
+      {
+        "en": "The Economic and Social Council",
+        "hi": "आर्थिक और सामाजिक परिषद"
+      },
+      {
+        "en": "The Trusteeship Council",
+        "hi": "न्यासिता परिषद"
+      },
+      {
+        "en": "The International Court of Justice",
+        "hi": "अंतर्राष्ट्रीय न्यायालय"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The Council recommends a candidate and the General Assembly appoints them.",
+      "hi": "परिषद उम्मीदवार की सिफ़ारिश करती है और महासभा उनकी नियुक्ति करती है।"
+    }
+  },
+  {
+    "id": "DQ-0077",
+    "category": "World heritage",
+    "sourceIds": [
+      "UNESCO-138"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The ruins of Mohenjo-daro, a World Heritage site, lie in which country?",
+      "hi": "विश्व धरोहर स्थल मोहनजोदड़ो के अवशेष किस देश में हैं?"
+    },
+    "options": [
+      {
+        "en": "Pakistan",
+        "hi": "पाकिस्तान"
+      },
+      {
+        "en": "India",
+        "hi": "भारत"
+      },
+      {
+        "en": "Afghanistan",
+        "hi": "अफ़ग़ानिस्तान"
+      },
+      {
+        "en": "Iran",
+        "hi": "ईरान"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "They stand on the right bank of the Indus in Sindh province.",
+      "hi": "ये सिंध प्रांत में सिंधु नदी के दाहिने तट पर स्थित हैं।"
+    }
+  },
+  {
+    "id": "DQ-0078",
+    "category": "World heritage",
+    "sourceIds": [
+      "UNESCO-138"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Mohenjo-daro belonged to which ancient civilisation?",
+      "hi": "मोहनजोदड़ो किस प्राचीन सभ्यता का हिस्सा था?"
+    },
+    "options": [
+      {
+        "en": "The Indus Valley civilisation",
+        "hi": "सिंधु घाटी सभ्यता"
+      },
+      {
+        "en": "The Mesopotamian civilisation",
+        "hi": "मेसोपोटामिया सभ्यता"
+      },
+      {
+        "en": "The Egyptian civilisation",
+        "hi": "मिस्र सभ्यता"
+      },
+      {
+        "en": "The Mayan civilisation",
+        "hi": "माया सभ्यता"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It was one of the largest cities of the Indus civilisation around 2500 BCE.",
+      "hi": "यह लगभग 2500 ईसा पूर्व सिंधु सभ्यता के सबसे बड़े नगरों में से एक था।"
+    }
+  },
+  {
+    "id": "DQ-0079",
+    "category": "World heritage",
+    "sourceIds": [
+      "UNESCO-138"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which large brick water structure is a famous feature of Mohenjo-daro?",
+      "hi": "मोहनजोदड़ो की प्रसिद्ध विशाल ईंटों की जल संरचना कौन सी है?"
+    },
+    "options": [
+      {
+        "en": "The Great Bath",
+        "hi": "ग्रेट बाथ"
+      },
+      {
+        "en": "The Royal Cistern",
+        "hi": "रॉयल सिस्टर्न"
+      },
+      {
+        "en": "The Step Well",
+        "hi": "बावड़ी"
+      },
+      {
+        "en": "The Granary Tank",
+        "hi": "अन्नागार जलाशय"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The Great Bath was sealed with bitumen and appears to have served a public or ritual purpose.",
+      "hi": "ग्रेट बाथ को डामर से रोधित किया गया था और यह सार्वजनिक या अनुष्ठानिक काम आता प्रतीत होता है।"
+    }
+  },
+  {
+    "id": "DQ-0080",
+    "category": "World heritage",
+    "sourceIds": [
+      "UNESCO-138"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "The name 'Mohenjo-daro' is usually translated into English as what?",
+      "hi": "'मोहनजोदड़ो' नाम का अंग्रेज़ी में सामान्यतः क्या अर्थ लगाया जाता है?"
+    },
+    "options": [
+      {
+        "en": "Mound of the dead",
+        "hi": "मुर्दों का टीला"
+      },
+      {
+        "en": "City of kings",
+        "hi": "राजाओं का नगर"
+      },
+      {
+        "en": "Gate of the river",
+        "hi": "नदी का द्वार"
+      },
+      {
+        "en": "Field of grain",
+        "hi": "अनाज का खेत"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The Sindhi name refers to the burial mounds found at the site.",
+      "hi": "यह सिंधी नाम स्थल पर मिले समाधि टीलों की ओर इशारा करता है।"
+    }
+  },
+  {
+    "id": "DQ-0081",
+    "category": "World heritage",
+    "sourceIds": [
+      "UNESCO-LUMBINI"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Lumbini, the birthplace of the Lord Buddha, is located in which country?",
+      "hi": "भगवान बुद्ध की जन्मस्थली लुंबिनी किस देश में स्थित है?"
+    },
+    "options": [
+      {
+        "en": "Nepal",
+        "hi": "नेपाल"
+      },
+      {
+        "en": "India",
+        "hi": "भारत"
+      },
+      {
+        "en": "Sri Lanka",
+        "hi": "श्रीलंका"
+      },
+      {
+        "en": "Bhutan",
+        "hi": "भूटान"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Lumbini lies in the Rupandehi district of southern Nepal.",
+      "hi": "लुंबिनी दक्षिणी नेपाल के रूपंदेही ज़िले में स्थित है।"
+    }
+  },
+  {
+    "id": "DQ-0082",
+    "category": "World heritage",
+    "sourceIds": [
+      "UNESCO-LUMBINI"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which ancient pillar stands at Lumbini as a marker of the Buddha's birthplace?",
+      "hi": "लुंबिनी में बुद्ध की जन्मस्थली का चिह्न कौन सा प्राचीन स्तंभ है?"
+    },
+    "options": [
+      {
+        "en": "The Ashoka pillar",
+        "hi": "अशोक स्तंभ"
+      },
+      {
+        "en": "The Iron Pillar",
+        "hi": "लौह स्तंभ"
+      },
+      {
+        "en": "The Heliodorus pillar",
+        "hi": "हेलियोडोरस स्तंभ"
+      },
+      {
+        "en": "The Vijaya pillar",
+        "hi": "विजय स्तंभ"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Emperor Ashoka erected it during his visit in the third century BCE.",
+      "hi": "सम्राट अशोक ने तीसरी शताब्दी ईसा पूर्व में अपनी यात्रा के दौरान इसे स्थापित किया।"
+    }
+  },
+  {
+    "id": "DQ-0083",
+    "category": "Culture",
+    "sourceIds": [
+      "UNESCO-ICH-2003"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The UNESCO Convention adopted in 2003 is meant to safeguard which kind of heritage?",
+      "hi": "2003 में अपनाया गया यूनेस्को सम्मेलन किस प्रकार की धरोहर की रक्षा के लिए है?"
+    },
+    "options": [
+      {
+        "en": "Intangible cultural heritage",
+        "hi": "अमूर्त सांस्कृतिक धरोहर"
+      },
+      {
+        "en": "Underwater shipwrecks",
+        "hi": "जलमग्न जहाज़"
+      },
+      {
+        "en": "Monuments of stone",
+        "hi": "पाषाण स्मारक"
+      },
+      {
+        "en": "Fossil beds",
+        "hi": "जीवाश्म क्षेत्र"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It covers oral traditions, performing arts, rituals, festive events and traditional craftsmanship.",
+      "hi": "इसमें मौखिक परंपराएँ, प्रदर्शन कलाएँ, अनुष्ठान, उत्सव और पारंपरिक शिल्प शामिल हैं।"
+    }
+  },
+  {
+    "id": "DQ-0084",
+    "category": "Global finance",
+    "sourceIds": [
+      "WB-HISTORY-2026"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In which country was the 1944 Bretton Woods Conference held?",
+      "hi": "1944 का ब्रेटन वुड्स सम्मेलन किस देश में आयोजित हुआ?"
+    },
+    "options": [
+      {
+        "en": "The United States",
+        "hi": "अमेरिका"
+      },
+      {
+        "en": "The United Kingdom",
+        "hi": "ब्रिटेन"
+      },
+      {
+        "en": "Switzerland",
+        "hi": "स्विट्ज़रलैंड"
+      },
+      {
+        "en": "France",
+        "hi": "फ़्रांस"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Delegates from 44 nations met at the Mount Washington Hotel in New Hampshire.",
+      "hi": "44 देशों के प्रतिनिधि न्यू हैम्पशायर के माउंट वॉशिंगटन होटल में मिले।"
+    }
+  },
+  {
+    "id": "DQ-0085",
+    "category": "Global finance",
+    "sourceIds": [
+      "WB-HISTORY-2026"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Bretton Woods Conference led to the creation of which pair of institutions?",
+      "hi": "ब्रेटन वुड्स सम्मेलन से किन दो संस्थाओं का निर्माण हुआ?"
+    },
+    "options": [
+      {
+        "en": "The IMF and the World Bank",
+        "hi": "IMF और विश्व बैंक"
+      },
+      {
+        "en": "The WTO and the UN",
+        "hi": "WTO और संयुक्त राष्ट्र"
+      },
+      {
+        "en": "The WHO and UNICEF",
+        "hi": "WHO और यूनिसेफ़"
+      },
+      {
+        "en": "The Asian Development Bank and the AIIB",
+        "hi": "एशियाई विकास बैंक और AIIB"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The World Bank began as the International Bank for Reconstruction and Development.",
+      "hi": "विश्व बैंक की शुरुआत अंतर्राष्ट्रीय पुनर्निर्माण और विकास बैंक के रूप में हुई।"
+    }
+  },
+  {
+    "id": "DQ-0086",
+    "category": "Global finance",
+    "sourceIds": [
+      "IMF-ABOUT-2026"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Where is the headquarters of the International Monetary Fund?",
+      "hi": "अंतर्राष्ट्रीय मुद्रा कोष का मुख्यालय कहाँ है?"
+    },
+    "options": [
+      {
+        "en": "Washington, D.C.",
+        "hi": "वॉशिंगटन, डी.सी."
+      },
+      {
+        "en": "Geneva",
+        "hi": "जिनेवा"
+      },
+      {
+        "en": "Paris",
+        "hi": "पेरिस"
+      },
+      {
+        "en": "Nairobi",
+        "hi": "नैरोबी"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The Fund has worked from Washington, D.C. since it began operations in 1945.",
+      "hi": "1945 में कार्य आरंभ करने के बाद से कोष वॉशिंगटन, डी.सी. से काम कर रहा है।"
+    }
+  },
+  {
+    "id": "DQ-0087",
+    "category": "Global finance",
+    "sourceIds": [
+      "IMF-ABOUT-2026"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "What is the name of the reserve asset and unit of account used by the IMF?",
+      "hi": "IMF द्वारा प्रयुक्त आरक्षित परिसंपत्ति और लेखा इकाई का क्या नाम है?"
+    },
+    "options": [
+      {
+        "en": "Special Drawing Rights",
+        "hi": "स्पेशल ड्रॉइंग राइट्स"
+      },
+      {
+        "en": "Global Reserve Bonds",
+        "hi": "वैश्विक आरक्षित पत्र"
+      },
+      {
+        "en": "Convertible Trade Credits",
+        "hi": "कन्वर्टिबल ट्रेड क्रेडिट्स"
+      },
+      {
+        "en": "Bretton Notes",
+        "hi": "ब्रेटन नोट्स"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Its value is based on a basket of five major currencies.",
+      "hi": "इसका मूल्य पाँच प्रमुख मुद्राओं की टोकरी पर आधारित है।"
+    }
+  },
+  {
+    "id": "DQ-0088",
+    "category": "Global finance",
+    "sourceIds": [
+      "IMF-ABOUT-2026"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The IMF describes its central job in one phrase. Which of these is it?",
+      "hi": "IMF अपने मुख्य कार्य को एक वाक्यांश में बताता है। वह कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "Safeguarding the stability of the international monetary system",
+        "hi": "अंतर्राष्ट्रीय मौद्रिक प्रणाली की स्थिरता की रक्षा करना"
+      },
+      {
+        "en": "Setting interest rates for member countries",
+        "hi": "सदस्य देशों के लिए ब्याज दरें तय करना"
+      },
+      {
+        "en": "Printing a common world currency",
+        "hi": "विश्व की साझा मुद्रा छापना"
+      },
+      {
+        "en": "Approving national budgets",
+        "hi": "राष्ट्रीय बजट स्वीकृत करना"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The Fund advises and lends so that member economies can meet balance of payments difficulties.",
+      "hi": "कोष सलाह और ऋण देता है ताकि सदस्य अर्थव्यवस्थाएँ भुगतान संतुलन की कठिनाइयों से निपट सकें।"
+    }
+  },
+  {
+    "id": "DQ-0089",
+    "category": "Global finance",
+    "sourceIds": [
+      "WB-WHO-2026"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The World Bank Group is made up of how many institutions?",
+      "hi": "विश्व बैंक समूह कितनी संस्थाओं से मिलकर बना है?"
+    },
+    "options": [
+      {
+        "en": "Five",
+        "hi": "पाँच"
+      },
+      {
+        "en": "Two",
+        "hi": "दो"
+      },
+      {
+        "en": "Three",
+        "hi": "तीन"
+      },
+      {
+        "en": "Seven",
+        "hi": "सात"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "They are IBRD, IDA, IFC, MIGA and ICSID.",
+      "hi": "वे हैं IBRD, IDA, IFC, MIGA और ICSID।"
+    }
+  },
+  {
+    "id": "DQ-0090",
+    "category": "Global finance",
+    "sourceIds": [
+      "WB-WHO-2026"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which World Bank Group institution works directly with private companies in developing countries?",
+      "hi": "विकासशील देशों में निजी कंपनियों के साथ सीधे काम करने वाली विश्व बैंक समूह की कौन सी संस्था है?"
+    },
+    "options": [
+      {
+        "en": "The International Finance Corporation",
+        "hi": "अंतर्राष्ट्रीय वित्त निगम"
+      },
+      {
+        "en": "The International Development Association",
+        "hi": "अंतर्राष्ट्रीय विकास संघ"
+      },
+      {
+        "en": "The Multilateral Investment Guarantee Agency",
+        "hi": "बहुपक्षीय निवेश गारंटी एजेंसी"
+      },
+      {
+        "en": "The International Centre for Settlement of Investment Disputes",
+        "hi": "निवेश विवाद निपटान हेतु अंतर्राष्ट्रीय केंद्र"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "IFC invests in and advises private sector projects without government guarantees.",
+      "hi": "IFC बिना सरकारी गारंटी के निजी क्षेत्र की परियोजनाओं में निवेश और सलाह देता है।"
+    }
+  },
+  {
+    "id": "DQ-0091",
+    "category": "Global finance",
+    "sourceIds": [
+      "WB-WHO-2026"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which World Bank Group body provides political risk insurance to foreign investors?",
+      "hi": "विदेशी निवेशकों को राजनीतिक जोखिम बीमा देने वाला विश्व बैंक समूह का कौन सा निकाय है?"
+    },
+    "options": [
+      {
+        "en": "MIGA",
+        "hi": "MIGA"
+      },
+      {
+        "en": "IDA",
+        "hi": "IDA"
+      },
+      {
+        "en": "IBRD",
+        "hi": "IBRD"
+      },
+      {
+        "en": "ICSID",
+        "hi": "ICSID"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The Multilateral Investment Guarantee Agency insures against risks such as expropriation and war.",
+      "hi": "बहुपक्षीय निवेश गारंटी एजेंसी जब्ती और युद्ध जैसे जोखिमों के विरुद्ध बीमा देती है।"
+    }
+  },
+  {
+    "id": "DQ-0092",
+    "category": "Global finance",
+    "sourceIds": [
+      "WB-WHO-2026"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which World Bank Group body settles investment disputes between governments and foreign investors?",
+      "hi": "सरकारों और विदेशी निवेशकों के बीच निवेश विवाद निपटाने वाला विश्व बैंक समूह का कौन सा निकाय है?"
+    },
+    "options": [
+      {
+        "en": "ICSID",
+        "hi": "ICSID"
+      },
+      {
+        "en": "MIGA",
+        "hi": "MIGA"
+      },
+      {
+        "en": "IFC",
+        "hi": "IFC"
+      },
+      {
+        "en": "IBRD",
+        "hi": "IBRD"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The International Centre for Settlement of Investment Disputes offers conciliation and arbitration.",
+      "hi": "निवेश विवाद निपटान हेतु अंतर्राष्ट्रीय केंद्र सुलह और मध्यस्थता की सुविधा देता है।"
+    }
+  },
+  {
+    "id": "DQ-0093",
+    "category": "Global finance",
+    "sourceIds": [
+      "WB-WHO-2026"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which World Bank Group institution gives interest-free credits and grants to the poorest countries?",
+      "hi": "सबसे ग़रीब देशों को ब्याज-मुक्त ऋण और अनुदान देने वाली विश्व बैंक समूह की कौन सी संस्था है?"
+    },
+    "options": [
+      {
+        "en": "IDA",
+        "hi": "IDA"
+      },
+      {
+        "en": "IFC",
+        "hi": "IFC"
+      },
+      {
+        "en": "MIGA",
+        "hi": "MIGA"
+      },
+      {
+        "en": "ICSID",
+        "hi": "ICSID"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The International Development Association is the concessional lending arm of the group.",
+      "hi": "अंतर्राष्ट्रीय विकास संघ समूह की रियायती ऋण शाखा है।"
+    }
+  },
+  {
+    "id": "DQ-0094",
+    "category": "Awards",
+    "sourceIds": [
+      "NOBEL-WILL"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Alfred Nobel's will created prizes in how many original fields?",
+      "hi": "अल्फ्रेड नोबेल की वसीयत से कितने मूल क्षेत्रों में पुरस्कार बने?"
+    },
+    "options": [
+      {
+        "en": "Five",
+        "hi": "पाँच"
+      },
+      {
+        "en": "Three",
+        "hi": "तीन"
+      },
+      {
+        "en": "Six",
+        "hi": "छह"
+      },
+      {
+        "en": "Four",
+        "hi": "चार"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Physics, chemistry, physiology or medicine, literature and peace; economics was added much later.",
+      "hi": "भौतिकी, रसायन, चिकित्सा विज्ञान, साहित्य और शांति; अर्थशास्त्र का पुरस्कार बहुत बाद में जोड़ा गया।"
+    }
+  },
+  {
+    "id": "DQ-0095",
+    "category": "Awards",
+    "sourceIds": [
+      "NOBEL-WILL"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which Nobel Prize is presented in Oslo rather than Stockholm?",
+      "hi": "कौन सा नोबेल पुरस्कार स्टॉकहोम के बजाय ओस्लो में दिया जाता है?"
+    },
+    "options": [
+      {
+        "en": "The Peace Prize",
+        "hi": "शांति पुरस्कार"
+      },
+      {
+        "en": "The Physics Prize",
+        "hi": "भौतिकी पुरस्कार"
+      },
+      {
+        "en": "The Literature Prize",
+        "hi": "साहित्य पुरस्कार"
+      },
+      {
+        "en": "The Chemistry Prize",
+        "hi": "रसायन विज्ञान पुरस्कार"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Nobel's will assigned the peace award to a committee appointed by the Norwegian parliament.",
+      "hi": "नोबेल की वसीयत ने शांति पुरस्कार नॉर्वे की संसद द्वारा नियुक्त समिति को सौंपा।"
+    }
+  },
+  {
+    "id": "DQ-0096",
+    "category": "Awards",
+    "sourceIds": [
+      "NOBEL-WILL"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "In which year were the first Nobel Prizes handed out?",
+      "hi": "पहले नोबेल पुरस्कार किस वर्ष दिए गए?"
+    },
+    "options": [
+      {
+        "en": "1901",
+        "hi": "1901"
+      },
+      {
+        "en": "1896",
+        "hi": "1896"
+      },
+      {
+        "en": "1910",
+        "hi": "1910"
+      },
+      {
+        "en": "1921",
+        "hi": "1921"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Nobel died in 1896 and the first awards followed five years later.",
+      "hi": "नोबेल का निधन 1896 में हुआ और पाँच वर्ष बाद पहले पुरस्कार दिए गए।"
+    }
+  },
+  {
+    "id": "DQ-0097",
+    "category": "Literature",
+    "sourceIds": [
+      "NOBEL-TAGORE-BIO"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "In which year did Rabindranath Tagore receive the Nobel Prize in Literature?",
+      "hi": "रवींद्रनाथ टैगोर को साहित्य का नोबेल पुरस्कार किस वर्ष मिला?"
+    },
+    "options": [
+      {
+        "en": "1913",
+        "hi": "1913"
+      },
+      {
+        "en": "1901",
+        "hi": "1901"
+      },
+      {
+        "en": "1921",
+        "hi": "1921"
+      },
+      {
+        "en": "1930",
+        "hi": "1930"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "He was the first non-European to win the literature prize.",
+      "hi": "वे साहित्य का पुरस्कार जीतने वाले पहले ग़ैर-यूरोपीय थे।"
+    }
+  },
+  {
+    "id": "DQ-0098",
+    "category": "Literature",
+    "sourceIds": [
+      "NOBEL-TAGORE-BIO"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Tagore's Nobel award was cited for which collection of poems?",
+      "hi": "टैगोर को नोबेल पुरस्कार किस कविता संग्रह के लिए दिया गया?"
+    },
+    "options": [
+      {
+        "en": "Gitanjali",
+        "hi": "गीतांजलि"
+      },
+      {
+        "en": "Gora",
+        "hi": "गोरा"
+      },
+      {
+        "en": "Ghare-Baire",
+        "hi": "घरे-बाइरे"
+      },
+      {
+        "en": "Dak Ghar",
+        "hi": "डाक घर"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The English Gitanjali was published in 1912 with a preface by W. B. Yeats.",
+      "hi": "अंग्रेज़ी गीतांजलि 1912 में डब्ल्यू. बी. येट्स की भूमिका के साथ प्रकाशित हुई।"
+    }
+  },
+  {
+    "id": "DQ-0099",
+    "category": "Literature",
+    "sourceIds": [
+      "NOBEL-TAGORE-BIO"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which national anthem of India was written by Rabindranath Tagore?",
+      "hi": "भारत का कौन सा राष्ट्रीय गान रवींद्रनाथ टैगोर ने लिखा?"
+    },
+    "options": [
+      {
+        "en": "Jana Gana Mana",
+        "hi": "जन गण मन"
+      },
+      {
+        "en": "Vande Mataram",
+        "hi": "वंदे मातरम्"
+      },
+      {
+        "en": "Saare Jahan Se Achha",
+        "hi": "सारे जहाँ से अच्छा"
+      },
+      {
+        "en": "Amar Shonar Bangla",
+        "hi": "अमर सोनार बांग्ला"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Tagore also wrote Amar Shonar Bangla, now the national anthem of Bangladesh.",
+      "hi": "टैगोर ने अमर सोनार बांग्ला भी लिखा, जो अब बांग्लादेश का राष्ट्रीय गान है।"
+    }
+  },
+  {
+    "id": "DQ-0100",
+    "category": "History",
+    "sourceIds": [
+      "NARA-DECLARATION"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "On which date was the American Declaration of Independence adopted?",
+      "hi": "अमेरिकी स्वतंत्रता की घोषणा किस तिथि को अपनाई गई?"
+    },
+    "options": [
+      {
+        "en": "4 July 1776",
+        "hi": "4 जुलाई 1776"
+      },
+      {
+        "en": "4 July 1789",
+        "hi": "4 जुलाई 1789"
+      },
+      {
+        "en": "14 July 1776",
+        "hi": "14 जुलाई 1776"
+      },
+      {
+        "en": "4 June 1776",
+        "hi": "4 जून 1776"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The Second Continental Congress adopted it in Philadelphia.",
+      "hi": "इसे फ़िलाडेल्फ़िया में द्वितीय महाद्वीपीय कांग्रेस ने अपनाया।"
+    }
+  },
+  {
+    "id": "DQ-0101",
+    "category": "History",
+    "sourceIds": [
+      "NARA-DECLARATION"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who was the principal author of the American Declaration of Independence?",
+      "hi": "अमेरिकी स्वतंत्रता की घोषणा के मुख्य लेखक कौन थे?"
+    },
+    "options": [
+      {
+        "en": "Thomas Jefferson",
+        "hi": "थॉमस जेफ़रसन"
+      },
+      {
+        "en": "George Washington",
+        "hi": "जॉर्ज वॉशिंगटन"
+      },
+      {
+        "en": "Alexander Hamilton",
+        "hi": "अलेक्ज़ेंडर हैमिल्टन"
+      },
+      {
+        "en": "James Madison",
+        "hi": "जेम्स मैडिसन"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "He drafted it for the Committee of Five, which also included Adams and Franklin.",
+      "hi": "उन्होंने पाँच सदस्यीय समिति के लिए इसे तैयार किया, जिसमें एडम्स और फ़्रैंकलिन भी थे।"
+    }
+  },
+  {
+    "id": "DQ-0102",
+    "category": "History",
+    "sourceIds": [
+      "NARA-DECLARATION"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "The Declaration of Independence says governments draw their just powers from what?",
+      "hi": "स्वतंत्रता की घोषणा के अनुसार सरकारें अपनी न्यायोचित शक्तियाँ कहाँ से प्राप्त करती हैं?"
+    },
+    "options": [
+      {
+        "en": "The consent of the governed",
+        "hi": "शासितों की सहमति से"
+      },
+      {
+        "en": "The authority of the Crown",
+        "hi": "राजमुकुट के अधिकार से"
+      },
+      {
+        "en": "A treaty signed with France",
+        "hi": "फ़्रांस से हुई संधि द्वारा"
+      },
+      {
+        "en": "A vote taken by the army",
+        "hi": "सेना द्वारा लिए गए मत से"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "That phrase is the document's statement of popular sovereignty.",
+      "hi": "यह वाक्य उस दस्तावेज़ का लोकप्रिय संप्रभुता संबंधी कथन है।"
+    }
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "DQ-0103",
+    "category": "Computing",
+    "sourceIds": ["RFC-1034"],
+    "difficulty": "EASY",
+    "q": { "en": "In networking, what does DNS stand for?", "hi": "नेटवर्किंग में DNS का पूर्ण रूप क्या है?" },
+    "options": [
+      { "en": "Domain Name System", "hi": "डोमेन नेम सिस्टम" },
+      { "en": "Digital Node Service", "hi": "डिजिटल नोड सर्विस" },
+      { "en": "Direct Network Socket", "hi": "डायरेक्ट नेटवर्क सॉकेट" },
+      { "en": "Dynamic Naming Standard", "hi": "डायनामिक नेमिंग स्टैंडर्ड" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "The system is described in RFC 1034 and RFC 1035, published in November 1987.", "hi": "इस प्रणाली का वर्णन RFC 1034 और RFC 1035 में है, जो नवंबर 1987 में प्रकाशित हुए।" }
+  },
+  {
+    "id": "DQ-0104",
+    "category": "Computing",
+    "sourceIds": ["RFC-1034"],
+    "difficulty": "EASY",
+    "q": { "en": "What is the main job of DNS?", "hi": "DNS का मुख्य काम क्या है?" },
+    "options": [
+      { "en": "Turning domain names into IP addresses", "hi": "डोमेन नामों को IP पतों में बदलना" },
+      { "en": "Encrypting web traffic", "hi": "वेब ट्रैफ़िक एन्क्रिप्ट करना" },
+      { "en": "Storing email messages", "hi": "ईमेल संदेश सहेजना" },
+      { "en": "Compressing images", "hi": "छवियाँ संपीड़ित करना" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "It lets people use memorable names while machines still work with numeric addresses.", "hi": "इससे लोग याद रखने योग्य नाम उपयोग करते हैं जबकि मशीनें संख्यात्मक पतों पर काम करती हैं।" }
+  },
+  {
+    "id": "DQ-0105",
+    "category": "Computing",
+    "sourceIds": ["RFC-1034"],
+    "difficulty": "HARD",
+    "q": { "en": "In which year was RFC 1034, the paper that set out domain name concepts, published?", "hi": "डोमेन नाम की अवधारणाएँ देने वाला RFC 1034 किस वर्ष प्रकाशित हुआ?" },
+    "options": [
+      { "en": "1987", "hi": "1987" },
+      { "en": "1975", "hi": "1975" },
+      { "en": "1995", "hi": "1995" },
+      { "en": "2001", "hi": "2001" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "Paul Mockapetris wrote it for the Internet Engineering Task Force.", "hi": "इसे पॉल मॉकापेट्रिस ने इंटरनेट इंजीनियरिंग टास्क फ़ोर्स के लिए लिखा।" }
+  },
+  {
+    "id": "DQ-0106",
+    "category": "Computing",
+    "sourceIds": ["RFC-1034"],
+    "difficulty": "HARD",
+    "q": { "en": "In the domain name system, what does the word 'zone' mean?", "hi": "डोमेन नाम प्रणाली में 'ज़ोन' शब्द का क्या अर्थ है?" },
+    "options": [
+      { "en": "A portion of the name space that one name server is responsible for", "hi": "नाम स्थान का वह भाग जिसकी ज़िम्मेदारी एक नाम सर्वर लेता है" },
+      { "en": "A physical room holding the servers", "hi": "सर्वर रखने वाला भौतिक कमरा" },
+      { "en": "A country's border on the internet", "hi": "इंटरनेट पर किसी देश की सीमा" },
+      { "en": "A time period for cached records", "hi": "सहेजे गए रिकॉर्ड की समय अवधि" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "Zones let different organisations manage their own slice of the tree.", "hi": "ज़ोन के कारण अलग-अलग संगठन वृक्ष के अपने भाग का प्रबंधन कर सकते हैं।" }
+  },
+  {
+    "id": "DQ-0107",
+    "category": "Computing",
+    "sourceIds": ["RFC-1034"],
+    "difficulty": "MEDIUM",
+    "q": { "en": "The domain name space is arranged as an upside-down tree. What sits at its very top?", "hi": "डोमेन नाम स्थान एक उल्टे वृक्ष जैसा है। इसके सबसे ऊपर क्या होता है?" },
+    "options": [
+      { "en": "The root", "hi": "रूट" },
+      { "en": "The .com domain", "hi": ".com डोमेन" },
+      { "en": "The local host", "hi": "स्थानीय होस्ट" },
+      { "en": "The resolver cache", "hi": "रिज़ॉल्वर कैश" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "Top level domains such as .com and .org hang directly below the root.", "hi": ".com और .org जैसे शीर्ष स्तरीय डोमेन सीधे रूट के नीचे आते हैं।" }
+  },
+  {
+    "id": "DQ-0108",
+    "category": "Cybersecurity",
+    "sourceIds": ["NIST-CSRC-GLOSSARY-20261006"],
+    "difficulty": "MEDIUM",
+    "q": { "en": "What does 'phishing' describe in cybersecurity?", "hi": "साइबर सुरक्षा में 'फ़िशिंग' किसे कहते हैं?" },
+    "options": [
+      { "en": "Tricking people into revealing sensitive details by posing as a trusted party", "hi": "विश्वसनीय पक्ष बनकर लोगों से संवेदनशील जानकारी उगलवाना" },
+      { "en": "Scanning a network for open ports", "hi": "नेटवर्क पर खुले पोर्ट खोजना" },
+      { "en": "Slowing a server with heavy traffic", "hi": "भारी ट्रैफ़िक से सर्वर धीमा करना" },
+      { "en": "Copying a website's look for design study", "hi": "डिज़ाइन अध्ययन के लिए वेबसाइट की नक़ल करना" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "Phishing usually arrives as an email or message asking for passwords or card details.", "hi": "फ़िशिंग आम तौर पर पासवर्ड या कार्ड विवरण माँगने वाले ईमेल या संदेश के रूप में आती है।" }
+  },
+  {
+    "id": "DQ-0109",
+    "category": "Cybersecurity",
+    "sourceIds": ["NIST-CSRC-GLOSSARY-20261006"],
+    "difficulty": "EASY",
+    "q": { "en": "The word 'malware' is short for what?", "hi": "'मालवेयर' शब्द किसका संक्षिप्त रूप है?" },
+    "options": [
+      { "en": "Malicious software", "hi": "दुर्भावनापूर्ण सॉफ़्टवेयर" },
+      { "en": "Managed hardware", "hi": "प्रबंधित हार्डवेयर" },
+      { "en": "Mailing warehouse", "hi": "मेलिंग वेयरहाउस" },
+      { "en": "Mobile application", "hi": "मोबाइल एप्लिकेशन" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "Viruses, worms, trojans and spyware all fall under this umbrella term.", "hi": "वायरस, वर्म, ट्रोजन और स्पाइवेयर सब इसी शब्द में आते हैं।" }
+  },
+  {
+    "id": "DQ-0110",
+    "category": "Cybersecurity",
+    "sourceIds": ["NIST-CSRC-GLOSSARY-20261006"],
+    "difficulty": "EASY",
+    "q": { "en": "What does a firewall mainly do for a network?", "hi": "किसी नेटवर्क के लिए फ़ायरवॉल मुख्यतः क्या करता है?" },
+    "options": [
+      { "en": "Allows or blocks traffic according to a set of rules", "hi": "नियमों के अनुसार ट्रैफ़िक को अनुमति देता या रोकता है" },
+      { "en": "Speeds up downloads", "hi": "डाउनलोड तेज़ करता है" },
+      { "en": "Deletes duplicate files", "hi": "डुप्लिकेट फ़ाइलें मिटाता है" },
+      { "en": "Prints network reports", "hi": "नेटवर्क रिपोर्ट छापता है" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "It sits between networks and filters what may pass in either direction.", "hi": "यह नेटवर्कों के बीच बैठकर तय करता है कि किस दिशा में क्या आ-जा सकता है।" }
+  },
+  {
+    "id": "DQ-0111",
+    "category": "Cybersecurity",
+    "sourceIds": ["NIST-CSRC-GLOSSARY-20261006"],
+    "difficulty": "MEDIUM",
+    "q": { "en": "Which kind of malware locks your files and then demands payment to release them?", "hi": "किस प्रकार का मालवेयर आपकी फ़ाइलें बंद करके उन्हें खोलने के लिए पैसा माँगता है?" },
+    "options": [
+      { "en": "Ransomware", "hi": "रैनसमवेयर" },
+      { "en": "Adware", "hi": "एडवेयर" },
+      { "en": "Firmware", "hi": "फ़र्मवेयर" },
+      { "en": "Shareware", "hi": "शेयरवेयर" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "It encrypts the victim's data and holds the decryption key for ransom.", "hi": "यह पीड़ित का डेटा एन्क्रिप्ट करता है और डिक्रिप्शन कुंजी बंधक रखता है।" }
+  },
+  {
+    "id": "DQ-0112",
+    "category": "Cybersecurity",
+    "sourceIds": ["NIST-CSRC-GLOSSARY-20261006"],
+    "difficulty": "MEDIUM",
+    "q": { "en": "Two-factor authentication improves account security by requiring what?", "hi": "द्वि-कारक प्रमाणीकरण खाते की सुरक्षा कैसे बढ़ाता है?" },
+    "options": [
+      { "en": "Two different kinds of proof of identity", "hi": "पहचान के दो अलग-अलग प्रकार के प्रमाण" },
+      { "en": "A password twice as long", "hi": "दुगुना लंबा पासवर्ड" },
+      { "en": "Two separate accounts", "hi": "दो अलग खाते" },
+      { "en": "A password changed every two days", "hi": "हर दो दिन बदला जाने वाला पासवर्ड" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "A password you know plus a code from a device you hold are two different factors.", "hi": "आपका जाना हुआ पासवर्ड और आपके पास मौजूद उपकरण से मिला कोड दो अलग कारक हैं।" }
+  },
+  {
+    "id": "DQ-0113",
+    "category": "Weather",
+    "sourceIds": ["NOAA-NWS-GLOSSARY-20261007"],
+    "difficulty": "EASY",
+    "q": { "en": "Which instrument measures atmospheric pressure?", "hi": "वायुमंडलीय दाब किस यंत्र से मापा जाता है?" },
+    "options": [
+      { "en": "Barometer", "hi": "बैरोमीटर" },
+      { "en": "Hygrometer", "hi": "हाइग्रोमीटर" },
+      { "en": "Thermometer", "hi": "थर्मामीटर" },
+      { "en": "Seismometer", "hi": "सिस्मोमीटर" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "A falling barometer reading is one of the earliest hints of approaching bad weather.", "hi": "गिरता हुआ बैरोमीटर की रीडिंग खराब मौसम के आने का सबसे पहले मिलने वाला संकेत है।" }
+  },
+  {
+    "id": "DQ-0114",
+    "category": "Weather",
+    "sourceIds": ["NOAA-NWS-GLOSSARY-20261007"],
+    "difficulty": "MEDIUM",
+    "q": { "en": "What is the dew point?", "hi": "ओसांक क्या होता है?" },
+    "options": [
+      { "en": "The temperature at which air becomes saturated and vapour condenses", "hi": "वह तापमान जिस पर वायु संतृप्त होकर वाष्प संघनित होने लगे" },
+      { "en": "The hottest hour of the day", "hi": "दिन का सबसे गर्म समय" },
+      { "en": "The depth of the cloud base", "hi": "बादल की तली की ऊँचाई" },
+      { "en": "The pressure at sea level", "hi": "समुद्र तल पर दाब" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "When air cools to its dew point, dew, fog or clouds form.", "hi": "जब वायु अपने ओसांक तक ठंडी होती है तो ओस, कोहरा या बादल बनते हैं।" }
+  },
+  {
+    "id": "DQ-0115",
+    "category": "Weather",
+    "sourceIds": ["NOAA-NWS-GLOSSARY-20261007"],
+    "difficulty": "EASY",
+    "q": { "en": "Wind speed at a weather station is recorded with which instrument?", "hi": "मौसम केंद्र पर हवा की गति किस यंत्र से दर्ज की जाती है?" },
+    "options": [
+      { "en": "Anemometer", "hi": "एनीमोमीटर" },
+      { "en": "Barometer", "hi": "बैरोमीटर" },
+      { "en": "Rain gauge", "hi": "वर्षा मापक" },
+      { "en": "Pyranometer", "hi": "पायरानोमीटर" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "Cup or ultrasonic anemometers spin or sense airflow to give the speed.", "hi": "कप या अल्ट्रासोनिक एनीमोमीटर हवा के प्रवाह से गति बताते हैं।" }
+  },
+  {
+    "id": "DQ-0116",
+    "category": "Weather",
+    "sourceIds": ["NOAA-NWS-GLOSSARY-20261007"],
+    "difficulty": "MEDIUM",
+    "q": { "en": "In weather language, what does a cyclone refer to?", "hi": "मौसम विज्ञान की भाषा में चक्रवात किसे कहते हैं?" },
+    "options": [
+      { "en": "A large low-pressure system with winds spiralling inward", "hi": "कम दाब का बड़ा तंत्र जिसमें हवाएँ अंदर की ओर घूमती हैं" },
+      { "en": "A long period without rain", "hi": "बिना वर्षा की लंबी अवधि" },
+      { "en": "A sudden fall in humidity", "hi": "आर्द्रता में अचानक गिरावट" },
+      { "en": "A layer of cold air near the ground", "hi": "ज़मीन के पास ठंडी हवा की परत" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "The opposite, a high-pressure system with outward spiralling winds, is an anticyclone.", "hi": "इसके विपरीत, बाहर की ओर घूमती हवाओं वाला उच्च दाब तंत्र प्रतिचक्रवात कहलाता है।" }
+  },
+  {
+    "id": "DQ-0117",
+    "category": "Health",
+    "sourceIds": ["WHO-FIVE-KEYS"],
+    "difficulty": "EASY",
+    "q": { "en": "The WHO's five keys to safer food open with which piece of advice?", "hi": "सुरक्षित भोजन के लिए WHO की पाँच कुंजियाँ किस सलाह से शुरू होती हैं?" },
+    "options": [
+      { "en": "Keep clean", "hi": "साफ़ रखें" },
+      { "en": "Eat quickly", "hi": "जल्दी खाएँ" },
+      { "en": "Add more salt", "hi": "अधिक नमक डालें" },
+      { "en": "Serve food hot at all times", "hi": "भोजन हर समय गर्म परोसें" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "The other four are separating raw and cooked food, cooking thoroughly, safe temperatures and safe water and raw materials.", "hi": "अन्य चार हैं कच्चे और पके भोजन को अलग रखना, अच्छी तरह पकाना, सुरक्षित तापमान और सुरक्षित जल व कच्ची सामग्री।" }
+  },
+  {
+    "id": "DQ-0118",
+    "category": "Health",
+    "sourceIds": ["WHO-FOOD-SAFETY"],
+    "difficulty": "HARD",
+    "q": { "en": "In which temperature band do food-poisoning bacteria multiply fastest?", "hi": "भोजन से विषाक्त करने वाले जीवाणु किस तापमान सीमा में सबसे तेज़ी से बढ़ते हैं?" },
+    "options": [
+      { "en": "Between 5 and 60 degrees Celsius", "hi": "5 से 60 डिग्री सेल्सियस के बीच" },
+      { "en": "Below minus 18 degrees Celsius", "hi": "माइनस 18 डिग्री सेल्सियस से नीचे" },
+      { "en": "Above 100 degrees Celsius", "hi": "100 डिग्री सेल्सियस से ऊपर" },
+      { "en": "Between 0 and 2 degrees Celsius", "hi": "0 से 2 डिग्री सेल्सियस के बीच" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "Keeping hot food above 60 degrees and cold food below 5 degrees avoids that band.", "hi": "गर्म भोजन 60 डिग्री से ऊपर और ठंडा भोजन 5 डिग्री से नीचे रखने पर यह सीमा टल जाती है।" }
+  },
+  {
+    "id": "DQ-0119",
+    "category": "Health",
+    "sourceIds": ["WHO-FOOD-SAFETY", "WHO-FIVE-KEYS"],
+    "difficulty": "MEDIUM",
+    "q": { "en": "Why should raw meat be kept apart from ready-to-eat food in the kitchen?", "hi": "रसोई में कच्चे मांस को खाने के लिए तैयार भोजन से अलग क्यों रखना चाहिए?" },
+    "options": [
+      { "en": "To stop harmful germs transferring between them", "hi": "उनके बीच हानिकारक जीवाणुओं के जाने को रोकने के लिए" },
+      { "en": "To save refrigerator space", "hi": "फ़्रिज में जगह बचाने के लिए" },
+      { "en": "To keep the colours separate", "hi": "रंग अलग रखने के लिए" },
+      { "en": "To reduce the cooking time", "hi": "पकाने का समय घटाने के लिए" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "That transfer is called cross-contamination and is a leading cause of food-borne illness.", "hi": "इस स्थानांतरण को क्रॉस-कंटैमिनेशन कहते हैं और यह भोजन जनित बीमारी का प्रमुख कारण है।" }
+  },
+  {
+    "id": "DQ-0120",
+    "category": "Health",
+    "sourceIds": ["WHO-FOOD-SAFETY"],
+    "difficulty": "MEDIUM",
+    "q": { "en": "What does putting cooked food in the refrigerator actually do to the bacteria on it?", "hi": "पके भोजन को फ़्रिज में रखने से उस पर मौजूद जीवाणुओं का क्या होता है?" },
+    "options": [
+      { "en": "It slows their growth without destroying them", "hi": "वे धीमे पड़ जाते हैं पर नष्ट नहीं होते" },
+      { "en": "It kills all of them at once", "hi": "वे एक साथ सभी मर जाते हैं" },
+      { "en": "It makes them multiply faster", "hi": "वे तेज़ी से बढ़ने लगते हैं" },
+      { "en": "It turns them into harmless spores", "hi": "वे हानिरहित बीजाणु बन जाते हैं" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "Only heat, or long cooking, reduces the number of live bacteria in cooked food.", "hi": "पके भोजन में जीवित जीवाणुओं की संख्या केवल गर्मी या पर्याप्त पकाने से घटती है।" }
+  },
+  {
+    "id": "DQ-0121",
+    "category": "Chess",
+    "sourceIds": ["FIDE-LAWS-2023"],
+    "difficulty": "EASY",
+    "q": { "en": "How many pieces does each player command at the start of a chess game?", "hi": "शतरंज की शुरुआत में प्रत्येक खिलाड़ी के पास कितने मोहरे होते हैं?" },
+    "options": [
+      { "en": "Sixteen", "hi": "सोलह" },
+      { "en": "Twelve", "hi": "बारह" },
+      { "en": "Twenty", "hi": "बीस" },
+      { "en": "Thirty-two", "hi": "बत्तीस" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "One king, one queen, two rooks, two bishops, two knights and eight pawns.", "hi": "एक राजा, एक वज़ीर, दो हाथी, दो ऊँट, दो घोड़े और आठ प्यादे।" }
+  },
+  {
+    "id": "DQ-0122",
+    "category": "Chess",
+    "sourceIds": ["FIDE-LAWS-2023"],
+    "difficulty": "EASY",
+    "q": { "en": "In chess, which side makes the first move?", "hi": "शतरंज में पहली चाल किस पक्ष की होती है?" },
+    "options": [
+      { "en": "The player with the white pieces", "hi": "सफ़ेद मोहरों वाला खिलाड़ी" },
+      { "en": "The player with the black pieces", "hi": "काले मोहरों वाला खिलाड़ी" },
+      { "en": "Whoever wins the coin toss", "hi": "जो टॉस जीते" },
+      { "en": "The higher-rated player", "hi": "उच्च रेटिंग वाला खिलाड़ी" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "After that, players alternate one move at a time.", "hi": "इसके बाद दोनों खिलाड़ी बारी-बारी से एक-एक चाल चलते हैं।" }
+  },
+  {
+    "id": "DQ-0123",
+    "category": "Chess",
+    "sourceIds": ["FIDE-LAWS-2023"],
+    "difficulty": "HARD",
+    "q": { "en": "What is stalemate in chess?", "hi": "शतरंज में 'स्टेलमेट' क्या होता है?" },
+    "options": [
+      { "en": "The side to move has no legal move and its king is not in check, so the game is a draw", "hi": "जिस पक्ष की चाल है उसके पास कोई वैध चाल नहीं है और उसका राजा शह में नहीं है, इसलिए खेल बराबरी रहता है" },
+      { "en": "Both players repeat the same position three times", "hi": "दोनों खिलाड़ी एक ही स्थिति तीन बार दोहराते हैं" },
+      { "en": "A player's clock runs out while ahead on material", "hi": "मोहरों में आगे रहते हुए खिलाड़ी का समय समाप्त हो जाता है" },
+      { "en": "Neither player can deliver checkmate within fifty moves", "hi": "पचास चालों में कोई भी खिलाड़ी शहमात नहीं दे पाता" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "Stalemate saves many lost positions because the result becomes a draw, not a win.", "hi": "स्टेलमेट कई हारी हुई बाज़ी बचा लेता है क्योंकि परिणाम जीत नहीं बल्कि बराबरी होती है।" }
+  },
+  {
+    "id": "DQ-0124",
+    "category": "Chess",
+    "sourceIds": ["FIDE-LAWS-2023"],
+    "difficulty": "MEDIUM",
+    "q": { "en": "Castling is a single move that involves which two pieces?", "hi": "कैसलिंग एक ही चाल है जिसमें कौन से दो मोहरे शामिल होते हैं?" },
+    "options": [
+      { "en": "The king and a rook", "hi": "राजा और हाथी" },
+      { "en": "The queen and a knight", "hi": "वज़ीर और घोड़ा" },
+      { "en": "Two bishops", "hi": "दो ऊँट" },
+      { "en": "A pawn and the king", "hi": "प्यादा और राजा" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "The king moves two squares towards the rook, which jumps over it.", "hi": "राजा हाथी की ओर दो खाने चलता है और हाथी उसके ऊपर से कूद जाता है।" }
+  },
+  {
+    "id": "DQ-0125",
+    "category": "Chess",
+    "sourceIds": ["FIDE-LAWS-2023"],
+    "difficulty": "HARD",
+    "q": { "en": "En passant is a special capture that can be made only by which piece?", "hi": "'एन पासॉ' नामक विशेष कब्ज़ा केवल कौन सा मोहरा कर सकता है?" },
+    "options": [
+      { "en": "A pawn", "hi": "प्यादा" },
+      { "en": "A knight", "hi": "घोड़ा" },
+      { "en": "A rook", "hi": "हाथी" },
+      { "en": "The queen", "hi": "वज़ीर" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "It is allowed only on the move immediately after an enemy pawn advances two squares.", "hi": "यह केवल उसी चाल पर संभव है जब विरोधी प्यादा दो खाने आगे बढ़ा हो।" }
+  },
+  {
+    "id": "DQ-0126",
+    "category": "Chess",
+    "sourceIds": ["FIDE-LAWS-2023"],
+    "difficulty": "HARD",
+    "q": { "en": "Under the FIDE Laws of Chess, what happens when a player completes a first illegal move in a standard game?", "hi": "FIDE शतरंज नियमों के अनुसार, मानक खेल में किसी खिलाड़ी की पहली अवैध चाल पूरी होने पर क्या होता है?" },
+    "options": [
+      { "en": "Two minutes are added to the opponent's clock", "hi": "प्रतिद्वंद्वी की घड़ी में दो मिनट जोड़े जाते हैं" },
+      { "en": "The game ends immediately as a loss", "hi": "खेल तुरंत हार के साथ समाप्त हो जाता है" },
+      { "en": "The move is simply taken back", "hi": "चाल को सीधे वापस ले लिया जाता है" },
+      { "en": "One point is deducted from the player", "hi": "खिलाड़ी का एक अंक काटा जाता है" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "A second illegal move adds four minutes and a third loses the game.", "hi": "दूसरी अवैध चाल पर चार मिनट जुड़ते हैं और तीसरी पर खेल हार जाता है।" }
+  },
+  {
+    "id": "DQ-0127",
+    "category": "Cinema",
+    "sourceIds": ["SMG-CINEMA"],
+    "difficulty": "MEDIUM",
+    "q": { "en": "Who held the famous public film screening in Paris in 1895?", "hi": "1895 में पेरिस में प्रसिद्ध सार्वजनिक फ़िल्म प्रदर्शन किसने किया?" },
+    "options": [
+      { "en": "The Lumiere brothers", "hi": "लूमियर बंधु" },
+      { "en": "The Warner brothers", "hi": "वार्नर बंधु" },
+      { "en": "Charlie Chaplin", "hi": "चार्ली चैपलिन" },
+      { "en": "Georges Melies", "hi": "जॉर्ज मेलियस" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "Their short films of workers leaving a factory and a train arriving amazed the audience.", "hi": "कारख़ाने से निकलते मज़दूरों और आती हुई ट्रेन की उनकी छोटी फ़िल्में दर्शकों को चकित कर देती थीं।" }
+  },
+  {
+    "id": "DQ-0128",
+    "category": "Cinema",
+    "sourceIds": ["SMG-CINEMA"],
+    "difficulty": "HARD",
+    "q": { "en": "Which 1927 release is remembered for bringing synchronised sound to mainstream cinema?", "hi": "1927 की कौन सी फ़िल्म मुख्यधारा सिनेमा में समकालिक ध्वनि लाने के लिए याद की जाती है?" },
+    "options": [
+      { "en": "The Jazz Singer", "hi": "द जैज़ सिंगर" },
+      { "en": "Metropolis", "hi": "मेट्रोपॉलिस" },
+      { "en": "The Great Train Robbery", "hi": "द ग्रेट ट्रेन रॉबरी" },
+      { "en": "A Trip to the Moon", "hi": "अ ट्रिप टू द मून" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "Within a few years silent production had all but disappeared in Hollywood.", "hi": "कुछ ही वर्षों में हॉलीवुड में मूक फ़िल्म निर्माण लगभग समाप्त हो गया।" }
+  },
+  {
+    "id": "DQ-0129",
+    "category": "Culture",
+    "sourceIds": ["MET-GREEK-GODS"],
+    "difficulty": "EASY",
+    "q": { "en": "In Greek tradition, who rules the sky and leads the gods?", "hi": "यूनानी परंपरा में आकाश पर शासन करने वाले और देवताओं के प्रमुख कौन हैं?" },
+    "options": [
+      { "en": "Zeus", "hi": "ज़ीउस" },
+      { "en": "Apollo", "hi": "अपोलो" },
+      { "en": "Hermes", "hi": "हरमीस" },
+      { "en": "Ares", "hi": "एरीज़" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "Zeus is shown with the thunderbolt and presides over the council of gods.", "hi": "ज़ीउस को वज्र के साथ दर्शाया जाता है और वे देवताओं की सभा की अध्यक्षता करते हैं।" }
+  },
+  {
+    "id": "DQ-0130",
+    "category": "Culture",
+    "sourceIds": ["MET-GREEK-GODS"],
+    "difficulty": "EASY",
+    "q": { "en": "Which Greek goddess is linked with wisdom and strategic warfare?", "hi": "बुद्धि और रणनीतिक युद्ध से जुड़ी यूनानी देवी कौन हैं?" },
+    "options": [
+      { "en": "Athena", "hi": "एथीना" },
+      { "en": "Hera", "hi": "हीरा" },
+      { "en": "Demeter", "hi": "डेमीटर" },
+      { "en": "Artemis", "hi": "आर्टेमिस" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "Athens takes its name from her, and the Parthenon was built in her honour.", "hi": "एथेंस शहर का नाम उन्हीं पर है और पार्थेनॉन उनके सम्मान में बना।" }
+  },
+  {
+    "id": "DQ-0131",
+    "category": "Culture",
+    "sourceIds": ["MET-GREEK-GODS"],
+    "difficulty": "EASY",
+    "q": { "en": "Who is the Greek god of the sea, earthquakes and horses?", "hi": "समुद्र, भूकंप और घोड़ों के यूनानी देवता कौन हैं?" },
+    "options": [
+      { "en": "Poseidon", "hi": "पोसायडन" },
+      { "en": "Hephaestus", "hi": "हेफ़ेस्तस" },
+      { "en": "Dionysus", "hi": "डायोनिसस" },
+      { "en": "Cronus", "hi": "क्रोनस" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "He carries a trident and is the brother of Zeus and Hades.", "hi": "वे त्रिशूल धारण करते हैं और ज़ीउस व हेडीज़ के भाई हैं।" }
+  },
+  {
+    "id": "DQ-0132",
+    "category": "Culture",
+    "sourceIds": ["MET-GREEK-GODS"],
+    "difficulty": "MEDIUM",
+    "q": { "en": "Which Greek god rules the realm of the dead?", "hi": "मृतकों के लोक पर शासन करने वाले यूनानी देवता कौन हैं?" },
+    "options": [
+      { "en": "Hades", "hi": "हेडीज़" },
+      { "en": "Thanatos", "hi": "थानाटोस" },
+      { "en": "Hypnos", "hi": "हिप्नोस" },
+      { "en": "Tartarus", "hi": "टार्टारस" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "Hades himself is a god; Tartarus is a region beneath the underworld.", "hi": "हेडीज़ स्वयं देवता हैं; टार्टारस पाताल के नीचे का क्षेत्र है।" }
+  },
+  {
+    "id": "DQ-0133",
+    "category": "Culture",
+    "sourceIds": ["MET-GREEK-GODS"],
+    "difficulty": "EASY",
+    "q": { "en": "Which Greek goddess is associated with love and beauty?", "hi": "प्रेम और सौंदर्य से जुड़ी यूनानी देवी कौन हैं?" },
+    "options": [
+      { "en": "Aphrodite", "hi": "एफ़्रोडाइटी" },
+      { "en": "Hestia", "hi": "हेस्तिया" },
+      { "en": "Nike", "hi": "नाइकी" },
+      { "en": "Persephone", "hi": "पर्सेफ़ोनी" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "The Romans identified her with Venus.", "hi": "रोमन लोग उन्हें वीनस के रूप में देखते थे।" }
+  },
+  {
+    "id": "DQ-0134",
+    "category": "Health",
+    "sourceIds": ["NIH-NCI-GLOSSARY-20261007"],
+    "difficulty": "MEDIUM",
+    "q": { "en": "The spread of cancer from where it started to distant parts of the body is called what?", "hi": "कैंसर का अपने आरंभिक स्थान से शरीर के दूर भागों तक फैलना क्या कहलाता है?" },
+    "options": [
+      { "en": "Metastasis", "hi": "मेटास्टेसिस" },
+      { "en": "Remission", "hi": "रेमिशन" },
+      { "en": "Biopsy", "hi": "बायोप्सी" },
+      { "en": "Dialysis", "hi": "डायलिसिस" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "Cancer cells travel through blood or lymph to form secondary growths.", "hi": "कैंसर कोशिकाएँ रक्त या लसीका के ज़रिए जाकर द्वितीयक गाँठें बनाती हैं।" }
+  },
+  {
+    "id": "DQ-0135",
+    "category": "Health",
+    "sourceIds": ["NIH-NCI-GLOSSARY-20261007"],
+    "difficulty": "MEDIUM",
+    "q": { "en": "A growth that stays in one place and does not invade nearby tissue is described as what?", "hi": "ऐसी गाँठ जो एक जगह रहती है और आसपास के ऊतकों पर आक्रमण नहीं करती, उसे क्या कहते हैं?" },
+    "options": [
+      { "en": "Benign", "hi": "सौम्य" },
+      { "en": "Malignant", "hi": "घातक" },
+      { "en": "Metastatic", "hi": "मेटास्टैटिक" },
+      { "en": "Invasive", "hi": "आक्रामक" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "Malignant growths are the ones that invade and can spread.", "hi": "घातक गाँठें ही आक्रमण करती हैं और फैल सकती हैं।" }
+  },
+  {
+    "id": "DQ-0136",
+    "category": "Health",
+    "sourceIds": ["NIH-NCI-GLOSSARY-20261007"],
+    "difficulty": "EASY",
+    "q": { "en": "What is a biopsy?", "hi": "बायोप्सी क्या होती है?" },
+    "options": [
+      { "en": "Removing a small sample of tissue for examination under a microscope", "hi": "सूक्ष्मदर्शी से जाँच के लिए ऊतक का छोटा नमूना लेना" },
+      { "en": "Measuring blood pressure twice", "hi": "रक्तचाप दो बार मापना" },
+      { "en": "Scanning bones with X-rays", "hi": "एक्स-रे से हड्डियों का स्कैन" },
+      { "en": "Recording the heart's rhythm", "hi": "हृदय की लय दर्ज करना" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "Pathologists study the sample to decide whether the cells are cancerous.", "hi": "पैथोलॉजिस्ट उस नमूने से तय करते हैं कि कोशिकाएँ कैंसरयुक्त हैं या नहीं।" }
+  },
+  {
+    "id": "DQ-0137",
+    "category": "Health",
+    "sourceIds": ["NIH-NCI-GLOSSARY-20261007"],
+    "difficulty": "EASY",
+    "q": { "en": "Which treatment uses drugs to destroy or slow fast-growing cells?", "hi": "तेज़ी से बढ़ने वाली कोशिकाओं को नष्ट करने या धीमा करने के लिए किस उपचार में दवाइयाँ दी जाती हैं?" },
+    "options": [
+      { "en": "Chemotherapy", "hi": "कीमोथेरेपी" },
+      { "en": "Physiotherapy", "hi": "फ़िज़ियोथेरेपी" },
+      { "en": "Radiotherapy", "hi": "रेडियोथेरेपी" },
+      { "en": "Anaesthesia", "hi": "संवेदनाहरण" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "Radiotherapy uses radiation instead of circulating drugs.", "hi": "रेडियोथेरेपी में दवाओं के बजाय विकिरण का उपयोग होता है।" }
+  },
+  {
+    "id": "DQ-0138",
+    "category": "Global institutions",
+    "sourceIds": ["WHO-FOOD-SAFETY", "UN-MAIN-BODIES"],
+    "difficulty": "MEDIUM",
+    "q": { "en": "The World Health Organization works as a specialised agency of which body?", "hi": "विश्व स्वास्थ्य संगठन किस संस्था की विशिष्ट एजेंसी के रूप में कार्य करता है?" },
+    "options": [
+      { "en": "The United Nations", "hi": "संयुक्त राष्ट्र" },
+      { "en": "The World Trade Organization", "hi": "विश्व व्यापार संगठन" },
+      { "en": "The International Monetary Fund", "hi": "अंतर्राष्ट्रीय मुद्रा कोष" },
+      { "en": "The Commonwealth Secretariat", "hi": "राष्ट्रमंडल सचिवालय" }
+    ],
+    "correctIndex": 0,
+    "explanation": { "en": "WHO was founded on 7 April 1948 and coordinates international health work.", "hi": "WHO की स्थापना 7 अप्रैल 1948 को हुई और यह अंतर्राष्ट्रीय स्वास्थ्य कार्य का समन्वय करता है।" }
+  }
+]

@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "DQ-0001",
+    "category": "Space",
+    "sourceIds": [
+      "NASA-PLANETS"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which planet has the largest diameter in our solar system?",
+      "hi": "हमारे सौर मंडल में सबसे बड़ा व्यास किस ग्रह का है?"
+    },
+    "options": [
+      {
+        "en": "Mars",
+        "hi": "मंगल"
+      },
+      {
+        "en": "Jupiter",
+        "hi": "बृहस्पति"
+      },
+      {
+        "en": "Mercury",
+        "hi": "बुध"
+      },
+      {
+        "en": "Venus",
+        "hi": "शुक्र"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Jupiter is a gas giant wider than all the other planets combined would need to be to match it.",
+      "hi": "बृहस्पति एक गैस दानव है और इसका व्यास अन्य सभी ग्रहों से बहुत अधिक है।"
+    }
+  },
+  {
+    "id": "DQ-0002",
+    "category": "Space",
+    "sourceIds": [
+      "NASA-PLANETS"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which planet has the hottest surface because of a thick carbon dioxide atmosphere?",
+      "hi": "कार्बन डाइऑक्साइड की घनी परत के कारण किस ग्रह की सतह सबसे अधिक गर्म रहती है?"
+    },
+    "options": [
+      {
+        "en": "Mercury",
+        "hi": "बुध"
+      },
+      {
+        "en": "Venus",
+        "hi": "शुक्र"
+      },
+      {
+        "en": "Mars",
+        "hi": "मंगल"
+      },
+      {
+        "en": "Earth",
+        "hi": "पृथ्वी"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Venus traps heat under dense carbon dioxide clouds, so it stays hotter than Mercury even though Mercury sits closer to the Sun.",
+      "hi": "शुक्र घने कार्बन डाइऑक्साइड बादलों के नीचे गर्मी रोक लेता है, इसलिए बुध से पास होने के बावजूद वह उससे अधिक गर्म रहता है।"
+    }
+  },
+  {
+    "id": "DQ-0003",
+    "category": "Space",
+    "sourceIds": [
+      "NASA-PLANETS"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which of these is a rocky planet rather than a gas giant?",
+      "hi": "इनमें से कौन गैस दानव नहीं बल्कि चट्टानी ग्रह है?"
+    },
+    "options": [
+      {
+        "en": "Earth",
+        "hi": "पृथ्वी"
+      },
+      {
+        "en": "Jupiter",
+        "hi": "बृहस्पति"
+      },
+      {
+        "en": "Saturn",
+        "hi": "शनि"
+      },
+      {
+        "en": "Neptune",
+        "hi": "वरुण"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Mercury, Venus, Earth and Mars are the rocky inner worlds; Jupiter, Saturn, Uranus and Neptune are giants.",
+      "hi": "बुध, शुक्र, पृथ्वी और मंगल आंतरिक चट्टानी ग्रह हैं; बृहस्पति, शनि, अरुण और वरुण दानव ग्रह हैं।"
+    }
+  },
+  {
+    "id": "DQ-0004",
+    "category": "Space",
+    "sourceIds": [
+      "NASA-PLANETS"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which planet rolls around the Sun tipped on its side, with an axial tilt near 98 degrees?",
+      "hi": "कौन सा ग्रह लगभग 98 डिग्री झुकाव के साथ अपनी करवट पर सूर्य की परिक्रमा करता है?"
+    },
+    "options": [
+      {
+        "en": "Uranus",
+        "hi": "अरुण"
+      },
+      {
+        "en": "Neptune",
+        "hi": "वरुण"
+      },
+      {
+        "en": "Saturn",
+        "hi": "शनि"
+      },
+      {
+        "en": "Mars",
+        "hi": "मंगल"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Uranus spins almost on its side, so its poles face the Sun in turn for long stretches.",
+      "hi": "अरुण लगभग करवट पर घूमता है, इसलिए इसके ध्रुव लंबे समय तक बारी-बारी से सूर्य की ओर रहते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0005",
+    "category": "Space",
+    "sourceIds": [
+      "NASA-PLANETS"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which world finishes one full trip around the Sun in the shortest time?",
+      "hi": "सूर्य का एक पूरा चक्कर सबसे कम समय में कौन सा ग्रह पूरा करता है?"
+    },
+    "options": [
+      {
+        "en": "Mercury",
+        "hi": "बुध"
+      },
+      {
+        "en": "Venus",
+        "hi": "शुक्र"
+      },
+      {
+        "en": "Earth",
+        "hi": "पृथ्वी"
+      },
+      {
+        "en": "Mars",
+        "hi": "मंगल"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Being closest to the Sun, Mercury completes an orbit in about 88 Earth days.",
+      "hi": "सूर्य के सबसे निकट होने के कारण बुध लगभग 88 पृथ्वी दिनों में परिक्रमा पूरी करता है।"
+    }
+  },
+  {
+    "id": "DQ-0006",
+    "category": "Space",
+    "sourceIds": [
+      "NASA-PLANETS"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "The Great Red Spot, a storm larger than Earth, belongs to which planet?",
+      "hi": "पृथ्वी से बड़ा तूफ़ान 'ग्रेट रेड स्पॉट' किस ग्रह पर है?"
+    },
+    "options": [
+      {
+        "en": "Jupiter",
+        "hi": "बृहस्पति"
+      },
+      {
+        "en": "Saturn",
+        "hi": "शनि"
+      },
+      {
+        "en": "Uranus",
+        "hi": "अरुण"
+      },
+      {
+        "en": "Venus",
+        "hi": "शुक्र"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The Great Red Spot is a long-lived anticyclone in Jupiter's cloud belts.",
+      "hi": "ग्रेट रेड स्पॉट बृहस्पति के बादलों में चलने वाला दीर्घकालिक विशाल तूफ़ान है।"
+    }
+  },
+  {
+    "id": "DQ-0007",
+    "category": "Space",
+    "sourceIds": [
+      "NASA-PLANETS"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Phobos and Deimos orbit which planet?",
+      "hi": "फोबोस और डीमोस किस ग्रह के उपग्रह हैं?"
+    },
+    "options": [
+      {
+        "en": "Mars",
+        "hi": "मंगल"
+      },
+      {
+        "en": "Mercury",
+        "hi": "बुध"
+      },
+      {
+        "en": "Jupiter",
+        "hi": "बृहस्पति"
+      },
+      {
+        "en": "Saturn",
+        "hi": "शनि"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Mars has just two small, irregular moons: Phobos and Deimos.",
+      "hi": "मंगल के केवल दो छोटे अनियमित उपग्रह हैं: फोबोस और डीमोस।"
+    }
+  },
+  {
+    "id": "DQ-0008",
+    "category": "Space",
+    "sourceIds": [
+      "NASA-PLANETS"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which planet is known for a wide, bright ring system seen even through small telescopes?",
+      "hi": "किस ग्रह की चौड़ी और चमकीली वलय प्रणाली छोटी दूरबीन से भी दिख जाती है?"
+    },
+    "options": [
+      {
+        "en": "Saturn",
+        "hi": "शनि"
+      },
+      {
+        "en": "Mars",
+        "hi": "मंगल"
+      },
+      {
+        "en": "Venus",
+        "hi": "शुक्र"
+      },
+      {
+        "en": "Mercury",
+        "hi": "बुध"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Saturn's rings of ice and rock particles make it the most recognisable planet in a small telescope.",
+      "hi": "बर्फ़ और चट्टान के कणों से बनी शनि की वलय प्रणाली इसे छोटी दूरबीन में सबसे पहचानी जाने वाली बनाती है।"
+    }
+  },
+  {
+    "id": "DQ-0009",
+    "category": "Space",
+    "sourceIds": [
+      "NASA-SUN"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What is the Sun's visible surface layer, from which most sunlight escapes, called?",
+      "hi": "सूर्य की वह दृश्य सतह परत क्या कहलाती है जहाँ से अधिकांश प्रकाश निकलता है?"
+    },
+    "options": [
+      {
+        "en": "Photosphere",
+        "hi": "प्रकाशमंडल"
+      },
+      {
+        "en": "Corona",
+        "hi": "किरीट"
+      },
+      {
+        "en": "Core",
+        "hi": "क्रोड"
+      },
+      {
+        "en": "Chromosphere",
+        "hi": "वर्णमंडल"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The photosphere is the glowing layer we see as the Sun's surface.",
+      "hi": "प्रकाशमंडल वही चमकती परत है जिसे हम सूर्य की सतह के रूप में देखते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0010",
+    "category": "Space",
+    "sourceIds": [
+      "NASA-SUN"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Why do sunspots appear darker than the gas around them?",
+      "hi": "सनस्पॉट अपने आसपास की गैस से अधिक काले क्यों दिखते हैं?"
+    },
+    "options": [
+      {
+        "en": "They are cooler than the surrounding gas",
+        "hi": "वे आसपास की गैस से ठंडे होते हैं"
+      },
+      {
+        "en": "They are made of solid rock",
+        "hi": "वे ठोस चट्टान से बने होते हैं"
+      },
+      {
+        "en": "They cast a shadow from the Moon",
+        "hi": "वे चंद्रमा की छाया डालते हैं"
+      },
+      {
+        "en": "They absorb all incoming light",
+        "hi": "वे सारा आने वाला प्रकाश सोख लेते हैं"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Sunspots are cooler patches, and a cooler patch glows less brightly than the hotter gas beside it.",
+      "hi": "सनस्पॉट ठंडे क्षेत्र होते हैं, और ठंडा क्षेत्र पास की गर्म गैस की तुलना में कम चमकता है।"
+    }
+  },
+  {
+    "id": "DQ-0011",
+    "category": "Space",
+    "sourceIds": [
+      "NASA-SUN"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which part of the Sun becomes visible as a pearly halo during a total solar eclipse?",
+      "hi": "पूर्ण सूर्य ग्रहण के समय सूर्य का कौन सा भाग मोती जैसा घेरा बनकर दिखता है?"
+    },
+    "options": [
+      {
+        "en": "The corona",
+        "hi": "किरीट"
+      },
+      {
+        "en": "The photosphere",
+        "hi": "प्रकाशमंडल"
+      },
+      {
+        "en": "The core",
+        "hi": "क्रोड"
+      },
+      {
+        "en": "The radiative zone",
+        "hi": "विकिरण क्षेत्र"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The corona is the Sun's tenuous outer atmosphere, normally drowned out by the bright surface.",
+      "hi": "किरीट सूर्य का बाहरी विरल वायुमंडल है जो सामान्यतः तेज़ सतह के कारण नहीं दिखता।"
+    }
+  },
+  {
+    "id": "DQ-0012",
+    "category": "Space",
+    "sourceIds": [
+      "NASA-SUN"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Roughly how long does sunlight take to travel from the Sun to Earth?",
+      "hi": "सूर्य से पृथ्वी तक प्रकाश पहुँचने में लगभग कितना समय लगता है?"
+    },
+    "options": [
+      {
+        "en": "About 8 minutes",
+        "hi": "लगभग 8 मिनट"
+      },
+      {
+        "en": "About 8 seconds",
+        "hi": "लगभग 8 सेकंड"
+      },
+      {
+        "en": "About 8 hours",
+        "hi": "लगभग 8 घंटे"
+      },
+      {
+        "en": "About 8 days",
+        "hi": "लगभग 8 दिन"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Light covers the 150 million kilometre distance in roughly 8 minutes and 20 seconds.",
+      "hi": "प्रकाश लगभग 15 करोड़ किलोमीटर की दूरी करीब 8 मिनट 20 सेकंड में तय करता है।"
+    }
+  },
+  {
+    "id": "DQ-0013",
+    "category": "Space",
+    "sourceIds": [
+      "NASA-APOLLO11"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which mission first carried humans down to the Moon's surface?",
+      "hi": "मनुष्यों को पहली बार चंद्रमा की सतह तक कौन से मिशन ने पहुँचाया?"
+    },
+    "options": [
+      {
+        "en": "Apollo 11",
+        "hi": "अपोलो 11"
+      },
+      {
+        "en": "Apollo 8",
+        "hi": "अपोलो 8"
+      },
+      {
+        "en": "Gemini 12",
+        "hi": "जेमिनी 12"
+      },
+      {
+        "en": "Vostok 1",
+        "hi": "वोस्तोक 1"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Apollo 11 landed on the Moon in July 1969.",
+      "hi": "अपोलो 11 जुलाई 1969 में चंद्रमा पर उतरा।"
+    }
+  },
+  {
+    "id": "DQ-0014",
+    "category": "Space",
+    "sourceIds": [
+      "NASA-APOLLO11"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Who was the first person to walk on the Moon?",
+      "hi": "चंद्रमा पर चलने वाले पहले व्यक्ति कौन थे?"
+    },
+    "options": [
+      {
+        "en": "Neil Armstrong",
+        "hi": "नील आर्मस्ट्रांग"
+      },
+      {
+        "en": "Buzz Aldrin",
+        "hi": "बज़ एल्ड्रिन"
+      },
+      {
+        "en": "Michael Collins",
+        "hi": "माइकल कॉलिन्स"
+      },
+      {
+        "en": "Yuri Gagarin",
+        "hi": "यूरी गगारिन"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Neil Armstrong stepped onto the lunar surface first, followed by Buzz Aldrin.",
+      "hi": "नील आर्मस्ट्रांग पहले चंद्र सतह पर उतरे, उसके बाद बज़ एल्ड्रिन आए।"
+    }
+  },
+  {
+    "id": "DQ-0015",
+    "category": "Space",
+    "sourceIds": [
+      "NASA-APOLLO11"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "During the first Moon landing, who remained alone in orbit inside the Command Module?",
+      "hi": "पहली चंद्र लैंडिंग के दौरान कमांड मॉड्यूल में कक्षा में अकेले कौन रहे?"
+    },
+    "options": [
+      {
+        "en": "Michael Collins",
+        "hi": "माइकल कॉलिन्स"
+      },
+      {
+        "en": "Neil Armstrong",
+        "hi": "नील आर्मस्ट्रांग"
+      },
+      {
+        "en": "Buzz Aldrin",
+        "hi": "बज़ एल्ड्रिन"
+      },
+      {
+        "en": "Alan Shepard",
+        "hi": "एलन शेपर्ड"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Collins flew the Command Module Columbia in lunar orbit while his crewmates were on the surface.",
+      "hi": "कॉलिन्स ने चंद्र कक्षा में कमांड मॉड्यूल कोलंबिया उड़ाया जबकि उनके साथी सतह पर थे।"
+    }
+  },
+  {
+    "id": "DQ-0016",
+    "category": "Space",
+    "sourceIds": [
+      "NASA-APOLLO11"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What name was given to the lander that touched down on the Moon in 1969?",
+      "hi": "1969 में चंद्रमा पर उतरने वाले लैंडर का क्या नाम था?"
+    },
+    "options": [
+      {
+        "en": "Eagle",
+        "hi": "ईगल"
+      },
+      {
+        "en": "Columbia",
+        "hi": "कोलंबिया"
+      },
+      {
+        "en": "Endeavour",
+        "hi": "एंडेवर"
+      },
+      {
+        "en": "Falcon",
+        "hi": "फ़ाल्कन"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The lunar module was called Eagle; Columbia was the orbiting Command Module.",
+      "hi": "लूनर मॉड्यूल का नाम ईगल था; कोलंबिया कक्षा में रहने वाला कमांड मॉड्यूल था।"
+    }
+  },
+  {
+    "id": "DQ-0017",
+    "category": "Units",
+    "sourceIds": [
+      "BIPM-SI",
+      "NIST-SI-UNITS"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "How many base units does the International System of Units contain?",
+      "hi": "अंतर्राष्ट्रीय इकाई प्रणाली में कितनी मूल इकाइयाँ होती हैं?"
+    },
+    "options": [
+      {
+        "en": "Seven",
+        "hi": "सात"
+      },
+      {
+        "en": "Five",
+        "hi": "पाँच"
+      },
+      {
+        "en": "Nine",
+        "hi": "नौ"
+      },
+      {
+        "en": "Twelve",
+        "hi": "बारह"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The seven are metre, kilogram, second, ampere, kelvin, mole and candela.",
+      "hi": "सात मूल इकाइयाँ हैं: मीटर, किलोग्राम, सेकंड, ऐम्पियर, केल्विन, मोल और कैंडेला।"
+    }
+  },
+  {
+    "id": "DQ-0018",
+    "category": "Units",
+    "sourceIds": [
+      "BIPM-SI"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the SI base unit of electric current?",
+      "hi": "विद्युत धारा की SI मूल इकाई कौन सी है?"
+    },
+    "options": [
+      {
+        "en": "Ampere",
+        "hi": "ऐम्पियर"
+      },
+      {
+        "en": "Volt",
+        "hi": "वोल्ट"
+      },
+      {
+        "en": "Ohm",
+        "hi": "ओम"
+      },
+      {
+        "en": "Watt",
+        "hi": "वाट"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Volt, ohm and watt are derived from the ampere and the other base units.",
+      "hi": "वोल्ट, ओम और वाट ऐम्पियर तथा अन्य मूल इकाइयों से व्युत्पन्न हैं।"
+    }
+  },
+  {
+    "id": "DQ-0019",
+    "category": "Units",
+    "sourceIds": [
+      "BIPM-SI"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Luminous intensity is measured in which SI base unit?",
+      "hi": "ज्योति तीव्रता किस SI मूल इकाई में मापी जाती है?"
+    },
+    "options": [
+      {
+        "en": "Candela",
+        "hi": "कैंडेला"
+      },
+      {
+        "en": "Lumen",
+        "hi": "लुमेन"
+      },
+      {
+        "en": "Lux",
+        "hi": "लक्स"
+      },
+      {
+        "en": "Kelvin",
+        "hi": "केल्विन"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Candela is the base unit; lumen and lux are derived from it.",
+      "hi": "कैंडेला मूल इकाई है; लुमेन और लक्स इससे व्युत्पन्न हैं।"
+    }
+  },
+  {
+    "id": "DQ-0020",
+    "category": "Units",
+    "sourceIds": [
+      "BIPM-SI"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which SI base unit counts the amount of substance?",
+      "hi": "पदार्थ की मात्रा किस SI मूल इकाई में गिनी जाती है?"
+    },
+    "options": [
+      {
+        "en": "Mole",
+        "hi": "मोल"
+      },
+      {
+        "en": "Gram",
+        "hi": "ग्राम"
+      },
+      {
+        "en": "Litre",
+        "hi": "लीटर"
+      },
+      {
+        "en": "Kelvin",
+        "hi": "केल्विन"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "One mole holds a fixed number of elementary entities, defined by the Avogadro constant.",
+      "hi": "एक मोल में आवोगाद्रो नियतांक द्वारा निर्धारित निश्चित संख्या में मूल कण होते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0021",
+    "category": "Units",
+    "sourceIds": [
+      "BIPM-SI"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Thermodynamic temperature uses which SI base unit?",
+      "hi": "ऊष्मागतिक तापमान किस SI मूल इकाई में व्यक्त होता है?"
+    },
+    "options": [
+      {
+        "en": "Kelvin",
+        "hi": "केल्विन"
+      },
+      {
+        "en": "Celsius",
+        "hi": "सेल्सियस"
+      },
+      {
+        "en": "Fahrenheit",
+        "hi": "फ़ारेनहाइट"
+      },
+      {
+        "en": "Joule",
+        "hi": "जूल"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Kelvin is the base unit; degrees Celsius are expressed relative to it.",
+      "hi": "केल्विन मूल इकाई है; डिग्री सेल्सियस इसी के सापेक्ष व्यक्त की जाती है।"
+    }
+  },
+  {
+    "id": "DQ-0022",
+    "category": "Units",
+    "sourceIds": [
+      "BIPM-SI",
+      "NIST-SI-UNITS"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which of these is not one of the seven SI base units?",
+      "hi": "इनमें से कौन सात SI मूल इकाइयों में शामिल नहीं है?"
+    },
+    "options": [
+      {
+        "en": "Newton",
+        "hi": "न्यूटन"
+      },
+      {
+        "en": "Kelvin",
+        "hi": "केल्विन"
+      },
+      {
+        "en": "Mole",
+        "hi": "मोल"
+      },
+      {
+        "en": "Candela",
+        "hi": "कैंडेला"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The newton is a derived unit of force built from kilogram, metre and second.",
+      "hi": "न्यूटन बल की व्युत्पन्न इकाई है जो किलोग्राम, मीटर और सेकंड से बनती है।"
+    }
+  },
+  {
+    "id": "DQ-0023",
+    "category": "Units",
+    "sourceIds": [
+      "BIPM-PREFIXES",
+      "NIST-SI-PREFIXES"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "The SI prefix 'kilo' stands for which factor?",
+      "hi": "SI उपसर्ग 'किलो' किस गुणक को दर्शाता है?"
+    },
+    "options": [
+      {
+        "en": "1,000",
+        "hi": "1,000"
+      },
+      {
+        "en": "100",
+        "hi": "100"
+      },
+      {
+        "en": "10,000",
+        "hi": "10,000"
+      },
+      {
+        "en": "1,000,000",
+        "hi": "10,00,000"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Kilo multiplies a unit by one thousand, so a kilometre is 1,000 metres.",
+      "hi": "किलो किसी इकाई को हज़ार गुना करता है, अतः एक किलोमीटर 1,000 मीटर होता है।"
+    }
+  },
+  {
+    "id": "DQ-0024",
+    "category": "Units",
+    "sourceIds": [
+      "BIPM-PREFIXES",
+      "NIST-SI-PREFIXES"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which SI prefix represents one billionth, 10 to the minus 9?",
+      "hi": "कौन सा SI उपसर्ग एक अरबवाँ भाग, 10 की घात माइनस 9, दर्शाता है?"
+    },
+    "options": [
+      {
+        "en": "nano",
+        "hi": "नैनो"
+      },
+      {
+        "en": "micro",
+        "hi": "माइक्रो"
+      },
+      {
+        "en": "pico",
+        "hi": "पिको"
+      },
+      {
+        "en": "milli",
+        "hi": "मिली"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "nano = 10⁻⁹, micro = 10⁻⁶, pico = 10⁻¹² and milli = 10⁻³.",
+      "hi": "नैनो = 10⁻⁹, माइक्रो = 10⁻⁶, पिको = 10⁻¹² और मिली = 10⁻³।"
+    }
+  },
+  {
+    "id": "DQ-0025",
+    "category": "Units",
+    "sourceIds": [
+      "BIPM-PREFIXES"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "A red blood cell is roughly 8 micrometres wide. What does the prefix 'micro' mean in micrometre?",
+      "hi": "लाल रक्त कोशिका लगभग 8 माइक्रोमीटर चौड़ी होती है। माइक्रोमीटर में उपसर्ग 'माइक्रो' का क्या अर्थ है?"
+    },
+    "options": [
+      {
+        "en": "One millionth",
+        "hi": "दस लाखवाँ भाग"
+      },
+      {
+        "en": "One thousandth",
+        "hi": "हज़ारवाँ भाग"
+      },
+      {
+        "en": "One billionth",
+        "hi": "अरबवाँ भाग"
+      },
+      {
+        "en": "One hundredth",
+        "hi": "सौवाँ भाग"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "'micro' scales the metre down by 10 to the minus 6.",
+      "hi": "'माइक्रो' मीटर को 10 की घात माइनस 6 तक छोटा करता है।"
+    }
+  },
+  {
+    "id": "DQ-0026",
+    "category": "Units",
+    "sourceIds": [
+      "NIST-SI-PREFIXES"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "The SI prefix 'tera' stands for which factor?",
+      "hi": "SI उपसर्ग 'टेरा' किस गुणक को दर्शाता है?"
+    },
+    "options": [
+      {
+        "en": "One trillion, 10 to the power 12",
+        "hi": "एक खरब, 10 की घात 12"
+      },
+      {
+        "en": "One billion, 10 to the power 9",
+        "hi": "एक अरब, 10 की घात 9"
+      },
+      {
+        "en": "One quadrillion, 10 to the power 15",
+        "hi": "एक करोड़ अरब, 10 की घात 15"
+      },
+      {
+        "en": "One million, 10 to the power 6",
+        "hi": "दस लाख, 10 की घात 6"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "tera = 10¹²; giga is 10⁹, peta is 10¹⁵ and mega is 10⁶.",
+      "hi": "टेरा = 10¹²; गीगा 10⁹, पेटा 10¹⁵ और मेगा 10⁶ है।"
+    }
+  },
+  {
+    "id": "DQ-0027",
+    "category": "Units",
+    "sourceIds": [
+      "NIST-SI-CONVERSION"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "One inch is exactly equal to how many centimetres?",
+      "hi": "एक इंच ठीक-ठीक कितने सेंटीमीटर के बराबर होता है?"
+    },
+    "options": [
+      {
+        "en": "2.54",
+        "hi": "2.54"
+      },
+      {
+        "en": "2.5",
+        "hi": "2.5"
+      },
+      {
+        "en": "25",
+        "hi": "25"
+      },
+      {
+        "en": "3.28",
+        "hi": "3.28"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Since 1959 the inch has been defined as exactly 2.54 centimetres.",
+      "hi": "1959 से इंच को ठीक 2.54 सेंटीमीटर के रूप में परिभाषित किया गया है।"
+    }
+  },
+  {
+    "id": "DQ-0028",
+    "category": "Units",
+    "sourceIds": [
+      "NIST-SI-CONVERSION"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "A nautical mile, used by ships and aircraft, is exactly how many metres?",
+      "hi": "जहाज़ों और विमानों में प्रयुक्त एक समुद्री मील ठीक कितने मीटर होती है?"
+    },
+    "options": [
+      {
+        "en": "1,852",
+        "hi": "1,852"
+      },
+      {
+        "en": "1,609",
+        "hi": "1,609"
+      },
+      {
+        "en": "1,000",
+        "hi": "1,000"
+      },
+      {
+        "en": "2,000",
+        "hi": "2,000"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The international nautical mile is fixed at 1,852 metres; 1,609 metres is a statute mile.",
+      "hi": "अंतर्राष्ट्रीय समुद्री मील 1,852 मीटर निश्चित है; 1,609 मीटर एक स्थलीय मील है।"
+    }
+  },
+  {
+    "id": "DQ-0029",
+    "category": "Ocean",
+    "sourceIds": [
+      "NOAA-OCEAN-TECH-2026"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which technique maps the seafloor by timing sound pulses that bounce back from it?",
+      "hi": "समुद्र तल से टकराकर लौटने वाली ध्वनि तरंगों का समय मापकर उसे किस तकनीक से चित्रित किया जाता है?"
+    },
+    "options": [
+      {
+        "en": "Sonar",
+        "hi": "सोनार"
+      },
+      {
+        "en": "Radar",
+        "hi": "राडार"
+      },
+      {
+        "en": "Lidar",
+        "hi": "लाइडार"
+      },
+      {
+        "en": "Magnetometry",
+        "hi": "चुंबकमिति"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Sound travels well through water, so sonar rather than radar is used beneath the surface.",
+      "hi": "जल में ध्वनि अच्छी यात्रा करती है, इसलिए सतह के नीचे राडार के बजाय सोनार का उपयोग होता है।"
+    }
+  },
+  {
+    "id": "DQ-0030",
+    "category": "Ocean",
+    "sourceIds": [
+      "NOAA-OCEAN-TECH-2026"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In ocean exploration, what does the abbreviation ROV stand for?",
+      "hi": "समुद्र अन्वेषण में ROV का पूर्ण रूप क्या है?"
+    },
+    "options": [
+      {
+        "en": "Remotely operated vehicle",
+        "hi": "रिमोटली ऑपरेटेड व्हीकल"
+      },
+      {
+        "en": "Rapid ocean vessel",
+        "hi": "रैपिड ओशन वेसल"
+      },
+      {
+        "en": "Rotating observation valve",
+        "hi": "रोटेटिंग ऑब्ज़र्वेशन वाल्व"
+      },
+      {
+        "en": "Reef observation volume",
+        "hi": "रीफ़ ऑब्ज़र्वेशन वॉल्यूम"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "An ROV is an untethered-crew underwater robot driven from the ship by a cable.",
+      "hi": "ROV एक ऐसा जलमग्न रोबोट है जिसे जहाज़ से केबल द्वारा चलाया जाता है और उसमें चालक दल नहीं होता।"
+    }
+  },
+  {
+    "id": "DQ-0031",
+    "category": "Ocean",
+    "sourceIds": [
+      "NOAA-OCEAN-TECH-2026"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "The deepest known point in the world's oceans lies in which trench?",
+      "hi": "विश्व के महासागरों का सबसे गहरा ज्ञात बिंदु किस खाई में स्थित है?"
+    },
+    "options": [
+      {
+        "en": "Mariana Trench",
+        "hi": "मारियाना खाई"
+      },
+      {
+        "en": "Tonga Trench",
+        "hi": "टोंगा खाई"
+      },
+      {
+        "en": "Puerto Rico Trench",
+        "hi": "प्यूर्टो रिको खाई"
+      },
+      {
+        "en": "Java Trench",
+        "hi": "जावा खाई"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The Challenger Deep inside the Mariana Trench reaches nearly 11 kilometres down.",
+      "hi": "मारियाना खाई के भीतर चैलेंजर डीप लगभग 11 किलोमीटर तक गहरी है।"
+    }
+  },
+  {
+    "id": "DQ-0032",
+    "category": "Ocean",
+    "sourceIds": [
+      "NOAA-OCEAN-TECH-2026"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Life clustered around deep-sea hydrothermal vents draws its energy mainly through which process?",
+      "hi": "गहरे समुद्र की हाइड्रोथर्मल वेंट के आसपास का जीवन मुख्यतः किस प्रक्रिया से ऊर्जा पाता है?"
+    },
+    "options": [
+      {
+        "en": "Chemosynthesis",
+        "hi": "रसोसंश्लेषण"
+      },
+      {
+        "en": "Photosynthesis",
+        "hi": "प्रकाशसंश्लेषण"
+      },
+      {
+        "en": "Fermentation",
+        "hi": "किण्वन"
+      },
+      {
+        "en": "Respiration of sunlight",
+        "hi": "सूर्य प्रकाश का श्वसन"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Sunlight never reaches those depths, so microbes build food from chemicals in the vent fluids.",
+      "hi": "वहाँ तक सूर्य का प्रकाश नहीं पहुँचता, इसलिए सूक्ष्मजीव वेंट के रसायनों से भोजन बनाते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0033",
+    "category": "Ocean",
+    "sourceIds": [
+      "NOAA-OCEAN-TECH-2026"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In ocean exploration, what does the abbreviation AUV stand for?",
+      "hi": "समुद्र अन्वेषण में AUV का पूर्ण रूप क्या है?"
+    },
+    "options": [
+      {
+        "en": "Autonomous underwater vehicle",
+        "hi": "ऑटोनोमस अंडरवाटर व्हीकल"
+      },
+      {
+        "en": "Assisted uplift valve",
+        "hi": "असिस्टेड अपलिफ़्ट वाल्व"
+      },
+      {
+        "en": "Aerial underwater viewer",
+        "hi": "एरियल अंडरवाटर व्यूअर"
+      },
+      {
+        "en": "Anchor utility vessel",
+        "hi": "एंकर यूटिलिटी वेसल"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Unlike an ROV, an AUV swims freely on a pre-programmed route without a tether to the ship.",
+      "hi": "ROV के विपरीत, AUV बिना केबल के पूर्व-निर्धारित मार्ग पर स्वतंत्र रूप से तैरता है।"
+    }
+  },
+  {
+    "id": "DQ-0034",
+    "category": "Space",
+    "sourceIds": [
+      "NASA-PLANETS"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which planet is whipped by the fastest winds measured in the solar system?",
+      "hi": "सौर मंडल में मापी गई सबसे तेज़ हवाएँ किस ग्रह पर चलती हैं?"
+    },
+    "options": [
+      {
+        "en": "Neptune",
+        "hi": "वरुण"
+      },
+      {
+        "en": "Jupiter",
+        "hi": "बृहस्पति"
+      },
+      {
+        "en": "Earth",
+        "hi": "पृथ्वी"
+      },
+      {
+        "en": "Venus",
+        "hi": "शुक्र"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Neptune's winds can exceed 2,000 kilometres per hour despite its distance from the Sun.",
+      "hi": "सूर्य से दूर होने के बावजूद वरुण की हवाएँ 2,000 किलोमीटर प्रति घंटा से अधिक गति से चल सकती हैं।"
+    }
+  },
+  {
+    "id": "DQ-0035",
+    "category": "Units",
+    "sourceIds": [
+      "BIPM-SI",
+      "NPL-TIME"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "The SI second is defined by counting vibrations of which atom?",
+      "hi": "SI सेकंड की परिभाषा किस परमाणु के कंपन गिनकर की जाती है?"
+    },
+    "options": [
+      {
+        "en": "Caesium-133",
+        "hi": "सीज़ियम-133"
+      },
+      {
+        "en": "Hydrogen-1",
+        "hi": "हाइड्रोजन-1"
+      },
+      {
+        "en": "Carbon-12",
+        "hi": "कार्बन-12"
+      },
+      {
+        "en": "Oxygen-16",
+        "hi": "ऑक्सीजन-16"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The second is fixed at 9,192,631,770 periods of the caesium-133 transition.",
+      "hi": "सेकंड को सीज़ियम-133 संक्रमण के 9,192,631,770 आवर्तकाल के बराबर निश्चित किया गया है।"
+    }
+  }
+]
