@@ -28,6 +28,7 @@ const files = {
   [ZIP_NAME.replace('.zip', '') + '/parts/part-02-india.json']: 'content/questions/parts/part-02-india.json',
   [ZIP_NAME.replace('.zip', '') + '/parts/part-03-international.json']: 'content/questions/parts/part-03-international.json',
   [ZIP_NAME.replace('.zip', '') + '/parts/part-04-science-culture.json']: 'content/questions/parts/part-04-science-culture.json',
+  [ZIP_NAME.replace('.zip', '') + '/COMPLETE_QUESTION_BANK.txt']: 'content/questions/COMPLETE_QUESTION_BANK.txt',
   [ZIP_NAME.replace('.zip', '') + '/scripts/question-lint.mjs']: 'scripts/question-lint.mjs',
 };
 
