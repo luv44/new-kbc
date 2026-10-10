@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T17:11:58.163Z",
+  "generatedAt": "2026-10-10T17:23:36.769Z",
   "lifecycle": "DRAFT_PENDING_REVIEW",
   "count": 138,
   "bannedWordPolicy": [
@@ -64,20 +64,20 @@
       },
       "options": [
         {
-          "en": "Mars",
-          "hi": "मंगल"
+          "en": "Mercury",
+          "hi": "बुध"
         },
         {
           "en": "Jupiter",
           "hi": "बृहस्पति"
         },
         {
-          "en": "Mercury",
-          "hi": "बुध"
-        },
-        {
           "en": "Venus",
           "hi": "शुक्र"
+        },
+        {
+          "en": "Mars",
+          "hi": "मंगल"
         }
       ],
       "correctIndex": 1,
@@ -120,6 +120,10 @@
       },
       "options": [
         {
+          "en": "Mars",
+          "hi": "मंगल"
+        },
+        {
           "en": "Mercury",
           "hi": "बुध"
         },
@@ -128,15 +132,11 @@
           "hi": "शुक्र"
         },
         {
-          "en": "Mars",
-          "hi": "मंगल"
-        },
-        {
           "en": "Earth",
           "hi": "पृथ्वी"
         }
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -184,12 +184,12 @@
           "hi": "बृहस्पति"
         },
         {
-          "en": "Saturn",
-          "hi": "शनि"
-        },
-        {
           "en": "Neptune",
           "hi": "वरुण"
+        },
+        {
+          "en": "Saturn",
+          "hi": "शनि"
         }
       ],
       "correctIndex": 0,
@@ -232,23 +232,23 @@
       },
       "options": [
         {
-          "en": "Uranus",
-          "hi": "अरुण"
-        },
-        {
-          "en": "Neptune",
-          "hi": "वरुण"
-        },
-        {
           "en": "Saturn",
           "hi": "शनि"
         },
         {
+          "en": "Uranus",
+          "hi": "अरुण"
+        },
+        {
           "en": "Mars",
           "hi": "मंगल"
+        },
+        {
+          "en": "Neptune",
+          "hi": "वरुण"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -288,23 +288,23 @@
       },
       "options": [
         {
-          "en": "Mercury",
-          "hi": "बुध"
-        },
-        {
-          "en": "Venus",
-          "hi": "शुक्र"
-        },
-        {
           "en": "Earth",
           "hi": "पृथ्वी"
         },
         {
+          "en": "Mercury",
+          "hi": "बुध"
+        },
+        {
           "en": "Mars",
           "hi": "मंगल"
+        },
+        {
+          "en": "Venus",
+          "hi": "शुक्र"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -344,8 +344,8 @@
       },
       "options": [
         {
-          "en": "Jupiter",
-          "hi": "बृहस्पति"
+          "en": "Venus",
+          "hi": "शुक्र"
         },
         {
           "en": "Saturn",
@@ -356,11 +356,11 @@
           "hi": "अरुण"
         },
         {
-          "en": "Venus",
-          "hi": "शुक्र"
+          "en": "Jupiter",
+          "hi": "बृहस्पति"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -404,16 +404,16 @@
           "hi": "मंगल"
         },
         {
+          "en": "Saturn",
+          "hi": "शनि"
+        },
+        {
           "en": "Mercury",
           "hi": "बुध"
         },
         {
           "en": "Jupiter",
           "hi": "बृहस्पति"
-        },
-        {
-          "en": "Saturn",
-          "hi": "शनि"
         }
       ],
       "correctIndex": 0,
@@ -460,16 +460,16 @@
           "hi": "शनि"
         },
         {
-          "en": "Mars",
-          "hi": "मंगल"
+          "en": "Mercury",
+          "hi": "बुध"
         },
         {
           "en": "Venus",
           "hi": "शुक्र"
         },
         {
-          "en": "Mercury",
-          "hi": "बुध"
+          "en": "Mars",
+          "hi": "मंगल"
         }
       ],
       "correctIndex": 0,
@@ -512,10 +512,6 @@
       },
       "options": [
         {
-          "en": "Photosphere",
-          "hi": "प्रकाशमंडल"
-        },
-        {
           "en": "Corona",
           "hi": "किरीट"
         },
@@ -526,9 +522,13 @@
         {
           "en": "Chromosphere",
           "hi": "वर्णमंडल"
+        },
+        {
+          "en": "Photosphere",
+          "hi": "प्रकाशमंडल"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -568,23 +568,23 @@
       },
       "options": [
         {
-          "en": "They are cooler than the surrounding gas",
-          "hi": "वे आसपास की गैस से ठंडे होते हैं"
+          "en": "They cast a shadow from the Moon",
+          "hi": "वे चंद्रमा की छाया डालते हैं"
         },
         {
           "en": "They are made of solid rock",
           "hi": "वे ठोस चट्टान से बने होते हैं"
         },
         {
-          "en": "They cast a shadow from the Moon",
-          "hi": "वे चंद्रमा की छाया डालते हैं"
+          "en": "They are cooler than the surrounding gas",
+          "hi": "वे आसपास की गैस से ठंडे होते हैं"
         },
         {
           "en": "They absorb all incoming light",
           "hi": "वे सारा आने वाला प्रकाश सोख लेते हैं"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -624,23 +624,23 @@
       },
       "options": [
         {
-          "en": "The corona",
-          "hi": "किरीट"
-        },
-        {
           "en": "The photosphere",
           "hi": "प्रकाशमंडल"
         },
         {
-          "en": "The core",
-          "hi": "क्रोड"
+          "en": "The corona",
+          "hi": "किरीट"
         },
         {
           "en": "The radiative zone",
           "hi": "विकिरण क्षेत्र"
+        },
+        {
+          "en": "The core",
+          "hi": "क्रोड"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -680,23 +680,23 @@
       },
       "options": [
         {
-          "en": "About 8 minutes",
-          "hi": "लगभग 8 मिनट"
-        },
-        {
           "en": "About 8 seconds",
           "hi": "लगभग 8 सेकंड"
+        },
+        {
+          "en": "About 8 days",
+          "hi": "लगभग 8 दिन"
         },
         {
           "en": "About 8 hours",
           "hi": "लगभग 8 घंटे"
         },
         {
-          "en": "About 8 days",
-          "hi": "लगभग 8 दिन"
+          "en": "About 8 minutes",
+          "hi": "लगभग 8 मिनट"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -736,23 +736,23 @@
       },
       "options": [
         {
-          "en": "Apollo 11",
-          "hi": "अपोलो 11"
-        },
-        {
           "en": "Apollo 8",
           "hi": "अपोलो 8"
         },
         {
-          "en": "Gemini 12",
-          "hi": "जेमिनी 12"
-        },
-        {
           "en": "Vostok 1",
           "hi": "वोस्तोक 1"
+        },
+        {
+          "en": "Apollo 11",
+          "hi": "अपोलो 11"
+        },
+        {
+          "en": "Gemini 12",
+          "hi": "जेमिनी 12"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -792,23 +792,23 @@
       },
       "options": [
         {
-          "en": "Neil Armstrong",
-          "hi": "नील आर्मस्ट्रांग"
+          "en": "Yuri Gagarin",
+          "hi": "यूरी गगारिन"
         },
         {
-          "en": "Buzz Aldrin",
-          "hi": "बज़ एल्ड्रिन"
+          "en": "Neil Armstrong",
+          "hi": "नील आर्मस्ट्रांग"
         },
         {
           "en": "Michael Collins",
           "hi": "माइकल कॉलिन्स"
         },
         {
-          "en": "Yuri Gagarin",
-          "hi": "यूरी गगारिन"
+          "en": "Buzz Aldrin",
+          "hi": "बज़ एल्ड्रिन"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -852,12 +852,12 @@
           "hi": "माइकल कॉलिन्स"
         },
         {
-          "en": "Neil Armstrong",
-          "hi": "नील आर्मस्ट्रांग"
-        },
-        {
           "en": "Buzz Aldrin",
           "hi": "बज़ एल्ड्रिन"
+        },
+        {
+          "en": "Neil Armstrong",
+          "hi": "नील आर्मस्ट्रांग"
         },
         {
           "en": "Alan Shepard",
@@ -904,23 +904,23 @@
       },
       "options": [
         {
-          "en": "Eagle",
-          "hi": "ईगल"
-        },
-        {
-          "en": "Columbia",
-          "hi": "कोलंबिया"
-        },
-        {
           "en": "Endeavour",
           "hi": "एंडेवर"
         },
         {
           "en": "Falcon",
           "hi": "फ़ाल्कन"
+        },
+        {
+          "en": "Eagle",
+          "hi": "ईगल"
+        },
+        {
+          "en": "Columbia",
+          "hi": "कोलंबिया"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -960,23 +960,23 @@
       },
       "options": [
         {
-          "en": "Seven",
-          "hi": "सात"
+          "en": "Nine",
+          "hi": "नौ"
         },
         {
           "en": "Five",
           "hi": "पाँच"
         },
         {
-          "en": "Nine",
-          "hi": "नौ"
-        },
-        {
           "en": "Twelve",
           "hi": "बारह"
+        },
+        {
+          "en": "Seven",
+          "hi": "सात"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -1021,16 +1021,16 @@
           "hi": "ऐम्पियर"
         },
         {
-          "en": "Volt",
-          "hi": "वोल्ट"
+          "en": "Watt",
+          "hi": "वाट"
         },
         {
           "en": "Ohm",
           "hi": "ओम"
         },
         {
-          "en": "Watt",
-          "hi": "वाट"
+          "en": "Volt",
+          "hi": "वोल्ट"
         }
       ],
       "correctIndex": 0,
@@ -1073,23 +1073,23 @@
       },
       "options": [
         {
-          "en": "Candela",
-          "hi": "कैंडेला"
+          "en": "Kelvin",
+          "hi": "केल्विन"
         },
         {
           "en": "Lumen",
           "hi": "लुमेन"
         },
         {
-          "en": "Lux",
-          "hi": "लक्स"
+          "en": "Candela",
+          "hi": "कैंडेला"
         },
         {
-          "en": "Kelvin",
-          "hi": "केल्विन"
+          "en": "Lux",
+          "hi": "लक्स"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -1137,12 +1137,12 @@
           "hi": "ग्राम"
         },
         {
-          "en": "Litre",
-          "hi": "लीटर"
-        },
-        {
           "en": "Kelvin",
           "hi": "केल्विन"
+        },
+        {
+          "en": "Litre",
+          "hi": "लीटर"
         }
       ],
       "correctIndex": 0,
@@ -1185,23 +1185,23 @@
       },
       "options": [
         {
-          "en": "Kelvin",
-          "hi": "केल्विन"
-        },
-        {
-          "en": "Celsius",
-          "hi": "सेल्सियस"
-        },
-        {
           "en": "Fahrenheit",
           "hi": "फ़ारेनहाइट"
         },
         {
           "en": "Joule",
           "hi": "जूल"
+        },
+        {
+          "en": "Kelvin",
+          "hi": "केल्विन"
+        },
+        {
+          "en": "Celsius",
+          "hi": "सेल्सियस"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -1241,6 +1241,10 @@
       },
       "options": [
         {
+          "en": "Candela",
+          "hi": "कैंडेला"
+        },
+        {
           "en": "Newton",
           "hi": "न्यूटन"
         },
@@ -1251,13 +1255,9 @@
         {
           "en": "Mole",
           "hi": "मोल"
-        },
-        {
-          "en": "Candela",
-          "hi": "कैंडेला"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -1298,23 +1298,23 @@
       },
       "options": [
         {
-          "en": "1,000",
-          "hi": "1,000"
+          "en": "1,000,000",
+          "hi": "10,00,000"
         },
         {
           "en": "100",
           "hi": "100"
         },
         {
-          "en": "10,000",
-          "hi": "10,000"
+          "en": "1,000",
+          "hi": "1,000"
         },
         {
-          "en": "1,000,000",
-          "hi": "10,00,000"
+          "en": "10,000",
+          "hi": "10,000"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -1355,23 +1355,23 @@
       },
       "options": [
         {
-          "en": "nano",
-          "hi": "नैनो"
-        },
-        {
           "en": "micro",
           "hi": "माइक्रो"
         },
         {
-          "en": "pico",
-          "hi": "पिको"
-        },
-        {
           "en": "milli",
           "hi": "मिली"
+        },
+        {
+          "en": "nano",
+          "hi": "नैनो"
+        },
+        {
+          "en": "pico",
+          "hi": "पिको"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -1416,16 +1416,16 @@
           "hi": "दस लाखवाँ भाग"
         },
         {
-          "en": "One thousandth",
-          "hi": "हज़ारवाँ भाग"
+          "en": "One hundredth",
+          "hi": "सौवाँ भाग"
         },
         {
           "en": "One billionth",
           "hi": "अरबवाँ भाग"
         },
         {
-          "en": "One hundredth",
-          "hi": "सौवाँ भाग"
+          "en": "One thousandth",
+          "hi": "हज़ारवाँ भाग"
         }
       ],
       "correctIndex": 0,
@@ -1468,6 +1468,10 @@
       },
       "options": [
         {
+          "en": "One million, 10 to the power 6",
+          "hi": "दस लाख, 10 की घात 6"
+        },
+        {
           "en": "One trillion, 10 to the power 12",
           "hi": "एक खरब, 10 की घात 12"
         },
@@ -1478,13 +1482,9 @@
         {
           "en": "One quadrillion, 10 to the power 15",
           "hi": "एक करोड़ अरब, 10 की घात 15"
-        },
-        {
-          "en": "One million, 10 to the power 6",
-          "hi": "दस लाख, 10 की घात 6"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -1524,23 +1524,23 @@
       },
       "options": [
         {
-          "en": "2.54",
-          "hi": "2.54"
+          "en": "3.28",
+          "hi": "3.28"
         },
         {
-          "en": "2.5",
-          "hi": "2.5"
+          "en": "2.54",
+          "hi": "2.54"
         },
         {
           "en": "25",
           "hi": "25"
         },
         {
-          "en": "3.28",
-          "hi": "3.28"
+          "en": "2.5",
+          "hi": "2.5"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -1580,10 +1580,6 @@
       },
       "options": [
         {
-          "en": "1,852",
-          "hi": "1,852"
-        },
-        {
           "en": "1,609",
           "hi": "1,609"
         },
@@ -1592,11 +1588,15 @@
           "hi": "1,000"
         },
         {
+          "en": "1,852",
+          "hi": "1,852"
+        },
+        {
           "en": "2,000",
           "hi": "2,000"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -1692,23 +1692,23 @@
       },
       "options": [
         {
-          "en": "Remotely operated vehicle",
-          "hi": "रिमोटली ऑपरेटेड व्हीकल"
-        },
-        {
           "en": "Rapid ocean vessel",
           "hi": "रैपिड ओशन वेसल"
+        },
+        {
+          "en": "Reef observation volume",
+          "hi": "रीफ़ ऑब्ज़र्वेशन वॉल्यूम"
         },
         {
           "en": "Rotating observation valve",
           "hi": "रोटेटिंग ऑब्ज़र्वेशन वाल्व"
         },
         {
-          "en": "Reef observation volume",
-          "hi": "रीफ़ ऑब्ज़र्वेशन वॉल्यूम"
+          "en": "Remotely operated vehicle",
+          "hi": "रिमोटली ऑपरेटेड व्हीकल"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -1748,23 +1748,23 @@
       },
       "options": [
         {
-          "en": "Mariana Trench",
-          "hi": "मारियाना खाई"
-        },
-        {
           "en": "Tonga Trench",
           "hi": "टोंगा खाई"
         },
         {
-          "en": "Puerto Rico Trench",
-          "hi": "प्यूर्टो रिको खाई"
-        },
-        {
           "en": "Java Trench",
           "hi": "जावा खाई"
+        },
+        {
+          "en": "Mariana Trench",
+          "hi": "मारियाना खाई"
+        },
+        {
+          "en": "Puerto Rico Trench",
+          "hi": "प्यूर्टो रिको खाई"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -1804,10 +1804,6 @@
       },
       "options": [
         {
-          "en": "Chemosynthesis",
-          "hi": "रसोसंश्लेषण"
-        },
-        {
           "en": "Photosynthesis",
           "hi": "प्रकाशसंश्लेषण"
         },
@@ -1818,9 +1814,13 @@
         {
           "en": "Respiration of sunlight",
           "hi": "सूर्य प्रकाश का श्वसन"
+        },
+        {
+          "en": "Chemosynthesis",
+          "hi": "रसोसंश्लेषण"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -1864,12 +1864,12 @@
           "hi": "ऑटोनोमस अंडरवाटर व्हीकल"
         },
         {
-          "en": "Assisted uplift valve",
-          "hi": "असिस्टेड अपलिफ़्ट वाल्व"
-        },
-        {
           "en": "Aerial underwater viewer",
           "hi": "एरियल अंडरवाटर व्यूअर"
+        },
+        {
+          "en": "Assisted uplift valve",
+          "hi": "असिस्टेड अपलिफ़्ट वाल्व"
         },
         {
           "en": "Anchor utility vessel",
@@ -1916,10 +1916,6 @@
       },
       "options": [
         {
-          "en": "Neptune",
-          "hi": "वरुण"
-        },
-        {
           "en": "Jupiter",
           "hi": "बृहस्पति"
         },
@@ -1930,9 +1926,13 @@
         {
           "en": "Venus",
           "hi": "शुक्र"
+        },
+        {
+          "en": "Neptune",
+          "hi": "वरुण"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -1972,6 +1972,10 @@
       },
       "options": [
         {
+          "en": "Carbon-12",
+          "hi": "कार्बन-12"
+        },
+        {
           "en": "Caesium-133",
           "hi": "सीज़ियम-133"
         },
@@ -1980,15 +1984,11 @@
           "hi": "हाइड्रोजन-1"
         },
         {
-          "en": "Carbon-12",
-          "hi": "कार्बन-12"
-        },
-        {
           "en": "Oxygen-16",
           "hi": "ऑक्सीजन-16"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -2029,23 +2029,23 @@
       },
       "options": [
         {
-          "en": "The President, the Lok Sabha and the Rajya Sabha",
-          "hi": "राष्ट्रपति, लोक सभा और राज्य सभा"
-        },
-        {
-          "en": "The Prime Minister, the Lok Sabha and the Rajya Sabha",
-          "hi": "प्रधानमंत्री, लोक सभा और राज्य सभा"
+          "en": "The President, the Lok Sabha and the state assemblies",
+          "hi": "राष्ट्रपति, लोक सभा और राज्य विधानसभाएँ"
         },
         {
           "en": "The President, the Supreme Court and the Lok Sabha",
           "hi": "राष्ट्रपति, सर्वोच्च न्यायालय और लोक सभा"
         },
         {
-          "en": "The President, the Lok Sabha and the state assemblies",
-          "hi": "राष्ट्रपति, लोक सभा और राज्य विधानसभाएँ"
+          "en": "The Prime Minister, the Lok Sabha and the Rajya Sabha",
+          "hi": "प्रधानमंत्री, लोक सभा और राज्य सभा"
+        },
+        {
+          "en": "The President, the Lok Sabha and the Rajya Sabha",
+          "hi": "राष्ट्रपति, लोक सभा और राज्य सभा"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -2085,23 +2085,23 @@
       },
       "options": [
         {
-          "en": "Rajya Sabha",
-          "hi": "राज्य सभा"
+          "en": "Legislative Council",
+          "hi": "विधान परिषद"
         },
         {
           "en": "Lok Sabha",
           "hi": "लोक सभा"
         },
         {
-          "en": "Legislative Council",
-          "hi": "विधान परिषद"
+          "en": "Rajya Sabha",
+          "hi": "राज्य सभा"
         },
         {
           "en": "NITI Aayog",
           "hi": "नीति आयोग"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -2145,16 +2145,16 @@
           "hi": "लोक सभा"
         },
         {
+          "en": "A joint sitting of both",
+          "hi": "दोनों के संयुक्त सत्र में"
+        },
+        {
           "en": "Rajya Sabha",
           "hi": "राज्य सभा"
         },
         {
           "en": "Either House",
           "hi": "किसी भी सदन में"
-        },
-        {
-          "en": "A joint sitting of both",
-          "hi": "दोनों के संयुक्त सत्र में"
         }
       ],
       "correctIndex": 0,
@@ -2197,23 +2197,23 @@
       },
       "options": [
         {
-          "en": "The Speaker",
-          "hi": "अध्यक्ष (स्पीकर)"
-        },
-        {
           "en": "The President",
           "hi": "राष्ट्रपति"
         },
         {
-          "en": "The Prime Minister",
-          "hi": "प्रधानमंत्री"
+          "en": "The Speaker",
+          "hi": "अध्यक्ष (स्पीकर)"
         },
         {
           "en": "The Chief Justice of India",
           "hi": "भारत के मुख्य न्यायाधीश"
+        },
+        {
+          "en": "The Prime Minister",
+          "hi": "प्रधानमंत्री"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -2261,12 +2261,12 @@
           "hi": "545"
         },
         {
-          "en": "500",
-          "hi": "500"
-        },
-        {
           "en": "600",
           "hi": "600"
+        },
+        {
+          "en": "500",
+          "hi": "500"
         }
       ],
       "correctIndex": 0,
@@ -2309,10 +2309,6 @@
       },
       "options": [
         {
-          "en": "One third",
-          "hi": "एक तिहाई"
-        },
-        {
           "en": "One half",
           "hi": "आधा"
         },
@@ -2323,9 +2319,13 @@
         {
           "en": "Two thirds",
           "hi": "दो तिहाई"
+        },
+        {
+          "en": "One third",
+          "hi": "एक तिहाई"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -2369,16 +2369,16 @@
           "hi": "26 जनवरी 1950"
         },
         {
-          "en": "26 November 1949",
-          "hi": "26 नवंबर 1949"
+          "en": "26 January 1930",
+          "hi": "26 जनवरी 1930"
         },
         {
           "en": "15 August 1947",
           "hi": "15 अगस्त 1947"
         },
         {
-          "en": "26 January 1930",
-          "hi": "26 जनवरी 1930"
+          "en": "26 November 1949",
+          "hi": "26 नवंबर 1949"
         }
       ],
       "correctIndex": 0,
@@ -2421,23 +2421,23 @@
       },
       "options": [
         {
-          "en": "Part IX",
-          "hi": "भाग IX"
-        },
-        {
           "en": "Part III",
           "hi": "भाग III"
         },
         {
-          "en": "Part IXA",
-          "hi": "भाग IXA"
-        },
-        {
           "en": "Part XI",
           "hi": "भाग XI"
+        },
+        {
+          "en": "Part IX",
+          "hi": "भाग IX"
+        },
+        {
+          "en": "Part IXA",
+          "hi": "भाग IXA"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -2481,16 +2481,16 @@
           "hi": "भाग IXA"
         },
         {
-          "en": "Part IX",
-          "hi": "भाग IX"
+          "en": "Part XIV",
+          "hi": "भाग XIV"
         },
         {
           "en": "Part IV",
           "hi": "भाग IV"
         },
         {
-          "en": "Part XIV",
-          "hi": "भाग XIV"
+          "en": "Part IX",
+          "hi": "भाग IX"
         }
       ],
       "correctIndex": 0,
@@ -2589,23 +2589,23 @@
       },
       "options": [
         {
-          "en": "Every registered voter in the village panchayat area",
-          "hi": "ग्राम पंचायत क्षेत्र के प्रत्येक पंजीकृत मतदाता"
-        },
-        {
-          "en": "Only the elected ward members",
-          "hi": "केवल निर्वाचित वार्ड सदस्य"
+          "en": "The sarpanch and the block officer",
+          "hi": "सरपंच और ब्लॉक अधिकारी"
         },
         {
           "en": "Only land-owning families",
           "hi": "केवल भूमिधारक परिवार"
         },
         {
-          "en": "The sarpanch and the block officer",
-          "hi": "सरपंच और ब्लॉक अधिकारी"
+          "en": "Only the elected ward members",
+          "hi": "केवल निर्वाचित वार्ड सदस्य"
+        },
+        {
+          "en": "Every registered voter in the village panchayat area",
+          "hi": "ग्राम पंचायत क्षेत्र के प्रत्येक पंजीकृत मतदाता"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -2645,23 +2645,23 @@
       },
       "options": [
         {
-          "en": "Balwant Rai Mehta Committee",
-          "hi": "बलवंत राय मेहता समिति"
-        },
-        {
-          "en": "Sarkaria Commission",
-          "hi": "सरकारिया आयोग"
+          "en": "Dhar Commission",
+          "hi": "धर आयोग"
         },
         {
           "en": "Narasimham Committee",
           "hi": "नरसिम्हम समिति"
         },
         {
-          "en": "Dhar Commission",
-          "hi": "धर आयोग"
+          "en": "Sarkaria Commission",
+          "hi": "सरकारिया आयोग"
+        },
+        {
+          "en": "Balwant Rai Mehta Committee",
+          "hi": "बलवंत राय मेहता समिति"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -2701,23 +2701,23 @@
       },
       "options": [
         {
-          "en": "The Government of Union Territories Act, 1963",
-          "hi": "सरकार संघ राज्य क्षेत्र अधिनियम, 1963"
-        },
-        {
           "en": "The States Reorganisation Act, 1956",
           "hi": "राज्य पुनर्गठन अधिनियम, 1956"
         },
         {
-          "en": "The Representation of the People Act, 1951",
-          "hi": "जन प्रतिनिधित्व अधिनियम, 1951"
-        },
-        {
           "en": "The Delhi Municipal Corporation Act, 1957",
           "hi": "दिल्ली नगर निगम अधिनियम, 1957"
+        },
+        {
+          "en": "The Government of Union Territories Act, 1963",
+          "hi": "सरकार संघ राज्य क्षेत्र अधिनियम, 1963"
+        },
+        {
+          "en": "The Representation of the People Act, 1951",
+          "hi": "जन प्रतिनिधित्व अधिनियम, 1951"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -2757,23 +2757,23 @@
       },
       "options": [
         {
-          "en": "Part III",
-          "hi": "भाग III"
-        },
-        {
           "en": "Part IV",
           "hi": "भाग IV"
         },
         {
-          "en": "Part II",
-          "hi": "भाग II"
+          "en": "Part III",
+          "hi": "भाग III"
         },
         {
           "en": "Part V",
           "hi": "भाग V"
+        },
+        {
+          "en": "Part II",
+          "hi": "भाग II"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -2813,23 +2813,23 @@
       },
       "options": [
         {
-          "en": "Article 32",
-          "hi": "अनुच्छेद 32"
+          "en": "Article 44",
+          "hi": "अनुच्छेद 44"
         },
         {
           "en": "Article 21",
           "hi": "अनुच्छेद 21"
         },
         {
-          "en": "Article 44",
-          "hi": "अनुच्छेद 44"
-        },
-        {
           "en": "Article 51A",
           "hi": "अनुच्छेद 51A"
+        },
+        {
+          "en": "Article 32",
+          "hi": "अनुच्छेद 32"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -2869,23 +2869,23 @@
       },
       "options": [
         {
-          "en": "The Supreme Court",
-          "hi": "सर्वोच्च न्यायालय"
-        },
-        {
           "en": "The Parliament",
           "hi": "संसद"
         },
         {
-          "en": "The Law Commission",
-          "hi": "विधि आयोग"
+          "en": "The Supreme Court",
+          "hi": "सर्वोच्च न्यायालय"
         },
         {
           "en": "The Election Commission",
           "hi": "निर्वाचन आयोग"
+        },
+        {
+          "en": "The Law Commission",
+          "hi": "विधि आयोग"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -2925,10 +2925,6 @@
       },
       "options": [
         {
-          "en": "Bangladesh",
-          "hi": "बांग्लादेश"
-        },
-        {
           "en": "China",
           "hi": "चीन"
         },
@@ -2937,11 +2933,15 @@
           "hi": "पाकिस्तान"
         },
         {
+          "en": "Bangladesh",
+          "hi": "बांग्लादेश"
+        },
+        {
           "en": "Nepal",
           "hi": "नेपाल"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -2981,23 +2981,23 @@
       },
       "options": [
         {
-          "en": "Seven",
-          "hi": "सात"
-        },
-        {
           "en": "Five",
           "hi": "पाँच"
+        },
+        {
+          "en": "Nine",
+          "hi": "नौ"
         },
         {
           "en": "Six",
           "hi": "छह"
         },
         {
-          "en": "Nine",
-          "hi": "नौ"
+          "en": "Seven",
+          "hi": "सात"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -3041,16 +3041,16 @@
           "hi": "पश्चिम बंगाल"
         },
         {
+          "en": "Assam",
+          "hi": "असम"
+        },
+        {
           "en": "Rajasthan",
           "hi": "राजस्थान"
         },
         {
           "en": "Jammu and Kashmir",
           "hi": "जम्मू और कश्मीर"
-        },
-        {
-          "en": "Assam",
-          "hi": "असम"
         }
       ],
       "correctIndex": 0,
@@ -3093,23 +3093,23 @@
       },
       "options": [
         {
-          "en": "The Radcliffe Line",
-          "hi": "रेडक्लिफ रेखा"
-        },
-        {
-          "en": "The McMahon Line",
-          "hi": "मैकमोहन रेखा"
+          "en": "The 24th parallel",
+          "hi": "24वाँ समांतर"
         },
         {
           "en": "The Durand Line",
           "hi": "डूरंड रेखा"
         },
         {
-          "en": "The 24th parallel",
-          "hi": "24वाँ समांतर"
+          "en": "The Radcliffe Line",
+          "hi": "रेडक्लिफ रेखा"
+        },
+        {
+          "en": "The McMahon Line",
+          "hi": "मैकमोहन रेखा"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -3149,23 +3149,23 @@
       },
       "options": [
         {
-          "en": "5 hours 30 minutes",
-          "hi": "5 घंटे 30 मिनट"
-        },
-        {
           "en": "5 hours",
           "hi": "5 घंटे"
+        },
+        {
+          "en": "4 hours 30 minutes",
+          "hi": "4 घंटे 30 मिनट"
         },
         {
           "en": "6 hours",
           "hi": "6 घंटे"
         },
         {
-          "en": "4 hours 30 minutes",
-          "hi": "4 घंटे 30 मिनट"
+          "en": "5 hours 30 minutes",
+          "hi": "5 घंटे 30 मिनट"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -3209,16 +3209,16 @@
           "hi": "सीएसआईआर-राष्ट्रीय भौतिकी प्रयोगशाला"
         },
         {
-          "en": "ISRO",
-          "hi": "इसरो"
+          "en": "Survey of India",
+          "hi": "भारतीय सर्वेक्षण"
         },
         {
           "en": "Indian Meteorological Department",
           "hi": "भारत मौसम विज्ञान विभाग"
         },
         {
-          "en": "Survey of India",
-          "hi": "भारतीय सर्वेक्षण"
+          "en": "ISRO",
+          "hi": "इसरो"
         }
       ],
       "correctIndex": 0,
@@ -3261,23 +3261,23 @@
       },
       "options": [
         {
-          "en": "82 degrees 30 minutes east",
-          "hi": "82 डिग्री 30 मिनट पूर्व"
-        },
-        {
           "en": "80 degrees east",
           "hi": "80 डिग्री पूर्व"
         },
         {
-          "en": "90 degrees east",
-          "hi": "90 डिग्री पूर्व"
+          "en": "82 degrees 30 minutes east",
+          "hi": "82 डिग्री 30 मिनट पूर्व"
         },
         {
           "en": "75 degrees 30 minutes east",
           "hi": "75 डिग्री 30 मिनट पूर्व"
+        },
+        {
+          "en": "90 degrees east",
+          "hi": "90 डिग्री पूर्व"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -3318,23 +3318,23 @@
       },
       "options": [
         {
-          "en": "Reserve Bank of India",
-          "hi": "भारतीय रिज़र्व बैंक"
+          "en": "Securities and Exchange Board of India",
+          "hi": "भारतीय प्रतिभूति और विनिमय बोर्ड"
         },
         {
           "en": "State Bank of India",
           "hi": "स्टेट बैंक ऑफ़ इंडिया"
         },
         {
-          "en": "Securities and Exchange Board of India",
-          "hi": "भारतीय प्रतिभूति और विनिमय बोर्ड"
-        },
-        {
           "en": "NITI Aayog",
           "hi": "नीति आयोग"
+        },
+        {
+          "en": "Reserve Bank of India",
+          "hi": "भारतीय रिज़र्व बैंक"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -3374,10 +3374,6 @@
       },
       "options": [
         {
-          "en": "The Government of India",
-          "hi": "भारत सरकार"
-        },
-        {
           "en": "The Reserve Bank of India",
           "hi": "भारतीय रिज़र्व बैंक"
         },
@@ -3386,11 +3382,15 @@
           "hi": "वाणिज्य मंत्रालय"
         },
         {
+          "en": "The Government of India",
+          "hi": "भारत सरकार"
+        },
+        {
           "en": "The National Payments Corporation",
           "hi": "राष्ट्रीय भुगतान निगम"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -3430,23 +3430,23 @@
       },
       "options": [
         {
-          "en": "D. Udaya Kumar",
-          "hi": "डी. उदय कुमार"
-        },
-        {
-          "en": "M. F. Husain",
-          "hi": "एम. एफ. हुसैन"
+          "en": "R. K. Laxman",
+          "hi": "आर. के. लक्ष्मण"
         },
         {
           "en": "Satyajit Ray",
           "hi": "सत्यजित रे"
         },
         {
-          "en": "R. K. Laxman",
-          "hi": "आर. के. लक्ष्मण"
+          "en": "D. Udaya Kumar",
+          "hi": "डी. उदय कुमार"
+        },
+        {
+          "en": "M. F. Husain",
+          "hi": "एम. एफ. हुसैन"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -3486,8 +3486,8 @@
       },
       "options": [
         {
-          "en": "Four",
-          "hi": "चार"
+          "en": "Eight",
+          "hi": "आठ"
         },
         {
           "en": "Two",
@@ -3498,11 +3498,11 @@
           "hi": "छह"
         },
         {
-          "en": "Eight",
-          "hi": "आठ"
+          "en": "Four",
+          "hi": "चार"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -3542,6 +3542,10 @@
       },
       "options": [
         {
+          "en": "The Pacific and the Nazca plates",
+          "hi": "प्रशांत और नाज़का प्लेट"
+        },
+        {
           "en": "The Indian and the Eurasian plates",
           "hi": "भारतीय और यूरेशियाई प्लेट"
         },
@@ -3550,15 +3554,11 @@
           "hi": "अफ़्रीकी और अरब प्लेट"
         },
         {
-          "en": "The Pacific and the Nazca plates",
-          "hi": "प्रशांत और नाज़का प्लेट"
-        },
-        {
           "en": "The Antarctic and the Indo-Australian plates",
           "hi": "अंटार्कटिक और भारत-ऑस्ट्रेलियाई प्लेट"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -3598,23 +3598,23 @@
       },
       "options": [
         {
-          "en": "Alluvium carried by rivers",
-          "hi": "नदियों द्वारा लाई गई जलोढ़ मिट्टी"
-        },
-        {
-          "en": "Volcanic lava",
-          "hi": "ज्वालामुखीय लावा"
-        },
-        {
           "en": "Coral reef debris",
           "hi": "प्रवाल भित्ति का मलबा"
         },
         {
           "en": "Glacial granite",
           "hi": "हिमनदी ग्रेनाइट"
+        },
+        {
+          "en": "Volcanic lava",
+          "hi": "ज्वालामुखीय लावा"
+        },
+        {
+          "en": "Alluvium carried by rivers",
+          "hi": "नदियों द्वारा लाई गई जलोढ़ मिट्टी"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -3654,23 +3654,23 @@
       },
       "options": [
         {
-          "en": "Rajasthan",
-          "hi": "राजस्थान"
-        },
-        {
           "en": "Gujarat",
           "hi": "गुजरात"
+        },
+        {
+          "en": "Madhya Pradesh",
+          "hi": "मध्य प्रदेश"
         },
         {
           "en": "Punjab",
           "hi": "पंजाब"
         },
         {
-          "en": "Madhya Pradesh",
-          "hi": "मध्य प्रदेश"
+          "en": "Rajasthan",
+          "hi": "राजस्थान"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -3710,23 +3710,23 @@
       },
       "options": [
         {
-          "en": "Coromandel Coast",
-          "hi": "कोरोमंडल तट"
-        },
-        {
-          "en": "Malabar Coast",
-          "hi": "मालाबार तट"
-        },
-        {
           "en": "Konkan Coast",
           "hi": "कोंकण तट"
         },
         {
           "en": "Kutch Coast",
           "hi": "कच्छ तट"
+        },
+        {
+          "en": "Malabar Coast",
+          "hi": "मालाबार तट"
+        },
+        {
+          "en": "Coromandel Coast",
+          "hi": "कोरोमंडल तट"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -3766,8 +3766,8 @@
       },
       "options": [
         {
-          "en": "The Deccan Plateau",
-          "hi": "दक्कन का पठार"
+          "en": "The Ladakh Plateau",
+          "hi": "लद्दाख पठार"
         },
         {
           "en": "The Chotanagpur Plateau",
@@ -3778,11 +3778,11 @@
           "hi": "मालवा पठार"
         },
         {
-          "en": "The Ladakh Plateau",
-          "hi": "लद्दाख पठार"
+          "en": "The Deccan Plateau",
+          "hi": "दक्कन का पठार"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -3826,16 +3826,16 @@
           "hi": "सैन फ़्रांसिस्को"
         },
         {
-          "en": "New York",
-          "hi": "न्यूयॉर्क"
-        },
-        {
           "en": "London",
           "hi": "लंदन"
         },
         {
           "en": "Geneva",
           "hi": "जिनेवा"
+        },
+        {
+          "en": "New York",
+          "hi": "न्यूयॉर्क"
         }
       ],
       "correctIndex": 0,
@@ -3878,23 +3878,23 @@
       },
       "options": [
         {
-          "en": "24 October 1945",
-          "hi": "24 अक्टूबर 1945"
+          "en": "1 January 1946",
+          "hi": "1 जनवरी 1946"
         },
         {
           "en": "26 June 1945",
           "hi": "26 जून 1945"
         },
         {
-          "en": "1 January 1946",
-          "hi": "1 जनवरी 1946"
+          "en": "24 October 1945",
+          "hi": "24 अक्टूबर 1945"
         },
         {
           "en": "10 December 1948",
           "hi": "10 दिसंबर 1948"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -3934,23 +3934,23 @@
       },
       "options": [
         {
-          "en": "To maintain international peace and security",
-          "hi": "अंतर्राष्ट्रीय शांति और सुरक्षा बनाए रखना"
-        },
-        {
           "en": "To fix world trade tariffs",
           "hi": "विश्व व्यापार शुल्क तय करना"
         },
         {
-          "en": "To run a common currency",
-          "hi": "एक साझा मुद्रा चलाना"
-        },
-        {
           "en": "To elect national governments",
           "hi": "राष्ट्रीय सरकारों का चुनाव कराना"
+        },
+        {
+          "en": "To maintain international peace and security",
+          "hi": "अंतर्राष्ट्रीय शांति और सुरक्षा बनाए रखना"
+        },
+        {
+          "en": "To run a common currency",
+          "hi": "एक साझा मुद्रा चलाना"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -3990,23 +3990,23 @@
       },
       "options": [
         {
-          "en": "Six",
-          "hi": "छह"
-        },
-        {
-          "en": "Four",
-          "hi": "चार"
-        },
-        {
           "en": "Five",
           "hi": "पाँच"
         },
         {
           "en": "Seven",
           "hi": "सात"
+        },
+        {
+          "en": "Six",
+          "hi": "छह"
+        },
+        {
+          "en": "Four",
+          "hi": "चार"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -4046,23 +4046,23 @@
       },
       "options": [
         {
-          "en": "The International Court of Justice",
-          "hi": "अंतर्राष्ट्रीय न्यायालय"
+          "en": "The Security Council",
+          "hi": "सुरक्षा परिषद"
         },
         {
           "en": "The General Assembly",
           "hi": "महासभा"
         },
         {
-          "en": "The Security Council",
-          "hi": "सुरक्षा परिषद"
+          "en": "The International Court of Justice",
+          "hi": "अंतर्राष्ट्रीय न्यायालय"
         },
         {
           "en": "The Secretariat",
           "hi": "सचिवालय"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -4102,6 +4102,10 @@
       },
       "options": [
         {
+          "en": "Ten",
+          "hi": "दस"
+        },
+        {
           "en": "Five",
           "hi": "पाँच"
         },
@@ -4112,13 +4116,9 @@
         {
           "en": "Seven",
           "hi": "सात"
-        },
-        {
-          "en": "Ten",
-          "hi": "दस"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -4162,16 +4162,16 @@
           "hi": "पंद्रह"
         },
         {
-          "en": "Ten",
-          "hi": "दस"
-        },
-        {
           "en": "Twenty",
           "hi": "बीस"
         },
         {
           "en": "Twelve",
           "hi": "बारह"
+        },
+        {
+          "en": "Ten",
+          "hi": "दस"
         }
       ],
       "correctIndex": 0,
@@ -4214,10 +4214,6 @@
       },
       "options": [
         {
-          "en": "The Trusteeship Council",
-          "hi": "न्यासिता परिषद"
-        },
-        {
           "en": "The Economic and Social Council",
           "hi": "आर्थिक और सामाजिक परिषद"
         },
@@ -4228,9 +4224,13 @@
         {
           "en": "The International Court of Justice",
           "hi": "अंतर्राष्ट्रीय न्यायालय"
+        },
+        {
+          "en": "The Trusteeship Council",
+          "hi": "न्यासिता परिषद"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -4270,8 +4270,8 @@
       },
       "options": [
         {
-          "en": "The Security Council",
-          "hi": "सुरक्षा परिषद"
+          "en": "The International Court of Justice",
+          "hi": "अंतर्राष्ट्रीय न्यायालय"
         },
         {
           "en": "The Economic and Social Council",
@@ -4282,11 +4282,11 @@
           "hi": "न्यासिता परिषद"
         },
         {
-          "en": "The International Court of Justice",
-          "hi": "अंतर्राष्ट्रीय न्यायालय"
+          "en": "The Security Council",
+          "hi": "सुरक्षा परिषद"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -4326,23 +4326,23 @@
       },
       "options": [
         {
-          "en": "Pakistan",
-          "hi": "पाकिस्तान"
-        },
-        {
           "en": "India",
           "hi": "भारत"
+        },
+        {
+          "en": "Iran",
+          "hi": "ईरान"
         },
         {
           "en": "Afghanistan",
           "hi": "अफ़ग़ानिस्तान"
         },
         {
-          "en": "Iran",
-          "hi": "ईरान"
+          "en": "Pakistan",
+          "hi": "पाकिस्तान"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -4382,6 +4382,10 @@
       },
       "options": [
         {
+          "en": "The Mayan civilisation",
+          "hi": "माया सभ्यता"
+        },
+        {
           "en": "The Indus Valley civilisation",
           "hi": "सिंधु घाटी सभ्यता"
         },
@@ -4392,13 +4396,9 @@
         {
           "en": "The Egyptian civilisation",
           "hi": "मिस्र सभ्यता"
-        },
-        {
-          "en": "The Mayan civilisation",
-          "hi": "माया सभ्यता"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -4442,12 +4442,12 @@
           "hi": "ग्रेट बाथ"
         },
         {
-          "en": "The Royal Cistern",
-          "hi": "रॉयल सिस्टर्न"
-        },
-        {
           "en": "The Step Well",
           "hi": "बावड़ी"
+        },
+        {
+          "en": "The Royal Cistern",
+          "hi": "रॉयल सिस्टर्न"
         },
         {
           "en": "The Granary Tank",
@@ -4494,6 +4494,10 @@
       },
       "options": [
         {
+          "en": "Gate of the river",
+          "hi": "नदी का द्वार"
+        },
+        {
           "en": "Mound of the dead",
           "hi": "मुर्दों का टीला"
         },
@@ -4502,15 +4506,11 @@
           "hi": "राजाओं का नगर"
         },
         {
-          "en": "Gate of the river",
-          "hi": "नदी का द्वार"
-        },
-        {
           "en": "Field of grain",
           "hi": "अनाज का खेत"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -4550,23 +4550,23 @@
       },
       "options": [
         {
-          "en": "Nepal",
-          "hi": "नेपाल"
-        },
-        {
-          "en": "India",
-          "hi": "भारत"
+          "en": "Bhutan",
+          "hi": "भूटान"
         },
         {
           "en": "Sri Lanka",
           "hi": "श्रीलंका"
         },
         {
-          "en": "Bhutan",
-          "hi": "भूटान"
+          "en": "India",
+          "hi": "भारत"
+        },
+        {
+          "en": "Nepal",
+          "hi": "नेपाल"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -4606,6 +4606,10 @@
       },
       "options": [
         {
+          "en": "The Vijaya pillar",
+          "hi": "विजय स्तंभ"
+        },
+        {
           "en": "The Ashoka pillar",
           "hi": "अशोक स्तंभ"
         },
@@ -4616,13 +4620,9 @@
         {
           "en": "The Heliodorus pillar",
           "hi": "हेलियोडोरस स्तंभ"
-        },
-        {
-          "en": "The Vijaya pillar",
-          "hi": "विजय स्तंभ"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -4662,23 +4662,23 @@
       },
       "options": [
         {
-          "en": "Intangible cultural heritage",
-          "hi": "अमूर्त सांस्कृतिक धरोहर"
+          "en": "Monuments of stone",
+          "hi": "पाषाण स्मारक"
         },
         {
           "en": "Underwater shipwrecks",
           "hi": "जलमग्न जहाज़"
         },
         {
-          "en": "Monuments of stone",
-          "hi": "पाषाण स्मारक"
-        },
-        {
           "en": "Fossil beds",
           "hi": "जीवाश्म क्षेत्र"
+        },
+        {
+          "en": "Intangible cultural heritage",
+          "hi": "अमूर्त सांस्कृतिक धरोहर"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -4722,12 +4722,12 @@
           "hi": "अमेरिका"
         },
         {
-          "en": "The United Kingdom",
-          "hi": "ब्रिटेन"
-        },
-        {
           "en": "Switzerland",
           "hi": "स्विट्ज़रलैंड"
+        },
+        {
+          "en": "The United Kingdom",
+          "hi": "ब्रिटेन"
         },
         {
           "en": "France",
@@ -4782,12 +4782,12 @@
           "hi": "WTO और संयुक्त राष्ट्र"
         },
         {
-          "en": "The WHO and UNICEF",
-          "hi": "WHO और यूनिसेफ़"
-        },
-        {
           "en": "The Asian Development Bank and the AIIB",
           "hi": "एशियाई विकास बैंक और AIIB"
+        },
+        {
+          "en": "The WHO and UNICEF",
+          "hi": "WHO और यूनिसेफ़"
         }
       ],
       "correctIndex": 0,
@@ -4834,16 +4834,16 @@
           "hi": "वॉशिंगटन, डी.सी."
         },
         {
-          "en": "Geneva",
-          "hi": "जिनेवा"
-        },
-        {
           "en": "Paris",
           "hi": "पेरिस"
         },
         {
           "en": "Nairobi",
           "hi": "नैरोबी"
+        },
+        {
+          "en": "Geneva",
+          "hi": "जिनेवा"
         }
       ],
       "correctIndex": 0,
@@ -4886,23 +4886,23 @@
       },
       "options": [
         {
-          "en": "Special Drawing Rights",
-          "hi": "स्पेशल ड्रॉइंग राइट्स"
-        },
-        {
-          "en": "Global Reserve Bonds",
-          "hi": "वैश्विक आरक्षित पत्र"
-        },
-        {
           "en": "Convertible Trade Credits",
           "hi": "कन्वर्टिबल ट्रेड क्रेडिट्स"
         },
         {
+          "en": "Special Drawing Rights",
+          "hi": "स्पेशल ड्रॉइंग राइट्स"
+        },
+        {
           "en": "Bretton Notes",
           "hi": "ब्रेटन नोट्स"
+        },
+        {
+          "en": "Global Reserve Bonds",
+          "hi": "वैश्विक आरक्षित पत्र"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -4950,12 +4950,12 @@
           "hi": "सदस्य देशों के लिए ब्याज दरें तय करना"
         },
         {
-          "en": "Printing a common world currency",
-          "hi": "विश्व की साझा मुद्रा छापना"
-        },
-        {
           "en": "Approving national budgets",
           "hi": "राष्ट्रीय बजट स्वीकृत करना"
+        },
+        {
+          "en": "Printing a common world currency",
+          "hi": "विश्व की साझा मुद्रा छापना"
         }
       ],
       "correctIndex": 0,
@@ -4998,6 +4998,10 @@
       },
       "options": [
         {
+          "en": "Seven",
+          "hi": "सात"
+        },
+        {
           "en": "Five",
           "hi": "पाँच"
         },
@@ -5008,13 +5012,9 @@
         {
           "en": "Three",
           "hi": "तीन"
-        },
-        {
-          "en": "Seven",
-          "hi": "सात"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -5054,23 +5054,23 @@
       },
       "options": [
         {
-          "en": "The International Finance Corporation",
-          "hi": "अंतर्राष्ट्रीय वित्त निगम"
-        },
-        {
-          "en": "The International Development Association",
-          "hi": "अंतर्राष्ट्रीय विकास संघ"
-        },
-        {
           "en": "The Multilateral Investment Guarantee Agency",
           "hi": "बहुपक्षीय निवेश गारंटी एजेंसी"
         },
         {
           "en": "The International Centre for Settlement of Investment Disputes",
           "hi": "निवेश विवाद निपटान हेतु अंतर्राष्ट्रीय केंद्र"
+        },
+        {
+          "en": "The International Development Association",
+          "hi": "अंतर्राष्ट्रीय विकास संघ"
+        },
+        {
+          "en": "The International Finance Corporation",
+          "hi": "अंतर्राष्ट्रीय वित्त निगम"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -5110,23 +5110,23 @@
       },
       "options": [
         {
-          "en": "MIGA",
-          "hi": "MIGA"
-        },
-        {
           "en": "IDA",
           "hi": "IDA"
+        },
+        {
+          "en": "ICSID",
+          "hi": "ICSID"
         },
         {
           "en": "IBRD",
           "hi": "IBRD"
         },
         {
-          "en": "ICSID",
-          "hi": "ICSID"
+          "en": "MIGA",
+          "hi": "MIGA"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -5166,10 +5166,6 @@
       },
       "options": [
         {
-          "en": "ICSID",
-          "hi": "ICSID"
-        },
-        {
           "en": "MIGA",
           "hi": "MIGA"
         },
@@ -5180,9 +5176,13 @@
         {
           "en": "IBRD",
           "hi": "IBRD"
+        },
+        {
+          "en": "ICSID",
+          "hi": "ICSID"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -5222,12 +5222,12 @@
       },
       "options": [
         {
-          "en": "IDA",
-          "hi": "IDA"
-        },
-        {
           "en": "IFC",
           "hi": "IFC"
+        },
+        {
+          "en": "IDA",
+          "hi": "IDA"
         },
         {
           "en": "MIGA",
@@ -5238,7 +5238,7 @@
           "hi": "ICSID"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -5282,12 +5282,12 @@
           "hi": "पाँच"
         },
         {
-          "en": "Three",
-          "hi": "तीन"
-        },
-        {
           "en": "Six",
           "hi": "छह"
+        },
+        {
+          "en": "Three",
+          "hi": "तीन"
         },
         {
           "en": "Four",
@@ -5342,12 +5342,12 @@
           "hi": "भौतिकी पुरस्कार"
         },
         {
-          "en": "The Literature Prize",
-          "hi": "साहित्य पुरस्कार"
-        },
-        {
           "en": "The Chemistry Prize",
           "hi": "रसायन विज्ञान पुरस्कार"
+        },
+        {
+          "en": "The Literature Prize",
+          "hi": "साहित्य पुरस्कार"
         }
       ],
       "correctIndex": 0,
@@ -5390,23 +5390,23 @@
       },
       "options": [
         {
-          "en": "1901",
-          "hi": "1901"
-        },
-        {
-          "en": "1896",
-          "hi": "1896"
-        },
-        {
           "en": "1910",
           "hi": "1910"
         },
         {
           "en": "1921",
           "hi": "1921"
+        },
+        {
+          "en": "1901",
+          "hi": "1901"
+        },
+        {
+          "en": "1896",
+          "hi": "1896"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -5454,12 +5454,12 @@
           "hi": "1901"
         },
         {
-          "en": "1921",
-          "hi": "1921"
-        },
-        {
           "en": "1930",
           "hi": "1930"
+        },
+        {
+          "en": "1921",
+          "hi": "1921"
         }
       ],
       "correctIndex": 0,
@@ -5502,8 +5502,8 @@
       },
       "options": [
         {
-          "en": "Gitanjali",
-          "hi": "गीतांजलि"
+          "en": "Dak Ghar",
+          "hi": "डाक घर"
         },
         {
           "en": "Gora",
@@ -5514,11 +5514,11 @@
           "hi": "घरे-बाइरे"
         },
         {
-          "en": "Dak Ghar",
-          "hi": "डाक घर"
+          "en": "Gitanjali",
+          "hi": "गीतांजलि"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -5558,8 +5558,8 @@
       },
       "options": [
         {
-          "en": "Jana Gana Mana",
-          "hi": "जन गण मन"
+          "en": "Amar Shonar Bangla",
+          "hi": "अमर सोनार बांग्ला"
         },
         {
           "en": "Vande Mataram",
@@ -5570,11 +5570,11 @@
           "hi": "सारे जहाँ से अच्छा"
         },
         {
-          "en": "Amar Shonar Bangla",
-          "hi": "अमर सोनार बांग्ला"
+          "en": "Jana Gana Mana",
+          "hi": "जन गण मन"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -5614,10 +5614,6 @@
       },
       "options": [
         {
-          "en": "4 July 1776",
-          "hi": "4 जुलाई 1776"
-        },
-        {
           "en": "4 July 1789",
           "hi": "4 जुलाई 1789"
         },
@@ -5628,9 +5624,13 @@
         {
           "en": "4 June 1776",
           "hi": "4 जून 1776"
+        },
+        {
+          "en": "4 July 1776",
+          "hi": "4 जुलाई 1776"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -5670,10 +5670,6 @@
       },
       "options": [
         {
-          "en": "Thomas Jefferson",
-          "hi": "थॉमस जेफ़रसन"
-        },
-        {
           "en": "George Washington",
           "hi": "जॉर्ज वॉशिंगटन"
         },
@@ -5684,9 +5680,13 @@
         {
           "en": "James Madison",
           "hi": "जेम्स मैडिसन"
+        },
+        {
+          "en": "Thomas Jefferson",
+          "hi": "थॉमस जेफ़रसन"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -5726,23 +5726,23 @@
       },
       "options": [
         {
-          "en": "The consent of the governed",
-          "hi": "शासितों की सहमति से"
+          "en": "A treaty signed with France",
+          "hi": "फ़्रांस से हुई संधि द्वारा"
         },
         {
           "en": "The authority of the Crown",
           "hi": "राजमुकुट के अधिकार से"
         },
         {
-          "en": "A treaty signed with France",
-          "hi": "फ़्रांस से हुई संधि द्वारा"
-        },
-        {
           "en": "A vote taken by the army",
           "hi": "सेना द्वारा लिए गए मत से"
+        },
+        {
+          "en": "The consent of the governed",
+          "hi": "शासितों की सहमति से"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -5782,23 +5782,23 @@
       },
       "options": [
         {
-          "en": "Domain Name System",
-          "hi": "डोमेन नेम सिस्टम"
-        },
-        {
           "en": "Digital Node Service",
           "hi": "डिजिटल नोड सर्विस"
         },
         {
-          "en": "Direct Network Socket",
-          "hi": "डायरेक्ट नेटवर्क सॉकेट"
+          "en": "Domain Name System",
+          "hi": "डोमेन नेम सिस्टम"
         },
         {
           "en": "Dynamic Naming Standard",
           "hi": "डायनामिक नेमिंग स्टैंडर्ड"
+        },
+        {
+          "en": "Direct Network Socket",
+          "hi": "डायरेक्ट नेटवर्क सॉकेट"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -5838,23 +5838,23 @@
       },
       "options": [
         {
-          "en": "Turning domain names into IP addresses",
-          "hi": "डोमेन नामों को IP पतों में बदलना"
+          "en": "Storing email messages",
+          "hi": "ईमेल संदेश सहेजना"
         },
         {
           "en": "Encrypting web traffic",
           "hi": "वेब ट्रैफ़िक एन्क्रिप्ट करना"
         },
         {
-          "en": "Storing email messages",
-          "hi": "ईमेल संदेश सहेजना"
+          "en": "Turning domain names into IP addresses",
+          "hi": "डोमेन नामों को IP पतों में बदलना"
         },
         {
           "en": "Compressing images",
           "hi": "छवियाँ संपीड़ित करना"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -5898,12 +5898,12 @@
           "hi": "1987"
         },
         {
-          "en": "1975",
-          "hi": "1975"
-        },
-        {
           "en": "1995",
           "hi": "1995"
+        },
+        {
+          "en": "1975",
+          "hi": "1975"
         },
         {
           "en": "2001",
@@ -5950,8 +5950,8 @@
       },
       "options": [
         {
-          "en": "A portion of the name space that one name server is responsible for",
-          "hi": "नाम स्थान का वह भाग जिसकी ज़िम्मेदारी एक नाम सर्वर लेता है"
+          "en": "A time period for cached records",
+          "hi": "सहेजे गए रिकॉर्ड की समय अवधि"
         },
         {
           "en": "A physical room holding the servers",
@@ -5962,11 +5962,11 @@
           "hi": "इंटरनेट पर किसी देश की सीमा"
         },
         {
-          "en": "A time period for cached records",
-          "hi": "सहेजे गए रिकॉर्ड की समय अवधि"
+          "en": "A portion of the name space that one name server is responsible for",
+          "hi": "नाम स्थान का वह भाग जिसकी ज़िम्मेदारी एक नाम सर्वर लेता है"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -6010,16 +6010,16 @@
           "hi": "रूट"
         },
         {
-          "en": "The .com domain",
-          "hi": ".com डोमेन"
+          "en": "The resolver cache",
+          "hi": "रिज़ॉल्वर कैश"
         },
         {
           "en": "The local host",
           "hi": "स्थानीय होस्ट"
         },
         {
-          "en": "The resolver cache",
-          "hi": "रिज़ॉल्वर कैश"
+          "en": "The .com domain",
+          "hi": ".com डोमेन"
         }
       ],
       "correctIndex": 0,
@@ -6062,23 +6062,23 @@
       },
       "options": [
         {
-          "en": "Tricking people into revealing sensitive details by posing as a trusted party",
-          "hi": "विश्वसनीय पक्ष बनकर लोगों से संवेदनशील जानकारी उगलवाना"
-        },
-        {
-          "en": "Scanning a network for open ports",
-          "hi": "नेटवर्क पर खुले पोर्ट खोजना"
-        },
-        {
           "en": "Slowing a server with heavy traffic",
           "hi": "भारी ट्रैफ़िक से सर्वर धीमा करना"
         },
         {
+          "en": "Tricking people into revealing sensitive details by posing as a trusted party",
+          "hi": "विश्वसनीय पक्ष बनकर लोगों से संवेदनशील जानकारी उगलवाना"
+        },
+        {
           "en": "Copying a website's look for design study",
           "hi": "डिज़ाइन अध्ययन के लिए वेबसाइट की नक़ल करना"
+        },
+        {
+          "en": "Scanning a network for open ports",
+          "hi": "नेटवर्क पर खुले पोर्ट खोजना"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -6118,23 +6118,23 @@
       },
       "options": [
         {
-          "en": "Malicious software",
-          "hi": "दुर्भावनापूर्ण सॉफ़्टवेयर"
-        },
-        {
-          "en": "Managed hardware",
-          "hi": "प्रबंधित हार्डवेयर"
-        },
-        {
           "en": "Mailing warehouse",
           "hi": "मेलिंग वेयरहाउस"
         },
         {
+          "en": "Malicious software",
+          "hi": "दुर्भावनापूर्ण सॉफ़्टवेयर"
+        },
+        {
           "en": "Mobile application",
           "hi": "मोबाइल एप्लिकेशन"
+        },
+        {
+          "en": "Managed hardware",
+          "hi": "प्रबंधित हार्डवेयर"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -6174,23 +6174,23 @@
       },
       "options": [
         {
-          "en": "Allows or blocks traffic according to a set of rules",
-          "hi": "नियमों के अनुसार ट्रैफ़िक को अनुमति देता या रोकता है"
+          "en": "Deletes duplicate files",
+          "hi": "डुप्लिकेट फ़ाइलें मिटाता है"
         },
         {
           "en": "Speeds up downloads",
           "hi": "डाउनलोड तेज़ करता है"
         },
         {
-          "en": "Deletes duplicate files",
-          "hi": "डुप्लिकेट फ़ाइलें मिटाता है"
+          "en": "Allows or blocks traffic according to a set of rules",
+          "hi": "नियमों के अनुसार ट्रैफ़िक को अनुमति देता या रोकता है"
         },
         {
           "en": "Prints network reports",
           "hi": "नेटवर्क रिपोर्ट छापता है"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -6230,8 +6230,8 @@
       },
       "options": [
         {
-          "en": "Ransomware",
-          "hi": "रैनसमवेयर"
+          "en": "Shareware",
+          "hi": "शेयरवेयर"
         },
         {
           "en": "Adware",
@@ -6242,11 +6242,11 @@
           "hi": "फ़र्मवेयर"
         },
         {
-          "en": "Shareware",
-          "hi": "शेयरवेयर"
+          "en": "Ransomware",
+          "hi": "रैनसमवेयर"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -6286,23 +6286,23 @@
       },
       "options": [
         {
-          "en": "Two different kinds of proof of identity",
-          "hi": "पहचान के दो अलग-अलग प्रकार के प्रमाण"
-        },
-        {
-          "en": "A password twice as long",
-          "hi": "दुगुना लंबा पासवर्ड"
-        },
-        {
           "en": "Two separate accounts",
           "hi": "दो अलग खाते"
         },
         {
           "en": "A password changed every two days",
           "hi": "हर दो दिन बदला जाने वाला पासवर्ड"
+        },
+        {
+          "en": "Two different kinds of proof of identity",
+          "hi": "पहचान के दो अलग-अलग प्रकार के प्रमाण"
+        },
+        {
+          "en": "A password twice as long",
+          "hi": "दुगुना लंबा पासवर्ड"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -6342,23 +6342,23 @@
       },
       "options": [
         {
-          "en": "Barometer",
-          "hi": "बैरोमीटर"
-        },
-        {
           "en": "Hygrometer",
           "hi": "हाइग्रोमीटर"
+        },
+        {
+          "en": "Seismometer",
+          "hi": "सिस्मोमीटर"
         },
         {
           "en": "Thermometer",
           "hi": "थर्मामीटर"
         },
         {
-          "en": "Seismometer",
-          "hi": "सिस्मोमीटर"
+          "en": "Barometer",
+          "hi": "बैरोमीटर"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -6398,23 +6398,23 @@
       },
       "options": [
         {
-          "en": "The temperature at which air becomes saturated and vapour condenses",
-          "hi": "वह तापमान जिस पर वायु संतृप्त होकर वाष्प संघनित होने लगे"
+          "en": "The depth of the cloud base",
+          "hi": "बादल की तली की ऊँचाई"
         },
         {
           "en": "The hottest hour of the day",
           "hi": "दिन का सबसे गर्म समय"
         },
         {
-          "en": "The depth of the cloud base",
-          "hi": "बादल की तली की ऊँचाई"
+          "en": "The temperature at which air becomes saturated and vapour condenses",
+          "hi": "वह तापमान जिस पर वायु संतृप्त होकर वाष्प संघनित होने लगे"
         },
         {
           "en": "The pressure at sea level",
           "hi": "समुद्र तल पर दाब"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -6454,23 +6454,23 @@
       },
       "options": [
         {
-          "en": "Anemometer",
-          "hi": "एनीमोमीटर"
-        },
-        {
           "en": "Barometer",
           "hi": "बैरोमीटर"
         },
         {
-          "en": "Rain gauge",
-          "hi": "वर्षा मापक"
+          "en": "Anemometer",
+          "hi": "एनीमोमीटर"
         },
         {
           "en": "Pyranometer",
           "hi": "पायरानोमीटर"
+        },
+        {
+          "en": "Rain gauge",
+          "hi": "वर्षा मापक"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -6510,23 +6510,23 @@
       },
       "options": [
         {
-          "en": "A large low-pressure system with winds spiralling inward",
-          "hi": "कम दाब का बड़ा तंत्र जिसमें हवाएँ अंदर की ओर घूमती हैं"
+          "en": "A sudden fall in humidity",
+          "hi": "आर्द्रता में अचानक गिरावट"
         },
         {
           "en": "A long period without rain",
           "hi": "बिना वर्षा की लंबी अवधि"
         },
         {
-          "en": "A sudden fall in humidity",
-          "hi": "आर्द्रता में अचानक गिरावट"
-        },
-        {
           "en": "A layer of cold air near the ground",
           "hi": "ज़मीन के पास ठंडी हवा की परत"
+        },
+        {
+          "en": "A large low-pressure system with winds spiralling inward",
+          "hi": "कम दाब का बड़ा तंत्र जिसमें हवाएँ अंदर की ओर घूमती हैं"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -6566,23 +6566,23 @@
       },
       "options": [
         {
-          "en": "Keep clean",
-          "hi": "साफ़ रखें"
-        },
-        {
           "en": "Eat quickly",
           "hi": "जल्दी खाएँ"
         },
         {
-          "en": "Add more salt",
-          "hi": "अधिक नमक डालें"
-        },
-        {
           "en": "Serve food hot at all times",
           "hi": "भोजन हर समय गर्म परोसें"
+        },
+        {
+          "en": "Keep clean",
+          "hi": "साफ़ रखें"
+        },
+        {
+          "en": "Add more salt",
+          "hi": "अधिक नमक डालें"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -6626,16 +6626,16 @@
           "hi": "5 से 60 डिग्री सेल्सियस के बीच"
         },
         {
+          "en": "Between 0 and 2 degrees Celsius",
+          "hi": "0 से 2 डिग्री सेल्सियस के बीच"
+        },
+        {
           "en": "Below minus 18 degrees Celsius",
           "hi": "माइनस 18 डिग्री सेल्सियस से नीचे"
         },
         {
           "en": "Above 100 degrees Celsius",
           "hi": "100 डिग्री सेल्सियस से ऊपर"
-        },
-        {
-          "en": "Between 0 and 2 degrees Celsius",
-          "hi": "0 से 2 डिग्री सेल्सियस के बीच"
         }
       ],
       "correctIndex": 0,
@@ -6682,16 +6682,16 @@
           "hi": "उनके बीच हानिकारक जीवाणुओं के जाने को रोकने के लिए"
         },
         {
-          "en": "To save refrigerator space",
-          "hi": "फ़्रिज में जगह बचाने के लिए"
+          "en": "To reduce the cooking time",
+          "hi": "पकाने का समय घटाने के लिए"
         },
         {
           "en": "To keep the colours separate",
           "hi": "रंग अलग रखने के लिए"
         },
         {
-          "en": "To reduce the cooking time",
-          "hi": "पकाने का समय घटाने के लिए"
+          "en": "To save refrigerator space",
+          "hi": "फ़्रिज में जगह बचाने के लिए"
         }
       ],
       "correctIndex": 0,
@@ -6735,23 +6735,23 @@
       },
       "options": [
         {
-          "en": "It slows their growth without destroying them",
-          "hi": "वे धीमे पड़ जाते हैं पर नष्ट नहीं होते"
+          "en": "It turns them into harmless spores",
+          "hi": "वे हानिरहित बीजाणु बन जाते हैं"
         },
         {
           "en": "It kills all of them at once",
           "hi": "वे एक साथ सभी मर जाते हैं"
         },
         {
-          "en": "It makes them multiply faster",
-          "hi": "वे तेज़ी से बढ़ने लगते हैं"
+          "en": "It slows their growth without destroying them",
+          "hi": "वे धीमे पड़ जाते हैं पर नष्ट नहीं होते"
         },
         {
-          "en": "It turns them into harmless spores",
-          "hi": "वे हानिरहित बीजाणु बन जाते हैं"
+          "en": "It makes them multiply faster",
+          "hi": "वे तेज़ी से बढ़ने लगते हैं"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -6791,23 +6791,23 @@
       },
       "options": [
         {
-          "en": "Sixteen",
-          "hi": "सोलह"
-        },
-        {
           "en": "Twelve",
           "hi": "बारह"
+        },
+        {
+          "en": "Thirty-two",
+          "hi": "बत्तीस"
         },
         {
           "en": "Twenty",
           "hi": "बीस"
         },
         {
-          "en": "Thirty-two",
-          "hi": "बत्तीस"
+          "en": "Sixteen",
+          "hi": "सोलह"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -6847,23 +6847,23 @@
       },
       "options": [
         {
-          "en": "The player with the white pieces",
-          "hi": "सफ़ेद मोहरों वाला खिलाड़ी"
+          "en": "The higher-rated player",
+          "hi": "उच्च रेटिंग वाला खिलाड़ी"
         },
         {
           "en": "The player with the black pieces",
           "hi": "काले मोहरों वाला खिलाड़ी"
         },
         {
-          "en": "Whoever wins the coin toss",
-          "hi": "जो टॉस जीते"
+          "en": "The player with the white pieces",
+          "hi": "सफ़ेद मोहरों वाला खिलाड़ी"
         },
         {
-          "en": "The higher-rated player",
-          "hi": "उच्च रेटिंग वाला खिलाड़ी"
+          "en": "Whoever wins the coin toss",
+          "hi": "जो टॉस जीते"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -6903,6 +6903,10 @@
       },
       "options": [
         {
+          "en": "Neither player can deliver checkmate within fifty moves",
+          "hi": "पचास चालों में कोई भी खिलाड़ी शहमात नहीं दे पाता"
+        },
+        {
           "en": "The side to move has no legal move and its king is not in check, so the game is a draw",
           "hi": "जिस पक्ष की चाल है उसके पास कोई वैध चाल नहीं है और उसका राजा शह में नहीं है, इसलिए खेल बराबरी रहता है"
         },
@@ -6913,13 +6917,9 @@
         {
           "en": "A player's clock runs out while ahead on material",
           "hi": "मोहरों में आगे रहते हुए खिलाड़ी का समय समाप्त हो जाता है"
-        },
-        {
-          "en": "Neither player can deliver checkmate within fifty moves",
-          "hi": "पचास चालों में कोई भी खिलाड़ी शहमात नहीं दे पाता"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "HARD",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -6963,16 +6963,16 @@
           "hi": "राजा और हाथी"
         },
         {
-          "en": "The queen and a knight",
-          "hi": "वज़ीर और घोड़ा"
+          "en": "A pawn and the king",
+          "hi": "प्यादा और राजा"
         },
         {
           "en": "Two bishops",
           "hi": "दो ऊँट"
         },
         {
-          "en": "A pawn and the king",
-          "hi": "प्यादा और राजा"
+          "en": "The queen and a knight",
+          "hi": "वज़ीर और घोड़ा"
         }
       ],
       "correctIndex": 0,
@@ -7023,12 +7023,12 @@
           "hi": "घोड़ा"
         },
         {
-          "en": "A rook",
-          "hi": "हाथी"
-        },
-        {
           "en": "The queen",
           "hi": "वज़ीर"
+        },
+        {
+          "en": "A rook",
+          "hi": "हाथी"
         }
       ],
       "correctIndex": 0,
@@ -7079,12 +7079,12 @@
           "hi": "खेल तुरंत हार के साथ समाप्त हो जाता है"
         },
         {
-          "en": "The move is simply taken back",
-          "hi": "चाल को सीधे वापस ले लिया जाता है"
-        },
-        {
           "en": "One point is deducted from the player",
           "hi": "खिलाड़ी का एक अंक काटा जाता है"
+        },
+        {
+          "en": "The move is simply taken back",
+          "hi": "चाल को सीधे वापस ले लिया जाता है"
         }
       ],
       "correctIndex": 0,
@@ -7127,10 +7127,6 @@
       },
       "options": [
         {
-          "en": "The Lumiere brothers",
-          "hi": "लूमियर बंधु"
-        },
-        {
           "en": "The Warner brothers",
           "hi": "वार्नर बंधु"
         },
@@ -7139,11 +7135,15 @@
           "hi": "चार्ली चैपलिन"
         },
         {
+          "en": "The Lumiere brothers",
+          "hi": "लूमियर बंधु"
+        },
+        {
           "en": "Georges Melies",
           "hi": "जॉर्ज मेलियस"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -7187,16 +7187,16 @@
           "hi": "द जैज़ सिंगर"
         },
         {
-          "en": "Metropolis",
-          "hi": "मेट्रोपॉलिस"
-        },
-        {
           "en": "The Great Train Robbery",
           "hi": "द ग्रेट ट्रेन रॉबरी"
         },
         {
           "en": "A Trip to the Moon",
           "hi": "अ ट्रिप टू द मून"
+        },
+        {
+          "en": "Metropolis",
+          "hi": "मेट्रोपॉलिस"
         }
       ],
       "correctIndex": 0,
@@ -7239,23 +7239,23 @@
       },
       "options": [
         {
-          "en": "Zeus",
-          "hi": "ज़ीउस"
-        },
-        {
-          "en": "Apollo",
-          "hi": "अपोलो"
-        },
-        {
           "en": "Hermes",
           "hi": "हरमीस"
         },
         {
+          "en": "Zeus",
+          "hi": "ज़ीउस"
+        },
+        {
           "en": "Ares",
           "hi": "एरीज़"
+        },
+        {
+          "en": "Apollo",
+          "hi": "अपोलो"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -7299,16 +7299,16 @@
           "hi": "एथीना"
         },
         {
-          "en": "Hera",
-          "hi": "हीरा"
-        },
-        {
           "en": "Demeter",
           "hi": "डेमीटर"
         },
         {
           "en": "Artemis",
           "hi": "आर्टेमिस"
+        },
+        {
+          "en": "Hera",
+          "hi": "हीरा"
         }
       ],
       "correctIndex": 0,
@@ -7351,23 +7351,23 @@
       },
       "options": [
         {
-          "en": "Poseidon",
-          "hi": "पोसायडन"
-        },
-        {
           "en": "Hephaestus",
           "hi": "हेफ़ेस्तस"
         },
         {
-          "en": "Dionysus",
-          "hi": "डायोनिसस"
+          "en": "Poseidon",
+          "hi": "पोसायडन"
         },
         {
           "en": "Cronus",
           "hi": "क्रोनस"
+        },
+        {
+          "en": "Dionysus",
+          "hi": "डायोनिसस"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -7407,23 +7407,23 @@
       },
       "options": [
         {
-          "en": "Hades",
-          "hi": "हेडीज़"
-        },
-        {
-          "en": "Thanatos",
-          "hi": "थानाटोस"
+          "en": "Tartarus",
+          "hi": "टार्टारस"
         },
         {
           "en": "Hypnos",
           "hi": "हिप्नोस"
         },
         {
-          "en": "Tartarus",
-          "hi": "टार्टारस"
+          "en": "Hades",
+          "hi": "हेडीज़"
+        },
+        {
+          "en": "Thanatos",
+          "hi": "थानाटोस"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -7463,10 +7463,6 @@
       },
       "options": [
         {
-          "en": "Aphrodite",
-          "hi": "एफ़्रोडाइटी"
-        },
-        {
           "en": "Hestia",
           "hi": "हेस्तिया"
         },
@@ -7475,11 +7471,15 @@
           "hi": "नाइकी"
         },
         {
+          "en": "Aphrodite",
+          "hi": "एफ़्रोडाइटी"
+        },
+        {
           "en": "Persephone",
           "hi": "पर्सेफ़ोनी"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -7527,12 +7527,12 @@
           "hi": "रेमिशन"
         },
         {
-          "en": "Biopsy",
-          "hi": "बायोप्सी"
-        },
-        {
           "en": "Dialysis",
           "hi": "डायलिसिस"
+        },
+        {
+          "en": "Biopsy",
+          "hi": "बायोप्सी"
         }
       ],
       "correctIndex": 0,
@@ -7575,23 +7575,23 @@
       },
       "options": [
         {
-          "en": "Benign",
-          "hi": "सौम्य"
+          "en": "Metastatic",
+          "hi": "मेटास्टैटिक"
         },
         {
           "en": "Malignant",
           "hi": "घातक"
         },
         {
-          "en": "Metastatic",
-          "hi": "मेटास्टैटिक"
+          "en": "Benign",
+          "hi": "सौम्य"
         },
         {
           "en": "Invasive",
           "hi": "आक्रामक"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -7635,16 +7635,16 @@
           "hi": "सूक्ष्मदर्शी से जाँच के लिए ऊतक का छोटा नमूना लेना"
         },
         {
-          "en": "Measuring blood pressure twice",
-          "hi": "रक्तचाप दो बार मापना"
-        },
-        {
           "en": "Scanning bones with X-rays",
           "hi": "एक्स-रे से हड्डियों का स्कैन"
         },
         {
           "en": "Recording the heart's rhythm",
           "hi": "हृदय की लय दर्ज करना"
+        },
+        {
+          "en": "Measuring blood pressure twice",
+          "hi": "रक्तचाप दो बार मापना"
         }
       ],
       "correctIndex": 0,
@@ -7687,12 +7687,12 @@
       },
       "options": [
         {
-          "en": "Chemotherapy",
-          "hi": "कीमोथेरेपी"
-        },
-        {
           "en": "Physiotherapy",
           "hi": "फ़िज़ियोथेरेपी"
+        },
+        {
+          "en": "Chemotherapy",
+          "hi": "कीमोथेरेपी"
         },
         {
           "en": "Radiotherapy",
@@ -7703,7 +7703,7 @@
           "hi": "संवेदनाहरण"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "EASY",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {
@@ -7743,6 +7743,10 @@
       },
       "options": [
         {
+          "en": "The Commonwealth Secretariat",
+          "hi": "राष्ट्रमंडल सचिवालय"
+        },
+        {
           "en": "The United Nations",
           "hi": "संयुक्त राष्ट्र"
         },
@@ -7753,13 +7757,9 @@
         {
           "en": "The International Monetary Fund",
           "hi": "अंतर्राष्ट्रीय मुद्रा कोष"
-        },
-        {
-          "en": "The Commonwealth Secretariat",
-          "hi": "राष्ट्रमंडल सचिवालय"
         }
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "difficulty": "MEDIUM",
       "angle": "SINGLE_FACT_RECALL",
       "explanation": {

@@ -135,6 +135,21 @@ for (let i = 0; i < records.length; i++) {
   }
 }
 
+// ---- answer-position spread -------------------------------------------
+// A bank where the right answer always sits in the same slot is guessable, so
+// no position may hold more than 40% of the answers.
+if (records.length >= 20) {
+  const spread = [0, 0, 0, 0];
+  for (const q of records) spread[q.correctIndex]++;
+  const worst = spread.indexOf(Math.max(...spread));
+  const share = spread[worst] / records.length;
+  if (share > 0.4) {
+    fail('CORPUS', 'ANSWER_POSITION_SKEW',
+      `position ${'ABCD'[worst]} holds ${spread[worst]}/${records.length} answers (${Math.round(share * 100)}%); re-run the option rotation`);
+  }
+  console.log(`answer positions: A=${spread[0]} B=${spread[1]} C=${spread[2]} D=${spread[3]}`);
+}
+
 // ---- app-schema payload ------------------------------------------------
 const payload = records.map((q, i) => ({
   id: `DRAFT-${q.id}`,

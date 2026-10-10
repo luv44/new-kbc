@@ -2,481 +2,1122 @@
   {
     "id": "DQ-0036",
     "category": "Indian polity",
-    "sourceIds": ["SANSAD-INTRO-2026"],
-    "difficulty": "EASY",
-    "q": { "en": "The Parliament of India is made up of which three parts?", "hi": "भारत की संसद किन तीन भागों से मिलकर बनी है?" },
-    "options": [
-      { "en": "The President, the Lok Sabha and the Rajya Sabha", "hi": "राष्ट्रपति, लोक सभा और राज्य सभा" },
-      { "en": "The Prime Minister, the Lok Sabha and the Rajya Sabha", "hi": "प्रधानमंत्री, लोक सभा और राज्य सभा" },
-      { "en": "The President, the Supreme Court and the Lok Sabha", "hi": "राष्ट्रपति, सर्वोच्च न्यायालय और लोक सभा" },
-      { "en": "The President, the Lok Sabha and the state assemblies", "hi": "राष्ट्रपति, लोक सभा और राज्य विधानसभाएँ" }
+    "sourceIds": [
+      "SANSAD-INTRO-2026"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "Article 79 puts the President together with the two Houses to form Parliament.", "hi": "अनुच्छेद 79 के अनुसार राष्ट्रपति तथा दोनों सदन मिलकर संसद बनाते हैं।" }
+    "difficulty": "EASY",
+    "q": {
+      "en": "The Parliament of India is made up of which three parts?",
+      "hi": "भारत की संसद किन तीन भागों से मिलकर बनी है?"
+    },
+    "options": [
+      {
+        "en": "The President, the Lok Sabha and the state assemblies",
+        "hi": "राष्ट्रपति, लोक सभा और राज्य विधानसभाएँ"
+      },
+      {
+        "en": "The President, the Supreme Court and the Lok Sabha",
+        "hi": "राष्ट्रपति, सर्वोच्च न्यायालय और लोक सभा"
+      },
+      {
+        "en": "The Prime Minister, the Lok Sabha and the Rajya Sabha",
+        "hi": "प्रधानमंत्री, लोक सभा और राज्य सभा"
+      },
+      {
+        "en": "The President, the Lok Sabha and the Rajya Sabha",
+        "hi": "राष्ट्रपति, लोक सभा और राज्य सभा"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Article 79 puts the President together with the two Houses to form Parliament.",
+      "hi": "अनुच्छेद 79 के अनुसार राष्ट्रपति तथा दोनों सदन मिलकर संसद बनाते हैं।"
+    }
   },
   {
     "id": "DQ-0037",
     "category": "Indian polity",
-    "sourceIds": ["SANSAD-INTRO-2026"],
-    "difficulty": "EASY",
-    "q": { "en": "Which House of Parliament is described as the Council of States?", "hi": "संसद के किस सदन को राज्य परिषद कहा जाता है?" },
-    "options": [
-      { "en": "Rajya Sabha", "hi": "राज्य सभा" },
-      { "en": "Lok Sabha", "hi": "लोक सभा" },
-      { "en": "Legislative Council", "hi": "विधान परिषद" },
-      { "en": "NITI Aayog", "hi": "नीति आयोग" }
+    "sourceIds": [
+      "SANSAD-INTRO-2026"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "Members of the Rajya Sabha are elected mainly by the elected members of state legislatures.", "hi": "राज्य सभा के सदस्य मुख्यतः राज्य विधानमंडलों के निर्वाचित सदस्यों द्वारा चुने जाते हैं।" }
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which House of Parliament is described as the Council of States?",
+      "hi": "संसद के किस सदन को राज्य परिषद कहा जाता है?"
+    },
+    "options": [
+      {
+        "en": "Legislative Council",
+        "hi": "विधान परिषद"
+      },
+      {
+        "en": "Lok Sabha",
+        "hi": "लोक सभा"
+      },
+      {
+        "en": "Rajya Sabha",
+        "hi": "राज्य सभा"
+      },
+      {
+        "en": "NITI Aayog",
+        "hi": "नीति आयोग"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Members of the Rajya Sabha are elected mainly by the elected members of state legislatures.",
+      "hi": "राज्य सभा के सदस्य मुख्यतः राज्य विधानमंडलों के निर्वाचित सदस्यों द्वारा चुने जाते हैं।"
+    }
   },
   {
     "id": "DQ-0038",
     "category": "Indian polity",
-    "sourceIds": ["SANSAD-INTRO-2026"],
+    "sourceIds": [
+      "SANSAD-INTRO-2026"
+    ],
     "difficulty": "MEDIUM",
-    "q": { "en": "A money bill can be introduced only in which House?", "hi": "धन विधेयक केवल किस सदन में प्रस्तुत किया जा सकता है?" },
+    "q": {
+      "en": "A money bill can be introduced only in which House?",
+      "hi": "धन विधेयक केवल किस सदन में प्रस्तुत किया जा सकता है?"
+    },
     "options": [
-      { "en": "Lok Sabha", "hi": "लोक सभा" },
-      { "en": "Rajya Sabha", "hi": "राज्य सभा" },
-      { "en": "Either House", "hi": "किसी भी सदन में" },
-      { "en": "A joint sitting of both", "hi": "दोनों के संयुक्त सत्र में" }
+      {
+        "en": "Lok Sabha",
+        "hi": "लोक सभा"
+      },
+      {
+        "en": "A joint sitting of both",
+        "hi": "दोनों के संयुक्त सत्र में"
+      },
+      {
+        "en": "Rajya Sabha",
+        "hi": "राज्य सभा"
+      },
+      {
+        "en": "Either House",
+        "hi": "किसी भी सदन में"
+      }
     ],
     "correctIndex": 0,
-    "explanation": { "en": "The Rajya Sabha may only suggest changes to a money bill; it cannot introduce one.", "hi": "राज्य सभा धन विधेयक में केवल सुझाव दे सकती है, उसे प्रस्तुत नहीं कर सकती।" }
+    "explanation": {
+      "en": "The Rajya Sabha may only suggest changes to a money bill; it cannot introduce one.",
+      "hi": "राज्य सभा धन विधेयक में केवल सुझाव दे सकती है, उसे प्रस्तुत नहीं कर सकती।"
+    }
   },
   {
     "id": "DQ-0039",
     "category": "Indian polity",
-    "sourceIds": ["SANSAD-INTRO-2026"],
-    "difficulty": "EASY",
-    "q": { "en": "Who presides over the sittings of the Lok Sabha?", "hi": "लोक सभा की बैठकों की अध्यक्षता कौन करता है?" },
-    "options": [
-      { "en": "The Speaker", "hi": "अध्यक्ष (स्पीकर)" },
-      { "en": "The President", "hi": "राष्ट्रपति" },
-      { "en": "The Prime Minister", "hi": "प्रधानमंत्री" },
-      { "en": "The Chief Justice of India", "hi": "भारत के मुख्य न्यायाधीश" }
+    "sourceIds": [
+      "SANSAD-INTRO-2026"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "Members of the Lok Sabha elect the Speaker, who also decides whether a bill is a money bill.", "hi": "लोक सभा के सदस्य अध्यक्ष चुनते हैं, जो यह भी तय करते हैं कि कोई विधेयक धन विधेयक है या नहीं।" }
+    "difficulty": "EASY",
+    "q": {
+      "en": "Who presides over the sittings of the Lok Sabha?",
+      "hi": "लोक सभा की बैठकों की अध्यक्षता कौन करता है?"
+    },
+    "options": [
+      {
+        "en": "The President",
+        "hi": "राष्ट्रपति"
+      },
+      {
+        "en": "The Speaker",
+        "hi": "अध्यक्ष (स्पीकर)"
+      },
+      {
+        "en": "The Chief Justice of India",
+        "hi": "भारत के मुख्य न्यायाधीश"
+      },
+      {
+        "en": "The Prime Minister",
+        "hi": "प्रधानमंत्री"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Members of the Lok Sabha elect the Speaker, who also decides whether a bill is a money bill.",
+      "hi": "लोक सभा के सदस्य अध्यक्ष चुनते हैं, जो यह भी तय करते हैं कि कोई विधेयक धन विधेयक है या नहीं।"
+    }
   },
   {
     "id": "DQ-0040",
     "category": "Indian polity",
-    "sourceIds": ["SANSAD-INTRO-2026"],
+    "sourceIds": [
+      "SANSAD-INTRO-2026"
+    ],
     "difficulty": "HARD",
-    "q": { "en": "What is the maximum strength of the Lok Sabha provided by the Constitution?", "hi": "संविधान के अनुसार लोक सभा की अधिकतम सदस्य संख्या कितनी है?" },
+    "q": {
+      "en": "What is the maximum strength of the Lok Sabha provided by the Constitution?",
+      "hi": "संविधान के अनुसार लोक सभा की अधिकतम सदस्य संख्या कितनी है?"
+    },
     "options": [
-      { "en": "550", "hi": "550" },
-      { "en": "545", "hi": "545" },
-      { "en": "500", "hi": "500" },
-      { "en": "600", "hi": "600" }
+      {
+        "en": "550",
+        "hi": "550"
+      },
+      {
+        "en": "545",
+        "hi": "545"
+      },
+      {
+        "en": "600",
+        "hi": "600"
+      },
+      {
+        "en": "500",
+        "hi": "500"
+      }
     ],
     "correctIndex": 0,
-    "explanation": { "en": "Article 81 allows up to 530 members from the states and 20 from the Union territories.", "hi": "अनुच्छेद 81 के अनुसार राज्यों से अधिकतम 530 और केंद्र शासित प्रदेशों से 20 सदस्य हो सकते हैं।" }
+    "explanation": {
+      "en": "Article 81 allows up to 530 members from the states and 20 from the Union territories.",
+      "hi": "अनुच्छेद 81 के अनुसार राज्यों से अधिकतम 530 और केंद्र शासित प्रदेशों से 20 सदस्य हो सकते हैं।"
+    }
   },
   {
     "id": "DQ-0041",
     "category": "Indian polity",
-    "sourceIds": ["SANSAD-INTRO-2026"],
-    "difficulty": "HARD",
-    "q": { "en": "The Rajya Sabha is never dissolved. What share of its members retires every two years?", "hi": "राज्य सभा कभी भंग नहीं होती। इसके कितने भाग के सदस्य हर दो वर्ष में सेवानिवृत्त होते हैं?" },
-    "options": [
-      { "en": "One third", "hi": "एक तिहाई" },
-      { "en": "One half", "hi": "आधा" },
-      { "en": "One fourth", "hi": "एक चौथाई" },
-      { "en": "Two thirds", "hi": "दो तिहाई" }
+    "sourceIds": [
+      "SANSAD-INTRO-2026"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "Members serve six years, with a third of the seats falling vacant every second year.", "hi": "सदस्यों का कार्यकाल छह वर्ष होता है और हर दूसरे वर्ष एक तिहाई स्थान रिक्त हो जाते हैं।" }
+    "difficulty": "HARD",
+    "q": {
+      "en": "The Rajya Sabha is never dissolved. What share of its members retires every two years?",
+      "hi": "राज्य सभा कभी भंग नहीं होती। इसके कितने भाग के सदस्य हर दो वर्ष में सेवानिवृत्त होते हैं?"
+    },
+    "options": [
+      {
+        "en": "One half",
+        "hi": "आधा"
+      },
+      {
+        "en": "One fourth",
+        "hi": "एक चौथाई"
+      },
+      {
+        "en": "Two thirds",
+        "hi": "दो तिहाई"
+      },
+      {
+        "en": "One third",
+        "hi": "एक तिहाई"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Members serve six years, with a third of the seats falling vacant every second year.",
+      "hi": "सदस्यों का कार्यकाल छह वर्ष होता है और हर दूसरे वर्ष एक तिहाई स्थान रिक्त हो जाते हैं।"
+    }
   },
   {
     "id": "DQ-0042",
     "category": "Indian polity",
-    "sourceIds": ["SCI-CONSTITUTION"],
+    "sourceIds": [
+      "SCI-CONSTITUTION"
+    ],
     "difficulty": "EASY",
-    "q": { "en": "On which date did the Constitution of India come into effect?", "hi": "भारत का संविधान किस तिथि को लागू हुआ?" },
+    "q": {
+      "en": "On which date did the Constitution of India come into effect?",
+      "hi": "भारत का संविधान किस तिथि को लागू हुआ?"
+    },
     "options": [
-      { "en": "26 January 1950", "hi": "26 जनवरी 1950" },
-      { "en": "26 November 1949", "hi": "26 नवंबर 1949" },
-      { "en": "15 August 1947", "hi": "15 अगस्त 1947" },
-      { "en": "26 January 1930", "hi": "26 जनवरी 1930" }
+      {
+        "en": "26 January 1950",
+        "hi": "26 जनवरी 1950"
+      },
+      {
+        "en": "26 January 1930",
+        "hi": "26 जनवरी 1930"
+      },
+      {
+        "en": "15 August 1947",
+        "hi": "15 अगस्त 1947"
+      },
+      {
+        "en": "26 November 1949",
+        "hi": "26 नवंबर 1949"
+      }
     ],
     "correctIndex": 0,
-    "explanation": { "en": "The text was adopted on 26 November 1949 and came into force on 26 January 1950.", "hi": "संविधान 26 नवंबर 1949 को अपनाया गया और 26 जनवरी 1950 को लागू हुआ।" }
+    "explanation": {
+      "en": "The text was adopted on 26 November 1949 and came into force on 26 January 1950.",
+      "hi": "संविधान 26 नवंबर 1949 को अपनाया गया और 26 जनवरी 1950 को लागू हुआ।"
+    }
   },
   {
     "id": "DQ-0043",
     "category": "Indian polity",
-    "sourceIds": ["MOPR-CONSTITUTION-IX"],
-    "difficulty": "MEDIUM",
-    "q": { "en": "Which Part of the Constitution of India deals with Panchayats?", "hi": "भारत के संविधान का कौन सा भाग पंचायतों से संबंधित है?" },
-    "options": [
-      { "en": "Part IX", "hi": "भाग IX" },
-      { "en": "Part III", "hi": "भाग III" },
-      { "en": "Part IXA", "hi": "भाग IXA" },
-      { "en": "Part XI", "hi": "भाग XI" }
+    "sourceIds": [
+      "MOPR-CONSTITUTION-IX"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "Part IX carries Articles 243 to 243O on Panchayats; Part IXA covers Municipalities.", "hi": "भाग IX में पंचायतों पर अनुच्छेद 243 से 243O हैं; भाग IXA नगरपालिकाओं से संबंधित है।" }
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which Part of the Constitution of India deals with Panchayats?",
+      "hi": "भारत के संविधान का कौन सा भाग पंचायतों से संबंधित है?"
+    },
+    "options": [
+      {
+        "en": "Part III",
+        "hi": "भाग III"
+      },
+      {
+        "en": "Part XI",
+        "hi": "भाग XI"
+      },
+      {
+        "en": "Part IX",
+        "hi": "भाग IX"
+      },
+      {
+        "en": "Part IXA",
+        "hi": "भाग IXA"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Part IX carries Articles 243 to 243O on Panchayats; Part IXA covers Municipalities.",
+      "hi": "भाग IX में पंचायतों पर अनुच्छेद 243 से 243O हैं; भाग IXA नगरपालिकाओं से संबंधित है।"
+    }
   },
   {
     "id": "DQ-0044",
     "category": "Indian polity",
-    "sourceIds": ["MOPR-CONSTITUTION-IX"],
+    "sourceIds": [
+      "MOPR-CONSTITUTION-IX"
+    ],
     "difficulty": "MEDIUM",
-    "q": { "en": "Which Part of the Constitution sets out the framework for Municipalities?", "hi": "संविधान का कौन सा भाग नगरपालिकाओं का ढाँचा तय करता है?" },
+    "q": {
+      "en": "Which Part of the Constitution sets out the framework for Municipalities?",
+      "hi": "संविधान का कौन सा भाग नगरपालिकाओं का ढाँचा तय करता है?"
+    },
     "options": [
-      { "en": "Part IXA", "hi": "भाग IXA" },
-      { "en": "Part IX", "hi": "भाग IX" },
-      { "en": "Part IV", "hi": "भाग IV" },
-      { "en": "Part XIV", "hi": "भाग XIV" }
+      {
+        "en": "Part IXA",
+        "hi": "भाग IXA"
+      },
+      {
+        "en": "Part XIV",
+        "hi": "भाग XIV"
+      },
+      {
+        "en": "Part IV",
+        "hi": "भाग IV"
+      },
+      {
+        "en": "Part IX",
+        "hi": "भाग IX"
+      }
     ],
     "correctIndex": 0,
-    "explanation": { "en": "Part IXA, added in 1992, gives urban local bodies their constitutional footing.", "hi": "1992 में जोड़ा गया भाग IXA शहरी स्थानीय निकायों को संवैधानिक आधार देता है।" }
+    "explanation": {
+      "en": "Part IXA, added in 1992, gives urban local bodies their constitutional footing.",
+      "hi": "1992 में जोड़ा गया भाग IXA शहरी स्थानीय निकायों को संवैधानिक आधार देता है।"
+    }
   },
   {
     "id": "DQ-0045",
     "category": "Indian polity",
-    "sourceIds": ["MOPR-CONSTITUTION-IX"],
+    "sourceIds": [
+      "MOPR-CONSTITUTION-IX"
+    ],
     "difficulty": "MEDIUM",
-    "q": { "en": "Panchayati Raj institutions received constitutional status through which Amendment Act?", "hi": "पंचायती राज संस्थाओं को संवैधानिक दर्जा किस संशोधन अधिनियम से मिला?" },
+    "q": {
+      "en": "Panchayati Raj institutions received constitutional status through which Amendment Act?",
+      "hi": "पंचायती राज संस्थाओं को संवैधानिक दर्जा किस संशोधन अधिनियम से मिला?"
+    },
     "options": [
-      { "en": "The 73rd Amendment", "hi": "73वाँ संशोधन" },
-      { "en": "The 42nd Amendment", "hi": "42वाँ संशोधन" },
-      { "en": "The 44th Amendment", "hi": "44वाँ संशोधन" },
-      { "en": "The 101st Amendment", "hi": "101वाँ संशोधन" }
+      {
+        "en": "The 73rd Amendment",
+        "hi": "73वाँ संशोधन"
+      },
+      {
+        "en": "The 42nd Amendment",
+        "hi": "42वाँ संशोधन"
+      },
+      {
+        "en": "The 44th Amendment",
+        "hi": "44वाँ संशोधन"
+      },
+      {
+        "en": "The 101st Amendment",
+        "hi": "101वाँ संशोधन"
+      }
     ],
     "correctIndex": 0,
-    "explanation": { "en": "The 73rd Amendment Act of 1992 came into force on 24 April 1993.", "hi": "73वाँ संविधान संशोधन अधिनियम, 1992, 24 अप्रैल 1993 को लागू हुआ।" }
+    "explanation": {
+      "en": "The 73rd Amendment Act of 1992 came into force on 24 April 1993.",
+      "hi": "73वाँ संविधान संशोधन अधिनियम, 1992, 24 अप्रैल 1993 को लागू हुआ।"
+    }
   },
   {
     "id": "DQ-0046",
     "category": "Indian polity",
-    "sourceIds": ["MOPR-CONSTITUTION-IX"],
-    "difficulty": "HARD",
-    "q": { "en": "The Gram Sabha consists of whom?", "hi": "ग्राम सभा किन लोगों से बनती है?" },
-    "options": [
-      { "en": "Every registered voter in the village panchayat area", "hi": "ग्राम पंचायत क्षेत्र के प्रत्येक पंजीकृत मतदाता" },
-      { "en": "Only the elected ward members", "hi": "केवल निर्वाचित वार्ड सदस्य" },
-      { "en": "Only land-owning families", "hi": "केवल भूमिधारक परिवार" },
-      { "en": "The sarpanch and the block officer", "hi": "सरपंच और ब्लॉक अधिकारी" }
+    "sourceIds": [
+      "MOPR-CONSTITUTION-IX"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "Article 243A defines the Gram Sabha as a body of persons on the electoral roll of a village area.", "hi": "अनुच्छेद 243A ग्राम सभा को ग्राम क्षेत्र की मतदाता सूची में दर्ज व्यक्तियों का निकाय बताता है।" }
+    "difficulty": "HARD",
+    "q": {
+      "en": "The Gram Sabha consists of whom?",
+      "hi": "ग्राम सभा किन लोगों से बनती है?"
+    },
+    "options": [
+      {
+        "en": "The sarpanch and the block officer",
+        "hi": "सरपंच और ब्लॉक अधिकारी"
+      },
+      {
+        "en": "Only land-owning families",
+        "hi": "केवल भूमिधारक परिवार"
+      },
+      {
+        "en": "Only the elected ward members",
+        "hi": "केवल निर्वाचित वार्ड सदस्य"
+      },
+      {
+        "en": "Every registered voter in the village panchayat area",
+        "hi": "ग्राम पंचायत क्षेत्र के प्रत्येक पंजीकृत मतदाता"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Article 243A defines the Gram Sabha as a body of persons on the electoral roll of a village area.",
+      "hi": "अनुच्छेद 243A ग्राम सभा को ग्राम क्षेत्र की मतदाता सूची में दर्ज व्यक्तियों का निकाय बताता है।"
+    }
   },
   {
     "id": "DQ-0047",
     "category": "Indian polity",
-    "sourceIds": ["MOPR-CONSTITUTION-IX"],
-    "difficulty": "HARD",
-    "q": { "en": "Which committee's 1957 report recommended democratic decentralisation behind Panchayati Raj?", "hi": "1957 में किस समिति की रिपोर्ट ने पंचायती राज के पीछे लोकतांत्रिक विकेंद्रीकरण की सिफ़ारिश की?" },
-    "options": [
-      { "en": "Balwant Rai Mehta Committee", "hi": "बलवंत राय मेहता समिति" },
-      { "en": "Sarkaria Commission", "hi": "सरकारिया आयोग" },
-      { "en": "Narasimham Committee", "hi": "नरसिम्हम समिति" },
-      { "en": "Dhar Commission", "hi": "धर आयोग" }
+    "sourceIds": [
+      "MOPR-CONSTITUTION-IX"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "Rajasthan became the first state to launch the scheme at Nagaur in 1959.", "hi": "राजस्थान 1959 में नागौर में यह योजना लागू करने वाला पहला राज्य बना।" }
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which committee's 1957 report recommended democratic decentralisation behind Panchayati Raj?",
+      "hi": "1957 में किस समिति की रिपोर्ट ने पंचायती राज के पीछे लोकतांत्रिक विकेंद्रीकरण की सिफ़ारिश की?"
+    },
+    "options": [
+      {
+        "en": "Dhar Commission",
+        "hi": "धर आयोग"
+      },
+      {
+        "en": "Narasimham Committee",
+        "hi": "नरसिम्हम समिति"
+      },
+      {
+        "en": "Sarkaria Commission",
+        "hi": "सरकारिया आयोग"
+      },
+      {
+        "en": "Balwant Rai Mehta Committee",
+        "hi": "बलवंत राय मेहता समिति"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Rajasthan became the first state to launch the scheme at Nagaur in 1959.",
+      "hi": "राजस्थान 1959 में नागौर में यह योजना लागू करने वाला पहला राज्य बना।"
+    }
   },
   {
     "id": "DQ-0048",
     "category": "Indian polity",
-    "sourceIds": ["MHA-UT-ACT1963"],
-    "difficulty": "HARD",
-    "q": { "en": "Which Act provides for a legislature and council of ministers for certain Union territories?", "hi": "कौन सा अधिनियम कुछ केंद्र शासित प्रदेशों के लिए विधानमंडल और मंत्रिपरिषद की व्यवस्था करता है?" },
-    "options": [
-      { "en": "The Government of Union Territories Act, 1963", "hi": "सरकार संघ राज्य क्षेत्र अधिनियम, 1963" },
-      { "en": "The States Reorganisation Act, 1956", "hi": "राज्य पुनर्गठन अधिनियम, 1956" },
-      { "en": "The Representation of the People Act, 1951", "hi": "जन प्रतिनिधित्व अधिनियम, 1951" },
-      { "en": "The Delhi Municipal Corporation Act, 1957", "hi": "दिल्ली नगर निगम अधिनियम, 1957" }
+    "sourceIds": [
+      "MHA-UT-ACT1963"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "The 1963 Act creates the legislative machinery for Union territories that Parliament designates.", "hi": "1963 का अधिनियम उन केंद्र शासित प्रदेशों के लिए विधायी ढाँचा बनाता है जिन्हें संसद नामित करती है।" }
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which Act provides for a legislature and council of ministers for certain Union territories?",
+      "hi": "कौन सा अधिनियम कुछ केंद्र शासित प्रदेशों के लिए विधानमंडल और मंत्रिपरिषद की व्यवस्था करता है?"
+    },
+    "options": [
+      {
+        "en": "The States Reorganisation Act, 1956",
+        "hi": "राज्य पुनर्गठन अधिनियम, 1956"
+      },
+      {
+        "en": "The Delhi Municipal Corporation Act, 1957",
+        "hi": "दिल्ली नगर निगम अधिनियम, 1957"
+      },
+      {
+        "en": "The Government of Union Territories Act, 1963",
+        "hi": "सरकार संघ राज्य क्षेत्र अधिनियम, 1963"
+      },
+      {
+        "en": "The Representation of the People Act, 1951",
+        "hi": "जन प्रतिनिधित्व अधिनियम, 1951"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "The 1963 Act creates the legislative machinery for Union territories that Parliament designates.",
+      "hi": "1963 का अधिनियम उन केंद्र शासित प्रदेशों के लिए विधायी ढाँचा बनाता है जिन्हें संसद नामित करती है।"
+    }
   },
   {
     "id": "DQ-0049",
     "category": "Indian polity",
-    "sourceIds": ["SCI-CONSTITUTION"],
-    "difficulty": "MEDIUM",
-    "q": { "en": "Fundamental Rights are contained in which Part of the Constitution of India?", "hi": "भारत के संविधान में मौलिक अधिकार किस भाग में दिए गए हैं?" },
-    "options": [
-      { "en": "Part III", "hi": "भाग III" },
-      { "en": "Part IV", "hi": "भाग IV" },
-      { "en": "Part II", "hi": "भाग II" },
-      { "en": "Part V", "hi": "भाग V" }
+    "sourceIds": [
+      "SCI-CONSTITUTION"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "Part IV instead carries the Directive Principles of State Policy.", "hi": "भाग IV में राज्य के नीति निर्देशक तत्व रखे गए हैं।" }
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Fundamental Rights are contained in which Part of the Constitution of India?",
+      "hi": "भारत के संविधान में मौलिक अधिकार किस भाग में दिए गए हैं?"
+    },
+    "options": [
+      {
+        "en": "Part IV",
+        "hi": "भाग IV"
+      },
+      {
+        "en": "Part III",
+        "hi": "भाग III"
+      },
+      {
+        "en": "Part V",
+        "hi": "भाग V"
+      },
+      {
+        "en": "Part II",
+        "hi": "भाग II"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Part IV instead carries the Directive Principles of State Policy.",
+      "hi": "भाग IV में राज्य के नीति निर्देशक तत्व रखे गए हैं।"
+    }
   },
   {
     "id": "DQ-0050",
     "category": "Indian polity",
-    "sourceIds": ["SCI-CONSTITUTION"],
-    "difficulty": "HARD",
-    "q": { "en": "Which Article lets a citizen move the Supreme Court directly to enforce a Fundamental Right?", "hi": "किस अनुच्छेद के तहत नागरिक मौलिक अधिकार के प्रवर्तन हेतु सीधे सर्वोच्च न्यायालय जा सकता है?" },
-    "options": [
-      { "en": "Article 32", "hi": "अनुच्छेद 32" },
-      { "en": "Article 21", "hi": "अनुच्छेद 21" },
-      { "en": "Article 44", "hi": "अनुच्छेद 44" },
-      { "en": "Article 51A", "hi": "अनुच्छेद 51A" }
+    "sourceIds": [
+      "SCI-CONSTITUTION"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "Dr Ambedkar called Article 32 the heart and soul of the Constitution.", "hi": "डॉ. अम्बेडकर ने अनुच्छेद 32 को संविधान की आत्मा कहा था।" }
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which Article lets a citizen move the Supreme Court directly to enforce a Fundamental Right?",
+      "hi": "किस अनुच्छेद के तहत नागरिक मौलिक अधिकार के प्रवर्तन हेतु सीधे सर्वोच्च न्यायालय जा सकता है?"
+    },
+    "options": [
+      {
+        "en": "Article 44",
+        "hi": "अनुच्छेद 44"
+      },
+      {
+        "en": "Article 21",
+        "hi": "अनुच्छेद 21"
+      },
+      {
+        "en": "Article 51A",
+        "hi": "अनुच्छेद 51A"
+      },
+      {
+        "en": "Article 32",
+        "hi": "अनुच्छेद 32"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Dr Ambedkar called Article 32 the heart and soul of the Constitution.",
+      "hi": "डॉ. अम्बेडकर ने अनुच्छेद 32 को संविधान की आत्मा कहा था।"
+    }
   },
   {
     "id": "DQ-0051",
     "category": "Indian polity",
-    "sourceIds": ["SCI-CONSTITUTION"],
-    "difficulty": "MEDIUM",
-    "q": { "en": "Which institution is the final interpreter of the Constitution of India?", "hi": "भारत के संविधान का अंतिम व्याख्याकार कौन सी संस्था है?" },
-    "options": [
-      { "en": "The Supreme Court", "hi": "सर्वोच्च न्यायालय" },
-      { "en": "The Parliament", "hi": "संसद" },
-      { "en": "The Law Commission", "hi": "विधि आयोग" },
-      { "en": "The Election Commission", "hi": "निर्वाचन आयोग" }
+    "sourceIds": [
+      "SCI-CONSTITUTION"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "Parliament may amend within limits, but the Court decides what the text means.", "hi": "संसद सीमाओं में रहते हुए संशोधन कर सकती है, पर अर्थ का निर्णय न्यायालय करता है।" }
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which institution is the final interpreter of the Constitution of India?",
+      "hi": "भारत के संविधान का अंतिम व्याख्याकार कौन सी संस्था है?"
+    },
+    "options": [
+      {
+        "en": "The Parliament",
+        "hi": "संसद"
+      },
+      {
+        "en": "The Supreme Court",
+        "hi": "सर्वोच्च न्यायालय"
+      },
+      {
+        "en": "The Election Commission",
+        "hi": "निर्वाचन आयोग"
+      },
+      {
+        "en": "The Law Commission",
+        "hi": "विधि आयोग"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Parliament may amend within limits, but the Court decides what the text means.",
+      "hi": "संसद सीमाओं में रहते हुए संशोधन कर सकती है, पर अर्थ का निर्णय न्यायालय करता है।"
+    }
   },
   {
     "id": "DQ-0052",
     "category": "Indian geography",
-    "sourceIds": ["MHA-BORDERS"],
-    "difficulty": "MEDIUM",
-    "q": { "en": "Which country shares the longest land border with India?", "hi": "भारत के साथ सबसे लंबी स्थल सीमा किस देश की है?" },
-    "options": [
-      { "en": "Bangladesh", "hi": "बांग्लादेश" },
-      { "en": "China", "hi": "चीन" },
-      { "en": "Pakistan", "hi": "पाकिस्तान" },
-      { "en": "Nepal", "hi": "नेपाल" }
+    "sourceIds": [
+      "MHA-BORDERS"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "The India–Bangladesh land border runs roughly 4,096 kilometres across five Indian states.", "hi": "भारत–बांग्लादेश स्थल सीमा लगभग 4,096 किलोमीटर लंबी है और पाँच भारतीय राज्यों से गुज़रती है।" }
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which country shares the longest land border with India?",
+      "hi": "भारत के साथ सबसे लंबी स्थल सीमा किस देश की है?"
+    },
+    "options": [
+      {
+        "en": "China",
+        "hi": "चीन"
+      },
+      {
+        "en": "Pakistan",
+        "hi": "पाकिस्तान"
+      },
+      {
+        "en": "Bangladesh",
+        "hi": "बांग्लादेश"
+      },
+      {
+        "en": "Nepal",
+        "hi": "नेपाल"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "The India–Bangladesh land border runs roughly 4,096 kilometres across five Indian states.",
+      "hi": "भारत–बांग्लादेश स्थल सीमा लगभग 4,096 किलोमीटर लंबी है और पाँच भारतीय राज्यों से गुज़रती है।"
+    }
   },
   {
     "id": "DQ-0053",
     "category": "Indian geography",
-    "sourceIds": ["MHA-BORDERS"],
-    "difficulty": "MEDIUM",
-    "q": { "en": "How many countries share a land boundary with India, according to the Ministry of Home Affairs?", "hi": "गृह मंत्रालय के अनुसार कितने देशों की भारत के साथ स्थल सीमा लगती है?" },
-    "options": [
-      { "en": "Seven", "hi": "सात" },
-      { "en": "Five", "hi": "पाँच" },
-      { "en": "Six", "hi": "छह" },
-      { "en": "Nine", "hi": "नौ" }
+    "sourceIds": [
+      "MHA-BORDERS"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "The MHA list names Afghanistan, Bangladesh, Bhutan, China, Myanmar, Nepal and Pakistan.", "hi": "गृह मंत्रालय की सूची में अफ़ग़ानिस्तान, बांग्लादेश, भूटान, चीन, म्यांमार, नेपाल और पाकिस्तान हैं।" }
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "How many countries share a land boundary with India, according to the Ministry of Home Affairs?",
+      "hi": "गृह मंत्रालय के अनुसार कितने देशों की भारत के साथ स्थल सीमा लगती है?"
+    },
+    "options": [
+      {
+        "en": "Five",
+        "hi": "पाँच"
+      },
+      {
+        "en": "Nine",
+        "hi": "नौ"
+      },
+      {
+        "en": "Six",
+        "hi": "छह"
+      },
+      {
+        "en": "Seven",
+        "hi": "सात"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The MHA list names Afghanistan, Bangladesh, Bhutan, China, Myanmar, Nepal and Pakistan.",
+      "hi": "गृह मंत्रालय की सूची में अफ़ग़ानिस्तान, बांग्लादेश, भूटान, चीन, म्यांमार, नेपाल और पाकिस्तान हैं।"
+    }
   },
   {
     "id": "DQ-0054",
     "category": "Indian geography",
-    "sourceIds": ["MHA-BORDERS"],
+    "sourceIds": [
+      "MHA-BORDERS"
+    ],
     "difficulty": "HARD",
-    "q": { "en": "Which Indian state has the longest international border?", "hi": "किस भारतीय राज्य की अंतर्राष्ट्रीय सीमा सबसे लंबी है?" },
+    "q": {
+      "en": "Which Indian state has the longest international border?",
+      "hi": "किस भारतीय राज्य की अंतर्राष्ट्रीय सीमा सबसे लंबी है?"
+    },
     "options": [
-      { "en": "West Bengal", "hi": "पश्चिम बंगाल" },
-      { "en": "Rajasthan", "hi": "राजस्थान" },
-      { "en": "Jammu and Kashmir", "hi": "जम्मू और कश्मीर" },
-      { "en": "Assam", "hi": "असम" }
+      {
+        "en": "West Bengal",
+        "hi": "पश्चिम बंगाल"
+      },
+      {
+        "en": "Assam",
+        "hi": "असम"
+      },
+      {
+        "en": "Rajasthan",
+        "hi": "राजस्थान"
+      },
+      {
+        "en": "Jammu and Kashmir",
+        "hi": "जम्मू और कश्मीर"
+      }
     ],
     "correctIndex": 0,
-    "explanation": { "en": "West Bengal borders three countries: Bangladesh, Nepal and Bhutan.", "hi": "पश्चिम बंगाल की सीमा तीन देशों — बांग्लादेश, नेपाल और भूटान — से लगती है।" }
+    "explanation": {
+      "en": "West Bengal borders three countries: Bangladesh, Nepal and Bhutan.",
+      "hi": "पश्चिम बंगाल की सीमा तीन देशों — बांग्लादेश, नेपाल और भूटान — से लगती है।"
+    }
   },
   {
     "id": "DQ-0055",
     "category": "Indian geography",
-    "sourceIds": ["MHA-BORDERS"],
-    "difficulty": "MEDIUM",
-    "q": { "en": "Which line marked the 1947 boundary between India and Pakistan?", "hi": "1947 में भारत और पाकिस्तान के बीच की सीमा किस रेखा से तय हुई?" },
-    "options": [
-      { "en": "The Radcliffe Line", "hi": "रेडक्लिफ रेखा" },
-      { "en": "The McMahon Line", "hi": "मैकमोहन रेखा" },
-      { "en": "The Durand Line", "hi": "डूरंड रेखा" },
-      { "en": "The 24th parallel", "hi": "24वाँ समांतर" }
+    "sourceIds": [
+      "MHA-BORDERS"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "Cyril Radcliffe chaired the boundary commissions that drew the line.", "hi": "सिरिल रेडक्लिफ उस सीमा आयोग के अध्यक्ष थे जिसने यह रेखा खींची।" }
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which line marked the 1947 boundary between India and Pakistan?",
+      "hi": "1947 में भारत और पाकिस्तान के बीच की सीमा किस रेखा से तय हुई?"
+    },
+    "options": [
+      {
+        "en": "The 24th parallel",
+        "hi": "24वाँ समांतर"
+      },
+      {
+        "en": "The Durand Line",
+        "hi": "डूरंड रेखा"
+      },
+      {
+        "en": "The Radcliffe Line",
+        "hi": "रेडक्लिफ रेखा"
+      },
+      {
+        "en": "The McMahon Line",
+        "hi": "मैकमोहन रेखा"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Cyril Radcliffe chaired the boundary commissions that drew the line.",
+      "hi": "सिरिल रेडक्लिफ उस सीमा आयोग के अध्यक्ष थे जिसने यह रेखा खींची।"
+    }
   },
   {
     "id": "DQ-0056",
     "category": "Time and standards",
-    "sourceIds": ["NPL-TIME"],
-    "difficulty": "EASY",
-    "q": { "en": "Indian Standard Time runs ahead of UTC by how much?", "hi": "भारतीय मानक समय UTC से कितना आगे है?" },
-    "options": [
-      { "en": "5 hours 30 minutes", "hi": "5 घंटे 30 मिनट" },
-      { "en": "5 hours", "hi": "5 घंटे" },
-      { "en": "6 hours", "hi": "6 घंटे" },
-      { "en": "4 hours 30 minutes", "hi": "4 घंटे 30 मिनट" }
+    "sourceIds": [
+      "NPL-TIME"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "IST is written as UTC+05:30 across the whole country.", "hi": "पूरे देश में IST को UTC+05:30 के रूप में लिखा जाता है।" }
+    "difficulty": "EASY",
+    "q": {
+      "en": "Indian Standard Time runs ahead of UTC by how much?",
+      "hi": "भारतीय मानक समय UTC से कितना आगे है?"
+    },
+    "options": [
+      {
+        "en": "5 hours",
+        "hi": "5 घंटे"
+      },
+      {
+        "en": "4 hours 30 minutes",
+        "hi": "4 घंटे 30 मिनट"
+      },
+      {
+        "en": "6 hours",
+        "hi": "6 घंटे"
+      },
+      {
+        "en": "5 hours 30 minutes",
+        "hi": "5 घंटे 30 मिनट"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "IST is written as UTC+05:30 across the whole country.",
+      "hi": "पूरे देश में IST को UTC+05:30 के रूप में लिखा जाता है।"
+    }
   },
   {
     "id": "DQ-0057",
     "category": "Time and standards",
-    "sourceIds": ["NPL-TIME"],
+    "sourceIds": [
+      "NPL-TIME"
+    ],
     "difficulty": "MEDIUM",
-    "q": { "en": "Which Indian laboratory keeps the country's official time and frequency standards?", "hi": "भारत के आधिकारिक समय और आवृत्ति मानक कौन सी प्रयोगशाला रखती है?" },
+    "q": {
+      "en": "Which Indian laboratory keeps the country's official time and frequency standards?",
+      "hi": "भारत के आधिकारिक समय और आवृत्ति मानक कौन सी प्रयोगशाला रखती है?"
+    },
     "options": [
-      { "en": "CSIR-National Physical Laboratory", "hi": "सीएसआईआर-राष्ट्रीय भौतिकी प्रयोगशाला" },
-      { "en": "ISRO", "hi": "इसरो" },
-      { "en": "Indian Meteorological Department", "hi": "भारत मौसम विज्ञान विभाग" },
-      { "en": "Survey of India", "hi": "भारतीय सर्वेक्षण" }
+      {
+        "en": "CSIR-National Physical Laboratory",
+        "hi": "सीएसआईआर-राष्ट्रीय भौतिकी प्रयोगशाला"
+      },
+      {
+        "en": "Survey of India",
+        "hi": "भारतीय सर्वेक्षण"
+      },
+      {
+        "en": "Indian Meteorological Department",
+        "hi": "भारत मौसम विज्ञान विभाग"
+      },
+      {
+        "en": "ISRO",
+        "hi": "इसरो"
+      }
     ],
     "correctIndex": 0,
-    "explanation": { "en": "CSIR-NPL in New Delhi maintains the national caesium atomic clocks that broadcast IST.", "hi": "नई दिल्ली स्थित सीएसआईआर-एनपीएल राष्ट्रीय सीज़ियम परमाणु घड़ियाँ रखता है जो IST प्रसारित करती हैं।" }
+    "explanation": {
+      "en": "CSIR-NPL in New Delhi maintains the national caesium atomic clocks that broadcast IST.",
+      "hi": "नई दिल्ली स्थित सीएसआईआर-एनपीएल राष्ट्रीय सीज़ियम परमाणु घड़ियाँ रखता है जो IST प्रसारित करती हैं।"
+    }
   },
   {
     "id": "DQ-0058",
     "category": "Time and standards",
-    "sourceIds": ["NPL-TIME", "NIOS-GEO16"],
-    "difficulty": "HARD",
-    "q": { "en": "Indian Standard Time is calculated from the standard meridian at which longitude?", "hi": "भारतीय मानक समय किस देशांतर के मानक मध्याह्न से निकाला जाता है?" },
-    "options": [
-      { "en": "82 degrees 30 minutes east", "hi": "82 डिग्री 30 मिनट पूर्व" },
-      { "en": "80 degrees east", "hi": "80 डिग्री पूर्व" },
-      { "en": "90 degrees east", "hi": "90 डिग्री पूर्व" },
-      { "en": "75 degrees 30 minutes east", "hi": "75 डिग्री 30 मिनट पूर्व" }
+    "sourceIds": [
+      "NPL-TIME",
+      "NIOS-GEO16"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "The meridian passes close to Prayagraj and Mirzapur in Uttar Pradesh.", "hi": "यह मध्याह्न उत्तर प्रदेश में प्रयागराज और मिर्ज़ापुर के पास से गुज़रता है।" }
+    "difficulty": "HARD",
+    "q": {
+      "en": "Indian Standard Time is calculated from the standard meridian at which longitude?",
+      "hi": "भारतीय मानक समय किस देशांतर के मानक मध्याह्न से निकाला जाता है?"
+    },
+    "options": [
+      {
+        "en": "80 degrees east",
+        "hi": "80 डिग्री पूर्व"
+      },
+      {
+        "en": "82 degrees 30 minutes east",
+        "hi": "82 डिग्री 30 मिनट पूर्व"
+      },
+      {
+        "en": "75 degrees 30 minutes east",
+        "hi": "75 डिग्री 30 मिनट पूर्व"
+      },
+      {
+        "en": "90 degrees east",
+        "hi": "90 डिग्री पूर्व"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "The meridian passes close to Prayagraj and Mirzapur in Uttar Pradesh.",
+      "hi": "यह मध्याह्न उत्तर प्रदेश में प्रयागराज और मिर्ज़ापुर के पास से गुज़रता है।"
+    }
   },
   {
     "id": "DQ-0059",
     "category": "Currency",
-    "sourceIds": ["RBI-CURRENCY-2025"],
-    "difficulty": "EASY",
-    "q": { "en": "Who issues currency notes in India?", "hi": "भारत में मुद्रा नोट कौन जारी करता है?" },
-    "options": [
-      { "en": "Reserve Bank of India", "hi": "भारतीय रिज़र्व बैंक" },
-      { "en": "State Bank of India", "hi": "स्टेट बैंक ऑफ़ इंडिया" },
-      { "en": "Securities and Exchange Board of India", "hi": "भारतीय प्रतिभूति और विनिमय बोर्ड" },
-      { "en": "NITI Aayog", "hi": "नीति आयोग" }
+    "sourceIds": [
+      "RBI-CURRENCY-2025"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "The RBI issues notes under the Reserve Bank of India Act, 1934.", "hi": "भारतीय रिज़र्व बैंक, भारतीय रिज़र्व बैंक अधिनियम, 1934 के तहत नोट जारी करता है।" }
+    "difficulty": "EASY",
+    "q": {
+      "en": "Who issues currency notes in India?",
+      "hi": "भारत में मुद्रा नोट कौन जारी करता है?"
+    },
+    "options": [
+      {
+        "en": "Securities and Exchange Board of India",
+        "hi": "भारतीय प्रतिभूति और विनिमय बोर्ड"
+      },
+      {
+        "en": "State Bank of India",
+        "hi": "स्टेट बैंक ऑफ़ इंडिया"
+      },
+      {
+        "en": "NITI Aayog",
+        "hi": "नीति आयोग"
+      },
+      {
+        "en": "Reserve Bank of India",
+        "hi": "भारतीय रिज़र्व बैंक"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The RBI issues notes under the Reserve Bank of India Act, 1934.",
+      "hi": "भारतीय रिज़र्व बैंक, भारतीय रिज़र्व बैंक अधिनियम, 1934 के तहत नोट जारी करता है।"
+    }
   },
   {
     "id": "DQ-0060",
     "category": "Currency",
-    "sourceIds": ["RBI-CURRENCY-2025"],
-    "difficulty": "MEDIUM",
-    "q": { "en": "Which body issues the one rupee note in India?", "hi": "भारत में एक रुपये का नोट कौन जारी करता है?" },
-    "options": [
-      { "en": "The Government of India", "hi": "भारत सरकार" },
-      { "en": "The Reserve Bank of India", "hi": "भारतीय रिज़र्व बैंक" },
-      { "en": "The Ministry of Commerce", "hi": "वाणिज्य मंत्रालय" },
-      { "en": "The National Payments Corporation", "hi": "राष्ट्रीय भुगतान निगम" }
+    "sourceIds": [
+      "RBI-CURRENCY-2025"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "One rupee notes and coins carry the signature of the Finance Secretary, not the RBI Governor.", "hi": "एक रुपये के नोट और सिक्कों पर वित्त सचिव के हस्ताक्षर होते हैं, RBI गवर्नर के नहीं।" }
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which body issues the one rupee note in India?",
+      "hi": "भारत में एक रुपये का नोट कौन जारी करता है?"
+    },
+    "options": [
+      {
+        "en": "The Reserve Bank of India",
+        "hi": "भारतीय रिज़र्व बैंक"
+      },
+      {
+        "en": "The Ministry of Commerce",
+        "hi": "वाणिज्य मंत्रालय"
+      },
+      {
+        "en": "The Government of India",
+        "hi": "भारत सरकार"
+      },
+      {
+        "en": "The National Payments Corporation",
+        "hi": "राष्ट्रीय भुगतान निगम"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "One rupee notes and coins carry the signature of the Finance Secretary, not the RBI Governor.",
+      "hi": "एक रुपये के नोट और सिक्कों पर वित्त सचिव के हस्ताक्षर होते हैं, RBI गवर्नर के नहीं।"
+    }
   },
   {
     "id": "DQ-0061",
     "category": "Currency",
-    "sourceIds": ["RBI-CURRENCY-2025"],
-    "difficulty": "MEDIUM",
-    "q": { "en": "Who designed the rupee symbol that India adopted in 2010?", "hi": "2010 में भारत द्वारा अपनाए गए रुपये के प्रतीक चिह्न को किसने डिज़ाइन किया?" },
-    "options": [
-      { "en": "D. Udaya Kumar", "hi": "डी. उदय कुमार" },
-      { "en": "M. F. Husain", "hi": "एम. एफ. हुसैन" },
-      { "en": "Satyajit Ray", "hi": "सत्यजित रे" },
-      { "en": "R. K. Laxman", "hi": "आर. के. लक्ष्मण" }
+    "sourceIds": [
+      "RBI-CURRENCY-2025"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "The symbol blends the Devanagari 'Ra' with the Roman 'R' and was adopted on 15 July 2010.", "hi": "यह प्रतीक देवनागरी 'र' और रोमन 'R' का मिश्रण है और 15 जुलाई 2010 को अपनाया गया।" }
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who designed the rupee symbol that India adopted in 2010?",
+      "hi": "2010 में भारत द्वारा अपनाए गए रुपये के प्रतीक चिह्न को किसने डिज़ाइन किया?"
+    },
+    "options": [
+      {
+        "en": "R. K. Laxman",
+        "hi": "आर. के. लक्ष्मण"
+      },
+      {
+        "en": "Satyajit Ray",
+        "hi": "सत्यजित रे"
+      },
+      {
+        "en": "D. Udaya Kumar",
+        "hi": "डी. उदय कुमार"
+      },
+      {
+        "en": "M. F. Husain",
+        "hi": "एम. एफ. हुसैन"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "The symbol blends the Devanagari 'Ra' with the Roman 'R' and was adopted on 15 July 2010.",
+      "hi": "यह प्रतीक देवनागरी 'र' और रोमन 'R' का मिश्रण है और 15 जुलाई 2010 को अपनाया गया।"
+    }
   },
   {
     "id": "DQ-0062",
     "category": "Currency",
-    "sourceIds": ["RBI-CURRENCY-2025"],
-    "difficulty": "HARD",
-    "q": { "en": "How many mints in India produce coins?", "hi": "भारत में कितने टकसालें सिक्के बनाती हैं?" },
-    "options": [
-      { "en": "Four", "hi": "चार" },
-      { "en": "Two", "hi": "दो" },
-      { "en": "Six", "hi": "छह" },
-      { "en": "Eight", "hi": "आठ" }
+    "sourceIds": [
+      "RBI-CURRENCY-2025"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "The mints are at Mumbai, Kolkata, Hyderabad and Noida.", "hi": "टकसालें मुंबई, कोलकाता, हैदराबाद और नोएडा में स्थित हैं।" }
+    "difficulty": "HARD",
+    "q": {
+      "en": "How many mints in India produce coins?",
+      "hi": "भारत में कितने टकसालें सिक्के बनाती हैं?"
+    },
+    "options": [
+      {
+        "en": "Eight",
+        "hi": "आठ"
+      },
+      {
+        "en": "Two",
+        "hi": "दो"
+      },
+      {
+        "en": "Six",
+        "hi": "छह"
+      },
+      {
+        "en": "Four",
+        "hi": "चार"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The mints are at Mumbai, Kolkata, Hyderabad and Noida.",
+      "hi": "टकसालें मुंबई, कोलकाता, हैदराबाद और नोएडा में स्थित हैं।"
+    }
   },
   {
     "id": "DQ-0063",
     "category": "Indian geography",
-    "sourceIds": ["NIOS-GEO16"],
-    "difficulty": "MEDIUM",
-    "q": { "en": "The Himalayas rose mainly because of the collision between which two tectonic plates?", "hi": "हिमालय मुख्यतः किन दो विवर्तनिक प्लेटों की टक्कर से बना?" },
-    "options": [
-      { "en": "The Indian and the Eurasian plates", "hi": "भारतीय और यूरेशियाई प्लेट" },
-      { "en": "The African and the Arabian plates", "hi": "अफ़्रीकी और अरब प्लेट" },
-      { "en": "The Pacific and the Nazca plates", "hi": "प्रशांत और नाज़का प्लेट" },
-      { "en": "The Antarctic and the Indo-Australian plates", "hi": "अंटार्कटिक और भारत-ऑस्ट्रेलियाई प्लेट" }
+    "sourceIds": [
+      "NIOS-GEO16"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "The Himalayas are young fold mountains still rising as the two plates press together.", "hi": "हिमालय नवीन वलित पर्वत हैं जो दोनों प्लेटों के दबाव से अब भी ऊपर उठ रहे हैं।" }
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Himalayas rose mainly because of the collision between which two tectonic plates?",
+      "hi": "हिमालय मुख्यतः किन दो विवर्तनिक प्लेटों की टक्कर से बना?"
+    },
+    "options": [
+      {
+        "en": "The Pacific and the Nazca plates",
+        "hi": "प्रशांत और नाज़का प्लेट"
+      },
+      {
+        "en": "The Indian and the Eurasian plates",
+        "hi": "भारतीय और यूरेशियाई प्लेट"
+      },
+      {
+        "en": "The African and the Arabian plates",
+        "hi": "अफ़्रीकी और अरब प्लेट"
+      },
+      {
+        "en": "The Antarctic and the Indo-Australian plates",
+        "hi": "अंटार्कटिक और भारत-ऑस्ट्रेलियाई प्लेट"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "The Himalayas are young fold mountains still rising as the two plates press together.",
+      "hi": "हिमालय नवीन वलित पर्वत हैं जो दोनों प्लेटों के दबाव से अब भी ऊपर उठ रहे हैं।"
+    }
   },
   {
     "id": "DQ-0064",
     "category": "Indian geography",
-    "sourceIds": ["NIOS-GEO16"],
-    "difficulty": "MEDIUM",
-    "q": { "en": "The Northern Plains of India are built mainly from what kind of material?", "hi": "भारत का उत्तरी मैदान मुख्यतः किस प्रकार की सामग्री से बना है?" },
-    "options": [
-      { "en": "Alluvium carried by rivers", "hi": "नदियों द्वारा लाई गई जलोढ़ मिट्टी" },
-      { "en": "Volcanic lava", "hi": "ज्वालामुखीय लावा" },
-      { "en": "Coral reef debris", "hi": "प्रवाल भित्ति का मलबा" },
-      { "en": "Glacial granite", "hi": "हिमनदी ग्रेनाइट" }
+    "sourceIds": [
+      "NIOS-GEO16"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "The Indus, Ganga and Brahmaputra systems deposited the sediment that forms the plains.", "hi": "सिंधु, गंगा और ब्रह्मपुत्र प्रणालियों ने वह अवसाद जमा किया जिससे मैदान बना।" }
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Northern Plains of India are built mainly from what kind of material?",
+      "hi": "भारत का उत्तरी मैदान मुख्यतः किस प्रकार की सामग्री से बना है?"
+    },
+    "options": [
+      {
+        "en": "Coral reef debris",
+        "hi": "प्रवाल भित्ति का मलबा"
+      },
+      {
+        "en": "Glacial granite",
+        "hi": "हिमनदी ग्रेनाइट"
+      },
+      {
+        "en": "Volcanic lava",
+        "hi": "ज्वालामुखीय लावा"
+      },
+      {
+        "en": "Alluvium carried by rivers",
+        "hi": "नदियों द्वारा लाई गई जलोढ़ मिट्टी"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The Indus, Ganga and Brahmaputra systems deposited the sediment that forms the plains.",
+      "hi": "सिंधु, गंगा और ब्रह्मपुत्र प्रणालियों ने वह अवसाद जमा किया जिससे मैदान बना।"
+    }
   },
   {
     "id": "DQ-0065",
     "category": "Indian geography",
-    "sourceIds": ["NIOS-GEO16"],
-    "difficulty": "EASY",
-    "q": { "en": "The Thar Desert lies mainly in which Indian state?", "hi": "थार मरुस्थल मुख्यतः किस भारतीय राज्य में स्थित है?" },
-    "options": [
-      { "en": "Rajasthan", "hi": "राजस्थान" },
-      { "en": "Gujarat", "hi": "गुजरात" },
-      { "en": "Punjab", "hi": "पंजाब" },
-      { "en": "Madhya Pradesh", "hi": "मध्य प्रदेश" }
+    "sourceIds": [
+      "NIOS-GEO16"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "The Thar stretches across north-western India, with its largest part in Rajasthan.", "hi": "थार उत्तर-पश्चिमी भारत में फैला है और इसका सबसे बड़ा हिस्सा राजस्थान में है।" }
+    "difficulty": "EASY",
+    "q": {
+      "en": "The Thar Desert lies mainly in which Indian state?",
+      "hi": "थार मरुस्थल मुख्यतः किस भारतीय राज्य में स्थित है?"
+    },
+    "options": [
+      {
+        "en": "Gujarat",
+        "hi": "गुजरात"
+      },
+      {
+        "en": "Madhya Pradesh",
+        "hi": "मध्य प्रदेश"
+      },
+      {
+        "en": "Punjab",
+        "hi": "पंजाब"
+      },
+      {
+        "en": "Rajasthan",
+        "hi": "राजस्थान"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The Thar stretches across north-western India, with its largest part in Rajasthan.",
+      "hi": "थार उत्तर-पश्चिमी भारत में फैला है और इसका सबसे बड़ा हिस्सा राजस्थान में है।"
+    }
   },
   {
     "id": "DQ-0066",
     "category": "Indian geography",
-    "sourceIds": ["NIOS-GEO16"],
-    "difficulty": "HARD",
-    "q": { "en": "The eastern coast of India between the deltas of the Krishna and Kaveri is known by which name?", "hi": "कृष्णा और कावेरी के डेल्टाओं के बीच भारत के पूर्वी तट को किस नाम से जाना जाता है?" },
-    "options": [
-      { "en": "Coromandel Coast", "hi": "कोरोमंडल तट" },
-      { "en": "Malabar Coast", "hi": "मालाबार तट" },
-      { "en": "Konkan Coast", "hi": "कोंकण तट" },
-      { "en": "Kutch Coast", "hi": "कच्छ तट" }
+    "sourceIds": [
+      "NIOS-GEO16"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "Malabar and Konkan lie on the western side, facing the Arabian Sea.", "hi": "मालाबार और कोंकण पश्चिमी ओर अरब सागर की तरफ़ स्थित हैं।" }
+    "difficulty": "HARD",
+    "q": {
+      "en": "The eastern coast of India between the deltas of the Krishna and Kaveri is known by which name?",
+      "hi": "कृष्णा और कावेरी के डेल्टाओं के बीच भारत के पूर्वी तट को किस नाम से जाना जाता है?"
+    },
+    "options": [
+      {
+        "en": "Konkan Coast",
+        "hi": "कोंकण तट"
+      },
+      {
+        "en": "Kutch Coast",
+        "hi": "कच्छ तट"
+      },
+      {
+        "en": "Malabar Coast",
+        "hi": "मालाबार तट"
+      },
+      {
+        "en": "Coromandel Coast",
+        "hi": "कोरोमंडल तट"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Malabar and Konkan lie on the western side, facing the Arabian Sea.",
+      "hi": "मालाबार और कोंकण पश्चिमी ओर अरब सागर की तरफ़ स्थित हैं।"
+    }
   },
   {
     "id": "DQ-0067",
     "category": "Indian geography",
-    "sourceIds": ["NIOS-GEO16"],
-    "difficulty": "MEDIUM",
-    "q": { "en": "Which plateau is bounded by the Western Ghats on one side and the Eastern Ghats on the other?", "hi": "किस पठार की एक ओर पश्चिमी घाट और दूसरी ओर पूर्वी घाट हैं?" },
-    "options": [
-      { "en": "The Deccan Plateau", "hi": "दक्कन का पठार" },
-      { "en": "The Chotanagpur Plateau", "hi": "छोटानागपुर पठार" },
-      { "en": "The Malwa Plateau", "hi": "मालवा पठार" },
-      { "en": "The Ladakh Plateau", "hi": "लद्दाख पठार" }
+    "sourceIds": [
+      "NIOS-GEO16"
     ],
-    "correctIndex": 0,
-    "explanation": { "en": "The Deccan Plateau is a triangular tableland of old crystalline rock south of the Narmada.", "hi": "दक्कन का पठार नर्मदा के दक्षिण प्राचीन क्रिस्टलीय चट्टानों से बना त्रिभुजाकार स्थल है।" }
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which plateau is bounded by the Western Ghats on one side and the Eastern Ghats on the other?",
+      "hi": "किस पठार की एक ओर पश्चिमी घाट और दूसरी ओर पूर्वी घाट हैं?"
+    },
+    "options": [
+      {
+        "en": "The Ladakh Plateau",
+        "hi": "लद्दाख पठार"
+      },
+      {
+        "en": "The Chotanagpur Plateau",
+        "hi": "छोटानागपुर पठार"
+      },
+      {
+        "en": "The Malwa Plateau",
+        "hi": "मालवा पठार"
+      },
+      {
+        "en": "The Deccan Plateau",
+        "hi": "दक्कन का पठार"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The Deccan Plateau is a triangular tableland of old crystalline rock south of the Narmada.",
+      "hi": "दक्कन का पठार नर्मदा के दक्षिण प्राचीन क्रिस्टलीय चट्टानों से बना त्रिभुजाकार स्थल है।"
+    }
   }
 ]
