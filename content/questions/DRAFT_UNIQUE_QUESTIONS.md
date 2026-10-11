@@ -1,8 +1,8 @@
 # Draft question bank — unique, meta-word free
 
-Generated 2026-10-11T07:05:48.385Z by `node scripts/question-lint.mjs --write`.
+Generated 2026-10-11T07:14:51.801Z by `node scripts/question-lint.mjs --write`.
 
-- 458 questions, 458 distinct stems, 458 distinct fingerprints
+- 498 questions, 498 distinct stems, 498 distinct fingerprints
 - Banned meta-language scan: 0 hits
 - Duplication scan: 0 hits
 - Lifecycle: DRAFT_PENDING_REVIEW — not eligible for practice until human review accepts them (see `src/domain.ts eligible()`).
@@ -7790,6 +7790,686 @@ Source: PENDING-EVIDENCE · MEDIUM
 > कान पाल्म द ओर और वेनिस गोल्डन लायन देते हैं।
 
 Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 459. Which astronomer showed that planets travel in ellipses rather than perfect circles?
+**किस खगोलज्ञ ने दिखाया कि ग्रह पूर्ण वृत्त में नहीं बल्कि दीर्घवृत्त में चलते हैं?**
+
+- A. Johannes Kepler — योहान्स केपलर
+- B. Galileo Galilei — गैलिलियो गैलिली
+- C. Tycho Brahe — टायको ब्राही
+- D. Robert Hooke — रॉबर्ट हुक
+
+**Answer: A. Johannes Kepler**
+
+> He built them on Brahe's observations of Mars.
+> उन्होंने इन्हें मंगल पर ब्राही के अवलोकनों से बनाया।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 460. Who first turned a telescope on the night sky for astronomy?
+**खगोल विज्ञान के लिए दूरबीन को सबसे पहले आकाश की ओर किसने मोड़ा?**
+
+- A. Galileo Galilei — गैलिलियो गैलिली
+- B. Edmond Halley — एडमंड हैली
+- C. Isaac Newton — आइज़क न्यूटन
+- D. Nicolaus Copernicus — निकोलस कोपरनिकस
+
+**Answer: A. Galileo Galilei**
+
+> He saw Jupiter's moons and the phases of Venus in 1610.
+> उन्होंने 1610 में बृहस्पति के उपग्रह और शुक्र की कलाएँ देखीं।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 461. Who demonstrated that blood circulates around the body?
+**यह किसने सिद्ध किया कि रक्त शरीर में परिसंचरण करता है?**
+
+- A. Andreas Vesalius — एंड्रियास वेसालियस
+- B. William Harvey — विलियम हार्वे
+- C. Louis Pasteur — लुई पाश्चर
+- D. Claudius Galen — क्लॉडियस गैलेन
+
+**Answer: B. William Harvey**
+
+> He published the finding in 1628.
+> उन्होंने यह निष्कर्ष 1628 में प्रकाशित किया।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 462. Who developed the movable-type printing press in Europe?
+**यूरोप में चल अक्षर वाली छपाई मशीन किसने विकसित की?**
+
+- A. Bi Sheng — बी शेंग
+- B. Johannes Gutenberg — योहान्स गुटेनबर्ग
+- C. Aldus Manutius — अल्डस मनुशियस
+- D. William Caxton — विलियम कैक्स्टन
+
+**Answer: B. Johannes Gutenberg**
+
+> His press produced the 42-line Bible around 1455.
+> उनकी मशीन ने लगभग 1455 में 42-पंक्ति बाइबिल छापी।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 463. Who is credited with discovering the electron?
+**इलेक्ट्रॉन की खोज का श्रेय किसे जाता है?**
+
+- A. Robert Millikan — रॉबर्ट मिलिकन
+- B. James Chadwick — जेम्स चैडविक
+- C. Ernest Rutherford — अर्नेस्ट रदरफ़ोर्ड
+- D. J. J. Thomson — जे. जे. थॉमसन
+
+**Answer: D. J. J. Thomson**
+
+> His cathode-ray experiments were published in 1897.
+> उनके कैथोड-रे प्रयोग 1897 में प्रकाशित हुए।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 464. Who proposed the modern atomic theory of matter?
+**पदार्थ का आधुनिक परमाणु सिद्धांत किसने प्रस्तुत किया?**
+
+- A. Jöns Berzelius — योंस बर्ज़ीलियस
+- B. John Dalton — जॉन डॉल्टन
+- C. Amedeo Avogadro — एमिडियो एवोगाड्रो
+- D. Dmitri Mendeleev — दिमित्री मेंडलीव
+
+**Answer: B. John Dalton**
+
+> He set it out between 1803 and 1808.
+> उन्होंने इसे 1803 से 1808 के बीच रखा।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 465. Whose improvements made the steam engine practical for industry?
+**किसके सुधारों ने भाप इंजन को उद्योग के लिए व्यावहारिक बनाया?**
+
+- A. James Watt — जेम्स वाट
+- B. Richard Trevithick — रिचर्ड ट्रेविथिक
+- C. Thomas Newcomen — थॉमस न्यूकोमेन
+- D. George Stephenson — जॉर्ज स्टीफ़ेंसन
+
+**Answer: A. James Watt**
+
+> His separate condenser cut fuel use sharply.
+> उनके पृथक संघनित्र ने ईंधन की खपत काफ़ी घटा दी।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 466. What is the name of India's crewed spaceflight programme?
+**भारत के मानव अंतरिक्ष उड़ान कार्यक्रम का नाम क्या है?**
+
+- A. Gaganyaan — गगनयान
+- B. Vyomanaut — व्योमनॉट
+- C. Chandrayaan — चंद्रयान
+- D. Mangalyaan — मंगलयान
+
+**Answer: A. Gaganyaan**
+
+> The name means a celestial vehicle.
+> इस नाम का अर्थ है आकाशयान।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 467. What is India's own satellite navigation system called?
+**भारत की अपनी उपग्रह नेविगेशन प्रणाली का नाम क्या है?**
+
+- A. GPS — जीपीएस
+- B. GLONASS — ग्लोनास
+- C. NavIC — नैविक
+- D. Galileo — गैलिलियो
+
+**Answer: C. NavIC**
+
+> It was earlier known as the IRNSS regional system.
+> यह पहले आईआरएनएसएस क्षेत्रीय प्रणाली कहलाती थी।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 468. Which ISRO centre at Thumba builds launch vehicles?
+**थुम्बा स्थित कौन सा इसरो केंद्र प्रक्षेपण यान बनाता है?**
+
+- A. The Satish Dhawan Space Centre — सतीश धवन अंतरिक्ष केंद्र
+- B. The National Remote Sensing Centre — राष्ट्रीय दूर संवेदन केंद्र
+- C. The Vikram Sarabhai Space Centre — विक्रम साराभाई अंतरिक्ष केंद्र
+- D. The U R Rao Satellite Centre — यू. आर. राव उपग्रह केंद्र
+
+**Answer: C. The Vikram Sarabhai Space Centre**
+
+> Thumba was chosen because it sits near the equator.
+> थुम्बा को चुना गया क्योंकि यह भूमध्य रेखा के निकट है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 469. Which was the first satellite India launched on its own rocket?
+**भारत द्वारा अपने ही रॉकेट से प्रक्षेपित पहला उपग्रह कौन सा था?**
+
+- A. Rohini — रोहिणी
+- B. Aryabhata — आर्यभट्ट
+- C. Bhaskara I — भास्कर I
+- D. Apple — एपल
+
+**Answer: A. Rohini**
+
+> Aryabhata had earlier flown on a Soviet rocket.
+> आर्यभट्ट इससे पहले सोवियत रॉकेट से उड़ा था।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 470. In Indian spaceflight, what does PSLV stand for?
+**भारतीय अंतरिक्ष उड़ान में PSLV का पूर्ण रूप क्या है?**
+
+- A. Polar Satellite Launch Vehicle — पोलर सैटेलाइट लॉन्च व्हीकल
+- B. Payload Satellite Launch Vessel — पेलोड सैटेलाइट लॉन्च वेसल
+- C. Primary Satellite Launcher Vehicle — प्राइमरी सैटेलाइट लॉन्चर व्हीकल
+- D. Polar Space Lift Vehicle — पोलर स्पेस लिफ़्ट व्हीकल
+
+**Answer: A. Polar Satellite Launch Vehicle**
+
+> It is the workhorse that carries Earth-observation satellites.
+> यह वही मुख्य यान है जो पृथ्वी प्रेक्षण उपग्रह ले जाता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 471. Which was India's first dedicated space observatory?
+**भारत की पहली समर्पित अंतरिक्ष वेधशाला कौन सी थी?**
+
+- A. Chandrayaan-2 — चंद्रयान-2
+- B. Cartosat — कार्टोसैट
+- C. Aditya-L1 — आदित्य-L1
+- D. AstroSat — एस्ट्रोसैट
+
+**Answer: D. AstroSat**
+
+> It observes several wavelengths at the same time.
+> यह एक साथ कई तरंगदैर्ध्यों का अवलोकन करती है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 472. What is the name of the launch centre at Sriharikota?
+**श्रीहरिकोटा स्थित प्रक्षेपण केंद्र का नाम क्या है?**
+
+- A. The Hasanabad Range — हसनाबाद रेंज
+- B. The Vikram Sarabhai Space Centre — विक्रम साराभाई अंतरिक्ष केंद्र
+- C. The Thumba Range — थुम्बा रेंज
+- D. The Satish Dhawan Space Centre — सतीश धवन अंतरिक्ष केंद्र
+
+**Answer: D. The Satish Dhawan Space Centre**
+
+> It was renamed in 2002 after ISRO's second chairman.
+> इसे 2002 में इसरो के दूसरे अध्यक्ष के नाम पर रखा गया।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 473. Which layer of the atmosphere lies closest to the Earth's surface?
+**पृथ्वी की सतह के सबसे निकट वायुमंडल की कौन सी परत है?**
+
+- A. The stratosphere — समताप मंडल
+- B. The troposphere — क्षोभ मंडल
+- C. The mesosphere — मध्य मंडल
+- D. The ionosphere — आयन मंडल
+
+**Answer: B. The troposphere**
+
+> Almost all weather happens inside it.
+> लगभग सारा मौसम इसी में बनता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 474. Which is the chief cause of soil erosion on farmland?
+**कृषि भूमि पर मृदा अपरदन का मुख्य कारण क्या है?**
+
+- A. The presence of earthworms — केंचुओं की उपस्थिति
+- B. Removal of the vegetation that holds it — उसमें जड़ जमाए रखने वाली वनस्पति का हटना
+- C. Crop rotation — फ़सल चक्र
+- D. Adding compost — खाद मिलाना
+
+**Answer: B. Removal of the vegetation that holds it**
+
+> Roots bind the soil, so bare ground washes away in rain.
+> जड़ें मिट्टी बाँधती हैं, इसलिए खुली भूमि वर्षा में बह जाती है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 475. In conservation, what does WWF stand for?
+**संरक्षण के क्षेत्र में WWF का पूर्ण रूप क्या है?**
+
+- A. Western Wildlife Federation — वेस्टर्न वाइल्डलाइफ़ फ़ेडरेशन
+- B. World Wide Fund for Nature — वर्ल्ड वाइड फ़ंड फ़ॉर नेचर
+- C. World Water Forum — वर्ल्ड वाटर फ़ोरम
+- D. World Wildlife Foundation — वर्ल्ड वाइल्डलाइफ़ फ़ाउंडेशन
+
+**Answer: B. World Wide Fund for Nature**
+
+> Its panda emblem was drawn from a captive animal named Chi Chi.
+> इसका पांडा प्रतीक ची ची नामक जानवर से लिया गया था।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 476. Which Indian state has the largest forest cover by area?
+**क्षेत्रफल की दृष्टि से किस भारतीय राज्य में सबसे अधिक वन आवरण है?**
+
+- A. Arunachal Pradesh — अरुणाचल प्रदेश
+- B. Madhya Pradesh — मध्य प्रदेश
+- C. Chhattisgarh — छत्तीसगढ़
+- D. Odisha — ओडिशा
+
+**Answer: B. Madhya Pradesh**
+
+> Arunachal Pradesh is second by the same measure.
+> इसी माप से अरुणाचल प्रदेश दूसरे स्थान पर है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 477. Which treaty protects wetlands of international importance?
+**अंतर्राष्ट्रीय महत्व की आर्द्रभूमियों की रक्षा कौन सी संधि करती है?**
+
+- A. The Bonn Convention — बॉन संधि
+- B. The Nagoya Protocol — नागोया प्रोटोकॉल
+- C. The Cartagena Protocol — कार्टाजेना प्रोटोकॉल
+- D. The Ramsar Convention — रामसर संधि
+
+**Answer: D. The Ramsar Convention**
+
+> It was signed in Iran in 1971.
+> इस पर 1971 में ईरान में हस्ताक्षर हुए।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 478. What is the process called by which plants release water vapour?
+**पौधों द्वारा जल वाष्प छोड़ने की प्रक्रिया को क्या कहते हैं?**
+
+- A. Photosynthesis — प्रकाशसंश्लेषण
+- B. Germination — अंकुरण
+- C. Transpiration — वाष्पोत्सर्जन
+- D. Respiration — श्वसन
+
+**Answer: C. Transpiration**
+
+> Water leaves mainly through pores on the underside of leaves.
+> जल मुख्यतः पत्तियों की निचली सतह के रंध्रों से निकलता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 479. Which form of renewable energy draws heat from inside the Earth?
+**किस नवीकरणीय ऊर्जा में पृथ्वी के भीतर की ऊष्मा ली जाती है?**
+
+- A. Geothermal energy — भूतापीय ऊर्जा
+- B. Wave energy — तरंग ऊर्जा
+- C. Tidal energy — ज्वारीय ऊर्जा
+- D. Biomass energy — जैवभार ऊर्जा
+
+**Answer: A. Geothermal energy**
+
+> Iceland uses it widely for heating homes.
+> आइसलैंड इसे घर गर्म करने के लिए व्यापक रूप से प्रयोग करता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 480. A standard modern piano has how many keys?
+**मानक आधुनिक पियानो में कितनी कुंजियाँ होती हैं?**
+
+- A. 100 — 100
+- B. 88 — 88
+- C. 76 — 76
+- D. 64 — 64
+
+**Answer: B. 88**
+
+> Fifty-two are white and thirty-six are black.
+> इनमें बावन सफ़ेद और छत्तीस काली होती हैं।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 481. Who painted the ceiling of the Sistine Chapel?
+**सिस्टिन चैपल की छत किसने सजाई?**
+
+- A. Michelangelo — माइकलएंजेलो
+- B. Caravaggio — कारावाजियो
+- C. Botticelli — बोतिचेली
+- D. Leonardo da Vinci — लियोनार्डो दा विंची
+
+**Answer: A. Michelangelo**
+
+> The work took four years, finishing in 1512.
+> यह कार्य चार वर्ष में पूरा हुआ, 1512 में।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 482. Who wrote the Hindi novel Godan?
+**हिंदी उपन्यास गोदान किसने लिखा?**
+
+- A. Munshi Premchand — मुंशी प्रेमचंद
+- B. Mahadevi Verma — महादेवी वर्मा
+- C. Jaishankar Prasad — जयशंकर प्रसाद
+- D. Yashpal — यशपाल
+
+**Answer: A. Munshi Premchand**
+
+> It was his last completed novel, published in 1936.
+> यह उनका अंतिम पूर्ण उपन्यास था, 1936 में प्रकाशित।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 483. Who wrote the autobiography Wings of Fire?
+**आत्मकथा विंग्स ऑफ़ फ़ायर किसने लिखी?**
+
+- A. C. V. Raman — सी. वी. रमन
+- B. Homi Bhabha — होमी भाभा
+- C. Vikram Sarabhai — विक्रम साराभाई
+- D. A. P. J. Abdul Kalam — ए. पी. जे. अब्दुल कलाम
+
+**Answer: D. A. P. J. Abdul Kalam**
+
+> He wrote it with Arun Tiwari.
+> उन्होंने इसे अरुण तिवारी के साथ लिखा।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 484. Kathakali is a classical dance form from which state?
+**कथकली किस राज्य की शास्त्रीय नृत्य शैली है?**
+
+- A. Odisha — ओडिशा
+- B. Tamil Nadu — तमिलनाडु
+- C. Kerala — केरल
+- D. Assam — असम
+
+**Answer: C. Kerala**
+
+> Dancers wear elaborate painted masks and headdresses.
+> नर्तक विस्तृत चित्रित मुखौटे और मुकुट पहनते हैं।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 485. Bharatanatyam originated in which state?
+**भरतनाट्यम की उत्पत्ति किस राज्य में हुई?**
+
+- A. Karnataka — कर्नाटक
+- B. Andhra Pradesh — आंध्र प्रदेश
+- C. West Bengal — पश्चिम बंगाल
+- D. Tamil Nadu — तमिलनाडु
+
+**Answer: D. Tamil Nadu**
+
+> It was once performed in temples by devadasis.
+> यह कभी मंदिरों में देवदासियों द्वारा प्रस्तुत किया जाता था।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 486. Who directed the film Pather Panchali?
+**फ़िल्म पथेर पांचाली का निर्देशन किसने किया?**
+
+- A. Satyajit Ray — सत्यजित राय
+- B. Bimal Roy — बिमल रॉय
+- C. Mrinal Sen — मृणाल सेन
+- D. Ritwik Ghatak — ऋत्विक घटक
+
+**Answer: A. Satyajit Ray**
+
+> It was his first film, released in 1955.
+> यह उनकी पहली फ़िल्म थी, 1955 में रिलीज़ हुई।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 487. Who is traditionally named as the court poet of Chandragupta II?
+**चंद्रगुप्त द्वितीय के दरबारी कवि के रूप में पारंपरिक रूप से किसे बताया जाता है?**
+
+- A. Tulsidas — तुलसीदास
+- B. Kalidasa — कालिदास
+- C. Banabhatta — बाणभट्ट
+- D. Bhavabhuti — भवभूति
+
+**Answer: B. Kalidasa**
+
+> He is counted among the nine jewels of that court.
+> उन्हें उस दरबार के नवरत्नों में गिना जाता है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 488. Who wrote the treatise Arthashastra?
+**अर्थशास्त्र ग्रंथ किसने लिखा?**
+
+- A. Megasthenes — मेगस्थनीज़
+- B. Kalhana — कल्हण
+- C. Fa-Hien — फ़ाह्यान
+- D. Chanakya — चाणक्य
+
+**Answer: D. Chanakya**
+
+> He also wrote under the names Kautilya and Vishnugupta.
+> वे कौटिल्य और विष्णुगुप्त नामों से भी लिखते थे।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 489. Who founded the Gupta Empire?
+**गुप्त साम्राज्य की स्थापना किसने की?**
+
+- A. Samudragupta — समुद्रगुप्त
+- B. Skandagupta — स्कंदगुप्त
+- C. Kumaragupta — कुमारगुप्त
+- D. Chandragupta I — चंद्रगुप्त प्रथम
+
+**Answer: D. Chandragupta I**
+
+> His grandson Samudragupta greatly enlarged the realm.
+> उनके पौत्र समुद्रगुप्त ने राज्य का काफ़ी विस्तार किया।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 490. Which Gupta ruler is sometimes called the Napoleon of India?
+**किस गुप्त शासक को कभी-कभी भारत का नेपोलियन कहा जाता है?**
+
+- A. Ashoka — अशोक
+- B. Harsha — हर्ष
+- C. Chandragupta II — चंद्रगुप्त द्वितीय
+- D. Samudragupta — समुद्रगुप्त
+
+**Answer: D. Samudragupta**
+
+> The comparison comes from the breadth of his campaigns.
+> यह तुलना उनके अभियानों की व्यापकता से आती है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 491. Who built the Brihadeeswarar Temple at Thanjavur?
+**तंजावुर का बृहदीश्वर मंदिर किसने बनवाया?**
+
+- A. Rajaraja Chola — राजारาช चोल
+- B. Rajendra Chola — राजेंद्र चोल
+- C. Narasimhavarman — नरसिंहवर्मन
+- D. Krishnadevaraya — कृष्णदेवराय
+
+**Answer: A. Rajaraja Chola**
+
+> It was completed around the year 1010.
+> यह लगभग वर्ष 1010 में पूरा हुआ।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 492. Who founded the Maratha Empire?
+**मराठा साम्राज्य की स्थापना किसने की?**
+
+- A. Bajirao I — बाजीराव प्रथम
+- B. Chhatrapati Shivaji Maharaj — छत्रपति शिवाजी महाराज
+- C. Shahu — शाहू
+- D. Sambhaji — संभाजी
+
+**Answer: B. Chhatrapati Shivaji Maharaj**
+
+> He was crowned at Raigad in 1674.
+> उनका राज्याभिषेक 1674 में रायगढ़ में हुआ।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 493. The score of one under par is called a birdie in which sport?
+**किस खेल में पार से एक कम स्कोर को बर्डी कहते हैं?**
+
+- A. Tennis — टेनिस
+- B. Bowling — बॉलिंग
+- C. Golf — गोल्फ़
+- D. Badminton — बैडमिंटन
+
+**Answer: C. Golf**
+
+> Two under par is an eagle.
+> पार से दो कम को ईगल कहते हैं।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 494. A delivery called the googly is bowled in which sport?
+**गूगली किस खेल में डाली जाती है?**
+
+- A. Baseball — बेसबॉल
+- B. Volleyball — वॉलीबॉल
+- C. Cricket — क्रिकेट
+- D. Tennis — टेनिस
+
+**Answer: C. Cricket**
+
+> It spins the opposite way to the bowler's usual leg break.
+> यह गेंदबाज़ के सामान्य लेग ब्रेक से उलटी दिशा में घूमती है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 495. How many squares does a chessboard have?
+**शतरंज की बिसात में कितने खाने होते हैं?**
+
+- A. 100 — 100
+- B. 48 — 48
+- C. 81 — 81
+- D. 64 — 64
+
+**Answer: D. 64**
+
+> Eight rows of eight, alternating light and dark.
+> आठ-आठ की आठ पंक्तियाँ, हल्के और गहरे रंग एकान्तर में।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 496. In chess, which piece moves only along diagonals?
+**शतरंज में कौन सा मोहरा केवल तिरछा चलता है?**
+
+- A. The bishop — ऊँट
+- B. The rook — हाथी
+- C. The knight — घोड़ा
+- D. The queen — वज़ीर
+
+**Answer: A. The bishop**
+
+> Each player starts with two, one on each colour.
+> हर खिलाड़ी के पास दो होते हैं, एक-एक रंग पर।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 497. How many holes are played in a full round of golf?
+**गोल्फ़ के एक पूर्ण दौर में कितने होल खेले जाते हैं?**
+
+- A. Twelve — बारह
+- B. Eighteen — अठारह
+- C. Nine — नौ
+- D. Twenty-one — इक्कीस
+
+**Answer: B. Eighteen**
+
+> A nine-hole course is played twice to make a round.
+> नौ होल के मैदान पर दो बार खेलकर एक दौर बनता है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 498. In which sport would a player perform a slam dunk?
+**किस खेल में खिलाड़ी स्लैम डंक करता है?**
+
+- A. Handball — हैंडबॉल
+- B. Netball — नेटबॉल
+- C. Basketball — बास्केटबॉल
+- D. Volleyball — वॉलीबॉल
+
+**Answer: C. Basketball**
+
+> The ball is pushed down through the hoop from above.
+> गेंद को ऊपर से घेरे में नीचे की ओर ठोंसा जाता है।
+
+Source: PENDING-EVIDENCE · EASY
 
 ---
 

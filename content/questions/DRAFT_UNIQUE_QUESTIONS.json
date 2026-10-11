@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-11T07:05:48.377Z",
+  "generatedAt": "2026-10-11T07:14:51.792Z",
   "lifecycle": "DRAFT_PENDING_REVIEW",
-  "count": 458,
+  "count": 498,
   "bannedWordPolicy": [
     "syllabus",
     "syllabi",
@@ -25707,6 +25707,2246 @@
       "validUntil": null,
       "kind": "AUTHORED_DRAFT",
       "order": 458
+    },
+    {
+      "id": "DRAFT-DQ-0459",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "SCI-HIST-SCIENCE_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "Which astronomer showed that planets travel in ellipses rather than perfect circles?",
+        "hi": "किस खगोलज्ञ ने दिखाया कि ग्रह पूर्ण वृत्त में नहीं बल्कि दीर्घवृत्त में चलते हैं?"
+      },
+      "options": [
+        {
+          "en": "Johannes Kepler",
+          "hi": "योहान्स केपलर"
+        },
+        {
+          "en": "Galileo Galilei",
+          "hi": "गैलिलियो गैलिली"
+        },
+        {
+          "en": "Tycho Brahe",
+          "hi": "टायको ब्राही"
+        },
+        {
+          "en": "Robert Hooke",
+          "hi": "रॉबर्ट हुक"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He built them on Brahe's observations of Mars.",
+        "hi": "उन्होंने इन्हें मंगल पर ब्राही के अवलोकनों से बनाया।"
+      },
+      "detailedExplanation": {
+        "en": "He built them on Brahe's observations of Mars.",
+        "hi": "उन्होंने इन्हें मंगल पर ब्राही के अवलोकनों से बनाया।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "d6153f4ae5df51c6",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 459
+    },
+    {
+      "id": "DRAFT-DQ-0460",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "SCI-HIST-SCIENCE_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "Who first turned a telescope on the night sky for astronomy?",
+        "hi": "खगोल विज्ञान के लिए दूरबीन को सबसे पहले आकाश की ओर किसने मोड़ा?"
+      },
+      "options": [
+        {
+          "en": "Galileo Galilei",
+          "hi": "गैलिलियो गैलिली"
+        },
+        {
+          "en": "Edmond Halley",
+          "hi": "एडमंड हैली"
+        },
+        {
+          "en": "Isaac Newton",
+          "hi": "आइज़क न्यूटन"
+        },
+        {
+          "en": "Nicolaus Copernicus",
+          "hi": "निकोलस कोपरनिकस"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He saw Jupiter's moons and the phases of Venus in 1610.",
+        "hi": "उन्होंने 1610 में बृहस्पति के उपग्रह और शुक्र की कलाएँ देखीं।"
+      },
+      "detailedExplanation": {
+        "en": "He saw Jupiter's moons and the phases of Venus in 1610.",
+        "hi": "उन्होंने 1610 में बृहस्पति के उपग्रह और शुक्र की कलाएँ देखीं।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "881fe9cef72326a9",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 460
+    },
+    {
+      "id": "DRAFT-DQ-0461",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "SCI-HIST-SCIENCE_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "Who demonstrated that blood circulates around the body?",
+        "hi": "यह किसने सिद्ध किया कि रक्त शरीर में परिसंचरण करता है?"
+      },
+      "options": [
+        {
+          "en": "Andreas Vesalius",
+          "hi": "एंड्रियास वेसालियस"
+        },
+        {
+          "en": "William Harvey",
+          "hi": "विलियम हार्वे"
+        },
+        {
+          "en": "Louis Pasteur",
+          "hi": "लुई पाश्चर"
+        },
+        {
+          "en": "Claudius Galen",
+          "hi": "क्लॉडियस गैलेन"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He published the finding in 1628.",
+        "hi": "उन्होंने यह निष्कर्ष 1628 में प्रकाशित किया।"
+      },
+      "detailedExplanation": {
+        "en": "He published the finding in 1628.",
+        "hi": "उन्होंने यह निष्कर्ष 1628 में प्रकाशित किया।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "a9f2d23f95083253",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 461
+    },
+    {
+      "id": "DRAFT-DQ-0462",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "SCI-HIST-SCIENCE_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "Who developed the movable-type printing press in Europe?",
+        "hi": "यूरोप में चल अक्षर वाली छपाई मशीन किसने विकसित की?"
+      },
+      "options": [
+        {
+          "en": "Bi Sheng",
+          "hi": "बी शेंग"
+        },
+        {
+          "en": "Johannes Gutenberg",
+          "hi": "योहान्स गुटेनबर्ग"
+        },
+        {
+          "en": "Aldus Manutius",
+          "hi": "अल्डस मनुशियस"
+        },
+        {
+          "en": "William Caxton",
+          "hi": "विलियम कैक्स्टन"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "His press produced the 42-line Bible around 1455.",
+        "hi": "उनकी मशीन ने लगभग 1455 में 42-पंक्ति बाइबिल छापी।"
+      },
+      "detailedExplanation": {
+        "en": "His press produced the 42-line Bible around 1455.",
+        "hi": "उनकी मशीन ने लगभग 1455 में 42-पंक्ति बाइबिल छापी।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "391474eb85cf3324",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 462
+    },
+    {
+      "id": "DRAFT-DQ-0463",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "SCI-HIST-SCIENCE_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "Who is credited with discovering the electron?",
+        "hi": "इलेक्ट्रॉन की खोज का श्रेय किसे जाता है?"
+      },
+      "options": [
+        {
+          "en": "Robert Millikan",
+          "hi": "रॉबर्ट मिलिकन"
+        },
+        {
+          "en": "James Chadwick",
+          "hi": "जेम्स चैडविक"
+        },
+        {
+          "en": "Ernest Rutherford",
+          "hi": "अर्नेस्ट रदरफ़ोर्ड"
+        },
+        {
+          "en": "J. J. Thomson",
+          "hi": "जे. जे. थॉमसन"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "His cathode-ray experiments were published in 1897.",
+        "hi": "उनके कैथोड-रे प्रयोग 1897 में प्रकाशित हुए।"
+      },
+      "detailedExplanation": {
+        "en": "His cathode-ray experiments were published in 1897.",
+        "hi": "उनके कैथोड-रे प्रयोग 1897 में प्रकाशित हुए।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "b2c4afa5f4522f72",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 463
+    },
+    {
+      "id": "DRAFT-DQ-0464",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "SCI-HIST-SCIENCE_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "Who proposed the modern atomic theory of matter?",
+        "hi": "पदार्थ का आधुनिक परमाणु सिद्धांत किसने प्रस्तुत किया?"
+      },
+      "options": [
+        {
+          "en": "Jöns Berzelius",
+          "hi": "योंस बर्ज़ीलियस"
+        },
+        {
+          "en": "John Dalton",
+          "hi": "जॉन डॉल्टन"
+        },
+        {
+          "en": "Amedeo Avogadro",
+          "hi": "एमिडियो एवोगाड्रो"
+        },
+        {
+          "en": "Dmitri Mendeleev",
+          "hi": "दिमित्री मेंडलीव"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He set it out between 1803 and 1808.",
+        "hi": "उन्होंने इसे 1803 से 1808 के बीच रखा।"
+      },
+      "detailedExplanation": {
+        "en": "He set it out between 1803 and 1808.",
+        "hi": "उन्होंने इसे 1803 से 1808 के बीच रखा।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "fd09eb2d0f033e65",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 464
+    },
+    {
+      "id": "DRAFT-DQ-0465",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "SCI-HIST-SCIENCE_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "Whose improvements made the steam engine practical for industry?",
+        "hi": "किसके सुधारों ने भाप इंजन को उद्योग के लिए व्यावहारिक बनाया?"
+      },
+      "options": [
+        {
+          "en": "James Watt",
+          "hi": "जेम्स वाट"
+        },
+        {
+          "en": "Richard Trevithick",
+          "hi": "रिचर्ड ट्रेविथिक"
+        },
+        {
+          "en": "Thomas Newcomen",
+          "hi": "थॉमस न्यूकोमेन"
+        },
+        {
+          "en": "George Stephenson",
+          "hi": "जॉर्ज स्टीफ़ेंसन"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "His separate condenser cut fuel use sharply.",
+        "hi": "उनके पृथक संघनित्र ने ईंधन की खपत काफ़ी घटा दी।"
+      },
+      "detailedExplanation": {
+        "en": "His separate condenser cut fuel use sharply.",
+        "hi": "उनके पृथक संघनित्र ने ईंधन की खपत काफ़ी घटा दी।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "c217e902560e15fe",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 465
+    },
+    {
+      "id": "DRAFT-DQ-0466",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "IND-SPACE-INDIA_SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "What is the name of India's crewed spaceflight programme?",
+        "hi": "भारत के मानव अंतरिक्ष उड़ान कार्यक्रम का नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "Gaganyaan",
+          "hi": "गगनयान"
+        },
+        {
+          "en": "Vyomanaut",
+          "hi": "व्योमनॉट"
+        },
+        {
+          "en": "Chandrayaan",
+          "hi": "चंद्रयान"
+        },
+        {
+          "en": "Mangalyaan",
+          "hi": "मंगलयान"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "The name means a celestial vehicle.",
+        "hi": "इस नाम का अर्थ है आकाशयान।"
+      },
+      "detailedExplanation": {
+        "en": "The name means a celestial vehicle.",
+        "hi": "इस नाम का अर्थ है आकाशयान।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "d6b84af53bf1caae",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 466
+    },
+    {
+      "id": "DRAFT-DQ-0467",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "IND-SPACE-INDIA_SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "What is India's own satellite navigation system called?",
+        "hi": "भारत की अपनी उपग्रह नेविगेशन प्रणाली का नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "GPS",
+          "hi": "जीपीएस"
+        },
+        {
+          "en": "GLONASS",
+          "hi": "ग्लोनास"
+        },
+        {
+          "en": "NavIC",
+          "hi": "नैविक"
+        },
+        {
+          "en": "Galileo",
+          "hi": "गैलिलियो"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It was earlier known as the IRNSS regional system.",
+        "hi": "यह पहले आईआरएनएसएस क्षेत्रीय प्रणाली कहलाती थी।"
+      },
+      "detailedExplanation": {
+        "en": "It was earlier known as the IRNSS regional system.",
+        "hi": "यह पहले आईआरएनएसएस क्षेत्रीय प्रणाली कहलाती थी।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "e9ca7dc414cbedfb",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 467
+    },
+    {
+      "id": "DRAFT-DQ-0468",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "IND-SPACE-INDIA_SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which ISRO centre at Thumba builds launch vehicles?",
+        "hi": "थुम्बा स्थित कौन सा इसरो केंद्र प्रक्षेपण यान बनाता है?"
+      },
+      "options": [
+        {
+          "en": "The Satish Dhawan Space Centre",
+          "hi": "सतीश धवन अंतरिक्ष केंद्र"
+        },
+        {
+          "en": "The National Remote Sensing Centre",
+          "hi": "राष्ट्रीय दूर संवेदन केंद्र"
+        },
+        {
+          "en": "The Vikram Sarabhai Space Centre",
+          "hi": "विक्रम साराभाई अंतरिक्ष केंद्र"
+        },
+        {
+          "en": "The U R Rao Satellite Centre",
+          "hi": "यू. आर. राव उपग्रह केंद्र"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Thumba was chosen because it sits near the equator.",
+        "hi": "थुम्बा को चुना गया क्योंकि यह भूमध्य रेखा के निकट है।"
+      },
+      "detailedExplanation": {
+        "en": "Thumba was chosen because it sits near the equator.",
+        "hi": "थुम्बा को चुना गया क्योंकि यह भूमध्य रेखा के निकट है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "3780563787313218",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 468
+    },
+    {
+      "id": "DRAFT-DQ-0469",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "IND-SPACE-INDIA_SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which was the first satellite India launched on its own rocket?",
+        "hi": "भारत द्वारा अपने ही रॉकेट से प्रक्षेपित पहला उपग्रह कौन सा था?"
+      },
+      "options": [
+        {
+          "en": "Rohini",
+          "hi": "रोहिणी"
+        },
+        {
+          "en": "Aryabhata",
+          "hi": "आर्यभट्ट"
+        },
+        {
+          "en": "Bhaskara I",
+          "hi": "भास्कर I"
+        },
+        {
+          "en": "Apple",
+          "hi": "एपल"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Aryabhata had earlier flown on a Soviet rocket.",
+        "hi": "आर्यभट्ट इससे पहले सोवियत रॉकेट से उड़ा था।"
+      },
+      "detailedExplanation": {
+        "en": "Aryabhata had earlier flown on a Soviet rocket.",
+        "hi": "आर्यभट्ट इससे पहले सोवियत रॉकेट से उड़ा था।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "a99238bda229fc4d",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 469
+    },
+    {
+      "id": "DRAFT-DQ-0470",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "IND-SPACE-INDIA_SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "In Indian spaceflight, what does PSLV stand for?",
+        "hi": "भारतीय अंतरिक्ष उड़ान में PSLV का पूर्ण रूप क्या है?"
+      },
+      "options": [
+        {
+          "en": "Polar Satellite Launch Vehicle",
+          "hi": "पोलर सैटेलाइट लॉन्च व्हीकल"
+        },
+        {
+          "en": "Payload Satellite Launch Vessel",
+          "hi": "पेलोड सैटेलाइट लॉन्च वेसल"
+        },
+        {
+          "en": "Primary Satellite Launcher Vehicle",
+          "hi": "प्राइमरी सैटेलाइट लॉन्चर व्हीकल"
+        },
+        {
+          "en": "Polar Space Lift Vehicle",
+          "hi": "पोलर स्पेस लिफ़्ट व्हीकल"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It is the workhorse that carries Earth-observation satellites.",
+        "hi": "यह वही मुख्य यान है जो पृथ्वी प्रेक्षण उपग्रह ले जाता है।"
+      },
+      "detailedExplanation": {
+        "en": "It is the workhorse that carries Earth-observation satellites.",
+        "hi": "यह वही मुख्य यान है जो पृथ्वी प्रेक्षण उपग्रह ले जाता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "6df8872167397dc5",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 470
+    },
+    {
+      "id": "DRAFT-DQ-0471",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "IND-SPACE-INDIA_SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which was India's first dedicated space observatory?",
+        "hi": "भारत की पहली समर्पित अंतरिक्ष वेधशाला कौन सी थी?"
+      },
+      "options": [
+        {
+          "en": "Chandrayaan-2",
+          "hi": "चंद्रयान-2"
+        },
+        {
+          "en": "Cartosat",
+          "hi": "कार्टोसैट"
+        },
+        {
+          "en": "Aditya-L1",
+          "hi": "आदित्य-L1"
+        },
+        {
+          "en": "AstroSat",
+          "hi": "एस्ट्रोसैट"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It observes several wavelengths at the same time.",
+        "hi": "यह एक साथ कई तरंगदैर्ध्यों का अवलोकन करती है।"
+      },
+      "detailedExplanation": {
+        "en": "It observes several wavelengths at the same time.",
+        "hi": "यह एक साथ कई तरंगदैर्ध्यों का अवलोकन करती है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "5c8f60df534545f2",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 471
+    },
+    {
+      "id": "DRAFT-DQ-0472",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "IND-SPACE-INDIA_SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "What is the name of the launch centre at Sriharikota?",
+        "hi": "श्रीहरिकोटा स्थित प्रक्षेपण केंद्र का नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "The Hasanabad Range",
+          "hi": "हसनाबाद रेंज"
+        },
+        {
+          "en": "The Vikram Sarabhai Space Centre",
+          "hi": "विक्रम साराभाई अंतरिक्ष केंद्र"
+        },
+        {
+          "en": "The Thumba Range",
+          "hi": "थुम्बा रेंज"
+        },
+        {
+          "en": "The Satish Dhawan Space Centre",
+          "hi": "सतीश धवन अंतरिक्ष केंद्र"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It was renamed in 2002 after ISRO's second chairman.",
+        "hi": "इसे 2002 में इसरो के दूसरे अध्यक्ष के नाम पर रखा गया।"
+      },
+      "detailedExplanation": {
+        "en": "It was renamed in 2002 after ISRO's second chairman.",
+        "hi": "इसे 2002 में इसरो के दूसरे अध्यक्ष के नाम पर रखा गया।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "da26cd3d0a64368a",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 472
+    },
+    {
+      "id": "DRAFT-DQ-0473",
+      "subjectId": "ENV",
+      "chapterId": "ENV",
+      "topicId": "ENV-ENVIRONMENT",
+      "conceptIds": [],
+      "question": {
+        "en": "Which layer of the atmosphere lies closest to the Earth's surface?",
+        "hi": "पृथ्वी की सतह के सबसे निकट वायुमंडल की कौन सी परत है?"
+      },
+      "options": [
+        {
+          "en": "The stratosphere",
+          "hi": "समताप मंडल"
+        },
+        {
+          "en": "The troposphere",
+          "hi": "क्षोभ मंडल"
+        },
+        {
+          "en": "The mesosphere",
+          "hi": "मध्य मंडल"
+        },
+        {
+          "en": "The ionosphere",
+          "hi": "आयन मंडल"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Almost all weather happens inside it.",
+        "hi": "लगभग सारा मौसम इसी में बनता है।"
+      },
+      "detailedExplanation": {
+        "en": "Almost all weather happens inside it.",
+        "hi": "लगभग सारा मौसम इसी में बनता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "184664b5e599e6f4",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 473
+    },
+    {
+      "id": "DRAFT-DQ-0474",
+      "subjectId": "ENV",
+      "chapterId": "ENV",
+      "topicId": "ENV-ENVIRONMENT",
+      "conceptIds": [],
+      "question": {
+        "en": "Which is the chief cause of soil erosion on farmland?",
+        "hi": "कृषि भूमि पर मृदा अपरदन का मुख्य कारण क्या है?"
+      },
+      "options": [
+        {
+          "en": "The presence of earthworms",
+          "hi": "केंचुओं की उपस्थिति"
+        },
+        {
+          "en": "Removal of the vegetation that holds it",
+          "hi": "उसमें जड़ जमाए रखने वाली वनस्पति का हटना"
+        },
+        {
+          "en": "Crop rotation",
+          "hi": "फ़सल चक्र"
+        },
+        {
+          "en": "Adding compost",
+          "hi": "खाद मिलाना"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Roots bind the soil, so bare ground washes away in rain.",
+        "hi": "जड़ें मिट्टी बाँधती हैं, इसलिए खुली भूमि वर्षा में बह जाती है।"
+      },
+      "detailedExplanation": {
+        "en": "Roots bind the soil, so bare ground washes away in rain.",
+        "hi": "जड़ें मिट्टी बाँधती हैं, इसलिए खुली भूमि वर्षा में बह जाती है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "fff7c24e02ae7a8d",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 474
+    },
+    {
+      "id": "DRAFT-DQ-0475",
+      "subjectId": "ENV",
+      "chapterId": "ENV",
+      "topicId": "ENV-ENVIRONMENT",
+      "conceptIds": [],
+      "question": {
+        "en": "In conservation, what does WWF stand for?",
+        "hi": "संरक्षण के क्षेत्र में WWF का पूर्ण रूप क्या है?"
+      },
+      "options": [
+        {
+          "en": "Western Wildlife Federation",
+          "hi": "वेस्टर्न वाइल्डलाइफ़ फ़ेडरेशन"
+        },
+        {
+          "en": "World Wide Fund for Nature",
+          "hi": "वर्ल्ड वाइड फ़ंड फ़ॉर नेचर"
+        },
+        {
+          "en": "World Water Forum",
+          "hi": "वर्ल्ड वाटर फ़ोरम"
+        },
+        {
+          "en": "World Wildlife Foundation",
+          "hi": "वर्ल्ड वाइल्डलाइफ़ फ़ाउंडेशन"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Its panda emblem was drawn from a captive animal named Chi Chi.",
+        "hi": "इसका पांडा प्रतीक ची ची नामक जानवर से लिया गया था।"
+      },
+      "detailedExplanation": {
+        "en": "Its panda emblem was drawn from a captive animal named Chi Chi.",
+        "hi": "इसका पांडा प्रतीक ची ची नामक जानवर से लिया गया था।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "06591d7cb92ea8ee",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 475
+    },
+    {
+      "id": "DRAFT-DQ-0476",
+      "subjectId": "ENV",
+      "chapterId": "ENV",
+      "topicId": "ENV-ENVIRONMENT",
+      "conceptIds": [],
+      "question": {
+        "en": "Which Indian state has the largest forest cover by area?",
+        "hi": "क्षेत्रफल की दृष्टि से किस भारतीय राज्य में सबसे अधिक वन आवरण है?"
+      },
+      "options": [
+        {
+          "en": "Arunachal Pradesh",
+          "hi": "अरुणाचल प्रदेश"
+        },
+        {
+          "en": "Madhya Pradesh",
+          "hi": "मध्य प्रदेश"
+        },
+        {
+          "en": "Chhattisgarh",
+          "hi": "छत्तीसगढ़"
+        },
+        {
+          "en": "Odisha",
+          "hi": "ओडिशा"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Arunachal Pradesh is second by the same measure.",
+        "hi": "इसी माप से अरुणाचल प्रदेश दूसरे स्थान पर है।"
+      },
+      "detailedExplanation": {
+        "en": "Arunachal Pradesh is second by the same measure.",
+        "hi": "इसी माप से अरुणाचल प्रदेश दूसरे स्थान पर है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "6eb781c4a962211e",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 476
+    },
+    {
+      "id": "DRAFT-DQ-0477",
+      "subjectId": "ENV",
+      "chapterId": "ENV",
+      "topicId": "ENV-ENVIRONMENT",
+      "conceptIds": [],
+      "question": {
+        "en": "Which treaty protects wetlands of international importance?",
+        "hi": "अंतर्राष्ट्रीय महत्व की आर्द्रभूमियों की रक्षा कौन सी संधि करती है?"
+      },
+      "options": [
+        {
+          "en": "The Bonn Convention",
+          "hi": "बॉन संधि"
+        },
+        {
+          "en": "The Nagoya Protocol",
+          "hi": "नागोया प्रोटोकॉल"
+        },
+        {
+          "en": "The Cartagena Protocol",
+          "hi": "कार्टाजेना प्रोटोकॉल"
+        },
+        {
+          "en": "The Ramsar Convention",
+          "hi": "रामसर संधि"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It was signed in Iran in 1971.",
+        "hi": "इस पर 1971 में ईरान में हस्ताक्षर हुए।"
+      },
+      "detailedExplanation": {
+        "en": "It was signed in Iran in 1971.",
+        "hi": "इस पर 1971 में ईरान में हस्ताक्षर हुए।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "93057d5ef5947b8b",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 477
+    },
+    {
+      "id": "DRAFT-DQ-0478",
+      "subjectId": "ENV",
+      "chapterId": "ENV",
+      "topicId": "ENV-ENVIRONMENT",
+      "conceptIds": [],
+      "question": {
+        "en": "What is the process called by which plants release water vapour?",
+        "hi": "पौधों द्वारा जल वाष्प छोड़ने की प्रक्रिया को क्या कहते हैं?"
+      },
+      "options": [
+        {
+          "en": "Photosynthesis",
+          "hi": "प्रकाशसंश्लेषण"
+        },
+        {
+          "en": "Germination",
+          "hi": "अंकुरण"
+        },
+        {
+          "en": "Transpiration",
+          "hi": "वाष्पोत्सर्जन"
+        },
+        {
+          "en": "Respiration",
+          "hi": "श्वसन"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Water leaves mainly through pores on the underside of leaves.",
+        "hi": "जल मुख्यतः पत्तियों की निचली सतह के रंध्रों से निकलता है।"
+      },
+      "detailedExplanation": {
+        "en": "Water leaves mainly through pores on the underside of leaves.",
+        "hi": "जल मुख्यतः पत्तियों की निचली सतह के रंध्रों से निकलता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "f3d260434d5f7602",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 478
+    },
+    {
+      "id": "DRAFT-DQ-0479",
+      "subjectId": "ENV",
+      "chapterId": "ENV",
+      "topicId": "ENV-ENVIRONMENT",
+      "conceptIds": [],
+      "question": {
+        "en": "Which form of renewable energy draws heat from inside the Earth?",
+        "hi": "किस नवीकरणीय ऊर्जा में पृथ्वी के भीतर की ऊष्मा ली जाती है?"
+      },
+      "options": [
+        {
+          "en": "Geothermal energy",
+          "hi": "भूतापीय ऊर्जा"
+        },
+        {
+          "en": "Wave energy",
+          "hi": "तरंग ऊर्जा"
+        },
+        {
+          "en": "Tidal energy",
+          "hi": "ज्वारीय ऊर्जा"
+        },
+        {
+          "en": "Biomass energy",
+          "hi": "जैवभार ऊर्जा"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Iceland uses it widely for heating homes.",
+        "hi": "आइसलैंड इसे घर गर्म करने के लिए व्यापक रूप से प्रयोग करता है।"
+      },
+      "detailedExplanation": {
+        "en": "Iceland uses it widely for heating homes.",
+        "hi": "आइसलैंड इसे घर गर्म करने के लिए व्यापक रूप से प्रयोग करता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "b8ecd80a9247a734",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 479
+    },
+    {
+      "id": "DRAFT-DQ-0480",
+      "subjectId": "ART-CULT",
+      "chapterId": "ART-CULT",
+      "topicId": "ART-CULT-ART",
+      "conceptIds": [],
+      "question": {
+        "en": "A standard modern piano has how many keys?",
+        "hi": "मानक आधुनिक पियानो में कितनी कुंजियाँ होती हैं?"
+      },
+      "options": [
+        {
+          "en": "100",
+          "hi": "100"
+        },
+        {
+          "en": "88",
+          "hi": "88"
+        },
+        {
+          "en": "76",
+          "hi": "76"
+        },
+        {
+          "en": "64",
+          "hi": "64"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Fifty-two are white and thirty-six are black.",
+        "hi": "इनमें बावन सफ़ेद और छत्तीस काली होती हैं।"
+      },
+      "detailedExplanation": {
+        "en": "Fifty-two are white and thirty-six are black.",
+        "hi": "इनमें बावन सफ़ेद और छत्तीस काली होती हैं।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "8a2099ed2cc6b552",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 480
+    },
+    {
+      "id": "DRAFT-DQ-0481",
+      "subjectId": "ART-CULT",
+      "chapterId": "ART-CULT",
+      "topicId": "ART-CULT-ART",
+      "conceptIds": [],
+      "question": {
+        "en": "Who painted the ceiling of the Sistine Chapel?",
+        "hi": "सिस्टिन चैपल की छत किसने सजाई?"
+      },
+      "options": [
+        {
+          "en": "Michelangelo",
+          "hi": "माइकलएंजेलो"
+        },
+        {
+          "en": "Caravaggio",
+          "hi": "कारावाजियो"
+        },
+        {
+          "en": "Botticelli",
+          "hi": "बोतिचेली"
+        },
+        {
+          "en": "Leonardo da Vinci",
+          "hi": "लियोनार्डो दा विंची"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "The work took four years, finishing in 1512.",
+        "hi": "यह कार्य चार वर्ष में पूरा हुआ, 1512 में।"
+      },
+      "detailedExplanation": {
+        "en": "The work took four years, finishing in 1512.",
+        "hi": "यह कार्य चार वर्ष में पूरा हुआ, 1512 में।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "253a730ed45699ff",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 481
+    },
+    {
+      "id": "DRAFT-DQ-0482",
+      "subjectId": "ART-CULT",
+      "chapterId": "ART-CULT",
+      "topicId": "ART-CULT-LITERATURE",
+      "conceptIds": [],
+      "question": {
+        "en": "Who wrote the Hindi novel Godan?",
+        "hi": "हिंदी उपन्यास गोदान किसने लिखा?"
+      },
+      "options": [
+        {
+          "en": "Munshi Premchand",
+          "hi": "मुंशी प्रेमचंद"
+        },
+        {
+          "en": "Mahadevi Verma",
+          "hi": "महादेवी वर्मा"
+        },
+        {
+          "en": "Jaishankar Prasad",
+          "hi": "जयशंकर प्रसाद"
+        },
+        {
+          "en": "Yashpal",
+          "hi": "यशपाल"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It was his last completed novel, published in 1936.",
+        "hi": "यह उनका अंतिम पूर्ण उपन्यास था, 1936 में प्रकाशित।"
+      },
+      "detailedExplanation": {
+        "en": "It was his last completed novel, published in 1936.",
+        "hi": "यह उनका अंतिम पूर्ण उपन्यास था, 1936 में प्रकाशित।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "9183fa505b70f301",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 482
+    },
+    {
+      "id": "DRAFT-DQ-0483",
+      "subjectId": "ART-CULT",
+      "chapterId": "ART-CULT",
+      "topicId": "ART-CULT-LITERATURE",
+      "conceptIds": [],
+      "question": {
+        "en": "Who wrote the autobiography Wings of Fire?",
+        "hi": "आत्मकथा विंग्स ऑफ़ फ़ायर किसने लिखी?"
+      },
+      "options": [
+        {
+          "en": "C. V. Raman",
+          "hi": "सी. वी. रमन"
+        },
+        {
+          "en": "Homi Bhabha",
+          "hi": "होमी भाभा"
+        },
+        {
+          "en": "Vikram Sarabhai",
+          "hi": "विक्रम साराभाई"
+        },
+        {
+          "en": "A. P. J. Abdul Kalam",
+          "hi": "ए. पी. जे. अब्दुल कलाम"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He wrote it with Arun Tiwari.",
+        "hi": "उन्होंने इसे अरुण तिवारी के साथ लिखा।"
+      },
+      "detailedExplanation": {
+        "en": "He wrote it with Arun Tiwari.",
+        "hi": "उन्होंने इसे अरुण तिवारी के साथ लिखा।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "40d51d51fe0ad1c2",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 483
+    },
+    {
+      "id": "DRAFT-DQ-0484",
+      "subjectId": "ART-CULT",
+      "chapterId": "ART-CULT",
+      "topicId": "ART-CULT-CULTURE",
+      "conceptIds": [],
+      "question": {
+        "en": "Kathakali is a classical dance form from which state?",
+        "hi": "कथकली किस राज्य की शास्त्रीय नृत्य शैली है?"
+      },
+      "options": [
+        {
+          "en": "Odisha",
+          "hi": "ओडिशा"
+        },
+        {
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
+        },
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        },
+        {
+          "en": "Assam",
+          "hi": "असम"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Dancers wear elaborate painted masks and headdresses.",
+        "hi": "नर्तक विस्तृत चित्रित मुखौटे और मुकुट पहनते हैं।"
+      },
+      "detailedExplanation": {
+        "en": "Dancers wear elaborate painted masks and headdresses.",
+        "hi": "नर्तक विस्तृत चित्रित मुखौटे और मुकुट पहनते हैं।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "b73c881a70e7ecf6",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 484
+    },
+    {
+      "id": "DRAFT-DQ-0485",
+      "subjectId": "ART-CULT",
+      "chapterId": "ART-CULT",
+      "topicId": "ART-CULT-CULTURE",
+      "conceptIds": [],
+      "question": {
+        "en": "Bharatanatyam originated in which state?",
+        "hi": "भरतनाट्यम की उत्पत्ति किस राज्य में हुई?"
+      },
+      "options": [
+        {
+          "en": "Karnataka",
+          "hi": "कर्नाटक"
+        },
+        {
+          "en": "Andhra Pradesh",
+          "hi": "आंध्र प्रदेश"
+        },
+        {
+          "en": "West Bengal",
+          "hi": "पश्चिम बंगाल"
+        },
+        {
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It was once performed in temples by devadasis.",
+        "hi": "यह कभी मंदिरों में देवदासियों द्वारा प्रस्तुत किया जाता था।"
+      },
+      "detailedExplanation": {
+        "en": "It was once performed in temples by devadasis.",
+        "hi": "यह कभी मंदिरों में देवदासियों द्वारा प्रस्तुत किया जाता था।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "32d7a53f093cafe6",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 485
+    },
+    {
+      "id": "DRAFT-DQ-0486",
+      "subjectId": "ART-CULT",
+      "chapterId": "ART-CULT",
+      "topicId": "ART-CULT-CINEMA",
+      "conceptIds": [],
+      "question": {
+        "en": "Who directed the film Pather Panchali?",
+        "hi": "फ़िल्म पथेर पांचाली का निर्देशन किसने किया?"
+      },
+      "options": [
+        {
+          "en": "Satyajit Ray",
+          "hi": "सत्यजित राय"
+        },
+        {
+          "en": "Bimal Roy",
+          "hi": "बिमल रॉय"
+        },
+        {
+          "en": "Mrinal Sen",
+          "hi": "मृणाल सेन"
+        },
+        {
+          "en": "Ritwik Ghatak",
+          "hi": "ऋत्विक घटक"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It was his first film, released in 1955.",
+        "hi": "यह उनकी पहली फ़िल्म थी, 1955 में रिलीज़ हुई।"
+      },
+      "detailedExplanation": {
+        "en": "It was his first film, released in 1955.",
+        "hi": "यह उनकी पहली फ़िल्म थी, 1955 में रिलीज़ हुई।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "249a270be79c0a28",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 486
+    },
+    {
+      "id": "DRAFT-DQ-0487",
+      "subjectId": "IND-HIST",
+      "chapterId": "IND-HIST",
+      "topicId": "IND-HIST-INDIAN_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "Who is traditionally named as the court poet of Chandragupta II?",
+        "hi": "चंद्रगुप्त द्वितीय के दरबारी कवि के रूप में पारंपरिक रूप से किसे बताया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Tulsidas",
+          "hi": "तुलसीदास"
+        },
+        {
+          "en": "Kalidasa",
+          "hi": "कालिदास"
+        },
+        {
+          "en": "Banabhatta",
+          "hi": "बाणभट्ट"
+        },
+        {
+          "en": "Bhavabhuti",
+          "hi": "भवभूति"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He is counted among the nine jewels of that court.",
+        "hi": "उन्हें उस दरबार के नवरत्नों में गिना जाता है।"
+      },
+      "detailedExplanation": {
+        "en": "He is counted among the nine jewels of that court.",
+        "hi": "उन्हें उस दरबार के नवरत्नों में गिना जाता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "c4d9a8e33dccd9c2",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 487
+    },
+    {
+      "id": "DRAFT-DQ-0488",
+      "subjectId": "IND-HIST",
+      "chapterId": "IND-HIST",
+      "topicId": "IND-HIST-INDIAN_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "Who wrote the treatise Arthashastra?",
+        "hi": "अर्थशास्त्र ग्रंथ किसने लिखा?"
+      },
+      "options": [
+        {
+          "en": "Megasthenes",
+          "hi": "मेगस्थनीज़"
+        },
+        {
+          "en": "Kalhana",
+          "hi": "कल्हण"
+        },
+        {
+          "en": "Fa-Hien",
+          "hi": "फ़ाह्यान"
+        },
+        {
+          "en": "Chanakya",
+          "hi": "चाणक्य"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He also wrote under the names Kautilya and Vishnugupta.",
+        "hi": "वे कौटिल्य और विष्णुगुप्त नामों से भी लिखते थे।"
+      },
+      "detailedExplanation": {
+        "en": "He also wrote under the names Kautilya and Vishnugupta.",
+        "hi": "वे कौटिल्य और विष्णुगुप्त नामों से भी लिखते थे।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "bca02181bec476c9",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 488
+    },
+    {
+      "id": "DRAFT-DQ-0489",
+      "subjectId": "IND-HIST",
+      "chapterId": "IND-HIST",
+      "topicId": "IND-HIST-INDIAN_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "Who founded the Gupta Empire?",
+        "hi": "गुप्त साम्राज्य की स्थापना किसने की?"
+      },
+      "options": [
+        {
+          "en": "Samudragupta",
+          "hi": "समुद्रगुप्त"
+        },
+        {
+          "en": "Skandagupta",
+          "hi": "स्कंदगुप्त"
+        },
+        {
+          "en": "Kumaragupta",
+          "hi": "कुमारगुप्त"
+        },
+        {
+          "en": "Chandragupta I",
+          "hi": "चंद्रगुप्त प्रथम"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "His grandson Samudragupta greatly enlarged the realm.",
+        "hi": "उनके पौत्र समुद्रगुप्त ने राज्य का काफ़ी विस्तार किया।"
+      },
+      "detailedExplanation": {
+        "en": "His grandson Samudragupta greatly enlarged the realm.",
+        "hi": "उनके पौत्र समुद्रगुप्त ने राज्य का काफ़ी विस्तार किया।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "3680d4974d3b4520",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 489
+    },
+    {
+      "id": "DRAFT-DQ-0490",
+      "subjectId": "IND-HIST",
+      "chapterId": "IND-HIST",
+      "topicId": "IND-HIST-INDIAN_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "Which Gupta ruler is sometimes called the Napoleon of India?",
+        "hi": "किस गुप्त शासक को कभी-कभी भारत का नेपोलियन कहा जाता है?"
+      },
+      "options": [
+        {
+          "en": "Ashoka",
+          "hi": "अशोक"
+        },
+        {
+          "en": "Harsha",
+          "hi": "हर्ष"
+        },
+        {
+          "en": "Chandragupta II",
+          "hi": "चंद्रगुप्त द्वितीय"
+        },
+        {
+          "en": "Samudragupta",
+          "hi": "समुद्रगुप्त"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "The comparison comes from the breadth of his campaigns.",
+        "hi": "यह तुलना उनके अभियानों की व्यापकता से आती है।"
+      },
+      "detailedExplanation": {
+        "en": "The comparison comes from the breadth of his campaigns.",
+        "hi": "यह तुलना उनके अभियानों की व्यापकता से आती है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "d5482784a367e7a6",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 490
+    },
+    {
+      "id": "DRAFT-DQ-0491",
+      "subjectId": "IND-HIST",
+      "chapterId": "IND-HIST",
+      "topicId": "IND-HIST-INDIAN_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "Who built the Brihadeeswarar Temple at Thanjavur?",
+        "hi": "तंजावुर का बृहदीश्वर मंदिर किसने बनवाया?"
+      },
+      "options": [
+        {
+          "en": "Rajaraja Chola",
+          "hi": "राजारาช चोल"
+        },
+        {
+          "en": "Rajendra Chola",
+          "hi": "राजेंद्र चोल"
+        },
+        {
+          "en": "Narasimhavarman",
+          "hi": "नरसिंहवर्मन"
+        },
+        {
+          "en": "Krishnadevaraya",
+          "hi": "कृष्णदेवराय"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It was completed around the year 1010.",
+        "hi": "यह लगभग वर्ष 1010 में पूरा हुआ।"
+      },
+      "detailedExplanation": {
+        "en": "It was completed around the year 1010.",
+        "hi": "यह लगभग वर्ष 1010 में पूरा हुआ।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "703811e53c53461d",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 491
+    },
+    {
+      "id": "DRAFT-DQ-0492",
+      "subjectId": "IND-HIST",
+      "chapterId": "IND-HIST",
+      "topicId": "IND-HIST-INDIAN_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "Who founded the Maratha Empire?",
+        "hi": "मराठा साम्राज्य की स्थापना किसने की?"
+      },
+      "options": [
+        {
+          "en": "Bajirao I",
+          "hi": "बाजीराव प्रथम"
+        },
+        {
+          "en": "Chhatrapati Shivaji Maharaj",
+          "hi": "छत्रपति शिवाजी महाराज"
+        },
+        {
+          "en": "Shahu",
+          "hi": "शाहू"
+        },
+        {
+          "en": "Sambhaji",
+          "hi": "संभाजी"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He was crowned at Raigad in 1674.",
+        "hi": "उनका राज्याभिषेक 1674 में रायगढ़ में हुआ।"
+      },
+      "detailedExplanation": {
+        "en": "He was crowned at Raigad in 1674.",
+        "hi": "उनका राज्याभिषेक 1674 में रायगढ़ में हुआ।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "915d008b93d81805",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 492
+    },
+    {
+      "id": "DRAFT-DQ-0493",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-SPORT",
+      "conceptIds": [],
+      "question": {
+        "en": "The score of one under par is called a birdie in which sport?",
+        "hi": "किस खेल में पार से एक कम स्कोर को बर्डी कहते हैं?"
+      },
+      "options": [
+        {
+          "en": "Tennis",
+          "hi": "टेनिस"
+        },
+        {
+          "en": "Bowling",
+          "hi": "बॉलिंग"
+        },
+        {
+          "en": "Golf",
+          "hi": "गोल्फ़"
+        },
+        {
+          "en": "Badminton",
+          "hi": "बैडमिंटन"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Two under par is an eagle.",
+        "hi": "पार से दो कम को ईगल कहते हैं।"
+      },
+      "detailedExplanation": {
+        "en": "Two under par is an eagle.",
+        "hi": "पार से दो कम को ईगल कहते हैं।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "d4fea3b782c7c7d4",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 493
+    },
+    {
+      "id": "DRAFT-DQ-0494",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-SPORT",
+      "conceptIds": [],
+      "question": {
+        "en": "A delivery called the googly is bowled in which sport?",
+        "hi": "गूगली किस खेल में डाली जाती है?"
+      },
+      "options": [
+        {
+          "en": "Baseball",
+          "hi": "बेसबॉल"
+        },
+        {
+          "en": "Volleyball",
+          "hi": "वॉलीबॉल"
+        },
+        {
+          "en": "Cricket",
+          "hi": "क्रिकेट"
+        },
+        {
+          "en": "Tennis",
+          "hi": "टेनिस"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It spins the opposite way to the bowler's usual leg break.",
+        "hi": "यह गेंदबाज़ के सामान्य लेग ब्रेक से उलटी दिशा में घूमती है।"
+      },
+      "detailedExplanation": {
+        "en": "It spins the opposite way to the bowler's usual leg break.",
+        "hi": "यह गेंदबाज़ के सामान्य लेग ब्रेक से उलटी दिशा में घूमती है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "b1ec046473a41172",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 494
+    },
+    {
+      "id": "DRAFT-DQ-0495",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-CHESS",
+      "conceptIds": [],
+      "question": {
+        "en": "How many squares does a chessboard have?",
+        "hi": "शतरंज की बिसात में कितने खाने होते हैं?"
+      },
+      "options": [
+        {
+          "en": "100",
+          "hi": "100"
+        },
+        {
+          "en": "48",
+          "hi": "48"
+        },
+        {
+          "en": "81",
+          "hi": "81"
+        },
+        {
+          "en": "64",
+          "hi": "64"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Eight rows of eight, alternating light and dark.",
+        "hi": "आठ-आठ की आठ पंक्तियाँ, हल्के और गहरे रंग एकान्तर में।"
+      },
+      "detailedExplanation": {
+        "en": "Eight rows of eight, alternating light and dark.",
+        "hi": "आठ-आठ की आठ पंक्तियाँ, हल्के और गहरे रंग एकान्तर में।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "5c5f2d6020723004",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 495
+    },
+    {
+      "id": "DRAFT-DQ-0496",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-CHESS",
+      "conceptIds": [],
+      "question": {
+        "en": "In chess, which piece moves only along diagonals?",
+        "hi": "शतरंज में कौन सा मोहरा केवल तिरछा चलता है?"
+      },
+      "options": [
+        {
+          "en": "The bishop",
+          "hi": "ऊँट"
+        },
+        {
+          "en": "The rook",
+          "hi": "हाथी"
+        },
+        {
+          "en": "The knight",
+          "hi": "घोड़ा"
+        },
+        {
+          "en": "The queen",
+          "hi": "वज़ीर"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Each player starts with two, one on each colour.",
+        "hi": "हर खिलाड़ी के पास दो होते हैं, एक-एक रंग पर।"
+      },
+      "detailedExplanation": {
+        "en": "Each player starts with two, one on each colour.",
+        "hi": "हर खिलाड़ी के पास दो होते हैं, एक-एक रंग पर।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "70e65141a83ce794",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 496
+    },
+    {
+      "id": "DRAFT-DQ-0497",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-SPORT",
+      "conceptIds": [],
+      "question": {
+        "en": "How many holes are played in a full round of golf?",
+        "hi": "गोल्फ़ के एक पूर्ण दौर में कितने होल खेले जाते हैं?"
+      },
+      "options": [
+        {
+          "en": "Twelve",
+          "hi": "बारह"
+        },
+        {
+          "en": "Eighteen",
+          "hi": "अठारह"
+        },
+        {
+          "en": "Nine",
+          "hi": "नौ"
+        },
+        {
+          "en": "Twenty-one",
+          "hi": "इक्कीस"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "A nine-hole course is played twice to make a round.",
+        "hi": "नौ होल के मैदान पर दो बार खेलकर एक दौर बनता है।"
+      },
+      "detailedExplanation": {
+        "en": "A nine-hole course is played twice to make a round.",
+        "hi": "नौ होल के मैदान पर दो बार खेलकर एक दौर बनता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "0909b200022017fa",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 497
+    },
+    {
+      "id": "DRAFT-DQ-0498",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-SPORT",
+      "conceptIds": [],
+      "question": {
+        "en": "In which sport would a player perform a slam dunk?",
+        "hi": "किस खेल में खिलाड़ी स्लैम डंक करता है?"
+      },
+      "options": [
+        {
+          "en": "Handball",
+          "hi": "हैंडबॉल"
+        },
+        {
+          "en": "Netball",
+          "hi": "नेटबॉल"
+        },
+        {
+          "en": "Basketball",
+          "hi": "बास्केटबॉल"
+        },
+        {
+          "en": "Volleyball",
+          "hi": "वॉलीबॉल"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "The ball is pushed down through the hoop from above.",
+        "hi": "गेंद को ऊपर से घेरे में नीचे की ओर ठोंसा जाता है।"
+      },
+      "detailedExplanation": {
+        "en": "The ball is pushed down through the hoop from above.",
+        "hi": "गेंद को ऊपर से घेरे में नीचे की ओर ठोंसा जाता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "97bfa4e4b7349323",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 498
     }
   ]
 }

@@ -94,11 +94,32 @@
    "questionCount": 26
   },
   {
+   "id": "SPORT",
+   "title": "Sport & games",
+   "topics": [
+    "SPORT-CHESS",
+    "SPORT-INDIA_SPORT",
+    "SPORT-SPORT"
+   ],
+   "questionCount": 25
+  },
+  {
    "id": "SCI-SPACE",
    "title": "Astronomy & spaceflight",
    "topics": [
     "SCI-SPACE-ASTRONOMY",
     "SCI-SPACE-SPACE"
+   ],
+   "questionCount": 23
+  },
+  {
+   "id": "ART-CULT",
+   "title": "Art, culture & literature",
+   "topics": [
+    "ART-CULT-ART",
+    "ART-CULT-CINEMA",
+    "ART-CULT-CULTURE",
+    "ART-CULT-LITERATURE"
    ],
    "questionCount": 23
   },
@@ -114,34 +135,37 @@
    "questionCount": 22
   },
   {
-   "id": "SPORT",
-   "title": "Sport & games",
-   "topics": [
-    "SPORT-CHESS",
-    "SPORT-INDIA_SPORT",
-    "SPORT-SPORT"
-   ],
-   "questionCount": 19
-  },
-  {
-   "id": "ART-CULT",
-   "title": "Art, culture & literature",
-   "topics": [
-    "ART-CULT-ART",
-    "ART-CULT-CINEMA",
-    "ART-CULT-CULTURE",
-    "ART-CULT-LITERATURE"
-   ],
-   "questionCount": 16
-  },
-  {
    "id": "IND-HIST",
    "title": "Indian & general history",
    "topics": [
     "IND-HIST-HISTORY",
     "IND-HIST-INDIAN_HISTORY"
    ],
-   "questionCount": 15
+   "questionCount": 21
+  },
+  {
+   "id": "ENV",
+   "title": "Environment",
+   "topics": [
+    "ENV-ENVIRONMENT"
+   ],
+   "questionCount": 21
+  },
+  {
+   "id": "IND-SPACE",
+   "title": "India in space",
+   "topics": [
+    "IND-SPACE-INDIA_SPACE"
+   ],
+   "questionCount": 19
+  },
+  {
+   "id": "SCI-HIST",
+   "title": "History of science",
+   "topics": [
+    "SCI-HIST-SCIENCE_HISTORY"
+   ],
+   "questionCount": 19
   },
   {
    "id": "WORLD-HIST",
@@ -158,34 +182,10 @@
     "AWARDS-AWARDS"
    ],
    "questionCount": 15
-  },
-  {
-   "id": "ENV",
-   "title": "Environment",
-   "topics": [
-    "ENV-ENVIRONMENT"
-   ],
-   "questionCount": 14
-  },
-  {
-   "id": "IND-SPACE",
-   "title": "India in space",
-   "topics": [
-    "IND-SPACE-INDIA_SPACE"
-   ],
-   "questionCount": 12
-  },
-  {
-   "id": "SCI-HIST",
-   "title": "History of science",
-   "topics": [
-    "SCI-HIST-SCIENCE_HISTORY"
-   ],
-   "questionCount": 12
   }
  ],
  "totals": {
-  "questions": 458,
+  "questions": 498,
   "subjects": 18,
   "topics": 48
  }
