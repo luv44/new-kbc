@@ -35,7 +35,7 @@
     },
     "subjectId": "SCI-CHEM",
     "chapterId": "SCI-CHEM",
-    "topicId": "SCI-CHEM-CHEMISTRY"
+    "topicId": "TOP-SCI-CHEM"
   },
   {
     "id": "DQ-0420",
@@ -73,7 +73,7 @@
     },
     "subjectId": "SCI-CHEM",
     "chapterId": "SCI-CHEM",
-    "topicId": "SCI-CHEM-CHEMISTRY"
+    "topicId": "TOP-SCI-CHEM"
   },
   {
     "id": "DQ-0421",
@@ -111,7 +111,7 @@
     },
     "subjectId": "SCI-CHEM",
     "chapterId": "SCI-CHEM",
-    "topicId": "SCI-CHEM-CHEMISTRY"
+    "topicId": "TOP-SCI-CHEM"
   },
   {
     "id": "DQ-0422",
@@ -149,7 +149,7 @@
     },
     "subjectId": "SCI-CHEM",
     "chapterId": "SCI-CHEM",
-    "topicId": "SCI-CHEM-CHEMISTRY"
+    "topicId": "TOP-SCI-CHEM"
   },
   {
     "id": "DQ-0423",
@@ -187,7 +187,7 @@
     },
     "subjectId": "SCI-CHEM",
     "chapterId": "SCI-CHEM",
-    "topicId": "SCI-CHEM-CHEMISTRY"
+    "topicId": "TOP-SCI-CHEM"
   },
   {
     "id": "DQ-0424",
@@ -225,7 +225,7 @@
     },
     "subjectId": "SCI-CHEM",
     "chapterId": "SCI-CHEM",
-    "topicId": "SCI-CHEM-CHEMISTRY"
+    "topicId": "TOP-SCI-CHEM"
   },
   {
     "id": "DQ-0425",
@@ -263,7 +263,7 @@
     },
     "subjectId": "SCI-CHEM",
     "chapterId": "SCI-CHEM",
-    "topicId": "SCI-CHEM-CHEMISTRY"
+    "topicId": "TOP-SCI-CHEM"
   },
   {
     "id": "DQ-0426",
@@ -301,7 +301,7 @@
     },
     "subjectId": "SCI-CHEM",
     "chapterId": "SCI-CHEM",
-    "topicId": "SCI-CHEM-CHEMISTRY"
+    "topicId": "TOP-SCI-CHEM"
   },
   {
     "id": "DQ-0427",
@@ -339,7 +339,7 @@
     },
     "subjectId": "ENV",
     "chapterId": "ENV",
-    "topicId": "ENV-ENVIRONMENT"
+    "topicId": "TOP-ENV"
   },
   {
     "id": "DQ-0428",
@@ -377,7 +377,7 @@
     },
     "subjectId": "ENV",
     "chapterId": "ENV",
-    "topicId": "ENV-ENVIRONMENT"
+    "topicId": "TOP-ENV"
   },
   {
     "id": "DQ-0429",
@@ -415,7 +415,7 @@
     },
     "subjectId": "ENV",
     "chapterId": "ENV",
-    "topicId": "ENV-ENVIRONMENT"
+    "topicId": "TOP-ENV"
   },
   {
     "id": "DQ-0430",
@@ -453,7 +453,7 @@
     },
     "subjectId": "ENV",
     "chapterId": "ENV",
-    "topicId": "ENV-ENVIRONMENT"
+    "topicId": "TOP-ENV"
   },
   {
     "id": "DQ-0431",
@@ -491,7 +491,7 @@
     },
     "subjectId": "ENV",
     "chapterId": "ENV",
-    "topicId": "ENV-ENVIRONMENT"
+    "topicId": "TOP-ENV"
   },
   {
     "id": "DQ-0432",
@@ -529,7 +529,7 @@
     },
     "subjectId": "ENV",
     "chapterId": "ENV",
-    "topicId": "ENV-ENVIRONMENT"
+    "topicId": "TOP-ENV"
   },
   {
     "id": "DQ-0433",
@@ -567,7 +567,7 @@
     },
     "subjectId": "ENV",
     "chapterId": "ENV",
-    "topicId": "ENV-ENVIRONMENT"
+    "topicId": "TOP-ENV"
   },
   {
     "id": "DQ-0434",
@@ -605,7 +605,7 @@
     },
     "subjectId": "ENV",
     "chapterId": "ENV",
-    "topicId": "ENV-ENVIRONMENT"
+    "topicId": "TOP-ENV"
   },
   {
     "id": "DQ-0435",
@@ -643,7 +643,7 @@
     },
     "subjectId": "SCI-HIST",
     "chapterId": "SCI-HIST",
-    "topicId": "SCI-HIST-SCIENCE_HISTORY"
+    "topicId": "TOP-SCI-HIST"
   },
   {
     "id": "DQ-0436",
@@ -681,7 +681,7 @@
     },
     "subjectId": "SCI-HIST",
     "chapterId": "SCI-HIST",
-    "topicId": "SCI-HIST-SCIENCE_HISTORY"
+    "topicId": "TOP-SCI-HIST"
   },
   {
     "id": "DQ-0437",
@@ -719,7 +719,7 @@
     },
     "subjectId": "SCI-HIST",
     "chapterId": "SCI-HIST",
-    "topicId": "SCI-HIST-SCIENCE_HISTORY"
+    "topicId": "TOP-SCI-HIST"
   },
   {
     "id": "DQ-0438",
@@ -757,7 +757,7 @@
     },
     "subjectId": "SCI-HIST",
     "chapterId": "SCI-HIST",
-    "topicId": "SCI-HIST-SCIENCE_HISTORY"
+    "topicId": "TOP-SCI-HIST"
   },
   {
     "id": "DQ-0439",
@@ -795,7 +795,7 @@
     },
     "subjectId": "SCI-HIST",
     "chapterId": "SCI-HIST",
-    "topicId": "SCI-HIST-SCIENCE_HISTORY"
+    "topicId": "TOP-SCI-HIST"
   },
   {
     "id": "DQ-0440",
@@ -833,7 +833,7 @@
     },
     "subjectId": "SCI-HIST",
     "chapterId": "SCI-HIST",
-    "topicId": "SCI-HIST-SCIENCE_HISTORY"
+    "topicId": "TOP-SCI-HIST"
   },
   {
     "id": "DQ-0441",
@@ -871,7 +871,7 @@
     },
     "subjectId": "WORLD-HIST",
     "chapterId": "WORLD-HIST",
-    "topicId": "WORLD-HIST-WORLD_HISTORY"
+    "topicId": "TOP-WORLD-HIST"
   },
   {
     "id": "DQ-0442",
@@ -909,7 +909,7 @@
     },
     "subjectId": "WORLD-HIST",
     "chapterId": "WORLD-HIST",
-    "topicId": "WORLD-HIST-WORLD_HISTORY"
+    "topicId": "TOP-WORLD-HIST"
   },
   {
     "id": "DQ-0443",
@@ -947,7 +947,7 @@
     },
     "subjectId": "WORLD-HIST",
     "chapterId": "WORLD-HIST",
-    "topicId": "WORLD-HIST-WORLD_HISTORY"
+    "topicId": "TOP-WORLD-HIST"
   },
   {
     "id": "DQ-0444",
@@ -985,7 +985,7 @@
     },
     "subjectId": "WORLD-HIST",
     "chapterId": "WORLD-HIST",
-    "topicId": "WORLD-HIST-WORLD_HISTORY"
+    "topicId": "TOP-WORLD-HIST"
   },
   {
     "id": "DQ-0445",
@@ -1023,7 +1023,7 @@
     },
     "subjectId": "WORLD-HIST",
     "chapterId": "WORLD-HIST",
-    "topicId": "WORLD-HIST-WORLD_HISTORY"
+    "topicId": "TOP-WORLD-HIST"
   },
   {
     "id": "DQ-0446",
@@ -1061,7 +1061,7 @@
     },
     "subjectId": "WORLD-HIST",
     "chapterId": "WORLD-HIST",
-    "topicId": "WORLD-HIST-WORLD_HISTORY"
+    "topicId": "TOP-WORLD-HIST"
   },
   {
     "id": "DQ-0447",
@@ -1099,7 +1099,7 @@
     },
     "subjectId": "IND-SPACE",
     "chapterId": "IND-SPACE",
-    "topicId": "IND-SPACE-INDIA_SPACE"
+    "topicId": "TOP-IND-SPACE"
   },
   {
     "id": "DQ-0448",
@@ -1137,7 +1137,7 @@
     },
     "subjectId": "IND-SPACE",
     "chapterId": "IND-SPACE",
-    "topicId": "IND-SPACE-INDIA_SPACE"
+    "topicId": "TOP-IND-SPACE"
   },
   {
     "id": "DQ-0449",
@@ -1175,7 +1175,7 @@
     },
     "subjectId": "IND-SPACE",
     "chapterId": "IND-SPACE",
-    "topicId": "IND-SPACE-INDIA_SPACE"
+    "topicId": "TOP-IND-SPACE"
   },
   {
     "id": "DQ-0450",
@@ -1213,7 +1213,7 @@
     },
     "subjectId": "IND-SPACE",
     "chapterId": "IND-SPACE",
-    "topicId": "IND-SPACE-INDIA_SPACE"
+    "topicId": "TOP-IND-SPACE"
   },
   {
     "id": "DQ-0451",
@@ -1251,7 +1251,7 @@
     },
     "subjectId": "IND-SPACE",
     "chapterId": "IND-SPACE",
-    "topicId": "IND-SPACE-INDIA_SPACE"
+    "topicId": "TOP-IND-SPACE"
   },
   {
     "id": "DQ-0452",
@@ -1289,7 +1289,7 @@
     },
     "subjectId": "IND-SPACE",
     "chapterId": "IND-SPACE",
-    "topicId": "IND-SPACE-INDIA_SPACE"
+    "topicId": "TOP-IND-SPACE"
   },
   {
     "id": "DQ-0453",
@@ -1327,7 +1327,7 @@
     },
     "subjectId": "AWARDS",
     "chapterId": "AWARDS",
-    "topicId": "AWARDS-AWARDS"
+    "topicId": "TOP-AWARDS"
   },
   {
     "id": "DQ-0454",
@@ -1365,7 +1365,7 @@
     },
     "subjectId": "AWARDS",
     "chapterId": "AWARDS",
-    "topicId": "AWARDS-AWARDS"
+    "topicId": "TOP-AWARDS"
   },
   {
     "id": "DQ-0455",
@@ -1403,7 +1403,7 @@
     },
     "subjectId": "AWARDS",
     "chapterId": "AWARDS",
-    "topicId": "AWARDS-AWARDS"
+    "topicId": "TOP-AWARDS"
   },
   {
     "id": "DQ-0456",
@@ -1441,7 +1441,7 @@
     },
     "subjectId": "AWARDS",
     "chapterId": "AWARDS",
-    "topicId": "AWARDS-AWARDS"
+    "topicId": "TOP-AWARDS"
   },
   {
     "id": "DQ-0457",
@@ -1479,7 +1479,7 @@
     },
     "subjectId": "AWARDS",
     "chapterId": "AWARDS",
-    "topicId": "AWARDS-AWARDS"
+    "topicId": "TOP-AWARDS"
   },
   {
     "id": "DQ-0458",
@@ -1517,6 +1517,6 @@
     },
     "subjectId": "AWARDS",
     "chapterId": "AWARDS",
-    "topicId": "AWARDS-AWARDS"
+    "topicId": "TOP-AWARDS"
   }
 ]

@@ -35,7 +35,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIA_SYMBOLS"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0300",
@@ -73,7 +73,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIA_SYMBOLS"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0301",
@@ -111,7 +111,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIA_SYMBOLS"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0302",
@@ -149,7 +149,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIA_SYMBOLS"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0303",
@@ -187,7 +187,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIA_SYMBOLS"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0304",
@@ -225,7 +225,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIA_SYMBOLS"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0305",
@@ -263,7 +263,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIA_SYMBOLS"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0306",
@@ -301,7 +301,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIA_POLITY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0307",
@@ -339,7 +339,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIA_POLITY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0308",
@@ -377,7 +377,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIA_JUDICIARY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0309",
@@ -415,7 +415,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIA_POLITY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0310",
@@ -453,7 +453,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIA_AWARDS"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0311",
@@ -491,7 +491,7 @@
     },
     "subjectId": "IND-SPACE",
     "chapterId": "IND-SPACE",
-    "topicId": "IND-SPACE-INDIA_SPACE"
+    "topicId": "TOP-IND-SPACE"
   },
   {
     "id": "DQ-0312",
@@ -529,7 +529,7 @@
     },
     "subjectId": "IND-SPACE",
     "chapterId": "IND-SPACE",
-    "topicId": "IND-SPACE-INDIA_SPACE"
+    "topicId": "TOP-IND-SPACE"
   },
   {
     "id": "DQ-0313",
@@ -567,7 +567,7 @@
     },
     "subjectId": "SPORT",
     "chapterId": "SPORT",
-    "topicId": "SPORT-INDIA_SPORT"
+    "topicId": "TOP-SPORT"
   },
   {
     "id": "DQ-0314",
@@ -605,7 +605,7 @@
     },
     "subjectId": "IND-ECON",
     "chapterId": "IND-ECON",
-    "topicId": "IND-ECON-INDIA_BANKING"
+    "topicId": "TOP-IND-ECON"
   },
   {
     "id": "DQ-0315",
@@ -643,7 +643,7 @@
     },
     "subjectId": "IND-ECON",
     "chapterId": "IND-ECON",
-    "topicId": "IND-ECON-INDIA_BANKING"
+    "topicId": "TOP-IND-ECON"
   },
   {
     "id": "DQ-0316",
@@ -681,7 +681,7 @@
     },
     "subjectId": "IND-ECON",
     "chapterId": "IND-ECON",
-    "topicId": "IND-ECON-INDIA_ECONOMY"
+    "topicId": "TOP-IND-ECON"
   },
   {
     "id": "DQ-0317",
@@ -719,7 +719,7 @@
     },
     "subjectId": "IND-ECON",
     "chapterId": "IND-ECON",
-    "topicId": "IND-ECON-INDIA_ECONOMY"
+    "topicId": "TOP-IND-ECON"
   },
   {
     "id": "DQ-0318",
@@ -757,7 +757,7 @@
     },
     "subjectId": "IND-ECON",
     "chapterId": "IND-ECON",
-    "topicId": "IND-ECON-INDIA_ECONOMY"
+    "topicId": "TOP-IND-ECON"
   },
   {
     "id": "DQ-0319",
@@ -795,7 +795,7 @@
     },
     "subjectId": "IND-ECON",
     "chapterId": "IND-ECON",
-    "topicId": "IND-ECON-INDIA_ECONOMY"
+    "topicId": "TOP-IND-ECON"
   },
   {
     "id": "DQ-0320",
@@ -833,7 +833,7 @@
     },
     "subjectId": "IND-ECON",
     "chapterId": "IND-ECON",
-    "topicId": "IND-ECON-INDIA_ECONOMY"
+    "topicId": "TOP-IND-ECON"
   },
   {
     "id": "DQ-0321",
@@ -871,7 +871,7 @@
     },
     "subjectId": "IND-ECON",
     "chapterId": "IND-ECON",
-    "topicId": "IND-ECON-INDIA_ECONOMY"
+    "topicId": "TOP-IND-ECON"
   },
   {
     "id": "DQ-0322",
@@ -909,7 +909,7 @@
     },
     "subjectId": "IND-ECON",
     "chapterId": "IND-ECON",
-    "topicId": "IND-ECON-INDIA_ECONOMY"
+    "topicId": "TOP-IND-ECON"
   },
   {
     "id": "DQ-0323",
@@ -947,7 +947,7 @@
     },
     "subjectId": "WORLD-BODIES",
     "chapterId": "WORLD-BODIES",
-    "topicId": "WORLD-BODIES-NEIGHBOURHOOD"
+    "topicId": "TOP-WORLD-BODIES"
   },
   {
     "id": "DQ-0324",
@@ -985,7 +985,7 @@
     },
     "subjectId": "WORLD-BODIES",
     "chapterId": "WORLD-BODIES",
-    "topicId": "WORLD-BODIES-NEIGHBOURHOOD"
+    "topicId": "TOP-WORLD-BODIES"
   },
   {
     "id": "DQ-0325",
@@ -1023,7 +1023,7 @@
     },
     "subjectId": "WORLD-BODIES",
     "chapterId": "WORLD-BODIES",
-    "topicId": "WORLD-BODIES-NEIGHBOURHOOD"
+    "topicId": "TOP-WORLD-BODIES"
   },
   {
     "id": "DQ-0326",
@@ -1061,7 +1061,7 @@
     },
     "subjectId": "WORLD-BODIES",
     "chapterId": "WORLD-BODIES",
-    "topicId": "WORLD-BODIES-NEIGHBOURHOOD"
+    "topicId": "TOP-WORLD-BODIES"
   },
   {
     "id": "DQ-0327",
@@ -1099,7 +1099,7 @@
     },
     "subjectId": "WORLD-BODIES",
     "chapterId": "WORLD-BODIES",
-    "topicId": "WORLD-BODIES-NEIGHBOURHOOD"
+    "topicId": "TOP-WORLD-BODIES"
   },
   {
     "id": "DQ-0328",
@@ -1137,7 +1137,7 @@
     },
     "subjectId": "WORLD-BODIES",
     "chapterId": "WORLD-BODIES",
-    "topicId": "WORLD-BODIES-NEIGHBOURHOOD"
+    "topicId": "TOP-WORLD-BODIES"
   },
   {
     "id": "DQ-0329",
@@ -1175,7 +1175,7 @@
     },
     "subjectId": "IND-ECON",
     "chapterId": "IND-ECON",
-    "topicId": "IND-ECON-CURRENCIES"
+    "topicId": "TOP-IND-ECON"
   },
   {
     "id": "DQ-0330",
@@ -1213,7 +1213,7 @@
     },
     "subjectId": "IND-ECON",
     "chapterId": "IND-ECON",
-    "topicId": "IND-ECON-CURRENCIES"
+    "topicId": "TOP-IND-ECON"
   },
   {
     "id": "DQ-0331",
@@ -1251,7 +1251,7 @@
     },
     "subjectId": "IND-ECON",
     "chapterId": "IND-ECON",
-    "topicId": "IND-ECON-CURRENCIES"
+    "topicId": "TOP-IND-ECON"
   },
   {
     "id": "DQ-0332",
@@ -1289,7 +1289,7 @@
     },
     "subjectId": "IND-GEO",
     "chapterId": "IND-GEO",
-    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
+    "topicId": "TOP-IND-GEO"
   },
   {
     "id": "DQ-0333",
@@ -1327,7 +1327,7 @@
     },
     "subjectId": "IND-GEO",
     "chapterId": "IND-GEO",
-    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
+    "topicId": "TOP-IND-GEO"
   },
   {
     "id": "DQ-0334",
@@ -1365,7 +1365,7 @@
     },
     "subjectId": "IND-GEO",
     "chapterId": "IND-GEO",
-    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
+    "topicId": "TOP-IND-GEO"
   },
   {
     "id": "DQ-0335",
@@ -1403,7 +1403,7 @@
     },
     "subjectId": "IND-GEO",
     "chapterId": "IND-GEO",
-    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
+    "topicId": "TOP-IND-GEO"
   },
   {
     "id": "DQ-0336",
@@ -1441,7 +1441,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIAN_POLITY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0337",
@@ -1479,7 +1479,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIAN_POLITY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0338",
@@ -1517,6 +1517,6 @@
     },
     "subjectId": "ENV",
     "chapterId": "ENV",
-    "topicId": "ENV-ENVIRONMENT"
+    "topicId": "TOP-ENV"
   }
 ]

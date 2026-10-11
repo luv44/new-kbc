@@ -35,7 +35,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-COMPUTING"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0104",
@@ -73,7 +73,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-COMPUTING"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0105",
@@ -111,7 +111,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-COMPUTING"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0106",
@@ -149,7 +149,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-COMPUTING"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0107",
@@ -187,7 +187,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-COMPUTING"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0108",
@@ -225,7 +225,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-CYBERSECURITY"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0109",
@@ -263,7 +263,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-CYBERSECURITY"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0110",
@@ -301,7 +301,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-CYBERSECURITY"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0111",
@@ -339,7 +339,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-CYBERSECURITY"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0112",
@@ -377,7 +377,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-CYBERSECURITY"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0113",
@@ -415,7 +415,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-WEATHER"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0114",
@@ -453,7 +453,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-WEATHER"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0115",
@@ -491,7 +491,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-WEATHER"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0116",
@@ -529,7 +529,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-WEATHER"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0117",
@@ -567,7 +567,7 @@
     },
     "subjectId": "SCI-BIO",
     "chapterId": "SCI-BIO",
-    "topicId": "SCI-BIO-HEALTH"
+    "topicId": "TOP-SCI-BIO"
   },
   {
     "id": "DQ-0118",
@@ -605,7 +605,7 @@
     },
     "subjectId": "SCI-BIO",
     "chapterId": "SCI-BIO",
-    "topicId": "SCI-BIO-HEALTH"
+    "topicId": "TOP-SCI-BIO"
   },
   {
     "id": "DQ-0119",
@@ -644,7 +644,7 @@
     },
     "subjectId": "SCI-BIO",
     "chapterId": "SCI-BIO",
-    "topicId": "SCI-BIO-HEALTH"
+    "topicId": "TOP-SCI-BIO"
   },
   {
     "id": "DQ-0120",
@@ -682,7 +682,7 @@
     },
     "subjectId": "SCI-BIO",
     "chapterId": "SCI-BIO",
-    "topicId": "SCI-BIO-HEALTH"
+    "topicId": "TOP-SCI-BIO"
   },
   {
     "id": "DQ-0121",
@@ -720,7 +720,7 @@
     },
     "subjectId": "SPORT",
     "chapterId": "SPORT",
-    "topicId": "SPORT-CHESS"
+    "topicId": "TOP-SPORT"
   },
   {
     "id": "DQ-0122",
@@ -758,7 +758,7 @@
     },
     "subjectId": "SPORT",
     "chapterId": "SPORT",
-    "topicId": "SPORT-CHESS"
+    "topicId": "TOP-SPORT"
   },
   {
     "id": "DQ-0123",
@@ -796,7 +796,7 @@
     },
     "subjectId": "SPORT",
     "chapterId": "SPORT",
-    "topicId": "SPORT-CHESS"
+    "topicId": "TOP-SPORT"
   },
   {
     "id": "DQ-0124",
@@ -834,7 +834,7 @@
     },
     "subjectId": "SPORT",
     "chapterId": "SPORT",
-    "topicId": "SPORT-CHESS"
+    "topicId": "TOP-SPORT"
   },
   {
     "id": "DQ-0125",
@@ -872,7 +872,7 @@
     },
     "subjectId": "SPORT",
     "chapterId": "SPORT",
-    "topicId": "SPORT-CHESS"
+    "topicId": "TOP-SPORT"
   },
   {
     "id": "DQ-0126",
@@ -910,7 +910,7 @@
     },
     "subjectId": "SPORT",
     "chapterId": "SPORT",
-    "topicId": "SPORT-CHESS"
+    "topicId": "TOP-SPORT"
   },
   {
     "id": "DQ-0127",
@@ -948,7 +948,7 @@
     },
     "subjectId": "ART-CULT",
     "chapterId": "ART-CULT",
-    "topicId": "ART-CULT-CINEMA"
+    "topicId": "TOP-ART-CULT"
   },
   {
     "id": "DQ-0128",
@@ -986,7 +986,7 @@
     },
     "subjectId": "ART-CULT",
     "chapterId": "ART-CULT",
-    "topicId": "ART-CULT-CINEMA"
+    "topicId": "TOP-ART-CULT"
   },
   {
     "id": "DQ-0129",
@@ -1024,7 +1024,7 @@
     },
     "subjectId": "ART-CULT",
     "chapterId": "ART-CULT",
-    "topicId": "ART-CULT-CULTURE"
+    "topicId": "TOP-ART-CULT"
   },
   {
     "id": "DQ-0130",
@@ -1062,7 +1062,7 @@
     },
     "subjectId": "ART-CULT",
     "chapterId": "ART-CULT",
-    "topicId": "ART-CULT-CULTURE"
+    "topicId": "TOP-ART-CULT"
   },
   {
     "id": "DQ-0131",
@@ -1100,7 +1100,7 @@
     },
     "subjectId": "ART-CULT",
     "chapterId": "ART-CULT",
-    "topicId": "ART-CULT-CULTURE"
+    "topicId": "TOP-ART-CULT"
   },
   {
     "id": "DQ-0132",
@@ -1138,7 +1138,7 @@
     },
     "subjectId": "ART-CULT",
     "chapterId": "ART-CULT",
-    "topicId": "ART-CULT-CULTURE"
+    "topicId": "TOP-ART-CULT"
   },
   {
     "id": "DQ-0133",
@@ -1176,7 +1176,7 @@
     },
     "subjectId": "ART-CULT",
     "chapterId": "ART-CULT",
-    "topicId": "ART-CULT-CULTURE"
+    "topicId": "TOP-ART-CULT"
   },
   {
     "id": "DQ-0134",
@@ -1214,7 +1214,7 @@
     },
     "subjectId": "SCI-BIO",
     "chapterId": "SCI-BIO",
-    "topicId": "SCI-BIO-HEALTH"
+    "topicId": "TOP-SCI-BIO"
   },
   {
     "id": "DQ-0135",
@@ -1252,7 +1252,7 @@
     },
     "subjectId": "SCI-BIO",
     "chapterId": "SCI-BIO",
-    "topicId": "SCI-BIO-HEALTH"
+    "topicId": "TOP-SCI-BIO"
   },
   {
     "id": "DQ-0136",
@@ -1290,7 +1290,7 @@
     },
     "subjectId": "SCI-BIO",
     "chapterId": "SCI-BIO",
-    "topicId": "SCI-BIO-HEALTH"
+    "topicId": "TOP-SCI-BIO"
   },
   {
     "id": "DQ-0137",
@@ -1328,7 +1328,7 @@
     },
     "subjectId": "SCI-BIO",
     "chapterId": "SCI-BIO",
-    "topicId": "SCI-BIO-HEALTH"
+    "topicId": "TOP-SCI-BIO"
   },
   {
     "id": "DQ-0138",
@@ -1367,6 +1367,6 @@
     },
     "subjectId": "WORLD-BODIES",
     "chapterId": "WORLD-BODIES",
-    "topicId": "WORLD-BODIES-GLOBAL_INSTITUTIONS"
+    "topicId": "TOP-WORLD-BODIES"
   }
 ]

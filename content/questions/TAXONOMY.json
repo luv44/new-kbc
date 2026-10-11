@@ -13,180 +13,256 @@
    "id": "IND-POLITY",
    "title": "Indian polity & governance",
    "topics": [
-    "IND-POLITY-INDIAN_POLITY",
-    "IND-POLITY-INDIA_AWARDS",
-    "IND-POLITY-INDIA_JUDICIARY",
-    "IND-POLITY-INDIA_POLITY",
-    "IND-POLITY-INDIA_SYMBOLS",
-    "IND-POLITY-OBSERVANCES"
+    "TOP-IND-POLITY"
    ],
-   "questionCount": 78
+   "questionCount": 78,
+   "subtopics": [
+    "India — awards",
+    "India — judiciary",
+    "India — polity",
+    "India — symbols",
+    "Indian polity",
+    "Observances"
+   ],
+   "gapTo50": 0
   },
   {
    "id": "WORLD-BODIES",
    "title": "World bodies & finance",
    "topics": [
-    "WORLD-BODIES-GLOBAL_FINANCE",
-    "WORLD-BODIES-GLOBAL_INSTITUTIONS",
-    "WORLD-BODIES-NEIGHBOURHOOD",
-    "WORLD-BODIES-UNITED_NATIONS",
-    "WORLD-BODIES-WORLD_BODIES"
+    "TOP-WORLD-BODIES"
    ],
-   "questionCount": 55
+   "questionCount": 55,
+   "subtopics": [
+    "Global finance",
+    "Global institutions",
+    "Neighbourhood",
+    "United Nations",
+    "World bodies"
+   ],
+   "gapTo50": 0
   },
   {
    "id": "WORLD-GEO",
    "title": "World geography & heritage",
    "topics": [
-    "WORLD-GEO-MONUMENTS",
-    "WORLD-GEO-NATURE",
-    "WORLD-GEO-OCEAN",
-    "WORLD-GEO-WORLD_GEOGRAPHY",
-    "WORLD-GEO-WORLD_HERITAGE"
+    "TOP-WORLD-GEO"
    ],
-   "questionCount": 55
+   "questionCount": 55,
+   "subtopics": [
+    "Monuments",
+    "Nature",
+    "Ocean",
+    "World geography",
+    "World heritage"
+   ],
+   "gapTo50": 0
   },
   {
    "id": "SCI-BIO",
    "title": "Biology, body & health",
    "topics": [
-    "SCI-BIO-BIOLOGY",
-    "SCI-BIO-HEALTH",
-    "SCI-BIO-HUMAN_BODY"
+    "TOP-SCI-BIO"
    ],
-   "questionCount": 39
+   "questionCount": 39,
+   "subtopics": [
+    "Biology",
+    "Health",
+    "Human body"
+   ],
+   "gapTo50": 11
   },
   {
    "id": "SCI-TECH",
    "title": "Computing & instruments",
    "topics": [
-    "SCI-TECH-COMPUTING",
-    "SCI-TECH-CYBERSECURITY",
-    "SCI-TECH-INSTRUMENTS",
-    "SCI-TECH-WEATHER"
+    "TOP-SCI-TECH"
    ],
-   "questionCount": 34
+   "questionCount": 34,
+   "subtopics": [
+    "Computing",
+    "Cybersecurity",
+    "Instruments",
+    "Weather"
+   ],
+   "gapTo50": 16
   },
   {
    "id": "IND-GEO",
    "title": "Indian geography",
    "topics": [
-    "IND-GEO-INDIAN_GEOGRAPHY",
-    "IND-GEO-TIME_AND_STANDARDS"
+    "TOP-IND-GEO"
    ],
-   "questionCount": 33
+   "questionCount": 33,
+   "subtopics": [
+    "Indian geography",
+    "Time and standards"
+   ],
+   "gapTo50": 17
   },
   {
    "id": "SPORT",
    "title": "Sport & games",
    "topics": [
-    "SPORT-CHESS",
-    "SPORT-INDIA_SPORT",
-    "SPORT-SPORT"
+    "TOP-SPORT"
    ],
-   "questionCount": 32
+   "questionCount": 32,
+   "subtopics": [
+    "Chess",
+    "India — sport",
+    "Sport"
+   ],
+   "gapTo50": 18
   },
   {
    "id": "IND-ECON",
    "title": "Indian economy & currency",
    "topics": [
-    "IND-ECON-CURRENCIES",
-    "IND-ECON-CURRENCY",
-    "IND-ECON-INDIA_BANKING",
-    "IND-ECON-INDIA_ECONOMY"
+    "TOP-IND-ECON"
    ],
-   "questionCount": 31
+   "questionCount": 31,
+   "subtopics": [
+    "Currencies",
+    "Currency",
+    "India — banking",
+    "India — economy"
+   ],
+   "gapTo50": 19
   },
   {
    "id": "SCI-CHEM",
    "title": "Chemistry",
    "topics": [
-    "SCI-CHEM-CHEMISTRY"
+    "TOP-SCI-CHEM"
    ],
-   "questionCount": 30
+   "questionCount": 30,
+   "subtopics": [
+    "Chemistry"
+   ],
+   "gapTo50": 20
   },
   {
    "id": "SCI-PHYS",
    "title": "Physics & measurement",
    "topics": [
-    "SCI-PHYS-PHYSICS",
-    "SCI-PHYS-UNITS"
+    "TOP-SCI-PHYS"
    ],
-   "questionCount": 27
+   "questionCount": 27,
+   "subtopics": [
+    "Physics",
+    "Units"
+   ],
+   "gapTo50": 23
   },
   {
    "id": "ART-CULT",
    "title": "Art, culture & literature",
    "topics": [
-    "ART-CULT-ART",
-    "ART-CULT-CINEMA",
-    "ART-CULT-CULTURE",
-    "ART-CULT-LITERATURE"
+    "TOP-ART-CULT"
    ],
-   "questionCount": 27
+   "questionCount": 27,
+   "subtopics": [
+    "Art",
+    "Cinema",
+    "Culture",
+    "Literature"
+   ],
+   "gapTo50": 23
   },
   {
    "id": "SCI-SPACE",
    "title": "Astronomy & spaceflight",
    "topics": [
-    "SCI-SPACE-ASTRONOMY",
-    "SCI-SPACE-SPACE"
+    "TOP-SCI-SPACE"
    ],
-   "questionCount": 25
+   "questionCount": 25,
+   "subtopics": [
+    "Astronomy",
+    "Space"
+   ],
+   "gapTo50": 25
   },
   {
    "id": "IND-HIST",
    "title": "Indian & general history",
    "topics": [
-    "IND-HIST-HISTORY",
-    "IND-HIST-INDIAN_HISTORY"
+    "TOP-IND-HIST"
    ],
-   "questionCount": 23
+   "questionCount": 23,
+   "subtopics": [
+    "History",
+    "Indian history"
+   ],
+   "gapTo50": 27
   },
   {
    "id": "ENV",
    "title": "Environment",
    "topics": [
-    "ENV-ENVIRONMENT"
+    "TOP-ENV"
    ],
-   "questionCount": 21
+   "questionCount": 21,
+   "subtopics": [
+    "Environment"
+   ],
+   "gapTo50": 29
   },
   {
    "id": "IND-SPACE",
    "title": "India in space",
    "topics": [
-    "IND-SPACE-INDIA_SPACE"
+    "TOP-IND-SPACE"
    ],
-   "questionCount": 19
+   "questionCount": 19,
+   "subtopics": [
+    "India — space"
+   ],
+   "gapTo50": 31
   },
   {
    "id": "SCI-HIST",
    "title": "History of science",
    "topics": [
-    "SCI-HIST-SCIENCE_HISTORY"
+    "TOP-SCI-HIST"
    ],
-   "questionCount": 19
+   "questionCount": 19,
+   "subtopics": [
+    "Science history"
+   ],
+   "gapTo50": 31
   },
   {
    "id": "WORLD-HIST",
    "title": "World history",
    "topics": [
-    "WORLD-HIST-WORLD_HISTORY"
+    "TOP-WORLD-HIST"
    ],
-   "questionCount": 15
+   "questionCount": 15,
+   "subtopics": [
+    "World history"
+   ],
+   "gapTo50": 35
   },
   {
    "id": "AWARDS",
    "title": "Awards & honours",
    "topics": [
-    "AWARDS-AWARDS"
+    "TOP-AWARDS"
    ],
-   "questionCount": 15
+   "questionCount": 15,
+   "subtopics": [
+    "Awards"
+   ],
+   "gapTo50": 35
   }
  ],
  "totals": {
   "questions": 578,
   "subjects": 18,
-  "topics": 48
- }
+  "topics": 18,
+  "targetPerTopic": 50,
+  "targetTotal": 900,
+  "stillNeeded": 360
+ },
+ "topicGranularity": "CONSOLIDATED_TO_SUBJECT_LEVEL — 48 authoring categories were merged into one topic per subject so that a 50-question-per-topic target is reachable. The fine grouping is preserved verbatim in each question's `category` field and in git history."
 }

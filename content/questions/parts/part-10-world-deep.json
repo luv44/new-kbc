@@ -35,7 +35,7 @@
     },
     "subjectId": "WORLD-HIST",
     "chapterId": "WORLD-HIST",
-    "topicId": "WORLD-HIST-WORLD_HISTORY"
+    "topicId": "TOP-WORLD-HIST"
   },
   {
     "id": "DQ-0340",
@@ -73,7 +73,7 @@
     },
     "subjectId": "WORLD-HIST",
     "chapterId": "WORLD-HIST",
-    "topicId": "WORLD-HIST-WORLD_HISTORY"
+    "topicId": "TOP-WORLD-HIST"
   },
   {
     "id": "DQ-0341",
@@ -111,7 +111,7 @@
     },
     "subjectId": "WORLD-HIST",
     "chapterId": "WORLD-HIST",
-    "topicId": "WORLD-HIST-WORLD_HISTORY"
+    "topicId": "TOP-WORLD-HIST"
   },
   {
     "id": "DQ-0342",
@@ -149,7 +149,7 @@
     },
     "subjectId": "WORLD-HIST",
     "chapterId": "WORLD-HIST",
-    "topicId": "WORLD-HIST-WORLD_HISTORY"
+    "topicId": "TOP-WORLD-HIST"
   },
   {
     "id": "DQ-0343",
@@ -187,7 +187,7 @@
     },
     "subjectId": "WORLD-HIST",
     "chapterId": "WORLD-HIST",
-    "topicId": "WORLD-HIST-WORLD_HISTORY"
+    "topicId": "TOP-WORLD-HIST"
   },
   {
     "id": "DQ-0344",
@@ -225,7 +225,7 @@
     },
     "subjectId": "WORLD-HIST",
     "chapterId": "WORLD-HIST",
-    "topicId": "WORLD-HIST-WORLD_HISTORY"
+    "topicId": "TOP-WORLD-HIST"
   },
   {
     "id": "DQ-0345",
@@ -263,7 +263,7 @@
     },
     "subjectId": "WORLD-HIST",
     "chapterId": "WORLD-HIST",
-    "topicId": "WORLD-HIST-WORLD_HISTORY"
+    "topicId": "TOP-WORLD-HIST"
   },
   {
     "id": "DQ-0346",
@@ -301,7 +301,7 @@
     },
     "subjectId": "WORLD-HIST",
     "chapterId": "WORLD-HIST",
-    "topicId": "WORLD-HIST-WORLD_HISTORY"
+    "topicId": "TOP-WORLD-HIST"
   },
   {
     "id": "DQ-0347",
@@ -339,7 +339,7 @@
     },
     "subjectId": "WORLD-HIST",
     "chapterId": "WORLD-HIST",
-    "topicId": "WORLD-HIST-WORLD_HISTORY"
+    "topicId": "TOP-WORLD-HIST"
   },
   {
     "id": "DQ-0348",
@@ -377,7 +377,7 @@
     },
     "subjectId": "ART-CULT",
     "chapterId": "ART-CULT",
-    "topicId": "ART-CULT-ART"
+    "topicId": "TOP-ART-CULT"
   },
   {
     "id": "DQ-0349",
@@ -415,7 +415,7 @@
     },
     "subjectId": "ART-CULT",
     "chapterId": "ART-CULT",
-    "topicId": "ART-CULT-ART"
+    "topicId": "TOP-ART-CULT"
   },
   {
     "id": "DQ-0350",
@@ -453,7 +453,7 @@
     },
     "subjectId": "ART-CULT",
     "chapterId": "ART-CULT",
-    "topicId": "ART-CULT-LITERATURE"
+    "topicId": "TOP-ART-CULT"
   },
   {
     "id": "DQ-0351",
@@ -491,7 +491,7 @@
     },
     "subjectId": "ART-CULT",
     "chapterId": "ART-CULT",
-    "topicId": "ART-CULT-LITERATURE"
+    "topicId": "TOP-ART-CULT"
   },
   {
     "id": "DQ-0352",
@@ -529,7 +529,7 @@
     },
     "subjectId": "ART-CULT",
     "chapterId": "ART-CULT",
-    "topicId": "ART-CULT-LITERATURE"
+    "topicId": "TOP-ART-CULT"
   },
   {
     "id": "DQ-0353",
@@ -567,7 +567,7 @@
     },
     "subjectId": "WORLD-GEO",
     "chapterId": "WORLD-GEO",
-    "topicId": "WORLD-GEO-MONUMENTS"
+    "topicId": "TOP-WORLD-GEO"
   },
   {
     "id": "DQ-0354",
@@ -605,7 +605,7 @@
     },
     "subjectId": "WORLD-GEO",
     "chapterId": "WORLD-GEO",
-    "topicId": "WORLD-GEO-MONUMENTS"
+    "topicId": "TOP-WORLD-GEO"
   },
   {
     "id": "DQ-0355",
@@ -643,7 +643,7 @@
     },
     "subjectId": "WORLD-GEO",
     "chapterId": "WORLD-GEO",
-    "topicId": "WORLD-GEO-MONUMENTS"
+    "topicId": "TOP-WORLD-GEO"
   },
   {
     "id": "DQ-0356",
@@ -681,7 +681,7 @@
     },
     "subjectId": "WORLD-GEO",
     "chapterId": "WORLD-GEO",
-    "topicId": "WORLD-GEO-MONUMENTS"
+    "topicId": "TOP-WORLD-GEO"
   },
   {
     "id": "DQ-0357",
@@ -719,7 +719,7 @@
     },
     "subjectId": "WORLD-GEO",
     "chapterId": "WORLD-GEO",
-    "topicId": "WORLD-GEO-NATURE"
+    "topicId": "TOP-WORLD-GEO"
   },
   {
     "id": "DQ-0358",
@@ -757,7 +757,7 @@
     },
     "subjectId": "WORLD-GEO",
     "chapterId": "WORLD-GEO",
-    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
+    "topicId": "TOP-WORLD-GEO"
   },
   {
     "id": "DQ-0359",
@@ -795,7 +795,7 @@
     },
     "subjectId": "WORLD-GEO",
     "chapterId": "WORLD-GEO",
-    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
+    "topicId": "TOP-WORLD-GEO"
   },
   {
     "id": "DQ-0360",
@@ -833,7 +833,7 @@
     },
     "subjectId": "WORLD-GEO",
     "chapterId": "WORLD-GEO",
-    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
+    "topicId": "TOP-WORLD-GEO"
   },
   {
     "id": "DQ-0361",
@@ -871,7 +871,7 @@
     },
     "subjectId": "WORLD-GEO",
     "chapterId": "WORLD-GEO",
-    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
+    "topicId": "TOP-WORLD-GEO"
   },
   {
     "id": "DQ-0362",
@@ -909,7 +909,7 @@
     },
     "subjectId": "WORLD-GEO",
     "chapterId": "WORLD-GEO",
-    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
+    "topicId": "TOP-WORLD-GEO"
   },
   {
     "id": "DQ-0363",
@@ -947,7 +947,7 @@
     },
     "subjectId": "ENV",
     "chapterId": "ENV",
-    "topicId": "ENV-ENVIRONMENT"
+    "topicId": "TOP-ENV"
   },
   {
     "id": "DQ-0364",
@@ -985,7 +985,7 @@
     },
     "subjectId": "ENV",
     "chapterId": "ENV",
-    "topicId": "ENV-ENVIRONMENT"
+    "topicId": "TOP-ENV"
   },
   {
     "id": "DQ-0365",
@@ -1023,7 +1023,7 @@
     },
     "subjectId": "ENV",
     "chapterId": "ENV",
-    "topicId": "ENV-ENVIRONMENT"
+    "topicId": "TOP-ENV"
   },
   {
     "id": "DQ-0366",
@@ -1061,7 +1061,7 @@
     },
     "subjectId": "ENV",
     "chapterId": "ENV",
-    "topicId": "ENV-ENVIRONMENT"
+    "topicId": "TOP-ENV"
   },
   {
     "id": "DQ-0367",
@@ -1099,7 +1099,7 @@
     },
     "subjectId": "ENV",
     "chapterId": "ENV",
-    "topicId": "ENV-ENVIRONMENT"
+    "topicId": "TOP-ENV"
   },
   {
     "id": "DQ-0368",
@@ -1137,7 +1137,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-OBSERVANCES"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0369",
@@ -1175,7 +1175,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-OBSERVANCES"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0370",
@@ -1213,7 +1213,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-OBSERVANCES"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0371",
@@ -1251,7 +1251,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-OBSERVANCES"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0372",
@@ -1289,7 +1289,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-OBSERVANCES"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0373",
@@ -1327,7 +1327,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-OBSERVANCES"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0374",
@@ -1365,7 +1365,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-OBSERVANCES"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0375",
@@ -1403,7 +1403,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-OBSERVANCES"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0376",
@@ -1441,7 +1441,7 @@
     },
     "subjectId": "WORLD-GEO",
     "chapterId": "WORLD-GEO",
-    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
+    "topicId": "TOP-WORLD-GEO"
   },
   {
     "id": "DQ-0377",
@@ -1479,7 +1479,7 @@
     },
     "subjectId": "WORLD-GEO",
     "chapterId": "WORLD-GEO",
-    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
+    "topicId": "TOP-WORLD-GEO"
   },
   {
     "id": "DQ-0378",
@@ -1517,6 +1517,6 @@
     },
     "subjectId": "WORLD-GEO",
     "chapterId": "WORLD-GEO",
-    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
+    "topicId": "TOP-WORLD-GEO"
   }
 ]

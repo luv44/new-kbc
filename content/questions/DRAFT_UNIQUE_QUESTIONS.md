@@ -1,6 +1,6 @@
 # Draft question bank — unique, meta-word free
 
-Generated 2026-10-11T07:31:06.023Z by `node scripts/question-lint.mjs --write`.
+Generated 2026-10-11T07:34:22.479Z by `node scripts/question-lint.mjs --write`.
 
 - 578 questions, 578 distinct stems, 578 distinct fingerprints
 - Banned meta-language scan: 0 hits

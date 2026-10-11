@@ -35,7 +35,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIAN_POLITY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0037",
@@ -73,7 +73,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIAN_POLITY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0038",
@@ -111,7 +111,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIAN_POLITY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0039",
@@ -149,7 +149,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIAN_POLITY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0040",
@@ -187,7 +187,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIAN_POLITY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0041",
@@ -225,7 +225,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIAN_POLITY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0042",
@@ -263,7 +263,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIAN_POLITY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0043",
@@ -301,7 +301,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIAN_POLITY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0044",
@@ -339,7 +339,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIAN_POLITY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0045",
@@ -377,7 +377,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIAN_POLITY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0046",
@@ -415,7 +415,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIAN_POLITY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0047",
@@ -453,7 +453,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIAN_POLITY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0048",
@@ -491,7 +491,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIAN_POLITY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0049",
@@ -529,7 +529,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIAN_POLITY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0050",
@@ -567,7 +567,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIAN_POLITY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0051",
@@ -605,7 +605,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIAN_POLITY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0052",
@@ -643,7 +643,7 @@
     },
     "subjectId": "IND-GEO",
     "chapterId": "IND-GEO",
-    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
+    "topicId": "TOP-IND-GEO"
   },
   {
     "id": "DQ-0053",
@@ -681,7 +681,7 @@
     },
     "subjectId": "IND-GEO",
     "chapterId": "IND-GEO",
-    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
+    "topicId": "TOP-IND-GEO"
   },
   {
     "id": "DQ-0054",
@@ -719,7 +719,7 @@
     },
     "subjectId": "IND-GEO",
     "chapterId": "IND-GEO",
-    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
+    "topicId": "TOP-IND-GEO"
   },
   {
     "id": "DQ-0055",
@@ -757,7 +757,7 @@
     },
     "subjectId": "IND-GEO",
     "chapterId": "IND-GEO",
-    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
+    "topicId": "TOP-IND-GEO"
   },
   {
     "id": "DQ-0056",
@@ -795,7 +795,7 @@
     },
     "subjectId": "IND-GEO",
     "chapterId": "IND-GEO",
-    "topicId": "IND-GEO-TIME_AND_STANDARDS"
+    "topicId": "TOP-IND-GEO"
   },
   {
     "id": "DQ-0057",
@@ -833,7 +833,7 @@
     },
     "subjectId": "IND-GEO",
     "chapterId": "IND-GEO",
-    "topicId": "IND-GEO-TIME_AND_STANDARDS"
+    "topicId": "TOP-IND-GEO"
   },
   {
     "id": "DQ-0058",
@@ -872,7 +872,7 @@
     },
     "subjectId": "IND-GEO",
     "chapterId": "IND-GEO",
-    "topicId": "IND-GEO-TIME_AND_STANDARDS"
+    "topicId": "TOP-IND-GEO"
   },
   {
     "id": "DQ-0059",
@@ -910,7 +910,7 @@
     },
     "subjectId": "IND-ECON",
     "chapterId": "IND-ECON",
-    "topicId": "IND-ECON-CURRENCY"
+    "topicId": "TOP-IND-ECON"
   },
   {
     "id": "DQ-0060",
@@ -948,7 +948,7 @@
     },
     "subjectId": "IND-ECON",
     "chapterId": "IND-ECON",
-    "topicId": "IND-ECON-CURRENCY"
+    "topicId": "TOP-IND-ECON"
   },
   {
     "id": "DQ-0061",
@@ -986,7 +986,7 @@
     },
     "subjectId": "IND-ECON",
     "chapterId": "IND-ECON",
-    "topicId": "IND-ECON-CURRENCY"
+    "topicId": "TOP-IND-ECON"
   },
   {
     "id": "DQ-0062",
@@ -1024,7 +1024,7 @@
     },
     "subjectId": "IND-ECON",
     "chapterId": "IND-ECON",
-    "topicId": "IND-ECON-CURRENCY"
+    "topicId": "TOP-IND-ECON"
   },
   {
     "id": "DQ-0063",
@@ -1062,7 +1062,7 @@
     },
     "subjectId": "IND-GEO",
     "chapterId": "IND-GEO",
-    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
+    "topicId": "TOP-IND-GEO"
   },
   {
     "id": "DQ-0064",
@@ -1100,7 +1100,7 @@
     },
     "subjectId": "IND-GEO",
     "chapterId": "IND-GEO",
-    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
+    "topicId": "TOP-IND-GEO"
   },
   {
     "id": "DQ-0065",
@@ -1138,7 +1138,7 @@
     },
     "subjectId": "IND-GEO",
     "chapterId": "IND-GEO",
-    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
+    "topicId": "TOP-IND-GEO"
   },
   {
     "id": "DQ-0066",
@@ -1176,7 +1176,7 @@
     },
     "subjectId": "IND-GEO",
     "chapterId": "IND-GEO",
-    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
+    "topicId": "TOP-IND-GEO"
   },
   {
     "id": "DQ-0067",
@@ -1214,6 +1214,6 @@
     },
     "subjectId": "IND-GEO",
     "chapterId": "IND-GEO",
-    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
+    "topicId": "TOP-IND-GEO"
   }
 ]

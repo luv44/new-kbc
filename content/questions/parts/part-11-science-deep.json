@@ -35,7 +35,7 @@
     },
     "subjectId": "SCI-SPACE",
     "chapterId": "SCI-SPACE",
-    "topicId": "SCI-SPACE-ASTRONOMY"
+    "topicId": "TOP-SCI-SPACE"
   },
   {
     "id": "DQ-0380",
@@ -73,7 +73,7 @@
     },
     "subjectId": "SCI-SPACE",
     "chapterId": "SCI-SPACE",
-    "topicId": "SCI-SPACE-ASTRONOMY"
+    "topicId": "TOP-SCI-SPACE"
   },
   {
     "id": "DQ-0381",
@@ -111,7 +111,7 @@
     },
     "subjectId": "SCI-SPACE",
     "chapterId": "SCI-SPACE",
-    "topicId": "SCI-SPACE-ASTRONOMY"
+    "topicId": "TOP-SCI-SPACE"
   },
   {
     "id": "DQ-0382",
@@ -149,7 +149,7 @@
     },
     "subjectId": "SCI-SPACE",
     "chapterId": "SCI-SPACE",
-    "topicId": "SCI-SPACE-SPACE"
+    "topicId": "TOP-SCI-SPACE"
   },
   {
     "id": "DQ-0383",
@@ -187,7 +187,7 @@
     },
     "subjectId": "SCI-SPACE",
     "chapterId": "SCI-SPACE",
-    "topicId": "SCI-SPACE-SPACE"
+    "topicId": "TOP-SCI-SPACE"
   },
   {
     "id": "DQ-0384",
@@ -225,7 +225,7 @@
     },
     "subjectId": "SCI-SPACE",
     "chapterId": "SCI-SPACE",
-    "topicId": "SCI-SPACE-SPACE"
+    "topicId": "TOP-SCI-SPACE"
   },
   {
     "id": "DQ-0385",
@@ -263,7 +263,7 @@
     },
     "subjectId": "IND-SPACE",
     "chapterId": "IND-SPACE",
-    "topicId": "IND-SPACE-INDIA_SPACE"
+    "topicId": "TOP-IND-SPACE"
   },
   {
     "id": "DQ-0386",
@@ -301,7 +301,7 @@
     },
     "subjectId": "IND-SPACE",
     "chapterId": "IND-SPACE",
-    "topicId": "IND-SPACE-INDIA_SPACE"
+    "topicId": "TOP-IND-SPACE"
   },
   {
     "id": "DQ-0387",
@@ -339,7 +339,7 @@
     },
     "subjectId": "IND-SPACE",
     "chapterId": "IND-SPACE",
-    "topicId": "IND-SPACE-INDIA_SPACE"
+    "topicId": "TOP-IND-SPACE"
   },
   {
     "id": "DQ-0388",
@@ -377,7 +377,7 @@
     },
     "subjectId": "IND-SPACE",
     "chapterId": "IND-SPACE",
-    "topicId": "IND-SPACE-INDIA_SPACE"
+    "topicId": "TOP-IND-SPACE"
   },
   {
     "id": "DQ-0389",
@@ -415,7 +415,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-INSTRUMENTS"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0390",
@@ -453,7 +453,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-INSTRUMENTS"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0391",
@@ -491,7 +491,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-INSTRUMENTS"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0392",
@@ -529,7 +529,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-INSTRUMENTS"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0393",
@@ -567,7 +567,7 @@
     },
     "subjectId": "SCI-PHYS",
     "chapterId": "SCI-PHYS",
-    "topicId": "SCI-PHYS-PHYSICS"
+    "topicId": "TOP-SCI-PHYS"
   },
   {
     "id": "DQ-0394",
@@ -605,7 +605,7 @@
     },
     "subjectId": "SCI-PHYS",
     "chapterId": "SCI-PHYS",
-    "topicId": "SCI-PHYS-PHYSICS"
+    "topicId": "TOP-SCI-PHYS"
   },
   {
     "id": "DQ-0395",
@@ -643,7 +643,7 @@
     },
     "subjectId": "SCI-PHYS",
     "chapterId": "SCI-PHYS",
-    "topicId": "SCI-PHYS-PHYSICS"
+    "topicId": "TOP-SCI-PHYS"
   },
   {
     "id": "DQ-0396",
@@ -681,7 +681,7 @@
     },
     "subjectId": "SCI-PHYS",
     "chapterId": "SCI-PHYS",
-    "topicId": "SCI-PHYS-PHYSICS"
+    "topicId": "TOP-SCI-PHYS"
   },
   {
     "id": "DQ-0397",
@@ -719,7 +719,7 @@
     },
     "subjectId": "SCI-PHYS",
     "chapterId": "SCI-PHYS",
-    "topicId": "SCI-PHYS-PHYSICS"
+    "topicId": "TOP-SCI-PHYS"
   },
   {
     "id": "DQ-0398",
@@ -757,7 +757,7 @@
     },
     "subjectId": "SCI-CHEM",
     "chapterId": "SCI-CHEM",
-    "topicId": "SCI-CHEM-CHEMISTRY"
+    "topicId": "TOP-SCI-CHEM"
   },
   {
     "id": "DQ-0399",
@@ -795,7 +795,7 @@
     },
     "subjectId": "SCI-CHEM",
     "chapterId": "SCI-CHEM",
-    "topicId": "SCI-CHEM-CHEMISTRY"
+    "topicId": "TOP-SCI-CHEM"
   },
   {
     "id": "DQ-0400",
@@ -833,7 +833,7 @@
     },
     "subjectId": "SCI-CHEM",
     "chapterId": "SCI-CHEM",
-    "topicId": "SCI-CHEM-CHEMISTRY"
+    "topicId": "TOP-SCI-CHEM"
   },
   {
     "id": "DQ-0401",
@@ -871,7 +871,7 @@
     },
     "subjectId": "SCI-CHEM",
     "chapterId": "SCI-CHEM",
-    "topicId": "SCI-CHEM-CHEMISTRY"
+    "topicId": "TOP-SCI-CHEM"
   },
   {
     "id": "DQ-0402",
@@ -909,7 +909,7 @@
     },
     "subjectId": "SCI-CHEM",
     "chapterId": "SCI-CHEM",
-    "topicId": "SCI-CHEM-CHEMISTRY"
+    "topicId": "TOP-SCI-CHEM"
   },
   {
     "id": "DQ-0403",
@@ -947,7 +947,7 @@
     },
     "subjectId": "SCI-CHEM",
     "chapterId": "SCI-CHEM",
-    "topicId": "SCI-CHEM-CHEMISTRY"
+    "topicId": "TOP-SCI-CHEM"
   },
   {
     "id": "DQ-0404",
@@ -985,7 +985,7 @@
     },
     "subjectId": "SCI-CHEM",
     "chapterId": "SCI-CHEM",
-    "topicId": "SCI-CHEM-CHEMISTRY"
+    "topicId": "TOP-SCI-CHEM"
   },
   {
     "id": "DQ-0405",
@@ -1023,7 +1023,7 @@
     },
     "subjectId": "SCI-CHEM",
     "chapterId": "SCI-CHEM",
-    "topicId": "SCI-CHEM-CHEMISTRY"
+    "topicId": "TOP-SCI-CHEM"
   },
   {
     "id": "DQ-0406",
@@ -1061,7 +1061,7 @@
     },
     "subjectId": "SCI-CHEM",
     "chapterId": "SCI-CHEM",
-    "topicId": "SCI-CHEM-CHEMISTRY"
+    "topicId": "TOP-SCI-CHEM"
   },
   {
     "id": "DQ-0407",
@@ -1099,7 +1099,7 @@
     },
     "subjectId": "SCI-CHEM",
     "chapterId": "SCI-CHEM",
-    "topicId": "SCI-CHEM-CHEMISTRY"
+    "topicId": "TOP-SCI-CHEM"
   },
   {
     "id": "DQ-0408",
@@ -1137,7 +1137,7 @@
     },
     "subjectId": "SCI-CHEM",
     "chapterId": "SCI-CHEM",
-    "topicId": "SCI-CHEM-CHEMISTRY"
+    "topicId": "TOP-SCI-CHEM"
   },
   {
     "id": "DQ-0409",
@@ -1175,7 +1175,7 @@
     },
     "subjectId": "SCI-CHEM",
     "chapterId": "SCI-CHEM",
-    "topicId": "SCI-CHEM-CHEMISTRY"
+    "topicId": "TOP-SCI-CHEM"
   },
   {
     "id": "DQ-0410",
@@ -1213,7 +1213,7 @@
     },
     "subjectId": "SCI-BIO",
     "chapterId": "SCI-BIO",
-    "topicId": "SCI-BIO-HUMAN_BODY"
+    "topicId": "TOP-SCI-BIO"
   },
   {
     "id": "DQ-0411",
@@ -1251,7 +1251,7 @@
     },
     "subjectId": "SCI-BIO",
     "chapterId": "SCI-BIO",
-    "topicId": "SCI-BIO-HUMAN_BODY"
+    "topicId": "TOP-SCI-BIO"
   },
   {
     "id": "DQ-0412",
@@ -1289,7 +1289,7 @@
     },
     "subjectId": "SCI-BIO",
     "chapterId": "SCI-BIO",
-    "topicId": "SCI-BIO-HUMAN_BODY"
+    "topicId": "TOP-SCI-BIO"
   },
   {
     "id": "DQ-0413",
@@ -1327,7 +1327,7 @@
     },
     "subjectId": "SCI-BIO",
     "chapterId": "SCI-BIO",
-    "topicId": "SCI-BIO-HUMAN_BODY"
+    "topicId": "TOP-SCI-BIO"
   },
   {
     "id": "DQ-0414",
@@ -1365,7 +1365,7 @@
     },
     "subjectId": "SCI-BIO",
     "chapterId": "SCI-BIO",
-    "topicId": "SCI-BIO-HUMAN_BODY"
+    "topicId": "TOP-SCI-BIO"
   },
   {
     "id": "DQ-0415",
@@ -1403,7 +1403,7 @@
     },
     "subjectId": "SCI-BIO",
     "chapterId": "SCI-BIO",
-    "topicId": "SCI-BIO-HUMAN_BODY"
+    "topicId": "TOP-SCI-BIO"
   },
   {
     "id": "DQ-0416",
@@ -1441,7 +1441,7 @@
     },
     "subjectId": "SCI-BIO",
     "chapterId": "SCI-BIO",
-    "topicId": "SCI-BIO-HUMAN_BODY"
+    "topicId": "TOP-SCI-BIO"
   },
   {
     "id": "DQ-0417",
@@ -1479,7 +1479,7 @@
     },
     "subjectId": "SCI-BIO",
     "chapterId": "SCI-BIO",
-    "topicId": "SCI-BIO-HUMAN_BODY"
+    "topicId": "TOP-SCI-BIO"
   },
   {
     "id": "DQ-0418",
@@ -1517,6 +1517,6 @@
     },
     "subjectId": "SCI-BIO",
     "chapterId": "SCI-BIO",
-    "topicId": "SCI-BIO-HUMAN_BODY"
+    "topicId": "TOP-SCI-BIO"
   }
 ]

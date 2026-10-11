@@ -35,7 +35,7 @@
     },
     "subjectId": "WORLD-GEO",
     "chapterId": "WORLD-GEO",
-    "topicId": "WORLD-GEO-NATURE"
+    "topicId": "TOP-WORLD-GEO"
   },
   {
     "id": "DQ-0500",
@@ -73,7 +73,7 @@
     },
     "subjectId": "WORLD-GEO",
     "chapterId": "WORLD-GEO",
-    "topicId": "WORLD-GEO-NATURE"
+    "topicId": "TOP-WORLD-GEO"
   },
   {
     "id": "DQ-0501",
@@ -111,7 +111,7 @@
     },
     "subjectId": "SPORT",
     "chapterId": "SPORT",
-    "topicId": "SPORT-INDIA_SPORT"
+    "topicId": "TOP-SPORT"
   },
   {
     "id": "DQ-0502",
@@ -149,7 +149,7 @@
     },
     "subjectId": "SPORT",
     "chapterId": "SPORT",
-    "topicId": "SPORT-INDIA_SPORT"
+    "topicId": "TOP-SPORT"
   },
   {
     "id": "DQ-0503",
@@ -187,7 +187,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIA_AWARDS"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0504",
@@ -225,7 +225,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIA_AWARDS"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0505",
@@ -263,7 +263,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIA_JUDICIARY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0506",
@@ -301,7 +301,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIA_JUDICIARY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0507",
@@ -339,7 +339,7 @@
     },
     "subjectId": "WORLD-BODIES",
     "chapterId": "WORLD-BODIES",
-    "topicId": "WORLD-BODIES-GLOBAL_INSTITUTIONS"
+    "topicId": "TOP-WORLD-BODIES"
   },
   {
     "id": "DQ-0508",
@@ -377,7 +377,7 @@
     },
     "subjectId": "WORLD-BODIES",
     "chapterId": "WORLD-BODIES",
-    "topicId": "WORLD-BODIES-GLOBAL_INSTITUTIONS"
+    "topicId": "TOP-WORLD-BODIES"
   },
   {
     "id": "DQ-0509",
@@ -415,7 +415,7 @@
     },
     "subjectId": "IND-ECON",
     "chapterId": "IND-ECON",
-    "topicId": "IND-ECON-INDIA_BANKING"
+    "topicId": "TOP-IND-ECON"
   },
   {
     "id": "DQ-0510",
@@ -453,7 +453,7 @@
     },
     "subjectId": "IND-ECON",
     "chapterId": "IND-ECON",
-    "topicId": "IND-ECON-INDIA_BANKING"
+    "topicId": "TOP-IND-ECON"
   },
   {
     "id": "DQ-0511",
@@ -491,7 +491,7 @@
     },
     "subjectId": "SCI-BIO",
     "chapterId": "SCI-BIO",
-    "topicId": "SCI-BIO-BIOLOGY"
+    "topicId": "TOP-SCI-BIO"
   },
   {
     "id": "DQ-0512",
@@ -529,7 +529,7 @@
     },
     "subjectId": "SCI-BIO",
     "chapterId": "SCI-BIO",
-    "topicId": "SCI-BIO-BIOLOGY"
+    "topicId": "TOP-SCI-BIO"
   },
   {
     "id": "DQ-0513",
@@ -567,7 +567,7 @@
     },
     "subjectId": "SCI-SPACE",
     "chapterId": "SCI-SPACE",
-    "topicId": "SCI-SPACE-ASTRONOMY"
+    "topicId": "TOP-SCI-SPACE"
   },
   {
     "id": "DQ-0514",
@@ -605,7 +605,7 @@
     },
     "subjectId": "SCI-SPACE",
     "chapterId": "SCI-SPACE",
-    "topicId": "SCI-SPACE-ASTRONOMY"
+    "topicId": "TOP-SCI-SPACE"
   },
   {
     "id": "DQ-0515",
@@ -643,7 +643,7 @@
     },
     "subjectId": "IND-ECON",
     "chapterId": "IND-ECON",
-    "topicId": "IND-ECON-CURRENCIES"
+    "topicId": "TOP-IND-ECON"
   },
   {
     "id": "DQ-0516",
@@ -681,7 +681,7 @@
     },
     "subjectId": "IND-ECON",
     "chapterId": "IND-ECON",
-    "topicId": "IND-ECON-CURRENCIES"
+    "topicId": "TOP-IND-ECON"
   },
   {
     "id": "DQ-0517",
@@ -719,7 +719,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIA_POLITY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0518",
@@ -757,7 +757,7 @@
     },
     "subjectId": "IND-POLITY",
     "chapterId": "IND-POLITY",
-    "topicId": "IND-POLITY-INDIA_POLITY"
+    "topicId": "TOP-IND-POLITY"
   },
   {
     "id": "DQ-0519",
@@ -795,7 +795,7 @@
     },
     "subjectId": "ART-CULT",
     "chapterId": "ART-CULT",
-    "topicId": "ART-CULT-CINEMA"
+    "topicId": "TOP-ART-CULT"
   },
   {
     "id": "DQ-0520",
@@ -833,7 +833,7 @@
     },
     "subjectId": "ART-CULT",
     "chapterId": "ART-CULT",
-    "topicId": "ART-CULT-CINEMA"
+    "topicId": "TOP-ART-CULT"
   },
   {
     "id": "DQ-0521",
@@ -871,7 +871,7 @@
     },
     "subjectId": "IND-HIST",
     "chapterId": "IND-HIST",
-    "topicId": "IND-HIST-HISTORY"
+    "topicId": "TOP-IND-HIST"
   },
   {
     "id": "DQ-0522",
@@ -909,7 +909,7 @@
     },
     "subjectId": "IND-HIST",
     "chapterId": "IND-HIST",
-    "topicId": "IND-HIST-HISTORY"
+    "topicId": "TOP-IND-HIST"
   },
   {
     "id": "DQ-0523",
@@ -947,7 +947,7 @@
     },
     "subjectId": "IND-GEO",
     "chapterId": "IND-GEO",
-    "topicId": "IND-GEO-TIME_AND_STANDARDS"
+    "topicId": "TOP-IND-GEO"
   },
   {
     "id": "DQ-0524",
@@ -985,7 +985,7 @@
     },
     "subjectId": "IND-GEO",
     "chapterId": "IND-GEO",
-    "topicId": "IND-GEO-TIME_AND_STANDARDS"
+    "topicId": "TOP-IND-GEO"
   },
   {
     "id": "DQ-0525",
@@ -1023,7 +1023,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-INSTRUMENTS"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0526",
@@ -1061,7 +1061,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-INSTRUMENTS"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0527",
@@ -1099,7 +1099,7 @@
     },
     "subjectId": "WORLD-GEO",
     "chapterId": "WORLD-GEO",
-    "topicId": "WORLD-GEO-MONUMENTS"
+    "topicId": "TOP-WORLD-GEO"
   },
   {
     "id": "DQ-0528",
@@ -1137,7 +1137,7 @@
     },
     "subjectId": "WORLD-GEO",
     "chapterId": "WORLD-GEO",
-    "topicId": "WORLD-GEO-MONUMENTS"
+    "topicId": "TOP-WORLD-GEO"
   },
   {
     "id": "DQ-0529",
@@ -1175,7 +1175,7 @@
     },
     "subjectId": "ART-CULT",
     "chapterId": "ART-CULT",
-    "topicId": "ART-CULT-ART"
+    "topicId": "TOP-ART-CULT"
   },
   {
     "id": "DQ-0530",
@@ -1213,7 +1213,7 @@
     },
     "subjectId": "ART-CULT",
     "chapterId": "ART-CULT",
-    "topicId": "ART-CULT-ART"
+    "topicId": "TOP-ART-CULT"
   },
   {
     "id": "DQ-0531",
@@ -1251,7 +1251,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-WEATHER"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0532",
@@ -1289,7 +1289,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-WEATHER"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0533",
@@ -1327,7 +1327,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-CYBERSECURITY"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0534",
@@ -1365,7 +1365,7 @@
     },
     "subjectId": "SCI-TECH",
     "chapterId": "SCI-TECH",
-    "topicId": "SCI-TECH-CYBERSECURITY"
+    "topicId": "TOP-SCI-TECH"
   },
   {
     "id": "DQ-0535",
@@ -1403,7 +1403,7 @@
     },
     "subjectId": "WORLD-GEO",
     "chapterId": "WORLD-GEO",
-    "topicId": "WORLD-GEO-OCEAN"
+    "topicId": "TOP-WORLD-GEO"
   },
   {
     "id": "DQ-0536",
@@ -1441,7 +1441,7 @@
     },
     "subjectId": "WORLD-GEO",
     "chapterId": "WORLD-GEO",
-    "topicId": "WORLD-GEO-OCEAN"
+    "topicId": "TOP-WORLD-GEO"
   },
   {
     "id": "DQ-0537",
@@ -1479,7 +1479,7 @@
     },
     "subjectId": "WORLD-BODIES",
     "chapterId": "WORLD-BODIES",
-    "topicId": "WORLD-BODIES-NEIGHBOURHOOD"
+    "topicId": "TOP-WORLD-BODIES"
   },
   {
     "id": "DQ-0538",
@@ -1517,6 +1517,6 @@
     },
     "subjectId": "WORLD-BODIES",
     "chapterId": "WORLD-BODIES",
-    "topicId": "WORLD-BODIES-NEIGHBOURHOOD"
+    "topicId": "TOP-WORLD-BODIES"
   }
 ]

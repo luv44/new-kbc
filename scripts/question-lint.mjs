@@ -155,13 +155,16 @@ if (existsSync(taxonomyPath)) {
   const tax = JSON.parse(readFileSync(taxonomyPath, 'utf8'));
   const knownSubjects = new Set(tax.subjects.map((s) => s.id));
   const knownTopics = new Set(tax.subjects.flatMap((s) => s.topics));
+  const ownerByTopic = new Map(tax.subjects.flatMap((s) => s.topics.map((t) => [t, s.id])));
   for (const q of records) {
     if (!q.subjectId) fail(q.id, 'MISSING_SUBJECT', 'subjectId is empty; file it under a subject in TAXONOMY.json');
     else if (!knownSubjects.has(q.subjectId)) fail(q.id, 'UNKNOWN_SUBJECT', `subjectId "${q.subjectId}" is not in TAXONOMY.json`);
     if (!q.topicId) fail(q.id, 'MISSING_TOPIC', 'topicId is empty; file it under a topic in TAXONOMY.json');
     else if (!knownTopics.has(q.topicId)) fail(q.id, 'UNKNOWN_TOPIC', `topicId "${q.topicId}" is not in TAXONOMY.json`);
-    if (q.topicId && !q.topicId.startsWith(`${q.subjectId}-`)) {
-      fail(q.id, 'TOPIC_SUBJECT_MISMATCH', `topicId "${q.topicId}" does not belong to subjectId "${q.subjectId}"`);
+    // Derived from the taxonomy, not from a naming convention, so renaming topics
+    // cannot silently break this check.
+    if (q.topicId && ownerByTopic.get(q.topicId) && ownerByTopic.get(q.topicId) !== q.subjectId) {
+      fail(q.id, 'TOPIC_SUBJECT_MISMATCH', `topicId "${q.topicId}" belongs to subject "${ownerByTopic.get(q.topicId)}", not "${q.subjectId}"`);
     }
   }
 }

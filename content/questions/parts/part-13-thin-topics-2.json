@@ -35,7 +35,7 @@
     },
     "subjectId": "SCI-HIST",
     "chapterId": "SCI-HIST",
-    "topicId": "SCI-HIST-SCIENCE_HISTORY"
+    "topicId": "TOP-SCI-HIST"
   },
   {
     "id": "DQ-0460",
@@ -73,7 +73,7 @@
     },
     "subjectId": "SCI-HIST",
     "chapterId": "SCI-HIST",
-    "topicId": "SCI-HIST-SCIENCE_HISTORY"
+    "topicId": "TOP-SCI-HIST"
   },
   {
     "id": "DQ-0461",
@@ -111,7 +111,7 @@
     },
     "subjectId": "SCI-HIST",
     "chapterId": "SCI-HIST",
-    "topicId": "SCI-HIST-SCIENCE_HISTORY"
+    "topicId": "TOP-SCI-HIST"
   },
   {
     "id": "DQ-0462",
@@ -149,7 +149,7 @@
     },
     "subjectId": "SCI-HIST",
     "chapterId": "SCI-HIST",
-    "topicId": "SCI-HIST-SCIENCE_HISTORY"
+    "topicId": "TOP-SCI-HIST"
   },
   {
     "id": "DQ-0463",
@@ -187,7 +187,7 @@
     },
     "subjectId": "SCI-HIST",
     "chapterId": "SCI-HIST",
-    "topicId": "SCI-HIST-SCIENCE_HISTORY"
+    "topicId": "TOP-SCI-HIST"
   },
   {
     "id": "DQ-0464",
@@ -225,7 +225,7 @@
     },
     "subjectId": "SCI-HIST",
     "chapterId": "SCI-HIST",
-    "topicId": "SCI-HIST-SCIENCE_HISTORY"
+    "topicId": "TOP-SCI-HIST"
   },
   {
     "id": "DQ-0465",
@@ -263,7 +263,7 @@
     },
     "subjectId": "SCI-HIST",
     "chapterId": "SCI-HIST",
-    "topicId": "SCI-HIST-SCIENCE_HISTORY"
+    "topicId": "TOP-SCI-HIST"
   },
   {
     "id": "DQ-0466",
@@ -301,7 +301,7 @@
     },
     "subjectId": "IND-SPACE",
     "chapterId": "IND-SPACE",
-    "topicId": "IND-SPACE-INDIA_SPACE"
+    "topicId": "TOP-IND-SPACE"
   },
   {
     "id": "DQ-0467",
@@ -339,7 +339,7 @@
     },
     "subjectId": "IND-SPACE",
     "chapterId": "IND-SPACE",
-    "topicId": "IND-SPACE-INDIA_SPACE"
+    "topicId": "TOP-IND-SPACE"
   },
   {
     "id": "DQ-0468",
@@ -377,7 +377,7 @@
     },
     "subjectId": "IND-SPACE",
     "chapterId": "IND-SPACE",
-    "topicId": "IND-SPACE-INDIA_SPACE"
+    "topicId": "TOP-IND-SPACE"
   },
   {
     "id": "DQ-0469",
@@ -415,7 +415,7 @@
     },
     "subjectId": "IND-SPACE",
     "chapterId": "IND-SPACE",
-    "topicId": "IND-SPACE-INDIA_SPACE"
+    "topicId": "TOP-IND-SPACE"
   },
   {
     "id": "DQ-0470",
@@ -453,7 +453,7 @@
     },
     "subjectId": "IND-SPACE",
     "chapterId": "IND-SPACE",
-    "topicId": "IND-SPACE-INDIA_SPACE"
+    "topicId": "TOP-IND-SPACE"
   },
   {
     "id": "DQ-0471",
@@ -491,7 +491,7 @@
     },
     "subjectId": "IND-SPACE",
     "chapterId": "IND-SPACE",
-    "topicId": "IND-SPACE-INDIA_SPACE"
+    "topicId": "TOP-IND-SPACE"
   },
   {
     "id": "DQ-0472",
@@ -529,7 +529,7 @@
     },
     "subjectId": "IND-SPACE",
     "chapterId": "IND-SPACE",
-    "topicId": "IND-SPACE-INDIA_SPACE"
+    "topicId": "TOP-IND-SPACE"
   },
   {
     "id": "DQ-0473",
@@ -567,7 +567,7 @@
     },
     "subjectId": "ENV",
     "chapterId": "ENV",
-    "topicId": "ENV-ENVIRONMENT"
+    "topicId": "TOP-ENV"
   },
   {
     "id": "DQ-0474",
@@ -605,7 +605,7 @@
     },
     "subjectId": "ENV",
     "chapterId": "ENV",
-    "topicId": "ENV-ENVIRONMENT"
+    "topicId": "TOP-ENV"
   },
   {
     "id": "DQ-0475",
@@ -643,7 +643,7 @@
     },
     "subjectId": "ENV",
     "chapterId": "ENV",
-    "topicId": "ENV-ENVIRONMENT"
+    "topicId": "TOP-ENV"
   },
   {
     "id": "DQ-0476",
@@ -681,7 +681,7 @@
     },
     "subjectId": "ENV",
     "chapterId": "ENV",
-    "topicId": "ENV-ENVIRONMENT"
+    "topicId": "TOP-ENV"
   },
   {
     "id": "DQ-0477",
@@ -719,7 +719,7 @@
     },
     "subjectId": "ENV",
     "chapterId": "ENV",
-    "topicId": "ENV-ENVIRONMENT"
+    "topicId": "TOP-ENV"
   },
   {
     "id": "DQ-0478",
@@ -757,7 +757,7 @@
     },
     "subjectId": "ENV",
     "chapterId": "ENV",
-    "topicId": "ENV-ENVIRONMENT"
+    "topicId": "TOP-ENV"
   },
   {
     "id": "DQ-0479",
@@ -795,7 +795,7 @@
     },
     "subjectId": "ENV",
     "chapterId": "ENV",
-    "topicId": "ENV-ENVIRONMENT"
+    "topicId": "TOP-ENV"
   },
   {
     "id": "DQ-0480",
@@ -833,7 +833,7 @@
     },
     "subjectId": "ART-CULT",
     "chapterId": "ART-CULT",
-    "topicId": "ART-CULT-ART"
+    "topicId": "TOP-ART-CULT"
   },
   {
     "id": "DQ-0481",
@@ -871,7 +871,7 @@
     },
     "subjectId": "ART-CULT",
     "chapterId": "ART-CULT",
-    "topicId": "ART-CULT-ART"
+    "topicId": "TOP-ART-CULT"
   },
   {
     "id": "DQ-0482",
@@ -909,7 +909,7 @@
     },
     "subjectId": "ART-CULT",
     "chapterId": "ART-CULT",
-    "topicId": "ART-CULT-LITERATURE"
+    "topicId": "TOP-ART-CULT"
   },
   {
     "id": "DQ-0483",
@@ -947,7 +947,7 @@
     },
     "subjectId": "ART-CULT",
     "chapterId": "ART-CULT",
-    "topicId": "ART-CULT-LITERATURE"
+    "topicId": "TOP-ART-CULT"
   },
   {
     "id": "DQ-0484",
@@ -985,7 +985,7 @@
     },
     "subjectId": "ART-CULT",
     "chapterId": "ART-CULT",
-    "topicId": "ART-CULT-CULTURE"
+    "topicId": "TOP-ART-CULT"
   },
   {
     "id": "DQ-0485",
@@ -1023,7 +1023,7 @@
     },
     "subjectId": "ART-CULT",
     "chapterId": "ART-CULT",
-    "topicId": "ART-CULT-CULTURE"
+    "topicId": "TOP-ART-CULT"
   },
   {
     "id": "DQ-0486",
@@ -1061,7 +1061,7 @@
     },
     "subjectId": "ART-CULT",
     "chapterId": "ART-CULT",
-    "topicId": "ART-CULT-CINEMA"
+    "topicId": "TOP-ART-CULT"
   },
   {
     "id": "DQ-0487",
@@ -1099,7 +1099,7 @@
     },
     "subjectId": "IND-HIST",
     "chapterId": "IND-HIST",
-    "topicId": "IND-HIST-INDIAN_HISTORY"
+    "topicId": "TOP-IND-HIST"
   },
   {
     "id": "DQ-0488",
@@ -1137,7 +1137,7 @@
     },
     "subjectId": "IND-HIST",
     "chapterId": "IND-HIST",
-    "topicId": "IND-HIST-INDIAN_HISTORY"
+    "topicId": "TOP-IND-HIST"
   },
   {
     "id": "DQ-0489",
@@ -1175,7 +1175,7 @@
     },
     "subjectId": "IND-HIST",
     "chapterId": "IND-HIST",
-    "topicId": "IND-HIST-INDIAN_HISTORY"
+    "topicId": "TOP-IND-HIST"
   },
   {
     "id": "DQ-0490",
@@ -1213,7 +1213,7 @@
     },
     "subjectId": "IND-HIST",
     "chapterId": "IND-HIST",
-    "topicId": "IND-HIST-INDIAN_HISTORY"
+    "topicId": "TOP-IND-HIST"
   },
   {
     "id": "DQ-0491",
@@ -1251,7 +1251,7 @@
     },
     "subjectId": "IND-HIST",
     "chapterId": "IND-HIST",
-    "topicId": "IND-HIST-INDIAN_HISTORY"
+    "topicId": "TOP-IND-HIST"
   },
   {
     "id": "DQ-0492",
@@ -1289,7 +1289,7 @@
     },
     "subjectId": "IND-HIST",
     "chapterId": "IND-HIST",
-    "topicId": "IND-HIST-INDIAN_HISTORY"
+    "topicId": "TOP-IND-HIST"
   },
   {
     "id": "DQ-0493",
@@ -1327,7 +1327,7 @@
     },
     "subjectId": "SPORT",
     "chapterId": "SPORT",
-    "topicId": "SPORT-SPORT"
+    "topicId": "TOP-SPORT"
   },
   {
     "id": "DQ-0494",
@@ -1365,7 +1365,7 @@
     },
     "subjectId": "SPORT",
     "chapterId": "SPORT",
-    "topicId": "SPORT-SPORT"
+    "topicId": "TOP-SPORT"
   },
   {
     "id": "DQ-0495",
@@ -1403,7 +1403,7 @@
     },
     "subjectId": "SPORT",
     "chapterId": "SPORT",
-    "topicId": "SPORT-CHESS"
+    "topicId": "TOP-SPORT"
   },
   {
     "id": "DQ-0496",
@@ -1441,7 +1441,7 @@
     },
     "subjectId": "SPORT",
     "chapterId": "SPORT",
-    "topicId": "SPORT-CHESS"
+    "topicId": "TOP-SPORT"
   },
   {
     "id": "DQ-0497",
@@ -1479,7 +1479,7 @@
     },
     "subjectId": "SPORT",
     "chapterId": "SPORT",
-    "topicId": "SPORT-SPORT"
+    "topicId": "TOP-SPORT"
   },
   {
     "id": "DQ-0498",
@@ -1517,6 +1517,6 @@
     },
     "subjectId": "SPORT",
     "chapterId": "SPORT",
-    "topicId": "SPORT-SPORT"
+    "topicId": "TOP-SPORT"
   }
 ]
