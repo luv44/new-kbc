@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-11T07:39:39.553Z",
+  "generatedAt": "2026-10-11T14:48:22.593Z",
   "lifecycle": "DRAFT_PENDING_REVIEW",
-  "count": 618,
+  "count": 680,
   "bannedWordPolicy": [
     "syllabus",
     "syllabi",
@@ -34667,6 +34667,3478 @@
       "validUntil": null,
       "kind": "AUTHORED_DRAFT",
       "order": 618
+    },
+    {
+      "id": "DRAFT-DQ-0619",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who first isolated fluorine in its pure form?",
+        "hi": "फ़्लोरीन को शुद्ध रूप में सबसे पहले किसने अलग किया?"
+      },
+      "options": [
+        {
+          "en": "Henri Moissan",
+          "hi": "Henri Moissan"
+        },
+        {
+          "en": "Paul Sabatier",
+          "hi": "Paul Sabatier"
+        },
+        {
+          "en": "Victor Grignard",
+          "hi": "Victor Grignard"
+        },
+        {
+          "en": "Henri Le Chatelier",
+          "hi": "Henri Le Chatelier"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He used electrolysis in 1886.",
+        "hi": "उन्होंने 1886 में विद्युत अपघटन से यह किया।"
+      },
+      "detailedExplanation": {
+        "en": "He used electrolysis in 1886.",
+        "hi": "उन्होंने 1886 में विद्युत अपघटन से यह किया।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "5b152c59bec9cad0",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 619
+    },
+    {
+      "id": "DRAFT-DQ-0620",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who is usually credited with the discovery of oxygen?",
+        "hi": "ऑक्सीजन की खोज का श्रेय आमतौर पर किसे दिया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Henry Cavendish",
+          "hi": "हेनरी कैवेंडिश"
+        },
+        {
+          "en": "Joseph Priestley",
+          "hi": "जोसेफ़ प्रीस्टली"
+        },
+        {
+          "en": "Joseph Black",
+          "hi": "जोसेफ़ ब्लैक"
+        },
+        {
+          "en": "Amedeo Avogadro",
+          "hi": "आमेदेओ अवोगाद्रो"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He called the gas dephlogisticated air.",
+        "hi": "उन्होंने इस गैस को डीफ़्लॉजिस्टिकेटेड एयर कहा।"
+      },
+      "detailedExplanation": {
+        "en": "He called the gas dephlogisticated air.",
+        "hi": "उन्होंने इस गैस को डीफ़्लॉजिस्टिकेटेड एयर कहा।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "17c2c56a349de81c",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 620
+    },
+    {
+      "id": "DRAFT-DQ-0621",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who measured the gravitational constant with a torsion balance?",
+        "hi": "गुरुत्वांक को मरोड़ तुला से किसने मापा?"
+      },
+      "options": [
+        {
+          "en": "Charles Hutton",
+          "hi": "Charles Hutton"
+        },
+        {
+          "en": "John Michell",
+          "hi": "John Michell"
+        },
+        {
+          "en": "Nevil Maskelyne",
+          "hi": "Nevil Maskelyne"
+        },
+        {
+          "en": "Henry Cavendish",
+          "hi": "Henry Cavendish"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He also weighed the Earth from it.",
+        "hi": "उन्होंने इससे पृथ्वी का भार भी निकाला।"
+      },
+      "detailedExplanation": {
+        "en": "He also weighed the Earth from it.",
+        "hi": "उन्होंने इससे पृथ्वी का भार भी निकाला।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "eddd1de5c68df882",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 621
+    },
+    {
+      "id": "DRAFT-DQ-0622",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "In which year was the special theory of relativity published?",
+        "hi": "विशिष्ट सापेक्षता का सिद्धांत किस वर्ष प्रकाशित हुआ?"
+      },
+      "options": [
+        {
+          "en": "1915",
+          "hi": "1915"
+        },
+        {
+          "en": "1925",
+          "hi": "1925"
+        },
+        {
+          "en": "1895",
+          "hi": "1895"
+        },
+        {
+          "en": "1905",
+          "hi": "1905"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "The general theory followed a decade later.",
+        "hi": "सामान्य सिद्धांत एक दशक बाद आया।"
+      },
+      "detailedExplanation": {
+        "en": "The general theory followed a decade later.",
+        "hi": "सामान्य सिद्धांत एक दशक बाद आया।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "71ef0c09a45dbf62",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 622
+    },
+    {
+      "id": "DRAFT-DQ-0623",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who first observed and named cells while looking at cork?",
+        "hi": "कॉर्क को देखते हुए कोशिकाओं का पहली बार अवलोकन और नामकरण किसने किया?"
+      },
+      "options": [
+        {
+          "en": "Matthias Schleiden",
+          "hi": "मैथियास श्लाइडेन"
+        },
+        {
+          "en": "Robert Hooke",
+          "hi": "रॉबर्ट हुक"
+        },
+        {
+          "en": "Theodor Schwann",
+          "hi": "थियोडोर श्वान"
+        },
+        {
+          "en": "Antonie van Leeuwenhoek",
+          "hi": "एंटोनी वान लीउवेनहोक"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He described them in Micrographia in 1665.",
+        "hi": "उन्होंने 1665 में माइक्रोग्राफ़िया में इनका वर्णन किया।"
+      },
+      "detailedExplanation": {
+        "en": "He described them in Micrographia in 1665.",
+        "hi": "उन्होंने 1665 में माइक्रोग्राफ़िया में इनका वर्णन किया।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "5a1d47bb92b7ee55",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 623
+    },
+    {
+      "id": "DRAFT-DQ-0624",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who discovered gamma rays?",
+        "hi": "गामा किरणों की खोज किसने की?"
+      },
+      "options": [
+        {
+          "en": "Ernest Rutherford",
+          "hi": "Ernest Rutherford"
+        },
+        {
+          "en": "Paul Villard",
+          "hi": "Paul Villard"
+        },
+        {
+          "en": "Charles Glover Barkla",
+          "hi": "Charles Glover Barkla"
+        },
+        {
+          "en": "Frederick Soddy",
+          "hi": "Frederick Soddy"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He found them while studying radium.",
+        "hi": "उन्होंने इन्हें रेडियम का अध्ययन करते समय पाया।"
+      },
+      "detailedExplanation": {
+        "en": "He found them while studying radium.",
+        "hi": "उन्होंने इन्हें रेडियम का अध्ययन करते समय पाया।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "56850f90d8cc8ca0",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 624
+    },
+    {
+      "id": "DRAFT-DQ-0625",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who patented the first practical wireless telegraph system?",
+        "hi": "पहले व्यावहारिक बेतार टेलीग्राफ़ तंत्र का पेटेंट किसने कराया?"
+      },
+      "options": [
+        {
+          "en": "Heinrich Hertz",
+          "hi": "Heinrich Hertz"
+        },
+        {
+          "en": "Oliver Lodge",
+          "hi": "Oliver Lodge"
+        },
+        {
+          "en": "Nikola Tesla",
+          "hi": "Nikola Tesla"
+        },
+        {
+          "en": "Guglielmo Marconi",
+          "hi": "Guglielmo Marconi"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He sent a signal across the Atlantic in 1901.",
+        "hi": "उन्होंने 1901 में अटलांटिक के पार संकेत भेजा।"
+      },
+      "detailedExplanation": {
+        "en": "He sent a signal across the Atlantic in 1901.",
+        "hi": "उन्होंने 1901 में अटलांटिक के पार संकेत भेजा।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "b3fba77e308beb09",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 625
+    },
+    {
+      "id": "DRAFT-DQ-0626",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who first determined the Avogadro constant experimentally?",
+        "hi": "अवोगाद्रो स्थिरांक प्रयोग से सबसे पहले किसने निर्धारित किया?"
+      },
+      "options": [
+        {
+          "en": "Josef Loschmidt",
+          "hi": "Josef Loschmidt"
+        },
+        {
+          "en": "Amedeo Avogadro",
+          "hi": "Amedeo Avogadro"
+        },
+        {
+          "en": "Robert Millikan",
+          "hi": "Robert Millikan"
+        },
+        {
+          "en": "Jean Perrin",
+          "hi": "Jean Perrin"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He studied the motion of suspended particles.",
+        "hi": "उन्होंने निलंबित कणों की गति का अध्ययन किया।"
+      },
+      "detailedExplanation": {
+        "en": "He studied the motion of suspended particles.",
+        "hi": "उन्होंने निलंबित कणों की गति का अध्ययन किया।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "5966777b4771cbd7",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 626
+    },
+    {
+      "id": "DRAFT-DQ-0627",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who proposed that the atom has a small dense nucleus?",
+        "hi": "परमाणु में एक छोटा सघन नाभिक होने का प्रस्ताव किसने दिया?"
+      },
+      "options": [
+        {
+          "en": "J.J. Thomson",
+          "hi": "जे.जे. थॉमसन"
+        },
+        {
+          "en": "Ernest Rutherford",
+          "hi": "अर्नेस्ट रदरफ़ोर्ड"
+        },
+        {
+          "en": "Erwin Schrödinger",
+          "hi": "एर्विन श्रोडिंगर"
+        },
+        {
+          "en": "Niels Bohr",
+          "hi": "नील्स बोर"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "His gold foil experiment showed most of the atom is empty space.",
+        "hi": "उनके गोल्ड फ़ॉइल प्रयोग ने दिखाया कि परमाणु का अधिकतर भाग खाली है।"
+      },
+      "detailedExplanation": {
+        "en": "His gold foil experiment showed most of the atom is empty space.",
+        "hi": "उनके गोल्ड फ़ॉइल प्रयोग ने दिखाया कि परमाणु का अधिकतर भाग खाली है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "ec02f3e17799cbd0",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 627
+    },
+    {
+      "id": "DRAFT-DQ-0628",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who discovered artificial radioactivity?",
+        "hi": "कृत्रिम रेडियोधर्मिता की खोज किसने की?"
+      },
+      "options": [
+        {
+          "en": "Frédéric Joliot-Curie",
+          "hi": "Frédéric Joliot-Curie"
+        },
+        {
+          "en": "Enrico Fermi",
+          "hi": "Enrico Fermi"
+        },
+        {
+          "en": "Otto Hahn",
+          "hi": "Otto Hahn"
+        },
+        {
+          "en": "James Chadwick",
+          "hi": "James Chadwick"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He shared the 1935 chemistry prize for it.",
+        "hi": "इसके लिए उन्हें 1935 का रसायन पुरस्कार मिला।"
+      },
+      "detailedExplanation": {
+        "en": "He shared the 1935 chemistry prize for it.",
+        "hi": "इसके लिए उन्हें 1935 का रसायन पुरस्कार मिला।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "e09de7ef3b3cc29e",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 628
+    },
+    {
+      "id": "DRAFT-DQ-0629",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who discovered the neutron?",
+        "hi": "न्यूट्रॉन की खोज किसने की?"
+      },
+      "options": [
+        {
+          "en": "James Chadwick",
+          "hi": "जेम्स चैडविक"
+        },
+        {
+          "en": "Ernest Rutherford",
+          "hi": "अर्नेस्ट रदरफ़ोर्ड"
+        },
+        {
+          "en": "Enrico Fermi",
+          "hi": "एनरिको फ़र्मी"
+        },
+        {
+          "en": "Otto Hahn",
+          "hi": "ओटो हान"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He published the result in 1932.",
+        "hi": "उन्होंने 1932 में यह परिणाम प्रकाशित किया।"
+      },
+      "detailedExplanation": {
+        "en": "He published the result in 1932.",
+        "hi": "उन्होंने 1932 में यह परिणाम प्रकाशित किया।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "b37545562e4213a5",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 629
+    },
+    {
+      "id": "DRAFT-DQ-0630",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who identified the bacterium that causes tuberculosis?",
+        "hi": "क्षय रोग उत्पन्न करने वाले जीवाणु की पहचान किसने की?"
+      },
+      "options": [
+        {
+          "en": "Ronald Ross",
+          "hi": "रोनाल्ड रॉस"
+        },
+        {
+          "en": "Emil von Behring",
+          "hi": "एमिल वॉन बेहरिंग"
+        },
+        {
+          "en": "Paul Ehrlich",
+          "hi": "पॉल एरलिख"
+        },
+        {
+          "en": "Robert Koch",
+          "hi": "रॉबर्ट कोख"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "His postulates set the standard for linking a germ to a disease.",
+        "hi": "उनके अभिगृहीत किसी रोगाणु को बीमारी से जोड़ने का मानक बने।"
+      },
+      "detailedExplanation": {
+        "en": "His postulates set the standard for linking a germ to a disease.",
+        "hi": "उनके अभिगृहीत किसी रोगाणु को बीमारी से जोड़ने का मानक बने।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "d115baf7b72700d1",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 630
+    },
+    {
+      "id": "DRAFT-DQ-0631",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who first observed the capillaries linking arteries to veins?",
+        "hi": "धमनियों को शिराओं से जोड़ने वाली केशिकाओं का अवलोकन सबसे पहले किसने किया?"
+      },
+      "options": [
+        {
+          "en": "Realdo Colombo",
+          "hi": "Realdo Colombo"
+        },
+        {
+          "en": "Jan Swammerdam",
+          "hi": "Jan Swammerdam"
+        },
+        {
+          "en": "Marcello Malpighi",
+          "hi": "Marcello Malpighi"
+        },
+        {
+          "en": "William Harvey",
+          "hi": "William Harvey"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He used an early microscope on frog lungs.",
+        "hi": "उन्होंने मेंढक के फेफड़ों पर आरंभिक सूक्ष्मदर्शी से देखा।"
+      },
+      "detailedExplanation": {
+        "en": "He used an early microscope on frog lungs.",
+        "hi": "उन्होंने मेंढक के फेफड़ों पर आरंभिक सूक्ष्मदर्शी से देखा।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "e3d53f45a789ac33",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 631
+    },
+    {
+      "id": "DRAFT-DQ-0632",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who proposed the theory of continental drift?",
+        "hi": "महाद्वीपीय विस्थापन का सिद्धांत किसने प्रस्तावित किया?"
+      },
+      "options": [
+        {
+          "en": "Charles Lyell",
+          "hi": "चार्ल्स लायल"
+        },
+        {
+          "en": "Arthur Holmes",
+          "hi": "आर्थर होम्स"
+        },
+        {
+          "en": "Harry Hess",
+          "hi": "हैरी हेस"
+        },
+        {
+          "en": "Alfred Wegener",
+          "hi": "अल्फ़्रेड वेगेनर"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He set it out in 1912, long before plate tectonics.",
+        "hi": "उन्होंने 1912 में इसे रखा, प्लेट टेक्टोनिक्स से बहुत पहले।"
+      },
+      "detailedExplanation": {
+        "en": "He set it out in 1912, long before plate tectonics.",
+        "hi": "उन्होंने 1912 में इसे रखा, प्लेट टेक्टोनिक्स से बहुत पहले।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "ecfba27b6f1c7494",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 632
+    },
+    {
+      "id": "DRAFT-DQ-0633",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who first measured the speed of light using Jupiter's moons?",
+        "hi": "बृहस्पति के उपग्रहों से प्रकाश की गति सबसे पहले किसने मापी?"
+      },
+      "options": [
+        {
+          "en": "Albert Michelson",
+          "hi": "अल्बर्ट माइकलसन"
+        },
+        {
+          "en": "Hippolyte Fizeau",
+          "hi": "इपोलित फ़िज़ो"
+        },
+        {
+          "en": "Christiaan Huygens",
+          "hi": "क्रिस्टियान हाइगेंस"
+        },
+        {
+          "en": "Ole Rømer",
+          "hi": "ओले रोमर"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He noticed their eclipses came late when Earth was farther away.",
+        "hi": "उन्होंने देखा कि पृथ्वी दूर होने पर ग्रहण देर से होते हैं।"
+      },
+      "detailedExplanation": {
+        "en": "He noticed their eclipses came late when Earth was farther away.",
+        "hi": "उन्होंने देखा कि पृथ्वी दूर होने पर ग्रहण देर से होते हैं।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "fea4d01da47b1a9d",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 633
+    },
+    {
+      "id": "DRAFT-DQ-0634",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who first demonstrated nuclear fission in the laboratory?",
+        "hi": "प्रयोगशाला में नाभिकीय विखंडन सबसे पहले किसने प्रदर्शित किया?"
+      },
+      "options": [
+        {
+          "en": "Niels Bohr",
+          "hi": "नील्स बोर"
+        },
+        {
+          "en": "Otto Hahn",
+          "hi": "ओटो हान"
+        },
+        {
+          "en": "Lise Meitner",
+          "hi": "लाइज़ मेइटनर"
+        },
+        {
+          "en": "Enrico Fermi",
+          "hi": "एनरिको फ़र्मी"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He split uranium nuclei in 1938.",
+        "hi": "उन्होंने 1938 में यूरेनियम के नाभिक तोड़े।"
+      },
+      "detailedExplanation": {
+        "en": "He split uranium nuclei in 1938.",
+        "hi": "उन्होंने 1938 में यूरेनियम के नाभिक तोड़े।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "af47010bb57dc29c",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 634
+    },
+    {
+      "id": "DRAFT-DQ-0635",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who proposed the wave theory of light?",
+        "hi": "प्रकाश का तरंग सिद्धांत किसने प्रस्तावित किया?"
+      },
+      "options": [
+        {
+          "en": "Isaac Newton",
+          "hi": "आइज़क न्यूटन"
+        },
+        {
+          "en": "Christiaan Huygens",
+          "hi": "क्रिस्टियान हाइगेंस"
+        },
+        {
+          "en": "Augustin-Jean Fresnel",
+          "hi": "ऑगस्टां-जीन फ़्रेनेल"
+        },
+        {
+          "en": "Thomas Young",
+          "hi": "थॉमस यंग"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He published it in 1690, against Newton's particle view.",
+        "hi": "उन्होंने 1690 में इसे प्रकाशित किया, न्यूटन के कण मत के विरुद्ध।"
+      },
+      "detailedExplanation": {
+        "en": "He published it in 1690, against Newton's particle view.",
+        "hi": "उन्होंने 1690 में इसे प्रकाशित किया, न्यूटन के कण मत के विरुद्ध।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "9b125fc3e8829ed8",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 635
+    },
+    {
+      "id": "DRAFT-DQ-0636",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who showed that a comet returns on a predictable elliptical orbit?",
+        "hi": "धूमकेतु अनुमानित दीर्घवृत्त कक्षा में लौटता है यह किसने दिखाया?"
+      },
+      "options": [
+        {
+          "en": "Isaac Newton",
+          "hi": "Isaac Newton"
+        },
+        {
+          "en": "Edmund Halley",
+          "hi": "Edmund Halley"
+        },
+        {
+          "en": "Giovanni Cassini",
+          "hi": "Giovanni Cassini"
+        },
+        {
+          "en": "Johannes Hevelius",
+          "hi": "Johannes Hevelius"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "The comet named after him returned in 1758.",
+        "hi": "उन्हीं के नाम वाला धूमकेतु 1758 में लौटा।"
+      },
+      "detailedExplanation": {
+        "en": "The comet named after him returned in 1758.",
+        "hi": "उन्हीं के नाम वाला धूमकेतु 1758 में लौटा।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "8e93feca071a205b",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 636
+    },
+    {
+      "id": "DRAFT-DQ-0637",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who is credited with the earliest patent for a telescope?",
+        "hi": "दूरबीन के सबसे पहले पेटेंट का श्रेय किसे जाता है?"
+      },
+      "options": [
+        {
+          "en": "Hans Lippershey",
+          "hi": "हंस लिपरशी"
+        },
+        {
+          "en": "Zacharias Janssen",
+          "hi": "ज़ैकरियास जानसेन"
+        },
+        {
+          "en": "Galileo Galilei",
+          "hi": "गैलीलियो गैलिली"
+        },
+        {
+          "en": "Isaac Newton",
+          "hi": "आइज़क न्यूटन"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He applied in the Netherlands in 1608.",
+        "hi": "उन्होंने 1608 में नीदरलैंड में आवेदन किया।"
+      },
+      "detailedExplanation": {
+        "en": "He applied in the Netherlands in 1608.",
+        "hi": "उन्होंने 1608 में नीदरलैंड में आवेदन किया।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "1fa146d1f21faf11",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 637
+    },
+    {
+      "id": "DRAFT-DQ-0638",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who proposed the ring structure of benzene?",
+        "hi": "बेंज़ीन की वलय संरचना किसने प्रस्तावित की?"
+      },
+      "options": [
+        {
+          "en": "Justus von Liebig",
+          "hi": "यूस्टस वॉन लीबिग"
+        },
+        {
+          "en": "August Kekulé",
+          "hi": "ऑगस्ट केकुले"
+        },
+        {
+          "en": "Jacobus van't Hoff",
+          "hi": "याकोबस वान्ट हॉफ़"
+        },
+        {
+          "en": "Friedrich Wöhler",
+          "hi": "फ़्रीडरिक वोहलर"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He described a dream of a snake biting its own tail.",
+        "hi": "उन्होंने अपनी पूँछ काटते साँप के सपने का वर्णन किया।"
+      },
+      "detailedExplanation": {
+        "en": "He described a dream of a snake biting its own tail.",
+        "hi": "उन्होंने अपनी पूँछ काटते साँप के सपने का वर्णन किया।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "cf9af0436f1df528",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 638
+    },
+    {
+      "id": "DRAFT-DQ-0639",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who introduced the idea that energy comes in discrete quanta?",
+        "hi": "ऊर्जा असतत क्वांटा में आती है यह विचार किसने दिया?"
+      },
+      "options": [
+        {
+          "en": "Max Planck",
+          "hi": "मैक्स प्लांक"
+        },
+        {
+          "en": "Louis de Broglie",
+          "hi": "लुई डी ब्रॉग्ली"
+        },
+        {
+          "en": "Wolfgang Pauli",
+          "hi": "वोल्फ़गैंग पाउली"
+        },
+        {
+          "en": "Werner Heisenberg",
+          "hi": "वर्नर हाइज़ेनबर्ग"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He published it in 1900 to explain black-body radiation.",
+        "hi": "उन्होंने 1900 में कृष्णिका विकिरण समझाने के लिए इसे प्रकाशित किया।"
+      },
+      "detailedExplanation": {
+        "en": "He published it in 1900 to explain black-body radiation.",
+        "hi": "उन्होंने 1900 में कृष्णिका विकिरण समझाने के लिए इसे प्रकाशित किया।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "e84996d04d6dbe29",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 639
+    },
+    {
+      "id": "DRAFT-DQ-0640",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who first measured the charge on a single electron?",
+        "hi": "एक इलेक्ट्रॉन पर आवेश सबसे पहले किसने मापा?"
+      },
+      "options": [
+        {
+          "en": "Hendrik Lorentz",
+          "hi": "हेंड्रिक लोरेंत्ज़"
+        },
+        {
+          "en": "J.J. Thomson",
+          "hi": "जे.जे. थॉमसन"
+        },
+        {
+          "en": "Robert Millikan",
+          "hi": "रॉबर्ट मिलिकन"
+        },
+        {
+          "en": "Philipp Lenard",
+          "hi": "फ़िलिप लेनार्ड"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He used the oil drop experiment.",
+        "hi": "उन्होंने तेल बूँद प्रयोग किया।"
+      },
+      "detailedExplanation": {
+        "en": "He used the oil drop experiment.",
+        "hi": "उन्होंने तेल बूँद प्रयोग किया।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "9a6b85c279c8907f",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 640
+    },
+    {
+      "id": "DRAFT-DQ-0641",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who coined the English word scientist?",
+        "hi": "अंग्रेज़ी शब्द साइंटिस्ट किसने गढ़ा?"
+      },
+      "options": [
+        {
+          "en": "John Herschel",
+          "hi": "जॉन हरशेल"
+        },
+        {
+          "en": "Michael Faraday",
+          "hi": "माइकल फैराडे"
+        },
+        {
+          "en": "William Whewell",
+          "hi": "विलियम ह्यूवेल"
+        },
+        {
+          "en": "Charles Babbage",
+          "hi": "चार्ल्स बैबेज"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He suggested it in 1833; before that they were natural philosophers.",
+        "hi": "उन्होंने 1833 में इसे सुझाया; पहले उन्हें प्राकृतिक दार्शनिक कहा जाता था।"
+      },
+      "detailedExplanation": {
+        "en": "He suggested it in 1833; before that they were natural philosophers.",
+        "hi": "उन्होंने 1833 में इसे सुझाया; पहले उन्हें प्राकृतिक दार्शनिक कहा जाता था।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "dfe563452fc3d4b7",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 641
+    },
+    {
+      "id": "DRAFT-DQ-0642",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who formulated the uncertainty principle?",
+        "hi": "अनिश्चितता सिद्धांत किसने प्रतिपादित किया?"
+      },
+      "options": [
+        {
+          "en": "Max Born",
+          "hi": "मैक्स बॉर्न"
+        },
+        {
+          "en": "Werner Heisenberg",
+          "hi": "वर्नर हाइज़ेनबर्ग"
+        },
+        {
+          "en": "Erwin Schrödinger",
+          "hi": "एर्विन श्रोडिंगर"
+        },
+        {
+          "en": "Paul Dirac",
+          "hi": "पॉल डिरैक"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It sets a limit on knowing position and momentum together.",
+        "hi": "यह स्थिति और संवेग को एक साथ जानने की सीमा तय करता है।"
+      },
+      "detailedExplanation": {
+        "en": "It sets a limit on knowing position and momentum together.",
+        "hi": "यह स्थिति और संवेग को एक साथ जानने की सीमा तय करता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "1c02b3edb9aa90dd",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 642
+    },
+    {
+      "id": "DRAFT-DQ-0643",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Whose X-ray diffraction photograph was crucial to solving DNA's structure?",
+        "hi": "डीएनए की संरचना सुलझाने में किसका एक्स-रे विवर्तन छायाचित्र निर्णायक रहा?"
+      },
+      "options": [
+        {
+          "en": "Jocelyn Bell Burnell",
+          "hi": "जोसेलिन बेल बर्नेल"
+        },
+        {
+          "en": "Rosalind Franklin",
+          "hi": "रोज़लिंड फ़्रैंकलिन"
+        },
+        {
+          "en": "Dorothy Hodgkin",
+          "hi": "डोरोथी हॉजकिन"
+        },
+        {
+          "en": "Barbara McClintock",
+          "hi": "बारबरा मैक्लिंटॉक"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "The image is known as Photograph 51.",
+        "hi": "इस छवि को फ़ोटोग्राफ़ 51 कहा जाता है।"
+      },
+      "detailedExplanation": {
+        "en": "The image is known as Photograph 51.",
+        "hi": "इस छवि को फ़ोटोग्राफ़ 51 कहा जाता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "7ba9a27d81534885",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 643
+    },
+    {
+      "id": "DRAFT-DQ-0644",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who established the law of conservation of mass?",
+        "hi": "द्रव्यमान संरक्षण का नियम किसने स्थापित किया?"
+      },
+      "options": [
+        {
+          "en": "Robert Boyle",
+          "hi": "Robert Boyle"
+        },
+        {
+          "en": "Carl Wilhelm Scheele",
+          "hi": "Carl Wilhelm Scheele"
+        },
+        {
+          "en": "Antoine Lavoisier",
+          "hi": "Antoine Lavoisier"
+        },
+        {
+          "en": "Joseph Priestley",
+          "hi": "Joseph Priestley"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He is often called the father of modern chemistry.",
+        "hi": "उन्हें प्रायः आधुनिक रसायन का जनक कहा जाता है।"
+      },
+      "detailedExplanation": {
+        "en": "He is often called the father of modern chemistry.",
+        "hi": "उन्हें प्रायः आधुनिक रसायन का जनक कहा जाता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "f3b561694239a234",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 644
+    },
+    {
+      "id": "DRAFT-DQ-0645",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who first detected helium in the Sun's spectrum?",
+        "hi": "सूर्य के स्पेक्ट्रम में हीलियम की पहचान सबसे पहले किसने की?"
+      },
+      "options": [
+        {
+          "en": "Angelo Secchi",
+          "hi": "एंजेलो सेकी"
+        },
+        {
+          "en": "Gustav Kirchhoff",
+          "hi": "गुस्ताव किरखॉफ़"
+        },
+        {
+          "en": "William Ramsay",
+          "hi": "विलियम रैम्ज़े"
+        },
+        {
+          "en": "Norman Lockyer",
+          "hi": "नॉर्मन लॉकयर"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "The element was named after the Greek word for the Sun.",
+        "hi": "तत्व का नाम यूनानी में सूर्य के शब्द पर रखा गया।"
+      },
+      "detailedExplanation": {
+        "en": "The element was named after the Greek word for the Sun.",
+        "hi": "तत्व का नाम यूनानी में सूर्य के शब्द पर रखा गया।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "b430023358821a3e",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 645
+    },
+    {
+      "id": "DRAFT-DQ-0646",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Whose observations showed that the universe is expanding?",
+        "hi": "ब्रह्मांड के विस्तार को किसके अवलोकनों ने दिखाया?"
+      },
+      "options": [
+        {
+          "en": "Vesto Slipher",
+          "hi": "वेस्टो स्लाइफ़र"
+        },
+        {
+          "en": "Arno Penzias",
+          "hi": "आर्नो पेंज़ियास"
+        },
+        {
+          "en": "Harlow Shapley",
+          "hi": "हार्लो शेपली"
+        },
+        {
+          "en": "Edwin Hubble",
+          "hi": "एडविन हबल"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He found galaxies receding faster the farther away they are.",
+        "hi": "उन्होंने पाया कि जो आकाशगंगा जितनी दूर है उतनी तेज़ी से हटती है।"
+      },
+      "detailedExplanation": {
+        "en": "He found galaxies receding faster the farther away they are.",
+        "hi": "उन्होंने पाया कि जो आकाशगंगा जितनी दूर है उतनी तेज़ी से हटती है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "a42e5022f37c4a86",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 646
+    },
+    {
+      "id": "DRAFT-DQ-0647",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who first crystallised a virus?",
+        "hi": "किसी विषाणु को सबसे पहले किसने क्रिस्टलीकृत किया?"
+      },
+      "options": [
+        {
+          "en": "Wendell Stanley",
+          "hi": "वेंडेल स्टेनली"
+        },
+        {
+          "en": "Thomas Rivers",
+          "hi": "थॉमस रिवर्स"
+        },
+        {
+          "en": "Dmitri Ivanovsky",
+          "hi": "दिमित्री इवानोव्स्की"
+        },
+        {
+          "en": "Martinus Beijerinck",
+          "hi": "मार्टिनस बेइजेरिंक"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He worked on the tobacco mosaic virus.",
+        "hi": "उन्होंने तम्बाकू मोज़ेक विषाणु पर काम किया।"
+      },
+      "detailedExplanation": {
+        "en": "He worked on the tobacco mosaic virus.",
+        "hi": "उन्होंने तम्बाकू मोज़ेक विषाणु पर काम किया।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "34a31e777a94cc65",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 647
+    },
+    {
+      "id": "DRAFT-DQ-0648",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who proposed that electrons occupy fixed energy levels in an atom?",
+        "hi": "परमाणु में इलेक्ट्रॉन निश्चित ऊर्जा स्तरों में रहते हैं यह किसने प्रस्तावित किया?"
+      },
+      "options": [
+        {
+          "en": "Arnold Sommerfeld",
+          "hi": "अर्नोल्ड सोमरफ़ेल्ड"
+        },
+        {
+          "en": "Max Planck",
+          "hi": "मैक्स प्लांक"
+        },
+        {
+          "en": "Niels Bohr",
+          "hi": "नील्स बोर"
+        },
+        {
+          "en": "Ernest Rutherford",
+          "hi": "अर्नेस्ट रदरफ़ोर्ड"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "His model explained hydrogen's spectral lines.",
+        "hi": "उनके मॉडल ने हाइड्रोजन की स्पेक्ट्रमी रेखाएँ समझाईं।"
+      },
+      "detailedExplanation": {
+        "en": "His model explained hydrogen's spectral lines.",
+        "hi": "उनके मॉडल ने हाइड्रोजन की स्पेक्ट्रमी रेखाएँ समझाईं।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "ab39a64bb5d03510",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 648
+    },
+    {
+      "id": "DRAFT-DQ-0649",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "TOP-SCI-HIST",
+      "conceptIds": [],
+      "question": {
+        "en": "Who first demonstrated electromagnetic waves in the laboratory?",
+        "hi": "विद्युत चुम्बकीय तरंगें प्रयोगशाला में सबसे पहले किसने प्रदर्शित कीं?"
+      },
+      "options": [
+        {
+          "en": "Heinrich Hertz",
+          "hi": "हाइनरिक हर्ट्ज़"
+        },
+        {
+          "en": "Michael Faraday",
+          "hi": "माइकल फैराडे"
+        },
+        {
+          "en": "Oliver Lodge",
+          "hi": "ओलिवर लॉज"
+        },
+        {
+          "en": "James Clerk Maxwell",
+          "hi": "जेम्स क्लर्क मैक्सवेल"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "The unit of frequency is named after him.",
+        "hi": "आवृत्ति की इकाई उन्हीं के नाम पर है।"
+      },
+      "detailedExplanation": {
+        "en": "The unit of frequency is named after him.",
+        "hi": "आवृत्ति की इकाई उन्हीं के नाम पर है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "077caadfa77b0b95",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 649
+    },
+    {
+      "id": "DRAFT-DQ-0650",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which rocket carried India's first satellite into orbit?",
+        "hi": "भारत के पहले उपग्रह को कक्षा में किस रॉकेट ने पहुँचाया?"
+      },
+      "options": [
+        {
+          "en": "Delta",
+          "hi": "डेल्टा"
+        },
+        {
+          "en": "Scout",
+          "hi": "स्काउट"
+        },
+        {
+          "en": "Kosmos-3M",
+          "hi": "कॉस्मोस-3एम"
+        },
+        {
+          "en": "SLV-3",
+          "hi": "एसएलवी-3"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "The Soviet Union launched Aryabhata on India's behalf.",
+        "hi": "सोवियत संघ ने भारत की ओर से आर्यभट्ट प्रक्षेपित किया।"
+      },
+      "detailedExplanation": {
+        "en": "The Soviet Union launched Aryabhata on India's behalf.",
+        "hi": "सोवियत संघ ने भारत की ओर से आर्यभट्ट प्रक्षेपित किया।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "94639dfde0641a0c",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 650
+    },
+    {
+      "id": "DRAFT-DQ-0651",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which was India's first experimental communications satellite?",
+        "hi": "भारत का पहला प्रायोगिक संचार उपग्रह कौन सा था?"
+      },
+      "options": [
+        {
+          "en": "Aryabhata",
+          "hi": "Aryabhata"
+        },
+        {
+          "en": "APPLE",
+          "hi": "APPLE"
+        },
+        {
+          "en": "Rohini",
+          "hi": "Rohini"
+        },
+        {
+          "en": "Bhaskara",
+          "hi": "Bhaskara"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "The Ariane Passenger Payload Experiment flew in 1981.",
+        "hi": "एरियन पैसेंजर पेलोड एक्सपेरिमेंट 1981 में उड़ा।"
+      },
+      "detailedExplanation": {
+        "en": "The Ariane Passenger Payload Experiment flew in 1981.",
+        "hi": "एरियन पैसेंजर पेलोड एक्सपेरिमेंट 1981 में उड़ा।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "7eef096dbd8c3be0",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 651
+    },
+    {
+      "id": "DRAFT-DQ-0652",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Who was the second woman of Indian origin to fly in space?",
+        "hi": "अंतरिक्ष में उड़ने वाली भारतीय मूल की दूसरी महिला कौन थीं?"
+      },
+      "options": [
+        {
+          "en": "Meera Nair",
+          "hi": "मीरा नायर"
+        },
+        {
+          "en": "Kalpana Chawla",
+          "hi": "कल्पना चावला"
+        },
+        {
+          "en": "Sunita Williams",
+          "hi": "सुनीता विलियम्स"
+        },
+        {
+          "en": "Nisha Patel",
+          "hi": "निशा पटेल"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Kalpana Chawla had flown five years earlier.",
+        "hi": "कल्पना चावला पाँच वर्ष पहले उड़ चुकी थीं।"
+      },
+      "detailedExplanation": {
+        "en": "Kalpana Chawla had flown five years earlier.",
+        "hi": "कल्पना चावला पाँच वर्ष पहले उड़ चुकी थीं।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "8741d9a614361129",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 652
+    },
+    {
+      "id": "DRAFT-DQ-0653",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "What is the name of India's regional navigation satellite constellation?",
+        "hi": "भारत के क्षेत्रीय नेविगेशन उपग्रह मंडल का नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "IRNSS",
+          "hi": "आईआरएनएसएस"
+        },
+        {
+          "en": "Galileo",
+          "hi": "गैलिलियो"
+        },
+        {
+          "en": "BeiDou",
+          "hi": "बीदोउ"
+        },
+        {
+          "en": "GLONASS",
+          "hi": "ग्लोनास"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It is marketed to users as NavIC.",
+        "hi": "उपयोगकर्ताओं के लिए इसे नेविक नाम से प्रचारित किया जाता है।"
+      },
+      "detailedExplanation": {
+        "en": "It is marketed to users as NavIC.",
+        "hi": "उपयोगकर्ताओं के लिए इसे नेविक नाम से प्रचारित किया जाता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "4bd7708582f1a86a",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 653
+    },
+    {
+      "id": "DRAFT-DQ-0654",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "What is ISRO's reusable launch vehicle test demonstrator called?",
+        "hi": "इसरो के पुनः प्रयोज्य प्रक्षेपण यान परीक्षण प्रदर्शक का नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "RLV-TD",
+          "hi": "आरएलवी-टीडी"
+        },
+        {
+          "en": "SSLV",
+          "hi": "एसएसएलवी"
+        },
+        {
+          "en": "AVATAR",
+          "hi": "अवतार"
+        },
+        {
+          "en": "PSLV-DL",
+          "hi": "पीएसएलवी-डीएल"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Its first flight in 2016 ended in a sea splashdown.",
+        "hi": "इसकी 2016 की पहली उड़ान समुद्र में उतरकर समाप्त हुई।"
+      },
+      "detailedExplanation": {
+        "en": "Its first flight in 2016 ended in a sea splashdown.",
+        "hi": "इसकी 2016 की पहली उड़ान समुद्र में उतरकर समाप्त हुई।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "2511a38c3759e922",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 654
+    },
+    {
+      "id": "DRAFT-DQ-0655",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "How many satellites did a single PSLV flight carry in its 2017 record launch?",
+        "hi": "2017 के रिकॉर्ड प्रक्षेपण में एक ही पीएसएलवी उड़ान ने कितने उपग्रह ले गए?"
+      },
+      "options": [
+        {
+          "en": "56",
+          "hi": "56"
+        },
+        {
+          "en": "20",
+          "hi": "20"
+        },
+        {
+          "en": "104",
+          "hi": "104"
+        },
+        {
+          "en": "10",
+          "hi": "10"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Most belonged to foreign customers.",
+        "hi": "इनमें से अधिकतर विदेशी ग्राहकों के थे।"
+      },
+      "detailedExplanation": {
+        "en": "Most belonged to foreign customers.",
+        "hi": "इनमें से अधिकतर विदेशी ग्राहकों के थे।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "97466d5f08d9ecf2",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 655
+    },
+    {
+      "id": "DRAFT-DQ-0656",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which was India's first rocket launching station?",
+        "hi": "भारत का पहला रॉकेट प्रक्षेपण केंद्र कौन सा था?"
+      },
+      "options": [
+        {
+          "en": "Sriharikota",
+          "hi": "श्रीहरिकोटा"
+        },
+        {
+          "en": "Kulasekarapattinam",
+          "hi": "कुलसेकरपट्टिनम"
+        },
+        {
+          "en": "Balasore",
+          "hi": "बालासोर"
+        },
+        {
+          "en": "Thumba",
+          "hi": "तुम्बा"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It is in Kerala, near the magnetic equator.",
+        "hi": "यह केरल में, चुम्बकीय भूमध्य रेखा के पास है।"
+      },
+      "detailedExplanation": {
+        "en": "It is in Kerala, near the magnetic equator.",
+        "hi": "यह केरल में, चुम्बकीय भूमध्य रेखा के पास है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "7e022830542b3928",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 656
+    },
+    {
+      "id": "DRAFT-DQ-0657",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "In which year was the Indian National Committee for Space Research formed?",
+        "hi": "भारतीय राष्ट्रीय अंतरिक्ष अनुसंधान समिति की स्थापना किस वर्ष हुई?"
+      },
+      "options": [
+        {
+          "en": "1958",
+          "hi": "1958"
+        },
+        {
+          "en": "1972",
+          "hi": "1972"
+        },
+        {
+          "en": "1962",
+          "hi": "1962"
+        },
+        {
+          "en": "1969",
+          "hi": "1969"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "ISRO grew out of this committee.",
+        "hi": "इसी समिति से इसरो विकसित हुआ।"
+      },
+      "detailedExplanation": {
+        "en": "ISRO grew out of this committee.",
+        "hi": "इसी समिति से इसरो विकसित हुआ।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "09f243922b1961de",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 657
+    },
+    {
+      "id": "DRAFT-DQ-0658",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "ISRO functions under which department of the Government of India?",
+        "hi": "इसरो भारत सरकार के किस विभाग के अधीन कार्य करता है?"
+      },
+      "options": [
+        {
+          "en": "The Department of Science and Technology",
+          "hi": "विज्ञान और प्रौद्योगिकी विभाग"
+        },
+        {
+          "en": "The Ministry of Home Affairs",
+          "hi": "गृह मंत्रालय"
+        },
+        {
+          "en": "The Department of Space",
+          "hi": "अंतरिक्ष विभाग"
+        },
+        {
+          "en": "The Ministry of Electronics",
+          "hi": "इलेक्ट्रॉनिकी मंत्रालय"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It was set up in 1972 to oversee the programme.",
+        "hi": "कार्यक्रम के निरीक्षण के लिए इसे 1972 में बनाया गया।"
+      },
+      "detailedExplanation": {
+        "en": "It was set up in 1972 to oversee the programme.",
+        "hi": "कार्यक्रम के निरीक्षण के लिए इसे 1972 में बनाया गया।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "d4433bb33d322202",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 658
+    },
+    {
+      "id": "DRAFT-DQ-0659",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "In which year did Chandrayaan-3 land on the Moon?",
+        "hi": "चंद्रयान-3 चंद्रमा पर किस वर्ष उतरा?"
+      },
+      "options": [
+        {
+          "en": "2016",
+          "hi": "2016"
+        },
+        {
+          "en": "2019",
+          "hi": "2019"
+        },
+        {
+          "en": "2021",
+          "hi": "2021"
+        },
+        {
+          "en": "2023",
+          "hi": "2023"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "The landing took place near the lunar south pole.",
+        "hi": "यह लैंडिंग चंद्रमा के दक्षिणी ध्रुव के पास हुई।"
+      },
+      "detailedExplanation": {
+        "en": "The landing took place near the lunar south pole.",
+        "hi": "यह लैंडिंग चंद्रमा के दक्षिणी ध्रुव के पास हुई।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "7b5fdc505fcd3a85",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 659
+    },
+    {
+      "id": "DRAFT-DQ-0660",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "In which year did Mangalyaan enter orbit around Mars?",
+        "hi": "मंगलयान मंगल की कक्षा में किस वर्ष पहुँचा?"
+      },
+      "options": [
+        {
+          "en": "2012",
+          "hi": "2012"
+        },
+        {
+          "en": "2017",
+          "hi": "2017"
+        },
+        {
+          "en": "2014",
+          "hi": "2014"
+        },
+        {
+          "en": "2010",
+          "hi": "2010"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "India succeeded on its first attempt.",
+        "hi": "भारत अपने पहले ही प्रयास में सफल हुआ।"
+      },
+      "detailedExplanation": {
+        "en": "India succeeded on its first attempt.",
+        "hi": "भारत अपने पहले ही प्रयास में सफल हुआ।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "dd55d53d72f17da3",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 660
+    },
+    {
+      "id": "DRAFT-DQ-0661",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "What is the name of India's second lunar mission?",
+        "hi": "भारत के दूसरे चंद्र मिशन का नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "Chandrayaan-2",
+          "hi": "चंद्रयान-2"
+        },
+        {
+          "en": "Aditya-L1",
+          "hi": "आदित्य-एल1"
+        },
+        {
+          "en": "Mangalyaan-2",
+          "hi": "मंगलयान-2"
+        },
+        {
+          "en": "Chandrayaan-1",
+          "hi": "चंद्रयान-1"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Its lander Vikram crashed but the orbiter still works.",
+        "hi": "इसका लैंडर विक्रम दुर्घटनाग्रस्त हुआ पर ऑर्बिटर अब भी कार्यरत है।"
+      },
+      "detailedExplanation": {
+        "en": "Its lander Vikram crashed but the orbiter still works.",
+        "hi": "इसका लैंडर विक्रम दुर्घटनाग्रस्त हुआ पर ऑर्बिटर अब भी कार्यरत है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "2f50e1b6eb2c18b3",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 661
+    },
+    {
+      "id": "DRAFT-DQ-0662",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which Indian satellite series was built for communication services?",
+        "hi": "संचार सेवाओं के लिए कौन सी भारतीय उपग्रह श्रृंखला बनाई गई?"
+      },
+      "options": [
+        {
+          "en": "Cartosat",
+          "hi": "कार्टोसैट"
+        },
+        {
+          "en": "INSAT",
+          "hi": "इंसेट"
+        },
+        {
+          "en": "RISAT",
+          "hi": "रिसैट"
+        },
+        {
+          "en": "IRS",
+          "hi": "आईआरएस"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It carries transponders for broadcasting and telephony.",
+        "hi": "इसमें प्रसारण और टेलीफ़ोनी के लिए ट्रांसपोंडर होते हैं।"
+      },
+      "detailedExplanation": {
+        "en": "It carries transponders for broadcasting and telephony.",
+        "hi": "इसमें प्रसारण और टेलीफ़ोनी के लिए ट्रांसपोंडर होते हैं।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "f5565b55c2b2ef4c",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 662
+    },
+    {
+      "id": "DRAFT-DQ-0663",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which site has India planned as a second spaceport for small satellites?",
+        "hi": "छोटे उपग्रहों के लिए भारत ने दूसरा अंतरिक्ष बंदरगाह किस स्थान पर योजनाबद्ध किया है?"
+      },
+      "options": [
+        {
+          "en": "Kochi",
+          "hi": "कोच्चि"
+        },
+        {
+          "en": "Visakhapatnam",
+          "hi": "विशाखापत्तनम"
+        },
+        {
+          "en": "Kulasekarapattinam",
+          "hi": "कुलसेकरपट्टिनम"
+        },
+        {
+          "en": "Port Blair",
+          "hi": "पोर्ट ब्लेयर"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It is on the Tamil Nadu coast.",
+        "hi": "यह तमिलनाडु के तट पर है।"
+      },
+      "detailedExplanation": {
+        "en": "It is on the Tamil Nadu coast.",
+        "hi": "यह तमिलनाडु के तट पर है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "104819a8d8e0473f",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 663
+    },
+    {
+      "id": "DRAFT-DQ-0664",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which body authorises private companies to carry out space activity in India?",
+        "hi": "भारत में निजी कंपनियों को अंतरिक्ष गतिविधि की अनुमति कौन देता है?"
+      },
+      "options": [
+        {
+          "en": "NSIL",
+          "hi": "एनएसआईएल"
+        },
+        {
+          "en": "Antrix",
+          "hi": "एंट्रिक्स"
+        },
+        {
+          "en": "IN-SPACe",
+          "hi": "इन-स्पेस"
+        },
+        {
+          "en": "DRDO",
+          "hi": "डीआरडीओ"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It began work in 2020.",
+        "hi": "इसने 2020 में कार्य आरंभ किया।"
+      },
+      "detailedExplanation": {
+        "en": "It began work in 2020.",
+        "hi": "इसने 2020 में कार्य आरंभ किया।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "f5949950f2c1bebc",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 664
+    },
+    {
+      "id": "DRAFT-DQ-0665",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "In which city is ISRO's Space Applications Centre located?",
+        "hi": "इसरो का स्पेस एप्लीकेशन्स सेंटर किस शहर में है?"
+      },
+      "options": [
+        {
+          "en": "Ahmedabad",
+          "hi": "अहमदाबाद"
+        },
+        {
+          "en": "Hyderabad",
+          "hi": "हैदराबाद"
+        },
+        {
+          "en": "Bengaluru",
+          "hi": "बेंगलुरु"
+        },
+        {
+          "en": "Thiruvananthapuram",
+          "hi": "तिरुवनंतपुरम"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It develops payloads rather than launch vehicles.",
+        "hi": "यह प्रक्षेपण यान के बजाय पेलोड विकसित करता है।"
+      },
+      "detailedExplanation": {
+        "en": "It develops payloads rather than launch vehicles.",
+        "hi": "यह प्रक्षेपण यान के बजाय पेलोड विकसित करता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "3933bf3351ef6109",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 665
+    },
+    {
+      "id": "DRAFT-DQ-0666",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which is ISRO's smallest launch vehicle, built for small satellites?",
+        "hi": "छोटे उपग्रहों के लिए बना इसरो का सबसे छोटा प्रक्षेपण यान कौन सा है?"
+      },
+      "options": [
+        {
+          "en": "PSLV",
+          "hi": "पीएसएलवी"
+        },
+        {
+          "en": "GSLV Mk II",
+          "hi": "जीएसएलवी एमके-2"
+        },
+        {
+          "en": "SSLV",
+          "hi": "एसएसएलवी"
+        },
+        {
+          "en": "LVM3",
+          "hi": "एलवीएम3"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It is designed to be assembled in days rather than months.",
+        "hi": "इसे महीनों के बजाय दिनों में जोड़ने के लिए बनाया गया है।"
+      },
+      "detailedExplanation": {
+        "en": "It is designed to be assembled in days rather than months.",
+        "hi": "इसे महीनों के बजाय दिनों में जोड़ने के लिए बनाया गया है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "22aa299399544046",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 666
+    },
+    {
+      "id": "DRAFT-DQ-0667",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "What was India's first remote sensing satellite?",
+        "hi": "भारत का पहला रिमोट सेंसिंग उपग्रह कौन सा था?"
+      },
+      "options": [
+        {
+          "en": "Cartosat-1",
+          "hi": "कार्टोसैट-1"
+        },
+        {
+          "en": "IRS-1A",
+          "hi": "आईआरएस-1ए"
+        },
+        {
+          "en": "Oceansat-1",
+          "hi": "ओशियनसैट-1"
+        },
+        {
+          "en": "Resourcesat-1",
+          "hi": "रिसोर्ससैट-1"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It was launched in 1988.",
+        "hi": "इसे 1988 में प्रक्षेपित किया गया।"
+      },
+      "detailedExplanation": {
+        "en": "It was launched in 1988.",
+        "hi": "इसे 1988 में प्रक्षेपित किया गया।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "cfd7412d1cb06526",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 667
+    },
+    {
+      "id": "DRAFT-DQ-0668",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which is India's first dedicated radar imaging satellite?",
+        "hi": "भारत का पहला समर्पित रडार इमेजिंग उपग्रह कौन सा है?"
+      },
+      "options": [
+        {
+          "en": "Cartosat-2",
+          "hi": "कार्टोसैट-2"
+        },
+        {
+          "en": "RISAT-1",
+          "hi": "रिसैट-1"
+        },
+        {
+          "en": "HySIS",
+          "hi": "हायसिस"
+        },
+        {
+          "en": "EMISAT",
+          "hi": "इमिसैट"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Radar sees through cloud and darkness.",
+        "hi": "रडार बादल और अंधेरे के पार देख सकता है।"
+      },
+      "detailedExplanation": {
+        "en": "Radar sees through cloud and darkness.",
+        "hi": "रडार बादल और अंधेरे के पार देख सकता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "a383dcc0af1cde5e",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 668
+    },
+    {
+      "id": "DRAFT-DQ-0669",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "What name has India given to its planned space station?",
+        "hi": "भारत ने अपने प्रस्तावित अंतरिक्ष केंद्र को क्या नाम दिया है?"
+      },
+      "options": [
+        {
+          "en": "Mir",
+          "hi": "मीर"
+        },
+        {
+          "en": "Bharatiya Antariksh Station",
+          "hi": "भारतीय अंतरिक्ष स्टेशन"
+        },
+        {
+          "en": "Tiangong",
+          "hi": "तियांगोंग"
+        },
+        {
+          "en": "Skylab",
+          "hi": "स्काईलैब"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It is intended to follow the crewed missions.",
+        "hi": "यह मानवयुक्त मिशनों के बाद बनाया जाना है।"
+      },
+      "detailedExplanation": {
+        "en": "It is intended to follow the crewed missions.",
+        "hi": "यह मानवयुक्त मिशनों के बाद बनाया जाना है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "9b077da27addfee5",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 669
+    },
+    {
+      "id": "DRAFT-DQ-0670",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which Indian satellite was offered to South Asian nations as a gift?",
+        "hi": "किस भारतीय उपग्रह को दक्षिण एशियाई देशों को उपहार में दिया गया?"
+      },
+      "options": [
+        {
+          "en": "GSAT-11",
+          "hi": "जीसैट-11"
+        },
+        {
+          "en": "GSAT-9",
+          "hi": "जीसैट-9"
+        },
+        {
+          "en": "GSAT-7",
+          "hi": "जीसैट-7"
+        },
+        {
+          "en": "GSAT-20",
+          "hi": "जीसैट-20"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It is also called the South Asia Satellite.",
+        "hi": "इसे दक्षिण एशिया उपग्रह भी कहा जाता है।"
+      },
+      "detailedExplanation": {
+        "en": "It is also called the South Asia Satellite.",
+        "hi": "इसे दक्षिण एशिया उपग्रह भी कहा जाता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "310af60c99e4a985",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 670
+    },
+    {
+      "id": "DRAFT-DQ-0671",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which device crashed into the Moon as part of Chandrayaan-1?",
+        "hi": "चंद्रयान-1 के भाग के रूप में चंद्रमा से कौन सा उपकरण टकराया?"
+      },
+      "options": [
+        {
+          "en": "Pragyan",
+          "hi": "प्रज्ञान"
+        },
+        {
+          "en": "The Moon Impact Probe",
+          "hi": "मून इम्पैक्ट प्रोब"
+        },
+        {
+          "en": "Aditya",
+          "hi": "आदित्य"
+        },
+        {
+          "en": "Vikram",
+          "hi": "विक्रम"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It carried the Indian flag painted on its side.",
+        "hi": "इसके किनारे पर भारतीय ध्वज बना था।"
+      },
+      "detailedExplanation": {
+        "en": "It carried the Indian flag painted on its side.",
+        "hi": "इसके किनारे पर भारतीय ध्वज बना था।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "6b6a305c053ff879",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 671
+    },
+    {
+      "id": "DRAFT-DQ-0672",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which Indian company launched the country's first private rocket?",
+        "hi": "देश का पहला निजी रॉकेट किस भारतीय कंपनी ने प्रक्षेपित किया?"
+      },
+      "options": [
+        {
+          "en": "Agnikul Cosmos",
+          "hi": "एग्निकुल कॉस्मस"
+        },
+        {
+          "en": "Skyroot Aerospace",
+          "hi": "स्काईरूट एयरोस्पेस"
+        },
+        {
+          "en": "Pixxel",
+          "hi": "पिक्सेल"
+        },
+        {
+          "en": "Bellatrix Aerospace",
+          "hi": "बेलाट्रिक्स एयरोस्पेस"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "The flight took place in November 2022.",
+        "hi": "यह उड़ान नवंबर 2022 में हुई।"
+      },
+      "detailedExplanation": {
+        "en": "The flight took place in November 2022.",
+        "hi": "यह उड़ान नवंबर 2022 में हुई।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "7befa8f05dfaa250",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 672
+    },
+    {
+      "id": "DRAFT-DQ-0673",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "What is the name of India's first private rocket?",
+        "hi": "भारत के पहले निजी रॉकेट का नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "Dhawan",
+          "hi": "धवन"
+        },
+        {
+          "en": "Agnibaan",
+          "hi": "अग्निबाण"
+        },
+        {
+          "en": "Prarambh",
+          "hi": "प्रारंभ"
+        },
+        {
+          "en": "Vikram-S",
+          "hi": "विक्रम-एस"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It was a sub-orbital technology test.",
+        "hi": "यह एक उप-कक्षीय तकनीकी परीक्षण था।"
+      },
+      "detailedExplanation": {
+        "en": "It was a sub-orbital technology test.",
+        "hi": "यह एक उप-कक्षीय तकनीकी परीक्षण था।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "78185ee45cd108aa",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 673
+    },
+    {
+      "id": "DRAFT-DQ-0674",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which mission has India proposed to send to Venus?",
+        "hi": "भारत ने शुक्र पर भेजने के लिए किस मिशन का प्रस्ताव रखा है?"
+      },
+      "options": [
+        {
+          "en": "SPADEX",
+          "hi": "स्पेडेक्स"
+        },
+        {
+          "en": "Aditya-L1",
+          "hi": "आदित्य-एल1"
+        },
+        {
+          "en": "Mangalyaan",
+          "hi": "मंगलयान"
+        },
+        {
+          "en": "Shukrayaan",
+          "hi": "शुक्रयान"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It would study the planet's thick atmosphere.",
+        "hi": "यह ग्रह के घने वायुमंडल का अध्ययन करेगा।"
+      },
+      "detailedExplanation": {
+        "en": "It would study the planet's thick atmosphere.",
+        "hi": "यह ग्रह के घने वायुमंडल का अध्ययन करेगा।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "339ddb0a2d1df3c3",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 674
+    },
+    {
+      "id": "DRAFT-DQ-0675",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which is India's first dedicated military communication satellite?",
+        "hi": "भारत का पहला समर्पित सैन्य संचार उपग्रह कौन सा है?"
+      },
+      "options": [
+        {
+          "en": "GSAT-7",
+          "hi": "जीसैट-7"
+        },
+        {
+          "en": "GSAT-9",
+          "hi": "जीसैट-9"
+        },
+        {
+          "en": "Cartosat-2A",
+          "hi": "कार्टोसैट-2ए"
+        },
+        {
+          "en": "EMISAT",
+          "hi": "इमिसैट"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It serves naval communications.",
+        "hi": "यह नौसेना संचार के लिए है।"
+      },
+      "detailedExplanation": {
+        "en": "It serves naval communications.",
+        "hi": "यह नौसेना संचार के लिए है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "1075511d29fa3b03",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 675
+    },
+    {
+      "id": "DRAFT-DQ-0676",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which ISRO test vehicle demonstrated an air-breathing scramjet engine?",
+        "hi": "इसरो के किस परीक्षण यान ने वायु-श्वसन स्क्रैमजेट इंजन प्रदर्शित किया?"
+      },
+      "options": [
+        {
+          "en": "SSLV-D1",
+          "hi": "एसएसएलवी-डी1"
+        },
+        {
+          "en": "PSLV-C1",
+          "hi": "पीएसएलवी-सी1"
+        },
+        {
+          "en": "The Advanced Technology Vehicle",
+          "hi": "एडवांस्ड टेक्नोलॉजी व्हीकल"
+        },
+        {
+          "en": "RLV-TD",
+          "hi": "आरएलवी-टीडी"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Scramjets take their oxygen from the air rather than a tank.",
+        "hi": "स्क्रैमजेट ऑक्सीजन टंकी से नहीं वायु से लेते हैं।"
+      },
+      "detailedExplanation": {
+        "en": "Scramjets take their oxygen from the air rather than a tank.",
+        "hi": "स्क्रैमजेट ऑक्सीजन टंकी से नहीं वायु से लेते हैं।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "9bbfc8f52a8ad4b4",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 676
+    },
+    {
+      "id": "DRAFT-DQ-0677",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "In which city is ISRO's Liquid Propulsion Systems Centre located?",
+        "hi": "इसरो का लिक्विड प्रोपल्शन सिस्टम्स सेंटर किस शहर में है?"
+      },
+      "options": [
+        {
+          "en": "Mahendragiri",
+          "hi": "महेंद्रगिरि"
+        },
+        {
+          "en": "Ahmedabad",
+          "hi": "अहमदाबाद"
+        },
+        {
+          "en": "Thiruvananthapuram",
+          "hi": "तिरुवनंतपुरम"
+        },
+        {
+          "en": "Bengaluru",
+          "hi": "बेंगलुरु"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Its engine test facility is at Mahendragiri.",
+        "hi": "इसका इंजन परीक्षण सुविधा महेंद्रगिरि में है।"
+      },
+      "detailedExplanation": {
+        "en": "Its engine test facility is at Mahendragiri.",
+        "hi": "इसका इंजन परीक्षण सुविधा महेंद्रगिरि में है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "176c54790b7079b5",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 677
+    },
+    {
+      "id": "DRAFT-DQ-0678",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which ISRO mission first demonstrated docking between two Indian spacecraft?",
+        "hi": "दो भारतीय अंतरिक्ष यानों के बीच डॉकिंग सबसे पहले किस इसरो मिशन ने प्रदर्शित की?"
+      },
+      "options": [
+        {
+          "en": "Aditya-L1",
+          "hi": "आदित्य-एल1"
+        },
+        {
+          "en": "SPADEX",
+          "hi": "स्पेडेक्स"
+        },
+        {
+          "en": "Chandrayaan-2",
+          "hi": "चंद्रयान-2"
+        },
+        {
+          "en": "Gaganyaan",
+          "hi": "गगनयान"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "The technology is needed for a crewed space station.",
+        "hi": "मानवयुक्त अंतरिक्ष केंद्र के लिए यह तकनीक आवश्यक है।"
+      },
+      "detailedExplanation": {
+        "en": "The technology is needed for a crewed space station.",
+        "hi": "मानवयुक्त अंतरिक्ष केंद्र के लिए यह तकनीक आवश्यक है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "5853fb828ab87d11",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 678
+    },
+    {
+      "id": "DRAFT-DQ-0679",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which Indian rocket first reached orbit with an indigenous cryogenic upper stage?",
+        "hi": "स्वदेशी क्रायोजेनिक ऊपरी चरण के साथ कक्षा तक पहुँचने वाला पहला भारतीय रॉकेट कौन सा था?"
+      },
+      "options": [
+        {
+          "en": "The LVM3-M1",
+          "hi": "The LVM3-M1"
+        },
+        {
+          "en": "The ASLV-D1",
+          "hi": "The ASLV-D1"
+        },
+        {
+          "en": "The PSLV-C3",
+          "hi": "The PSLV-C3"
+        },
+        {
+          "en": "The GSLV-D5",
+          "hi": "The GSLV-D5"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "The flight took place in January 2014.",
+        "hi": "यह उड़ान जनवरी 2014 में हुई।"
+      },
+      "detailedExplanation": {
+        "en": "The flight took place in January 2014.",
+        "hi": "यह उड़ान जनवरी 2014 में हुई।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "b361dabc6fe8737b",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 679
+    },
+    {
+      "id": "DRAFT-DQ-0680",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "TOP-IND-SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which was India's first dedicated meteorological satellite?",
+        "hi": "भारत का पहला समर्पित मौसम विज्ञान उपग्रह कौन सा था?"
+      },
+      "options": [
+        {
+          "en": "Kalpana-1",
+          "hi": "कल्पना-1"
+        },
+        {
+          "en": "Megha-Tropiques",
+          "hi": "मेघा-ट्रॉपिक्स"
+        },
+        {
+          "en": "INSAT-3D",
+          "hi": "इंसेट-3डी"
+        },
+        {
+          "en": "SCATSAT-1",
+          "hi": "स्कैटसैट-1"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It was renamed after the astronaut Kalpana Chawla.",
+        "hi": "अंतरिक्ष यात्री कल्पना चावला के नाम पर इसका नाम बदला गया।"
+      },
+      "detailedExplanation": {
+        "en": "It was renamed after the astronaut Kalpana Chawla.",
+        "hi": "अंतरिक्ष यात्री कल्पना चावला के नाम पर इसका नाम बदला गया।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "c37c473ccf757083",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 680
     }
   ]
 }

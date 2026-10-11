@@ -59,6 +59,30 @@
    "gapTo50": 0
   },
   {
+   "id": "IND-SPACE",
+   "title": "India in space",
+   "topics": [
+    "TOP-IND-SPACE"
+   ],
+   "questionCount": 50,
+   "subtopics": [
+    "India — space"
+   ],
+   "gapTo50": 0
+  },
+  {
+   "id": "SCI-HIST",
+   "title": "History of science",
+   "topics": [
+    "TOP-SCI-HIST"
+   ],
+   "questionCount": 50,
+   "subtopics": [
+    "Science history"
+   ],
+   "gapTo50": 0
+  },
+  {
    "id": "SCI-BIO",
    "title": "Biology, body & health",
    "topics": [
@@ -230,39 +254,15 @@
     "Environment"
    ],
    "gapTo50": 29
-  },
-  {
-   "id": "IND-SPACE",
-   "title": "India in space",
-   "topics": [
-    "TOP-IND-SPACE"
-   ],
-   "questionCount": 19,
-   "subtopics": [
-    "India — space"
-   ],
-   "gapTo50": 31
-  },
-  {
-   "id": "SCI-HIST",
-   "title": "History of science",
-   "topics": [
-    "TOP-SCI-HIST"
-   ],
-   "questionCount": 19,
-   "subtopics": [
-    "Science history"
-   ],
-   "gapTo50": 31
   }
  ],
  "totals": {
-  "questions": 618,
+  "questions": 680,
   "subjects": 18,
   "topics": 18,
   "targetPerTopic": 50,
   "targetTotal": 900,
-  "stillNeeded": 320
+  "stillNeeded": 258
  },
  "topicGranularity": "CONSOLIDATED_TO_SUBJECT_LEVEL — 48 authoring categories were merged into one topic per subject so that a 50-question-per-topic target is reachable. The fine grouping is preserved verbatim in each question's `category` field and in git history."
 }

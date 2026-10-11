@@ -1,8 +1,8 @@
 # Draft question bank — unique, meta-word free
 
-Generated 2026-10-11T07:39:39.563Z by `node scripts/question-lint.mjs --write`.
+Generated 2026-10-11T14:48:22.603Z by `node scripts/question-lint.mjs --write`.
 
-- 618 questions, 618 distinct stems, 618 distinct fingerprints
+- 680 questions, 680 distinct stems, 680 distinct fingerprints
 - Banned meta-language scan: 0 hits
 - Duplication scan: 0 hits
 - Lifecycle: DRAFT_PENDING_REVIEW — not eligible for practice until human review accepts them (see `src/domain.ts eligible()`).
@@ -10510,6 +10510,1060 @@ Source: PENDING-EVIDENCE · MEDIUM
 > सम्मान बाद में, प्रायः वसंत में प्रदान किए जाते हैं।
 
 Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 619. Who first isolated fluorine in its pure form?
+**फ़्लोरीन को शुद्ध रूप में सबसे पहले किसने अलग किया?**
+
+- A. Henri Moissan — Henri Moissan
+- B. Paul Sabatier — Paul Sabatier
+- C. Victor Grignard — Victor Grignard
+- D. Henri Le Chatelier — Henri Le Chatelier
+
+**Answer: A. Henri Moissan**
+
+> He used electrolysis in 1886.
+> उन्होंने 1886 में विद्युत अपघटन से यह किया।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 620. Who is usually credited with the discovery of oxygen?
+**ऑक्सीजन की खोज का श्रेय आमतौर पर किसे दिया जाता है?**
+
+- A. Henry Cavendish — हेनरी कैवेंडिश
+- B. Joseph Priestley — जोसेफ़ प्रीस्टली
+- C. Joseph Black — जोसेफ़ ब्लैक
+- D. Amedeo Avogadro — आमेदेओ अवोगाद्रो
+
+**Answer: B. Joseph Priestley**
+
+> He called the gas dephlogisticated air.
+> उन्होंने इस गैस को डीफ़्लॉजिस्टिकेटेड एयर कहा।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 621. Who measured the gravitational constant with a torsion balance?
+**गुरुत्वांक को मरोड़ तुला से किसने मापा?**
+
+- A. Charles Hutton — Charles Hutton
+- B. John Michell — John Michell
+- C. Nevil Maskelyne — Nevil Maskelyne
+- D. Henry Cavendish — Henry Cavendish
+
+**Answer: D. Henry Cavendish**
+
+> He also weighed the Earth from it.
+> उन्होंने इससे पृथ्वी का भार भी निकाला।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 622. In which year was the special theory of relativity published?
+**विशिष्ट सापेक्षता का सिद्धांत किस वर्ष प्रकाशित हुआ?**
+
+- A. 1915 — 1915
+- B. 1925 — 1925
+- C. 1895 — 1895
+- D. 1905 — 1905
+
+**Answer: D. 1905**
+
+> The general theory followed a decade later.
+> सामान्य सिद्धांत एक दशक बाद आया।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 623. Who first observed and named cells while looking at cork?
+**कॉर्क को देखते हुए कोशिकाओं का पहली बार अवलोकन और नामकरण किसने किया?**
+
+- A. Matthias Schleiden — मैथियास श्लाइडेन
+- B. Robert Hooke — रॉबर्ट हुक
+- C. Theodor Schwann — थियोडोर श्वान
+- D. Antonie van Leeuwenhoek — एंटोनी वान लीउवेनहोक
+
+**Answer: B. Robert Hooke**
+
+> He described them in Micrographia in 1665.
+> उन्होंने 1665 में माइक्रोग्राफ़िया में इनका वर्णन किया।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 624. Who discovered gamma rays?
+**गामा किरणों की खोज किसने की?**
+
+- A. Ernest Rutherford — Ernest Rutherford
+- B. Paul Villard — Paul Villard
+- C. Charles Glover Barkla — Charles Glover Barkla
+- D. Frederick Soddy — Frederick Soddy
+
+**Answer: B. Paul Villard**
+
+> He found them while studying radium.
+> उन्होंने इन्हें रेडियम का अध्ययन करते समय पाया।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 625. Who patented the first practical wireless telegraph system?
+**पहले व्यावहारिक बेतार टेलीग्राफ़ तंत्र का पेटेंट किसने कराया?**
+
+- A. Heinrich Hertz — Heinrich Hertz
+- B. Oliver Lodge — Oliver Lodge
+- C. Nikola Tesla — Nikola Tesla
+- D. Guglielmo Marconi — Guglielmo Marconi
+
+**Answer: D. Guglielmo Marconi**
+
+> He sent a signal across the Atlantic in 1901.
+> उन्होंने 1901 में अटलांटिक के पार संकेत भेजा।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 626. Who first determined the Avogadro constant experimentally?
+**अवोगाद्रो स्थिरांक प्रयोग से सबसे पहले किसने निर्धारित किया?**
+
+- A. Josef Loschmidt — Josef Loschmidt
+- B. Amedeo Avogadro — Amedeo Avogadro
+- C. Robert Millikan — Robert Millikan
+- D. Jean Perrin — Jean Perrin
+
+**Answer: D. Jean Perrin**
+
+> He studied the motion of suspended particles.
+> उन्होंने निलंबित कणों की गति का अध्ययन किया।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 627. Who proposed that the atom has a small dense nucleus?
+**परमाणु में एक छोटा सघन नाभिक होने का प्रस्ताव किसने दिया?**
+
+- A. J.J. Thomson — जे.जे. थॉमसन
+- B. Ernest Rutherford — अर्नेस्ट रदरफ़ोर्ड
+- C. Erwin Schrödinger — एर्विन श्रोडिंगर
+- D. Niels Bohr — नील्स बोर
+
+**Answer: B. Ernest Rutherford**
+
+> His gold foil experiment showed most of the atom is empty space.
+> उनके गोल्ड फ़ॉइल प्रयोग ने दिखाया कि परमाणु का अधिकतर भाग खाली है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 628. Who discovered artificial radioactivity?
+**कृत्रिम रेडियोधर्मिता की खोज किसने की?**
+
+- A. Frédéric Joliot-Curie — Frédéric Joliot-Curie
+- B. Enrico Fermi — Enrico Fermi
+- C. Otto Hahn — Otto Hahn
+- D. James Chadwick — James Chadwick
+
+**Answer: A. Frédéric Joliot-Curie**
+
+> He shared the 1935 chemistry prize for it.
+> इसके लिए उन्हें 1935 का रसायन पुरस्कार मिला।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 629. Who discovered the neutron?
+**न्यूट्रॉन की खोज किसने की?**
+
+- A. James Chadwick — जेम्स चैडविक
+- B. Ernest Rutherford — अर्नेस्ट रदरफ़ोर्ड
+- C. Enrico Fermi — एनरिको फ़र्मी
+- D. Otto Hahn — ओटो हान
+
+**Answer: A. James Chadwick**
+
+> He published the result in 1932.
+> उन्होंने 1932 में यह परिणाम प्रकाशित किया।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 630. Who identified the bacterium that causes tuberculosis?
+**क्षय रोग उत्पन्न करने वाले जीवाणु की पहचान किसने की?**
+
+- A. Ronald Ross — रोनाल्ड रॉस
+- B. Emil von Behring — एमिल वॉन बेहरिंग
+- C. Paul Ehrlich — पॉल एरलिख
+- D. Robert Koch — रॉबर्ट कोख
+
+**Answer: D. Robert Koch**
+
+> His postulates set the standard for linking a germ to a disease.
+> उनके अभिगृहीत किसी रोगाणु को बीमारी से जोड़ने का मानक बने।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 631. Who first observed the capillaries linking arteries to veins?
+**धमनियों को शिराओं से जोड़ने वाली केशिकाओं का अवलोकन सबसे पहले किसने किया?**
+
+- A. Realdo Colombo — Realdo Colombo
+- B. Jan Swammerdam — Jan Swammerdam
+- C. Marcello Malpighi — Marcello Malpighi
+- D. William Harvey — William Harvey
+
+**Answer: C. Marcello Malpighi**
+
+> He used an early microscope on frog lungs.
+> उन्होंने मेंढक के फेफड़ों पर आरंभिक सूक्ष्मदर्शी से देखा।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 632. Who proposed the theory of continental drift?
+**महाद्वीपीय विस्थापन का सिद्धांत किसने प्रस्तावित किया?**
+
+- A. Charles Lyell — चार्ल्स लायल
+- B. Arthur Holmes — आर्थर होम्स
+- C. Harry Hess — हैरी हेस
+- D. Alfred Wegener — अल्फ़्रेड वेगेनर
+
+**Answer: D. Alfred Wegener**
+
+> He set it out in 1912, long before plate tectonics.
+> उन्होंने 1912 में इसे रखा, प्लेट टेक्टोनिक्स से बहुत पहले।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 633. Who first measured the speed of light using Jupiter's moons?
+**बृहस्पति के उपग्रहों से प्रकाश की गति सबसे पहले किसने मापी?**
+
+- A. Albert Michelson — अल्बर्ट माइकलसन
+- B. Hippolyte Fizeau — इपोलित फ़िज़ो
+- C. Christiaan Huygens — क्रिस्टियान हाइगेंस
+- D. Ole Rømer — ओले रोमर
+
+**Answer: D. Ole Rømer**
+
+> He noticed their eclipses came late when Earth was farther away.
+> उन्होंने देखा कि पृथ्वी दूर होने पर ग्रहण देर से होते हैं।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 634. Who first demonstrated nuclear fission in the laboratory?
+**प्रयोगशाला में नाभिकीय विखंडन सबसे पहले किसने प्रदर्शित किया?**
+
+- A. Niels Bohr — नील्स बोर
+- B. Otto Hahn — ओटो हान
+- C. Lise Meitner — लाइज़ मेइटनर
+- D. Enrico Fermi — एनरिको फ़र्मी
+
+**Answer: B. Otto Hahn**
+
+> He split uranium nuclei in 1938.
+> उन्होंने 1938 में यूरेनियम के नाभिक तोड़े।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 635. Who proposed the wave theory of light?
+**प्रकाश का तरंग सिद्धांत किसने प्रस्तावित किया?**
+
+- A. Isaac Newton — आइज़क न्यूटन
+- B. Christiaan Huygens — क्रिस्टियान हाइगेंस
+- C. Augustin-Jean Fresnel — ऑगस्टां-जीन फ़्रेनेल
+- D. Thomas Young — थॉमस यंग
+
+**Answer: B. Christiaan Huygens**
+
+> He published it in 1690, against Newton's particle view.
+> उन्होंने 1690 में इसे प्रकाशित किया, न्यूटन के कण मत के विरुद्ध।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 636. Who showed that a comet returns on a predictable elliptical orbit?
+**धूमकेतु अनुमानित दीर्घवृत्त कक्षा में लौटता है यह किसने दिखाया?**
+
+- A. Isaac Newton — Isaac Newton
+- B. Edmund Halley — Edmund Halley
+- C. Giovanni Cassini — Giovanni Cassini
+- D. Johannes Hevelius — Johannes Hevelius
+
+**Answer: B. Edmund Halley**
+
+> The comet named after him returned in 1758.
+> उन्हीं के नाम वाला धूमकेतु 1758 में लौटा।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 637. Who is credited with the earliest patent for a telescope?
+**दूरबीन के सबसे पहले पेटेंट का श्रेय किसे जाता है?**
+
+- A. Hans Lippershey — हंस लिपरशी
+- B. Zacharias Janssen — ज़ैकरियास जानसेन
+- C. Galileo Galilei — गैलीलियो गैलिली
+- D. Isaac Newton — आइज़क न्यूटन
+
+**Answer: A. Hans Lippershey**
+
+> He applied in the Netherlands in 1608.
+> उन्होंने 1608 में नीदरलैंड में आवेदन किया।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 638. Who proposed the ring structure of benzene?
+**बेंज़ीन की वलय संरचना किसने प्रस्तावित की?**
+
+- A. Justus von Liebig — यूस्टस वॉन लीबिग
+- B. August Kekulé — ऑगस्ट केकुले
+- C. Jacobus van't Hoff — याकोबस वान्ट हॉफ़
+- D. Friedrich Wöhler — फ़्रीडरिक वोहलर
+
+**Answer: B. August Kekulé**
+
+> He described a dream of a snake biting its own tail.
+> उन्होंने अपनी पूँछ काटते साँप के सपने का वर्णन किया।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 639. Who introduced the idea that energy comes in discrete quanta?
+**ऊर्जा असतत क्वांटा में आती है यह विचार किसने दिया?**
+
+- A. Max Planck — मैक्स प्लांक
+- B. Louis de Broglie — लुई डी ब्रॉग्ली
+- C. Wolfgang Pauli — वोल्फ़गैंग पाउली
+- D. Werner Heisenberg — वर्नर हाइज़ेनबर्ग
+
+**Answer: A. Max Planck**
+
+> He published it in 1900 to explain black-body radiation.
+> उन्होंने 1900 में कृष्णिका विकिरण समझाने के लिए इसे प्रकाशित किया।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 640. Who first measured the charge on a single electron?
+**एक इलेक्ट्रॉन पर आवेश सबसे पहले किसने मापा?**
+
+- A. Hendrik Lorentz — हेंड्रिक लोरेंत्ज़
+- B. J.J. Thomson — जे.जे. थॉमसन
+- C. Robert Millikan — रॉबर्ट मिलिकन
+- D. Philipp Lenard — फ़िलिप लेनार्ड
+
+**Answer: C. Robert Millikan**
+
+> He used the oil drop experiment.
+> उन्होंने तेल बूँद प्रयोग किया।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 641. Who coined the English word scientist?
+**अंग्रेज़ी शब्द साइंटिस्ट किसने गढ़ा?**
+
+- A. John Herschel — जॉन हरशेल
+- B. Michael Faraday — माइकल फैराडे
+- C. William Whewell — विलियम ह्यूवेल
+- D. Charles Babbage — चार्ल्स बैबेज
+
+**Answer: C. William Whewell**
+
+> He suggested it in 1833; before that they were natural philosophers.
+> उन्होंने 1833 में इसे सुझाया; पहले उन्हें प्राकृतिक दार्शनिक कहा जाता था।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 642. Who formulated the uncertainty principle?
+**अनिश्चितता सिद्धांत किसने प्रतिपादित किया?**
+
+- A. Max Born — मैक्स बॉर्न
+- B. Werner Heisenberg — वर्नर हाइज़ेनबर्ग
+- C. Erwin Schrödinger — एर्विन श्रोडिंगर
+- D. Paul Dirac — पॉल डिरैक
+
+**Answer: B. Werner Heisenberg**
+
+> It sets a limit on knowing position and momentum together.
+> यह स्थिति और संवेग को एक साथ जानने की सीमा तय करता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 643. Whose X-ray diffraction photograph was crucial to solving DNA's structure?
+**डीएनए की संरचना सुलझाने में किसका एक्स-रे विवर्तन छायाचित्र निर्णायक रहा?**
+
+- A. Jocelyn Bell Burnell — जोसेलिन बेल बर्नेल
+- B. Rosalind Franklin — रोज़लिंड फ़्रैंकलिन
+- C. Dorothy Hodgkin — डोरोथी हॉजकिन
+- D. Barbara McClintock — बारबरा मैक्लिंटॉक
+
+**Answer: B. Rosalind Franklin**
+
+> The image is known as Photograph 51.
+> इस छवि को फ़ोटोग्राफ़ 51 कहा जाता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 644. Who established the law of conservation of mass?
+**द्रव्यमान संरक्षण का नियम किसने स्थापित किया?**
+
+- A. Robert Boyle — Robert Boyle
+- B. Carl Wilhelm Scheele — Carl Wilhelm Scheele
+- C. Antoine Lavoisier — Antoine Lavoisier
+- D. Joseph Priestley — Joseph Priestley
+
+**Answer: C. Antoine Lavoisier**
+
+> He is often called the father of modern chemistry.
+> उन्हें प्रायः आधुनिक रसायन का जनक कहा जाता है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 645. Who first detected helium in the Sun's spectrum?
+**सूर्य के स्पेक्ट्रम में हीलियम की पहचान सबसे पहले किसने की?**
+
+- A. Angelo Secchi — एंजेलो सेकी
+- B. Gustav Kirchhoff — गुस्ताव किरखॉफ़
+- C. William Ramsay — विलियम रैम्ज़े
+- D. Norman Lockyer — नॉर्मन लॉकयर
+
+**Answer: D. Norman Lockyer**
+
+> The element was named after the Greek word for the Sun.
+> तत्व का नाम यूनानी में सूर्य के शब्द पर रखा गया।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 646. Whose observations showed that the universe is expanding?
+**ब्रह्मांड के विस्तार को किसके अवलोकनों ने दिखाया?**
+
+- A. Vesto Slipher — वेस्टो स्लाइफ़र
+- B. Arno Penzias — आर्नो पेंज़ियास
+- C. Harlow Shapley — हार्लो शेपली
+- D. Edwin Hubble — एडविन हबल
+
+**Answer: D. Edwin Hubble**
+
+> He found galaxies receding faster the farther away they are.
+> उन्होंने पाया कि जो आकाशगंगा जितनी दूर है उतनी तेज़ी से हटती है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 647. Who first crystallised a virus?
+**किसी विषाणु को सबसे पहले किसने क्रिस्टलीकृत किया?**
+
+- A. Wendell Stanley — वेंडेल स्टेनली
+- B. Thomas Rivers — थॉमस रिवर्स
+- C. Dmitri Ivanovsky — दिमित्री इवानोव्स्की
+- D. Martinus Beijerinck — मार्टिनस बेइजेरिंक
+
+**Answer: A. Wendell Stanley**
+
+> He worked on the tobacco mosaic virus.
+> उन्होंने तम्बाकू मोज़ेक विषाणु पर काम किया।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 648. Who proposed that electrons occupy fixed energy levels in an atom?
+**परमाणु में इलेक्ट्रॉन निश्चित ऊर्जा स्तरों में रहते हैं यह किसने प्रस्तावित किया?**
+
+- A. Arnold Sommerfeld — अर्नोल्ड सोमरफ़ेल्ड
+- B. Max Planck — मैक्स प्लांक
+- C. Niels Bohr — नील्स बोर
+- D. Ernest Rutherford — अर्नेस्ट रदरफ़ोर्ड
+
+**Answer: C. Niels Bohr**
+
+> His model explained hydrogen's spectral lines.
+> उनके मॉडल ने हाइड्रोजन की स्पेक्ट्रमी रेखाएँ समझाईं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 649. Who first demonstrated electromagnetic waves in the laboratory?
+**विद्युत चुम्बकीय तरंगें प्रयोगशाला में सबसे पहले किसने प्रदर्शित कीं?**
+
+- A. Heinrich Hertz — हाइनरिक हर्ट्ज़
+- B. Michael Faraday — माइकल फैराडे
+- C. Oliver Lodge — ओलिवर लॉज
+- D. James Clerk Maxwell — जेम्स क्लर्क मैक्सवेल
+
+**Answer: A. Heinrich Hertz**
+
+> The unit of frequency is named after him.
+> आवृत्ति की इकाई उन्हीं के नाम पर है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 650. Which rocket carried India's first satellite into orbit?
+**भारत के पहले उपग्रह को कक्षा में किस रॉकेट ने पहुँचाया?**
+
+- A. Delta — डेल्टा
+- B. Scout — स्काउट
+- C. Kosmos-3M — कॉस्मोस-3एम
+- D. SLV-3 — एसएलवी-3
+
+**Answer: C. Kosmos-3M**
+
+> The Soviet Union launched Aryabhata on India's behalf.
+> सोवियत संघ ने भारत की ओर से आर्यभट्ट प्रक्षेपित किया।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 651. Which was India's first experimental communications satellite?
+**भारत का पहला प्रायोगिक संचार उपग्रह कौन सा था?**
+
+- A. Aryabhata — Aryabhata
+- B. APPLE — APPLE
+- C. Rohini — Rohini
+- D. Bhaskara — Bhaskara
+
+**Answer: B. APPLE**
+
+> The Ariane Passenger Payload Experiment flew in 1981.
+> एरियन पैसेंजर पेलोड एक्सपेरिमेंट 1981 में उड़ा।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 652. Who was the second woman of Indian origin to fly in space?
+**अंतरिक्ष में उड़ने वाली भारतीय मूल की दूसरी महिला कौन थीं?**
+
+- A. Meera Nair — मीरा नायर
+- B. Kalpana Chawla — कल्पना चावला
+- C. Sunita Williams — सुनीता विलियम्स
+- D. Nisha Patel — निशा पटेल
+
+**Answer: C. Sunita Williams**
+
+> Kalpana Chawla had flown five years earlier.
+> कल्पना चावला पाँच वर्ष पहले उड़ चुकी थीं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 653. What is the name of India's regional navigation satellite constellation?
+**भारत के क्षेत्रीय नेविगेशन उपग्रह मंडल का नाम क्या है?**
+
+- A. IRNSS — आईआरएनएसएस
+- B. Galileo — गैलिलियो
+- C. BeiDou — बीदोउ
+- D. GLONASS — ग्लोनास
+
+**Answer: A. IRNSS**
+
+> It is marketed to users as NavIC.
+> उपयोगकर्ताओं के लिए इसे नेविक नाम से प्रचारित किया जाता है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 654. What is ISRO's reusable launch vehicle test demonstrator called?
+**इसरो के पुनः प्रयोज्य प्रक्षेपण यान परीक्षण प्रदर्शक का नाम क्या है?**
+
+- A. RLV-TD — आरएलवी-टीडी
+- B. SSLV — एसएसएलवी
+- C. AVATAR — अवतार
+- D. PSLV-DL — पीएसएलवी-डीएल
+
+**Answer: A. RLV-TD**
+
+> Its first flight in 2016 ended in a sea splashdown.
+> इसकी 2016 की पहली उड़ान समुद्र में उतरकर समाप्त हुई।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 655. How many satellites did a single PSLV flight carry in its 2017 record launch?
+**2017 के रिकॉर्ड प्रक्षेपण में एक ही पीएसएलवी उड़ान ने कितने उपग्रह ले गए?**
+
+- A. 56 — 56
+- B. 20 — 20
+- C. 104 — 104
+- D. 10 — 10
+
+**Answer: C. 104**
+
+> Most belonged to foreign customers.
+> इनमें से अधिकतर विदेशी ग्राहकों के थे।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 656. Which was India's first rocket launching station?
+**भारत का पहला रॉकेट प्रक्षेपण केंद्र कौन सा था?**
+
+- A. Sriharikota — श्रीहरिकोटा
+- B. Kulasekarapattinam — कुलसेकरपट्टिनम
+- C. Balasore — बालासोर
+- D. Thumba — तुम्बा
+
+**Answer: D. Thumba**
+
+> It is in Kerala, near the magnetic equator.
+> यह केरल में, चुम्बकीय भूमध्य रेखा के पास है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 657. In which year was the Indian National Committee for Space Research formed?
+**भारतीय राष्ट्रीय अंतरिक्ष अनुसंधान समिति की स्थापना किस वर्ष हुई?**
+
+- A. 1958 — 1958
+- B. 1972 — 1972
+- C. 1962 — 1962
+- D. 1969 — 1969
+
+**Answer: C. 1962**
+
+> ISRO grew out of this committee.
+> इसी समिति से इसरो विकसित हुआ।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 658. ISRO functions under which department of the Government of India?
+**इसरो भारत सरकार के किस विभाग के अधीन कार्य करता है?**
+
+- A. The Department of Science and Technology — विज्ञान और प्रौद्योगिकी विभाग
+- B. The Ministry of Home Affairs — गृह मंत्रालय
+- C. The Department of Space — अंतरिक्ष विभाग
+- D. The Ministry of Electronics — इलेक्ट्रॉनिकी मंत्रालय
+
+**Answer: C. The Department of Space**
+
+> It was set up in 1972 to oversee the programme.
+> कार्यक्रम के निरीक्षण के लिए इसे 1972 में बनाया गया।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 659. In which year did Chandrayaan-3 land on the Moon?
+**चंद्रयान-3 चंद्रमा पर किस वर्ष उतरा?**
+
+- A. 2016 — 2016
+- B. 2019 — 2019
+- C. 2021 — 2021
+- D. 2023 — 2023
+
+**Answer: D. 2023**
+
+> The landing took place near the lunar south pole.
+> यह लैंडिंग चंद्रमा के दक्षिणी ध्रुव के पास हुई।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 660. In which year did Mangalyaan enter orbit around Mars?
+**मंगलयान मंगल की कक्षा में किस वर्ष पहुँचा?**
+
+- A. 2012 — 2012
+- B. 2017 — 2017
+- C. 2014 — 2014
+- D. 2010 — 2010
+
+**Answer: C. 2014**
+
+> India succeeded on its first attempt.
+> भारत अपने पहले ही प्रयास में सफल हुआ।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 661. What is the name of India's second lunar mission?
+**भारत के दूसरे चंद्र मिशन का नाम क्या है?**
+
+- A. Chandrayaan-2 — चंद्रयान-2
+- B. Aditya-L1 — आदित्य-एल1
+- C. Mangalyaan-2 — मंगलयान-2
+- D. Chandrayaan-1 — चंद्रयान-1
+
+**Answer: A. Chandrayaan-2**
+
+> Its lander Vikram crashed but the orbiter still works.
+> इसका लैंडर विक्रम दुर्घटनाग्रस्त हुआ पर ऑर्बिटर अब भी कार्यरत है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 662. Which Indian satellite series was built for communication services?
+**संचार सेवाओं के लिए कौन सी भारतीय उपग्रह श्रृंखला बनाई गई?**
+
+- A. Cartosat — कार्टोसैट
+- B. INSAT — इंसेट
+- C. RISAT — रिसैट
+- D. IRS — आईआरएस
+
+**Answer: B. INSAT**
+
+> It carries transponders for broadcasting and telephony.
+> इसमें प्रसारण और टेलीफ़ोनी के लिए ट्रांसपोंडर होते हैं।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 663. Which site has India planned as a second spaceport for small satellites?
+**छोटे उपग्रहों के लिए भारत ने दूसरा अंतरिक्ष बंदरगाह किस स्थान पर योजनाबद्ध किया है?**
+
+- A. Kochi — कोच्चि
+- B. Visakhapatnam — विशाखापत्तनम
+- C. Kulasekarapattinam — कुलसेकरपट्टिनम
+- D. Port Blair — पोर्ट ब्लेयर
+
+**Answer: C. Kulasekarapattinam**
+
+> It is on the Tamil Nadu coast.
+> यह तमिलनाडु के तट पर है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 664. Which body authorises private companies to carry out space activity in India?
+**भारत में निजी कंपनियों को अंतरिक्ष गतिविधि की अनुमति कौन देता है?**
+
+- A. NSIL — एनएसआईएल
+- B. Antrix — एंट्रिक्स
+- C. IN-SPACe — इन-स्पेस
+- D. DRDO — डीआरडीओ
+
+**Answer: C. IN-SPACe**
+
+> It began work in 2020.
+> इसने 2020 में कार्य आरंभ किया।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 665. In which city is ISRO's Space Applications Centre located?
+**इसरो का स्पेस एप्लीकेशन्स सेंटर किस शहर में है?**
+
+- A. Ahmedabad — अहमदाबाद
+- B. Hyderabad — हैदराबाद
+- C. Bengaluru — बेंगलुरु
+- D. Thiruvananthapuram — तिरुवनंतपुरम
+
+**Answer: A. Ahmedabad**
+
+> It develops payloads rather than launch vehicles.
+> यह प्रक्षेपण यान के बजाय पेलोड विकसित करता है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 666. Which is ISRO's smallest launch vehicle, built for small satellites?
+**छोटे उपग्रहों के लिए बना इसरो का सबसे छोटा प्रक्षेपण यान कौन सा है?**
+
+- A. PSLV — पीएसएलवी
+- B. GSLV Mk II — जीएसएलवी एमके-2
+- C. SSLV — एसएसएलवी
+- D. LVM3 — एलवीएम3
+
+**Answer: C. SSLV**
+
+> It is designed to be assembled in days rather than months.
+> इसे महीनों के बजाय दिनों में जोड़ने के लिए बनाया गया है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 667. What was India's first remote sensing satellite?
+**भारत का पहला रिमोट सेंसिंग उपग्रह कौन सा था?**
+
+- A. Cartosat-1 — कार्टोसैट-1
+- B. IRS-1A — आईआरएस-1ए
+- C. Oceansat-1 — ओशियनसैट-1
+- D. Resourcesat-1 — रिसोर्ससैट-1
+
+**Answer: B. IRS-1A**
+
+> It was launched in 1988.
+> इसे 1988 में प्रक्षेपित किया गया।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 668. Which is India's first dedicated radar imaging satellite?
+**भारत का पहला समर्पित रडार इमेजिंग उपग्रह कौन सा है?**
+
+- A. Cartosat-2 — कार्टोसैट-2
+- B. RISAT-1 — रिसैट-1
+- C. HySIS — हायसिस
+- D. EMISAT — इमिसैट
+
+**Answer: B. RISAT-1**
+
+> Radar sees through cloud and darkness.
+> रडार बादल और अंधेरे के पार देख सकता है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 669. What name has India given to its planned space station?
+**भारत ने अपने प्रस्तावित अंतरिक्ष केंद्र को क्या नाम दिया है?**
+
+- A. Mir — मीर
+- B. Bharatiya Antariksh Station — भारतीय अंतरिक्ष स्टेशन
+- C. Tiangong — तियांगोंग
+- D. Skylab — स्काईलैब
+
+**Answer: B. Bharatiya Antariksh Station**
+
+> It is intended to follow the crewed missions.
+> यह मानवयुक्त मिशनों के बाद बनाया जाना है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 670. Which Indian satellite was offered to South Asian nations as a gift?
+**किस भारतीय उपग्रह को दक्षिण एशियाई देशों को उपहार में दिया गया?**
+
+- A. GSAT-11 — जीसैट-11
+- B. GSAT-9 — जीसैट-9
+- C. GSAT-7 — जीसैट-7
+- D. GSAT-20 — जीसैट-20
+
+**Answer: B. GSAT-9**
+
+> It is also called the South Asia Satellite.
+> इसे दक्षिण एशिया उपग्रह भी कहा जाता है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 671. Which device crashed into the Moon as part of Chandrayaan-1?
+**चंद्रयान-1 के भाग के रूप में चंद्रमा से कौन सा उपकरण टकराया?**
+
+- A. Pragyan — प्रज्ञान
+- B. The Moon Impact Probe — मून इम्पैक्ट प्रोब
+- C. Aditya — आदित्य
+- D. Vikram — विक्रम
+
+**Answer: B. The Moon Impact Probe**
+
+> It carried the Indian flag painted on its side.
+> इसके किनारे पर भारतीय ध्वज बना था।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 672. Which Indian company launched the country's first private rocket?
+**देश का पहला निजी रॉकेट किस भारतीय कंपनी ने प्रक्षेपित किया?**
+
+- A. Agnikul Cosmos — एग्निकुल कॉस्मस
+- B. Skyroot Aerospace — स्काईरूट एयरोस्पेस
+- C. Pixxel — पिक्सेल
+- D. Bellatrix Aerospace — बेलाट्रिक्स एयरोस्पेस
+
+**Answer: B. Skyroot Aerospace**
+
+> The flight took place in November 2022.
+> यह उड़ान नवंबर 2022 में हुई।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 673. What is the name of India's first private rocket?
+**भारत के पहले निजी रॉकेट का नाम क्या है?**
+
+- A. Dhawan — धवन
+- B. Agnibaan — अग्निबाण
+- C. Prarambh — प्रारंभ
+- D. Vikram-S — विक्रम-एस
+
+**Answer: D. Vikram-S**
+
+> It was a sub-orbital technology test.
+> यह एक उप-कक्षीय तकनीकी परीक्षण था।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 674. Which mission has India proposed to send to Venus?
+**भारत ने शुक्र पर भेजने के लिए किस मिशन का प्रस्ताव रखा है?**
+
+- A. SPADEX — स्पेडेक्स
+- B. Aditya-L1 — आदित्य-एल1
+- C. Mangalyaan — मंगलयान
+- D. Shukrayaan — शुक्रयान
+
+**Answer: D. Shukrayaan**
+
+> It would study the planet's thick atmosphere.
+> यह ग्रह के घने वायुमंडल का अध्ययन करेगा।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 675. Which is India's first dedicated military communication satellite?
+**भारत का पहला समर्पित सैन्य संचार उपग्रह कौन सा है?**
+
+- A. GSAT-7 — जीसैट-7
+- B. GSAT-9 — जीसैट-9
+- C. Cartosat-2A — कार्टोसैट-2ए
+- D. EMISAT — इमिसैट
+
+**Answer: A. GSAT-7**
+
+> It serves naval communications.
+> यह नौसेना संचार के लिए है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 676. Which ISRO test vehicle demonstrated an air-breathing scramjet engine?
+**इसरो के किस परीक्षण यान ने वायु-श्वसन स्क्रैमजेट इंजन प्रदर्शित किया?**
+
+- A. SSLV-D1 — एसएसएलवी-डी1
+- B. PSLV-C1 — पीएसएलवी-सी1
+- C. The Advanced Technology Vehicle — एडवांस्ड टेक्नोलॉजी व्हीकल
+- D. RLV-TD — आरएलवी-टीडी
+
+**Answer: C. The Advanced Technology Vehicle**
+
+> Scramjets take their oxygen from the air rather than a tank.
+> स्क्रैमजेट ऑक्सीजन टंकी से नहीं वायु से लेते हैं।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 677. In which city is ISRO's Liquid Propulsion Systems Centre located?
+**इसरो का लिक्विड प्रोपल्शन सिस्टम्स सेंटर किस शहर में है?**
+
+- A. Mahendragiri — महेंद्रगिरि
+- B. Ahmedabad — अहमदाबाद
+- C. Thiruvananthapuram — तिरुवनंतपुरम
+- D. Bengaluru — बेंगलुरु
+
+**Answer: C. Thiruvananthapuram**
+
+> Its engine test facility is at Mahendragiri.
+> इसका इंजन परीक्षण सुविधा महेंद्रगिरि में है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 678. Which ISRO mission first demonstrated docking between two Indian spacecraft?
+**दो भारतीय अंतरिक्ष यानों के बीच डॉकिंग सबसे पहले किस इसरो मिशन ने प्रदर्शित की?**
+
+- A. Aditya-L1 — आदित्य-एल1
+- B. SPADEX — स्पेडेक्स
+- C. Chandrayaan-2 — चंद्रयान-2
+- D. Gaganyaan — गगनयान
+
+**Answer: B. SPADEX**
+
+> The technology is needed for a crewed space station.
+> मानवयुक्त अंतरिक्ष केंद्र के लिए यह तकनीक आवश्यक है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 679. Which Indian rocket first reached orbit with an indigenous cryogenic upper stage?
+**स्वदेशी क्रायोजेनिक ऊपरी चरण के साथ कक्षा तक पहुँचने वाला पहला भारतीय रॉकेट कौन सा था?**
+
+- A. The LVM3-M1 — The LVM3-M1
+- B. The ASLV-D1 — The ASLV-D1
+- C. The PSLV-C3 — The PSLV-C3
+- D. The GSLV-D5 — The GSLV-D5
+
+**Answer: D. The GSLV-D5**
+
+> The flight took place in January 2014.
+> यह उड़ान जनवरी 2014 में हुई।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 680. Which was India's first dedicated meteorological satellite?
+**भारत का पहला समर्पित मौसम विज्ञान उपग्रह कौन सा था?**
+
+- A. Kalpana-1 — कल्पना-1
+- B. Megha-Tropiques — मेघा-ट्रॉपिक्स
+- C. INSAT-3D — इंसेट-3डी
+- D. SCATSAT-1 — स्कैटसैट-1
+
+**Answer: A. Kalpana-1**
+
+> It was renamed after the astronaut Kalpana Chawla.
+> अंतरिक्ष यात्री कल्पना चावला के नाम पर इसका नाम बदला गया।
+
+Source: PENDING-EVIDENCE · HARD
 
 ---
 
