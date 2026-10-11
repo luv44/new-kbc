@@ -5,16 +5,18 @@
 // Usage: node scripts/question-lint.mjs [--write]
 // With --write it emits content/questions/DRAFT_UNIQUE_QUESTIONS.json and .md from the approved parts.
 
-import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, readdirSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
-const PARTS = [
-  'part-01-physical-world', 'part-02-india', 'part-03-international', 'part-04-science-culture',
-  'part-05-india-extended', 'part-06-world-extended', 'part-07-science-extended', 'part-08-culture-extended',
-];
+// Discovered, never listed by hand: a hardcoded list silently skips any new part file,
+// so freshly authored questions would ship unscanned.
+const PARTS = readdirSync(join(ROOT, 'content/questions/parts'))
+  .filter((f) => f.endsWith('.json'))
+  .sort()
+  .map((f) => f.replace(/\.json$/, ''));
 
 // Words that talk about the course instead of the world. Banned in both languages.
 // 'module' is not banned bare: "Command Module" and "lunar module" are NASA proper names.

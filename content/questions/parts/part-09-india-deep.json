@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "DQ-0299",
+    "category": "India — symbols",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the national bird of India?",
+      "hi": "भारत का राष्ट्रीय पक्षी कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "The Indian peacock",
+        "hi": "भारतीय मोर"
+      },
+      {
+        "en": "The kingfisher",
+        "hi": "कठफोड़वा"
+      },
+      {
+        "en": "The parrot",
+        "hi": "तोता"
+      },
+      {
+        "en": "The sparrow",
+        "hi": "गौरैया"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It was declared the national bird in 1963.",
+      "hi": "इसे 1963 में राष्ट्रीय पक्षी घोषित किया गया।"
+    }
+  },
+  {
+    "id": "DQ-0300",
+    "category": "India — symbols",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the national animal of India?",
+      "hi": "भारत का राष्ट्रीय पशु कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "The lion",
+        "hi": "शेर"
+      },
+      {
+        "en": "The leopard",
+        "hi": "तेंदुआ"
+      },
+      {
+        "en": "The Bengal tiger",
+        "hi": "बंगाल टाइगर"
+      },
+      {
+        "en": "The elephant",
+        "hi": "हाथी"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It replaced the lion in April 1973.",
+      "hi": "इसने अप्रैल 1973 में शेर का स्थान लिया।"
+    }
+  },
+  {
+    "id": "DQ-0301",
+    "category": "India — symbols",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which is the national aquatic animal of India?",
+      "hi": "भारत का राष्ट्रीय जलीय जीव कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "The blue whale",
+        "hi": "नीली व्हेल"
+      },
+      {
+        "en": "The dugong",
+        "hi": "ड्यूगोंग"
+      },
+      {
+        "en": "The Ganges river dolphin",
+        "hi": "गंगा डॉल्फ़िन"
+      },
+      {
+        "en": "The sea turtle",
+        "hi": "समुद्री कछुआ"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It is nearly blind and navigates by sound.",
+      "hi": "यह लगभग अंधी होती है और ध्वनि से दिशा पहचानती है।"
+    }
+  },
+  {
+    "id": "DQ-0302",
+    "category": "India — symbols",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the national flower of India?",
+      "hi": "भारत का राष्ट्रीय पुष्प कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "The jasmine",
+        "hi": "चमेली"
+      },
+      {
+        "en": "The marigold",
+        "hi": "गेंदा"
+      },
+      {
+        "en": "The lotus",
+        "hi": "कमल"
+      },
+      {
+        "en": "The rose",
+        "hi": "गुलाब"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It grows in shallow water and holds a place in Indian symbolism.",
+      "hi": "यह उथले जल में उगता है और भारतीय प्रतीकों में विशेष स्थान रखता है।"
+    }
+  },
+  {
+    "id": "DQ-0303",
+    "category": "India — symbols",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the national fruit of India?",
+      "hi": "भारत का राष्ट्रीय फल कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "The mango",
+        "hi": "आम"
+      },
+      {
+        "en": "The guava",
+        "hi": "अमरूद"
+      },
+      {
+        "en": "The jackfruit",
+        "hi": "कटहल"
+      },
+      {
+        "en": "The banana",
+        "hi": "केला"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "India is also the world's largest producer of it.",
+      "hi": "भारत इसका विश्व का सबसे बड़ा उत्पादक भी है।"
+    }
+  },
+  {
+    "id": "DQ-0304",
+    "category": "India — symbols",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which is the national tree of India?",
+      "hi": "भारत का राष्ट्रीय वृक्ष कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "The neem tree",
+        "hi": "नीम"
+      },
+      {
+        "en": "The banyan tree",
+        "hi": "बरगद"
+      },
+      {
+        "en": "The sandalwood tree",
+        "hi": "चंदन"
+      },
+      {
+        "en": "The peepal tree",
+        "hi": "पीपल"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Its aerial roots spread outward, so one tree can cover a wide area.",
+      "hi": "इसकी हवाई जड़ें बाहर की ओर फैलती हैं, इसलिए एक वृक्ष बड़ा क्षेत्र घेर सकता है।"
+    }
+  },
+  {
+    "id": "DQ-0305",
+    "category": "India — symbols",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which animal has been declared the national heritage animal of India?",
+      "hi": "भारत का राष्ट्रीय धरोहर पशु किसे घोषित किया गया है?"
+    },
+    "options": [
+      {
+        "en": "The tiger",
+        "hi": "बाघ"
+      },
+      {
+        "en": "The elephant",
+        "hi": "हाथी"
+      },
+      {
+        "en": "The camel",
+        "hi": "ऊँट"
+      },
+      {
+        "en": "The rhinoceros",
+        "hi": "गैंडा"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It was given the status in 2010.",
+      "hi": "यह दर्जा 2010 में दिया गया।"
+    }
+  },
+  {
+    "id": "DQ-0306",
+    "category": "India — polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who was the first woman to serve as President of India?",
+      "hi": "भारत की पहली महिला राष्ट्रपति कौन थीं?"
+    },
+    "options": [
+      {
+        "en": "Sarojini Naidu",
+        "hi": "सरोजिनी नायडू"
+      },
+      {
+        "en": "Meira Kumar",
+        "hi": "मीरा कुमार"
+      },
+      {
+        "en": "Pratibha Patil",
+        "hi": "प्रतिभा पाटिल"
+      },
+      {
+        "en": "Indira Gandhi",
+        "hi": "इंदिरा गांधी"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "She held office from 2007 to 2012.",
+      "hi": "वे 2007 से 2012 तक इस पद पर रहीं।"
+    }
+  },
+  {
+    "id": "DQ-0307",
+    "category": "India — polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Who was independent India's first Education Minister?",
+      "hi": "स्वतंत्र भारत के पहले शिक्षा मंत्री कौन थे?"
+    },
+    "options": [
+      {
+        "en": "C. Subramaniam",
+        "hi": "सी. सुब्रमण्यम"
+      },
+      {
+        "en": "Dr Zakir Husain",
+        "hi": "डॉ. ज़ाकिर हुसैन"
+      },
+      {
+        "en": "Humayun Kabir",
+        "hi": "हुमायूं कबीर"
+      },
+      {
+        "en": "Maulana Abul Kalam Azad",
+        "hi": "मौलाना अबुल कलाम आज़ाद"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "His birthday, 11 November, is observed as National Education Day.",
+      "hi": "उनका जन्मदिन, 11 नवंबर, राष्ट्रीय शिक्षा दिवस के रूप में मनाया जाता है।"
+    }
+  },
+  {
+    "id": "DQ-0308",
+    "category": "India — judiciary",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Who was the first Chief Justice of India?",
+      "hi": "भारत के पहले मुख्य न्यायाधीश कौन थे?"
+    },
+    "options": [
+      {
+        "en": "Kailash Nath Wanchoo",
+        "hi": "कैलाश नाथ वानचू"
+      },
+      {
+        "en": "Fazl Ali",
+        "hi": "फ़ज़ल अली"
+      },
+      {
+        "en": "H. J. Kania",
+        "hi": "एच. जे. कानिया"
+      },
+      {
+        "en": "M. Patanjali Sastri",
+        "hi": "एम. पतंजलि शास्त्री"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "He took office when the Supreme Court opened on 28 January 1950.",
+      "hi": "उन्होंने 28 जनवरी 1950 को सर्वोच्च न्यायालय के उद्घाटन पर पदभार संभाला।"
+    }
+  },
+  {
+    "id": "DQ-0309",
+    "category": "India — polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Who was the first Chief Election Commissioner of India?",
+      "hi": "भारत के पहले मुख्य निर्वाचन आयुक्त कौन थे?"
+    },
+    "options": [
+      {
+        "en": "S. P. Sen Verma",
+        "hi": "एस. पी. सेन वर्मा"
+      },
+      {
+        "en": "K. V. K. Sundaram",
+        "hi": "के. वी. के. सुंदरम"
+      },
+      {
+        "en": "T. N. Seshan",
+        "hi": "टी. एन. शेषन"
+      },
+      {
+        "en": "Sukumar Sen",
+        "hi": "सुकुमार सेन"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "He oversaw the first general elections of 1951-52.",
+      "hi": "उन्होंने 1951-52 के पहले आम चुनाव का संचालन किया।"
+    }
+  },
+  {
+    "id": "DQ-0310",
+    "category": "India — awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Who was the first Indian to win a Nobel Prize?",
+      "hi": "नोबेल पुरस्कार जीतने वाले पहले भारतीय कौन थे?"
+    },
+    "options": [
+      {
+        "en": "Mother Teresa",
+        "hi": "मदर टेरेसा"
+      },
+      {
+        "en": "Amartya Sen",
+        "hi": "अमर्त्य सेन"
+      },
+      {
+        "en": "C. V. Raman",
+        "hi": "सी. वी. रमन"
+      },
+      {
+        "en": "Rabindranath Tagore",
+        "hi": "रवींद्रनाथ टैगोर"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "He received the Literature prize in 1913.",
+      "hi": "उन्हें 1913 में साहित्य का पुरस्कार मिला।"
+    }
+  },
+  {
+    "id": "DQ-0311",
+    "category": "India — space",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who was the first Indian to travel into space?",
+      "hi": "अंतरिक्ष में जाने वाले पहले भारतीय कौन थे?"
+    },
+    "options": [
+      {
+        "en": "Sunita Williams",
+        "hi": "सुनीता विलियम्स"
+      },
+      {
+        "en": "Rakesh Sharma",
+        "hi": "राकेश शर्मा"
+      },
+      {
+        "en": "Ravish Malhotra",
+        "hi": "रवीश मल्होत्रा"
+      },
+      {
+        "en": "Kalpana Chawla",
+        "hi": "कल्पना चावला"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "He flew aboard Soyuz T-11 in 1984.",
+      "hi": "वे 1984 में सोयुज़ T-11 में उड़े।"
+    }
+  },
+  {
+    "id": "DQ-0312",
+    "category": "India — space",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who was the first Indian-born woman to fly in space?",
+      "hi": "अंतरिक्ष में उड़ने वाली पहली भारतीय मूल की महिला कौन थीं?"
+    },
+    "options": [
+      {
+        "en": "Kalpana Chawla",
+        "hi": "कल्पना चावला"
+      },
+      {
+        "en": "Sunita Williams",
+        "hi": "सुनीता विलियम्स"
+      },
+      {
+        "en": "Ritu Karidhal",
+        "hi": "रितु करिधाल"
+      },
+      {
+        "en": "N. Valarmathi",
+        "hi": "एन. वलारमथी"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Her first mission was STS-87 in 1997.",
+      "hi": "उनका पहला मिशन 1997 में STS-87 था।"
+    }
+  },
+  {
+    "id": "DQ-0313",
+    "category": "India — sport",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who won India's first individual Olympic gold medal?",
+      "hi": "भारत का पहला व्यक्तिगत ओलंपिक स्वर्ण पदक किसने जीता?"
+    },
+    "options": [
+      {
+        "en": "K. D. Jadhav",
+        "hi": "के. डी. जाधव"
+      },
+      {
+        "en": "Leander Paes",
+        "hi": "लिएंडर पेस"
+      },
+      {
+        "en": "Neeraj Chopra",
+        "hi": "नीरज चोपड़ा"
+      },
+      {
+        "en": "Abhinav Bindra",
+        "hi": "अभिनव बिंद्रा"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "He won the 10 m air rifle event at Beijing in 2008.",
+      "hi": "उन्होंने 2008 में बीजिंग में 10 मीटर एयर राइफ़ल स्पर्धा जीती।"
+    }
+  },
+  {
+    "id": "DQ-0314",
+    "category": "India — banking",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the largest public sector bank in India?",
+      "hi": "भारत का सबसे बड़ा सार्वजनिक क्षेत्र का बैंक कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "Punjab National Bank",
+        "hi": "पंजाब नेशनल बैंक"
+      },
+      {
+        "en": "Bank of Baroda",
+        "hi": "बैंक ऑफ़ बड़ौदा"
+      },
+      {
+        "en": "The State Bank of India",
+        "hi": "भारतीय स्टेट बैंक"
+      },
+      {
+        "en": "Canara Bank",
+        "hi": "कैनरा बैंक"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It took its present name in 1955.",
+      "hi": "इसे वर्तमान नाम 1955 में मिला।"
+    }
+  },
+  {
+    "id": "DQ-0315",
+    "category": "India — banking",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which institution is India's apex body for financing agriculture and rural development?",
+      "hi": "कृषि और ग्रामीण विकास के वित्तपोषण के लिए भारत का शीर्ष निकाय कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "SIDBI",
+        "hi": "सिडबी"
+      },
+      {
+        "en": "NABARD",
+        "hi": "नाबार्ड"
+      },
+      {
+        "en": "EXIM Bank",
+        "hi": "एक्ज़िम बैंक"
+      },
+      {
+        "en": "SEBI",
+        "hi": "सेबी"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "The National Bank for Agriculture and Rural Development was set up in 1982.",
+      "hi": "राष्ट्रीय कृषि और ग्रामीण विकास बैंक की स्थापना 1982 में हुई।"
+    }
+  },
+  {
+    "id": "DQ-0316",
+    "category": "India — economy",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which body regulates the securities market in India?",
+      "hi": "भारत में प्रतिभूति बाज़ार का नियमन कौन सा निकाय करता है?"
+    },
+    "options": [
+      {
+        "en": "NABARD",
+        "hi": "नाबार्ड"
+      },
+      {
+        "en": "IRDAI",
+        "hi": "इरडाई"
+      },
+      {
+        "en": "SEBI",
+        "hi": "सेबी"
+      },
+      {
+        "en": "RBI",
+        "hi": "आरबीआई"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "The Securities and Exchange Board of India got statutory powers in 1992.",
+      "hi": "भारतीय प्रतिभूति और विनिमय बोर्ड को 1992 में वैधानिक शक्तियाँ मिलीं।"
+    }
+  },
+  {
+    "id": "DQ-0317",
+    "category": "India — economy",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which body regulates the insurance sector in India?",
+      "hi": "भारत में बीमा क्षेत्र का नियमन कौन सा निकाय करता है?"
+    },
+    "options": [
+      {
+        "en": "SEBI",
+        "hi": "सेबी"
+      },
+      {
+        "en": "TRAI",
+        "hi": "ट्राई"
+      },
+      {
+        "en": "IRDAI",
+        "hi": "इरडाई"
+      },
+      {
+        "en": "PFRDA",
+        "hi": "पीएफआरडीए"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It is the Insurance Regulatory and Development Authority of India.",
+      "hi": "यह भारतीय बीमा विनियामक और विकास प्राधिकरण है।"
+    }
+  },
+  {
+    "id": "DQ-0318",
+    "category": "India — economy",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "In Indian taxation, what does GST stand for?",
+      "hi": "भारतीय कराधान में GST का पूर्ण रूप क्या है?"
+    },
+    "options": [
+      {
+        "en": "Gross Supply Tax",
+        "hi": "सकल आपूर्ति कर"
+      },
+      {
+        "en": "Government Service Tax",
+        "hi": "सरकारी सेवा कर"
+      },
+      {
+        "en": "Goods and Services Tax",
+        "hi": "वस्तु एवं सेवा कर"
+      },
+      {
+        "en": "General Sales Tax",
+        "hi": "सामान्य बिक्री कर"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It replaced several separate central and state levies.",
+      "hi": "इसने कई अलग-अलग केंद्रीय और राज्य करों का स्थान लिया।"
+    }
+  },
+  {
+    "id": "DQ-0319",
+    "category": "India — economy",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "On which date did the Goods and Services Tax come into effect in India?",
+      "hi": "भारत में वस्तु एवं सेवा कर किस तिथि से लागू हुआ?"
+    },
+    "options": [
+      {
+        "en": "8 November 2016",
+        "hi": "8 नवंबर 2016"
+      },
+      {
+        "en": "1 April 2016",
+        "hi": "1 अप्रैल 2016"
+      },
+      {
+        "en": "1 January 2018",
+        "hi": "1 जनवरी 2018"
+      },
+      {
+        "en": "1 July 2017",
+        "hi": "1 जुलाई 2017"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It was introduced by the One Hundred and First Amendment.",
+      "hi": "इसे एक सौ एकवें संविधान संशोधन द्वारा लाया गया।"
+    }
+  },
+  {
+    "id": "DQ-0320",
+    "category": "India — economy",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which is the oldest stock exchange in Asia?",
+      "hi": "एशिया का सबसे पुराना शेयर बाज़ार कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "The National Stock Exchange",
+        "hi": "नेशनल स्टॉक एक्सचेंज"
+      },
+      {
+        "en": "The Shanghai Stock Exchange",
+        "hi": "शंघाई स्टॉक एक्सचेंज"
+      },
+      {
+        "en": "The Bombay Stock Exchange",
+        "hi": "बॉम्बे स्टॉक एक्सचेंज"
+      },
+      {
+        "en": "The Tokyo Stock Exchange",
+        "hi": "टोक्यो स्टॉक एक्सचेंज"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It began in 1875 under a banyan tree in Mumbai.",
+      "hi": "इसकी शुरुआत 1875 में मुंबई में एक बरगद के नीचे हुई।"
+    }
+  },
+  {
+    "id": "DQ-0321",
+    "category": "India — economy",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which index tracks the leading companies listed on the Bombay Stock Exchange?",
+      "hi": "बॉम्बे स्टॉक एक्सचेंज में सूचीबद्ध अग्रणी कंपनियों को कौन सा सूचकांक दर्शाता है?"
+    },
+    "options": [
+      {
+        "en": "The Nifty 50",
+        "hi": "निफ़्टी 50"
+      },
+      {
+        "en": "The BSE Midcap",
+        "hi": "बीएसई मिडकैप"
+      },
+      {
+        "en": "The Bankex",
+        "hi": "बैंकेक्स"
+      },
+      {
+        "en": "The Sensex",
+        "hi": "सेंसेक्स"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It is calculated from thirty large companies.",
+      "hi": "इसकी गणना तीस बड़ी कंपनियों से होती है।"
+    }
+  },
+  {
+    "id": "DQ-0322",
+    "category": "India — economy",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the benchmark index of the National Stock Exchange?",
+      "hi": "नेशनल स्टॉक एक्सचेंज का बेंचमार्क सूचकांक कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "The CNX IT",
+        "hi": "सीएनएक्स आईटी"
+      },
+      {
+        "en": "The Sensex",
+        "hi": "सेंसेक्स"
+      },
+      {
+        "en": "The Nifty 50",
+        "hi": "निफ़्टी 50"
+      },
+      {
+        "en": "The Nifty Bank",
+        "hi": "निफ़्टी बैंक"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It covers fifty of the exchange's largest listed companies.",
+      "hi": "इसमें एक्सचेंज की पचास सबसे बड़ी सूचीबद्ध कंपनियाँ शामिल हैं।"
+    }
+  },
+  {
+    "id": "DQ-0323",
+    "category": "Neighbourhood",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "What is the capital of Bangladesh?",
+      "hi": "बांग्लादेश की राजधानी क्या है?"
+    },
+    "options": [
+      {
+        "en": "Sylhet",
+        "hi": "सिलहट"
+      },
+      {
+        "en": "Khulna",
+        "hi": "खुलना"
+      },
+      {
+        "en": "Chittagong",
+        "hi": "चिटगाँव"
+      },
+      {
+        "en": "Dhaka",
+        "hi": "ढाका"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It sits on the Buriganga river.",
+      "hi": "यह बूढ़ीगंगा नदी के किनारे बसा है।"
+    }
+  },
+  {
+    "id": "DQ-0324",
+    "category": "Neighbourhood",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which city is the commercial capital of Sri Lanka?",
+      "hi": "श्रीलंका की वाणिज्यिक राजधानी कौन सा शहर है?"
+    },
+    "options": [
+      {
+        "en": "Kandy",
+        "hi": "कैंडी"
+      },
+      {
+        "en": "Colombo",
+        "hi": "कोलंबो"
+      },
+      {
+        "en": "Jaffna",
+        "hi": "जाफ़ना"
+      },
+      {
+        "en": "Galle",
+        "hi": "गॉल"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "The legislature sits instead at Sri Jayawardenepura Kotte.",
+      "hi": "विधायिका इसके बजाय श्री जयवर्धनेपुरा कोट्टे में बैठती है।"
+    }
+  },
+  {
+    "id": "DQ-0325",
+    "category": "Neighbourhood",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "What is the capital of Nepal?",
+      "hi": "नेपाल की राजधानी क्या है?"
+    },
+    "options": [
+      {
+        "en": "Kathmandu",
+        "hi": "काठमांडू"
+      },
+      {
+        "en": "Pokhara",
+        "hi": "पोखरा"
+      },
+      {
+        "en": "Lalitpur",
+        "hi": "ललितपुर"
+      },
+      {
+        "en": "Biratnagar",
+        "hi": "बिराटनगर"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It lies in a valley ringed by the Himalayas.",
+      "hi": "यह हिमालय से घिरी एक घाटी में स्थित है।"
+    }
+  },
+  {
+    "id": "DQ-0326",
+    "category": "Neighbourhood",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What is the capital of Bhutan?",
+      "hi": "भूटान की राजधानी क्या है?"
+    },
+    "options": [
+      {
+        "en": "Thimphu",
+        "hi": "थिम्पू"
+      },
+      {
+        "en": "Paro",
+        "hi": "पारो"
+      },
+      {
+        "en": "Punakha",
+        "hi": "पुनाखा"
+      },
+      {
+        "en": "Phuntsholing",
+        "hi": "फ़ुंटशोलिंग"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It is one of very few capitals without traffic lights.",
+      "hi": "यह उन गिनी-चुनी राजधानियों में है जहाँ यातायात संकेत नहीं हैं।"
+    }
+  },
+  {
+    "id": "DQ-0327",
+    "category": "Neighbourhood",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What is the capital of the Maldives?",
+      "hi": "मालदीव की राजधानी क्या है?"
+    },
+    "options": [
+      {
+        "en": "Fuvahmulah",
+        "hi": "फुवाहमुलाह"
+      },
+      {
+        "en": "Kulhudhuffushi",
+        "hi": "कुलहुदुफ्फ़ुशी"
+      },
+      {
+        "en": "Addu",
+        "hi": "अद्दू"
+      },
+      {
+        "en": "Male",
+        "hi": "माले"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The city occupies a single island of barely two square kilometres.",
+      "hi": "यह नगर मुश्किल से दो वर्ग किलोमीटर के एक ही द्वीप पर बसा है।"
+    }
+  },
+  {
+    "id": "DQ-0328",
+    "category": "Neighbourhood",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What is the capital of Myanmar?",
+      "hi": "म्यांमार की राजधानी क्या है?"
+    },
+    "options": [
+      {
+        "en": "Bago",
+        "hi": "बागो"
+      },
+      {
+        "en": "Yangon",
+        "hi": "यांगून"
+      },
+      {
+        "en": "Mandalay",
+        "hi": "मांडले"
+      },
+      {
+        "en": "Naypyidaw",
+        "hi": "नेपीडॉ"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The capital moved there from Yangon in 2005.",
+      "hi": "2005 में राजधानी यांगून से यहाँ स्थानांतरित हुई।"
+    }
+  },
+  {
+    "id": "DQ-0329",
+    "category": "Currencies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What is the currency of Bangladesh?",
+      "hi": "बांग्लादेश की मुद्रा क्या है?"
+    },
+    "options": [
+      {
+        "en": "The Rupee",
+        "hi": "रुपया"
+      },
+      {
+        "en": "The Ngultrum",
+        "hi": "नुल्ट्रम"
+      },
+      {
+        "en": "The Taka",
+        "hi": "टका"
+      },
+      {
+        "en": "The Kyat",
+        "hi": "क्यात"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Its sign is written as Tk.",
+      "hi": "इसका चिह्न Tk लिखा जाता है।"
+    }
+  },
+  {
+    "id": "DQ-0330",
+    "category": "Currencies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "What is the currency of Bhutan?",
+      "hi": "भूटान की मुद्रा क्या है?"
+    },
+    "options": [
+      {
+        "en": "The Ngultrum",
+        "hi": "नुल्ट्रम"
+      },
+      {
+        "en": "The Kyat",
+        "hi": "क्यात"
+      },
+      {
+        "en": "The Taka",
+        "hi": "टका"
+      },
+      {
+        "en": "The Rufiyaa",
+        "hi": "रुफ़िया"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It is pegged at par with the Indian rupee.",
+      "hi": "यह भारतीय रुपये के समान मूल्य पर बंधी है।"
+    }
+  },
+  {
+    "id": "DQ-0331",
+    "category": "Currencies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "What is the currency of the Maldives?",
+      "hi": "मालदीव की मुद्रा क्या है?"
+    },
+    "options": [
+      {
+        "en": "The Riyal",
+        "hi": "रियाल"
+      },
+      {
+        "en": "The Rufiyaa",
+        "hi": "रुफ़िया"
+      },
+      {
+        "en": "The Dinar",
+        "hi": "दीनार"
+      },
+      {
+        "en": "The Taka",
+        "hi": "टका"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It is divided into one hundred laari.",
+      "hi": "यह सौ लारी में बँटती है।"
+    }
+  },
+  {
+    "id": "DQ-0332",
+    "category": "Indian geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which is the largest saltwater lake in India?",
+      "hi": "भारत की सबसे बड़ी खारे पानी की झील कौन सी है?"
+    },
+    "options": [
+      {
+        "en": "Sambhar Lake",
+        "hi": "सांभर झील"
+      },
+      {
+        "en": "Chilika Lake",
+        "hi": "चिलिका झील"
+      },
+      {
+        "en": "Dal Lake",
+        "hi": "डल झील"
+      },
+      {
+        "en": "Wular Lake",
+        "hi": "वुलर झील"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It lies on the coast of Odisha and draws large flocks of migratory birds.",
+      "hi": "यह ओडिशा के तट पर है और प्रवासी पक्षियों के बड़े झुंड यहाँ आते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0333",
+    "category": "Indian geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which desert lies in northwestern India?",
+      "hi": "उत्तर-पश्चिमी भारत में कौन सा मरुभूमि स्थित है?"
+    },
+    "options": [
+      {
+        "en": "The Kalahari desert",
+        "hi": "कालाहारी मरुभूमि"
+      },
+      {
+        "en": "The Atacama desert",
+        "hi": "अटाकामा मरुभूमि"
+      },
+      {
+        "en": "The Thar desert",
+        "hi": "थार मरुभूमि"
+      },
+      {
+        "en": "The Gobi desert",
+        "hi": "गोबी मरुभूमि"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It stretches across Rajasthan and into Pakistan.",
+      "hi": "यह राजस्थान से होते हुए पाकिस्तान तक फैला है।"
+    }
+  },
+  {
+    "id": "DQ-0334",
+    "category": "Indian geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which mountain range runs along the western coast of peninsular India?",
+      "hi": "प्रायद्वीपीय भारत के पश्चिमी तट के साथ कौन सी पर्वत श्रृंखला चलती है?"
+    },
+    "options": [
+      {
+        "en": "The Aravalli range",
+        "hi": "अरावली श्रृंखला"
+      },
+      {
+        "en": "The Western Ghats",
+        "hi": "पश्चिमी घाट"
+      },
+      {
+        "en": "The Eastern Ghats",
+        "hi": "पूर्वी घाट"
+      },
+      {
+        "en": "The Vindhya range",
+        "hi": "विंध्य श्रृंखला"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It is a recognised biodiversity hotspot.",
+      "hi": "यह एक मान्यता प्राप्त जैव विविधता हॉटस्पॉट है।"
+    }
+  },
+  {
+    "id": "DQ-0335",
+    "category": "Indian geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which point marks the southern tip of the Indian mainland?",
+      "hi": "भारतीय मुख्यभूमि का दक्षिणी छोर कौन सा बिंदु है?"
+    },
+    "options": [
+      {
+        "en": "Kanyakumari",
+        "hi": "कन्याकुमारी"
+      },
+      {
+        "en": "Kochi",
+        "hi": "कोच्चि"
+      },
+      {
+        "en": "Rameswaram",
+        "hi": "रामेश्वरम"
+      },
+      {
+        "en": "Indira Point",
+        "hi": "इंदिरा पॉइंट"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Indira Point, on Great Nicobar, lies further south still.",
+      "hi": "इंदिरा पॉइंट, ग्रेट निकोबार पर, इससे भी दक्षिण में है।"
+    }
+  },
+  {
+    "id": "DQ-0336",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "How many union territories does India currently have?",
+      "hi": "भारत में वर्तमान में कितने केंद्र शासित प्रदेश हैं?"
+    },
+    "options": [
+      {
+        "en": "Eight union territories",
+        "hi": "आठ केंद्र शासित प्रदेश"
+      },
+      {
+        "en": "Nine union territories",
+        "hi": "नौ केंद्र शासित प्रदेश"
+      },
+      {
+        "en": "Seven union territories",
+        "hi": "सात केंद्र शासित प्रदेश"
+      },
+      {
+        "en": "Six union territories",
+        "hi": "छह केंद्र शासित प्रदेश"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Jammu and Kashmir, and Ladakh, became separate union territories in 2019.",
+      "hi": "जम्मू-कश्मीर और लद्दाख 2019 में अलग केंद्र शासित प्रदेश बने।"
+    }
+  },
+  {
+    "id": "DQ-0337",
+    "category": "Indian polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which is the newest state to be formed in India?",
+      "hi": "भारत में सबसे नया बना राज्य कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "Jharkhand",
+        "hi": "झारखंड"
+      },
+      {
+        "en": "Chhattisgarh",
+        "hi": "छत्तीसगढ़"
+      },
+      {
+        "en": "Telangana",
+        "hi": "तेलंगाना"
+      },
+      {
+        "en": "Uttarakhand",
+        "hi": "उत्तराखंड"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It was carved out of Andhra Pradesh in 2014.",
+      "hi": "इसे 2014 में आंध्र प्रदेश से अलग किया गया।"
+    }
+  },
+  {
+    "id": "DQ-0338",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which is the largest mangrove forest in the world?",
+      "hi": "विश्व का सबसे बड़ा मैंग्रोव वन कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "Coringa",
+        "hi": "कोरिंगा"
+      },
+      {
+        "en": "Bhitarkanika",
+        "hi": "भीतरकनिका"
+      },
+      {
+        "en": "Pichavaram",
+        "hi": "पिचावरम"
+      },
+      {
+        "en": "The Sundarbans",
+        "hi": "सुंदरबन"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It spreads across the delta shared by India and Bangladesh.",
+      "hi": "यह भारत और बांग्लादेश द्वारा साझा किए गए डेल्टा में फैला है।"
+    }
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "DQ-0339",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "In which year did the First World War begin?",
+      "hi": "प्रथम विश्व युद्ध किस वर्ष शुरू हुआ?"
+    },
+    "options": [
+      {
+        "en": "1918",
+        "hi": "1918"
+      },
+      {
+        "en": "1939",
+        "hi": "1939"
+      },
+      {
+        "en": "1914",
+        "hi": "1914"
+      },
+      {
+        "en": "1911",
+        "hi": "1911"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It ran until November 1918.",
+      "hi": "यह नवंबर 1918 तक चला।"
+    }
+  },
+  {
+    "id": "DQ-0340",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "In which year did the First World War end?",
+      "hi": "प्रथम विश्व युद्ध किस वर्ष समाप्त हुआ?"
+    },
+    "options": [
+      {
+        "en": "1920",
+        "hi": "1920"
+      },
+      {
+        "en": "1918",
+        "hi": "1918"
+      },
+      {
+        "en": "1916",
+        "hi": "1916"
+      },
+      {
+        "en": "1914",
+        "hi": "1914"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "The armistice took effect on 11 November.",
+      "hi": "युद्धविराम 11 नवंबर को लागू हुआ।"
+    }
+  },
+  {
+    "id": "DQ-0341",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "In which year did the Second World War end?",
+      "hi": "द्वितीय विश्व युद्ध किस वर्ष समाप्त हुआ?"
+    },
+    "options": [
+      {
+        "en": "1939",
+        "hi": "1939"
+      },
+      {
+        "en": "1945",
+        "hi": "1945"
+      },
+      {
+        "en": "1943",
+        "hi": "1943"
+      },
+      {
+        "en": "1947",
+        "hi": "1947"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "The United Nations was founded the same year.",
+      "hi": "उसी वर्ष संयुक्त राष्ट्र की स्थापना हुई।"
+    }
+  },
+  {
+    "id": "DQ-0342",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In which year did the French Revolution begin?",
+      "hi": "फ़्रांसीसी क्रांति किस वर्ष शुरू हुई?"
+    },
+    "options": [
+      {
+        "en": "1799",
+        "hi": "1799"
+      },
+      {
+        "en": "1776",
+        "hi": "1776"
+      },
+      {
+        "en": "1804",
+        "hi": "1804"
+      },
+      {
+        "en": "1789",
+        "hi": "1789"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The storming of the Bastille that July became its emblem.",
+      "hi": "उसी वर्ष जुलाई में बास्टील पर हमला इसका प्रतीक बना।"
+    }
+  },
+  {
+    "id": "DQ-0343",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Who was the first President of the United States?",
+      "hi": "संयुक्त राज्य अमेरिका के पहले राष्ट्रपति कौन थे?"
+    },
+    "options": [
+      {
+        "en": "Thomas Jefferson",
+        "hi": "थॉमस जेफ़रसन"
+      },
+      {
+        "en": "John Adams",
+        "hi": "जॉन एडम्स"
+      },
+      {
+        "en": "Abraham Lincoln",
+        "hi": "अब्राहम लिंकन"
+      },
+      {
+        "en": "George Washington",
+        "hi": "जॉर्ज वॉशिंगटन"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "He served two terms, from 1789 to 1797.",
+      "hi": "वे 1789 से 1797 तक दो कार्यकाल रहे।"
+    }
+  },
+  {
+    "id": "DQ-0344",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In which year did the Berlin Wall fall?",
+      "hi": "बर्लिन की दीवार किस वर्ष गिरी?"
+    },
+    "options": [
+      {
+        "en": "1991",
+        "hi": "1991"
+      },
+      {
+        "en": "1989",
+        "hi": "1989"
+      },
+      {
+        "en": "1979",
+        "hi": "1979"
+      },
+      {
+        "en": "1985",
+        "hi": "1985"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Germany was formally reunited in October 1990.",
+      "hi": "जर्मनी का औपचारिक पुनरेकीकरण अक्तूबर 1990 में हुआ।"
+    }
+  },
+  {
+    "id": "DQ-0345",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which country presented the Statue of Liberty to the United States?",
+      "hi": "संयुक्त राज्य अमेरिका को स्टैच्यू ऑफ़ लिबर्टी किस देश ने भेंट की?"
+    },
+    "options": [
+      {
+        "en": "Britain",
+        "hi": "ब्रिटेन"
+      },
+      {
+        "en": "Italy",
+        "hi": "इटली"
+      },
+      {
+        "en": "France",
+        "hi": "फ़्रांस"
+      },
+      {
+        "en": "Spain",
+        "hi": "स्पेन"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It reached New York in crates in 1885.",
+      "hi": "यह 1885 में पेटीबंद होकर न्यूयॉर्क पहुँची।"
+    }
+  },
+  {
+    "id": "DQ-0346",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Who sailed across the Atlantic and reached the Americas in 1492?",
+      "hi": "1492 में अटलांटिक पार कर अमेरिकी महाद्वीप तक कौन पहुँचा?"
+    },
+    "options": [
+      {
+        "en": "James Cook",
+        "hi": "जेम्स कुक"
+      },
+      {
+        "en": "Ferdinand Magellan",
+        "hi": "फ़र्डिनेंड मैगलन"
+      },
+      {
+        "en": "Vasco da Gama",
+        "hi": "वास्को डी गामा"
+      },
+      {
+        "en": "Christopher Columbus",
+        "hi": "क्रिस्टोफ़र कोलंबस"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "He landed in the Caribbean believing he had reached Asia.",
+      "hi": "वे एशिया पहुँचे समझकर कैरिबियाई क्षेत्र में उतरे।"
+    }
+  },
+  {
+    "id": "DQ-0347",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Whose expedition was the first to sail right around the world?",
+      "hi": "किसका अभियान पहली बार पूरी पृथ्वी की परिक्रमा करने में सफल रहा?"
+    },
+    "options": [
+      {
+        "en": "Francis Drake",
+        "hi": "फ़्रांसिस ड्रेक"
+      },
+      {
+        "en": "Christopher Columbus",
+        "hi": "क्रिस्टोफ़र कोलंबस"
+      },
+      {
+        "en": "Ferdinand Magellan",
+        "hi": "फ़र्डिनेंड मैगलन"
+      },
+      {
+        "en": "Vasco da Gama",
+        "hi": "वास्को डी गामा"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Magellan died on the way; Juan Sebastian Elcano brought the ship home.",
+      "hi": "मैगलन रास्ते में मारे गए; जुआन सेबास्टियन एल्कानो जहाज़ वापस लाए।"
+    }
+  },
+  {
+    "id": "DQ-0348",
+    "category": "Art",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Who painted the Mona Lisa?",
+      "hi": "मोना लिसा किसने बनाई?"
+    },
+    "options": [
+      {
+        "en": "Pablo Picasso",
+        "hi": "पाब्लो पिकासो"
+      },
+      {
+        "en": "Raphael",
+        "hi": "राफ़ेल"
+      },
+      {
+        "en": "Michelangelo",
+        "hi": "माइकलएंजेलो"
+      },
+      {
+        "en": "Leonardo da Vinci",
+        "hi": "लियोनार्डो दा विंची"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "He began it around 1503.",
+      "hi": "उन्होंने इसे लगभग 1503 में शुरू किया।"
+    }
+  },
+  {
+    "id": "DQ-0349",
+    "category": "Art",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In which museum is the Mona Lisa displayed?",
+      "hi": "मोना लिसा किस संग्रहालय में प्रदर्शित है?"
+    },
+    "options": [
+      {
+        "en": "The Uffizi",
+        "hi": "उफ़िज़ी"
+      },
+      {
+        "en": "The Prado",
+        "hi": "प्राडो"
+      },
+      {
+        "en": "The British Museum",
+        "hi": "ब्रिटिश म्यूज़ियम"
+      },
+      {
+        "en": "The Louvre",
+        "hi": "लूव्र"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The gallery stands in Paris on the Seine's right bank.",
+      "hi": "यह दीर्घा पेरिस में सीन नदी के दाहिने किनारे स्थित है।"
+    }
+  },
+  {
+    "id": "DQ-0350",
+    "category": "Literature",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Who wrote the play Romeo and Juliet?",
+      "hi": "नाटक रोमियो एंड जूलियट किसने लिखा?"
+    },
+    "options": [
+      {
+        "en": "Charles Dickens",
+        "hi": "चार्ल्स डिकेंस"
+      },
+      {
+        "en": "Oscar Wilde",
+        "hi": "ऑस्कर वाइल्ड"
+      },
+      {
+        "en": "John Milton",
+        "hi": "जॉन मिल्टन"
+      },
+      {
+        "en": "William Shakespeare",
+        "hi": "विलियम शेक्सपियर"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It was first published in 1597.",
+      "hi": "यह पहली बार 1597 में प्रकाशित हुआ।"
+    }
+  },
+  {
+    "id": "DQ-0351",
+    "category": "Literature",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who wrote the novel War and Peace?",
+      "hi": "उपन्यास वॉर एंड पीस किसने लिखा?"
+    },
+    "options": [
+      {
+        "en": "Fyodor Dostoevsky",
+        "hi": "फ़्योदोर दोस्तोयेवस्की"
+      },
+      {
+        "en": "Leo Tolstoy",
+        "hi": "लियो टॉल्स्टॉय"
+      },
+      {
+        "en": "Anton Chekhov",
+        "hi": "एंतोन चेख़व"
+      },
+      {
+        "en": "Ivan Turgenev",
+        "hi": "इवान तुर्गेनेव"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It was published in full in 1869.",
+      "hi": "यह पूरा 1869 में प्रकाशित हुआ।"
+    }
+  },
+  {
+    "id": "DQ-0352",
+    "category": "Literature",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who wrote the novel Les Misérables?",
+      "hi": "उपन्यास ले मिज़रेबल्स किसने लिखा?"
+    },
+    "options": [
+      {
+        "en": "Alexandre Dumas",
+        "hi": "अलेक्ज़ांद्र दुमा"
+      },
+      {
+        "en": "Gustave Flaubert",
+        "hi": "गुस्ताव फ़्लोबेर"
+      },
+      {
+        "en": "Émile Zola",
+        "hi": "एमिल ज़ोला"
+      },
+      {
+        "en": "Victor Hugo",
+        "hi": "विक्टर ह्यूगो"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It appeared in 1862.",
+      "hi": "यह 1862 में प्रकाशित हुआ।"
+    }
+  },
+  {
+    "id": "DQ-0353",
+    "category": "Monuments",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "In which city does the Colosseum stand?",
+      "hi": "कोलोसियम किस शहर में स्थित है?"
+    },
+    "options": [
+      {
+        "en": "Rome",
+        "hi": "रोम"
+      },
+      {
+        "en": "Istanbul",
+        "hi": "इस्तांबुल"
+      },
+      {
+        "en": "Athens",
+        "hi": "एथेंस"
+      },
+      {
+        "en": "Cairo",
+        "hi": "काहिरा"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It opened as an amphitheatre in AD 80.",
+      "hi": "यह सन् 80 में रंगमंच के रूप में खुला।"
+    }
+  },
+  {
+    "id": "DQ-0354",
+    "category": "Monuments",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "The Pyramids of Giza stand in which country?",
+      "hi": "गीज़ा के पिरामिड किस देश में स्थित हैं?"
+    },
+    "options": [
+      {
+        "en": "Egypt",
+        "hi": "मिस्र"
+      },
+      {
+        "en": "Sudan",
+        "hi": "सूडान"
+      },
+      {
+        "en": "Libya",
+        "hi": "लीबिया"
+      },
+      {
+        "en": "Mexico",
+        "hi": "मेक्सिको"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "They stand on the west bank of the Nile.",
+      "hi": "ये नील नदी के पश्चिमी किनारे पर हैं।"
+    }
+  },
+  {
+    "id": "DQ-0355",
+    "category": "Monuments",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Machu Picchu is an ancient site in which country?",
+      "hi": "माचू पिचू किस देश की प्राचीन धरोहर है?"
+    },
+    "options": [
+      {
+        "en": "Chile",
+        "hi": "चिली"
+      },
+      {
+        "en": "Bolivia",
+        "hi": "बोलिविया"
+      },
+      {
+        "en": "Ecuador",
+        "hi": "इक्वाडोर"
+      },
+      {
+        "en": "Peru",
+        "hi": "पेरू"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It was built by the Inca in the fifteenth century.",
+      "hi": "इसे पंद्रहवीं शताब्दी में इंका लोगों ने बनाया।"
+    }
+  },
+  {
+    "id": "DQ-0356",
+    "category": "Monuments",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "The Great Wall stands in which country?",
+      "hi": "दीवार-ए-चीन किस देश में स्थित है?"
+    },
+    "options": [
+      {
+        "en": "China",
+        "hi": "चीन"
+      },
+      {
+        "en": "Japan",
+        "hi": "जापान"
+      },
+      {
+        "en": "Korea",
+        "hi": "कोरिया"
+      },
+      {
+        "en": "Mongolia",
+        "hi": "मंगोलिया"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Most of what stands today dates from the Ming era.",
+      "hi": "आज जो भाग दिखते हैं उनमें से अधिकांश मिंग काल के हैं।"
+    }
+  },
+  {
+    "id": "DQ-0357",
+    "category": "Nature",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Great Barrier Reef is built up by which living organisms?",
+      "hi": "ग्रेट बैरियर रीफ़ किन जीवों से बना है?"
+    },
+    "options": [
+      {
+        "en": "Coral polyps",
+        "hi": "मूंगा पॉलिप"
+      },
+      {
+        "en": "Kelp forests",
+        "hi": "केल्प वन"
+      },
+      {
+        "en": "Sea sponges",
+        "hi": "समुद्री स्पंज"
+      },
+      {
+        "en": "Shellfish beds",
+        "hi": "सीपों के बिछावन"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Each polyp lays down a limestone cup around itself.",
+      "hi": "प्रत्येक पॉलिप अपने चारों ओर चूनापत्थर का कटोरा बनाता है।"
+    }
+  },
+  {
+    "id": "DQ-0358",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which is the largest island in the world?",
+      "hi": "विश्व का सबसे बड़ा द्वीप कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "Borneo",
+        "hi": "बोर्नियो"
+      },
+      {
+        "en": "New Guinea",
+        "hi": "न्यू गिनी"
+      },
+      {
+        "en": "Madagascar",
+        "hi": "मेडागास्कर"
+      },
+      {
+        "en": "Greenland",
+        "hi": "ग्रीनलैंड"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Australia is usually counted as a continent rather than an island.",
+      "hi": "ऑस्ट्रेलिया को आम तौर पर द्वीप नहीं बल्कि महाद्वीप माना जाता है।"
+    }
+  },
+  {
+    "id": "DQ-0359",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the coldest continent on Earth?",
+      "hi": "पृथ्वी का सबसे ठंडा महाद्वीप कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "Antarctica",
+        "hi": "अंटार्कटिका"
+      },
+      {
+        "en": "Asia",
+        "hi": "एशिया"
+      },
+      {
+        "en": "Europe",
+        "hi": "यूरोप"
+      },
+      {
+        "en": "North America",
+        "hi": "उत्तरी अमेरिका"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Almost all of it lies under an ice sheet.",
+      "hi": "यह लगभग पूरा एक बर्फ़ की चादर के नीचे है।"
+    }
+  },
+  {
+    "id": "DQ-0360",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which is the highest waterfall in the world?",
+      "hi": "विश्व का सबसे ऊँचा जलप्रपात कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "Victoria Falls",
+        "hi": "विक्टोरिया फ़ॉल्स"
+      },
+      {
+        "en": "Angel Falls",
+        "hi": "एन्जल फ़ॉल्स"
+      },
+      {
+        "en": "Iguazu Falls",
+        "hi": "इग्वासू फ़ॉल्स"
+      },
+      {
+        "en": "Niagara Falls",
+        "hi": "नियाग्रा फ़ॉल्स"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It drops 979 metres in Venezuela.",
+      "hi": "यह वेनेज़ुएला में 979 मीटर गिरता है।"
+    }
+  },
+  {
+    "id": "DQ-0361",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the largest canyon in the world?",
+      "hi": "विश्व की सबसे बड़ी घाटी कौन सी है?"
+    },
+    "options": [
+      {
+        "en": "The Colca Canyon",
+        "hi": "कोल्का कैन्यन"
+      },
+      {
+        "en": "The Fish River Canyon",
+        "hi": "फ़िश रिवर कैन्यन"
+      },
+      {
+        "en": "The Yarlung Tsangpo Canyon",
+        "hi": "यारलुंग सांगपो कैन्यन"
+      },
+      {
+        "en": "The Grand Canyon",
+        "hi": "ग्रांड कैन्यन"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The Colorado river cut it over millions of years.",
+      "hi": "इसे कोलोराडो नदी ने करोड़ों वर्षों में काटा।"
+    }
+  },
+  {
+    "id": "DQ-0362",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which country now has the largest population in the world?",
+      "hi": "वर्तमान में किस देश की जनसंख्या विश्व में सबसे अधिक है?"
+    },
+    "options": [
+      {
+        "en": "The United States",
+        "hi": "संयुक्त राज्य अमेरिका"
+      },
+      {
+        "en": "India",
+        "hi": "भारत"
+      },
+      {
+        "en": "Indonesia",
+        "hi": "इंडोनेशिया"
+      },
+      {
+        "en": "China",
+        "hi": "चीन"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It overtook China in 2023.",
+      "hi": "इसने 2023 में चीन को पीछे छोड़ा।"
+    }
+  },
+  {
+    "id": "DQ-0363",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which layer of the atmosphere contains the ozone layer?",
+      "hi": "वायुमंडल की किस परत में ओज़ोन परत होती है?"
+    },
+    "options": [
+      {
+        "en": "The thermosphere",
+        "hi": "ताप मंडल"
+      },
+      {
+        "en": "The stratosphere",
+        "hi": "समताप मंडल"
+      },
+      {
+        "en": "The troposphere",
+        "hi": "क्षोभ मंडल"
+      },
+      {
+        "en": "The mesosphere",
+        "hi": "मध्य मंडल"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Ozone there absorbs most of the Sun's harmful ultraviolet rays.",
+      "hi": "वहाँ की ओज़ोन सूर्य की अधिकांश हानिकारक पराबैंगनी किरणें सोख लेती है।"
+    }
+  },
+  {
+    "id": "DQ-0364",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Chlorofluorocarbons released from old refrigerants damage which part of the atmosphere?",
+      "hi": "पुराने रेफ़्रिजरेंट से निकलने वाले क्लोरोफ़्लोरोकार्बन वायुमंडल के किस भाग को नुक़सान पहुँचाते हैं?"
+    },
+    "options": [
+      {
+        "en": "The ozone layer",
+        "hi": "ओज़ोन परत"
+      },
+      {
+        "en": "The ionosphere",
+        "hi": "आयन मंडल"
+      },
+      {
+        "en": "The exosphere",
+        "hi": "बहिर्मंडल"
+      },
+      {
+        "en": "The jet stream",
+        "hi": "जेट स्ट्रीम"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "One chlorine atom can break down many ozone molecules.",
+      "hi": "एक क्लोरीन परमाणु कई ओज़ोन अणुओं को तोड़ सकता है।"
+    }
+  },
+  {
+    "id": "DQ-0365",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which international treaty phased out ozone-depleting substances?",
+      "hi": "ओज़ोन नाशक पदार्थों को चरणबद्ध रूप से हटाने वाली अंतर्राष्ट्रीय संधि कौन सी है?"
+    },
+    "options": [
+      {
+        "en": "The Kyoto Protocol",
+        "hi": "क्योटो प्रोटोकॉल"
+      },
+      {
+        "en": "The Basel Convention",
+        "hi": "बेसल संधि"
+      },
+      {
+        "en": "The Ramsar Convention",
+        "hi": "रामसर संधि"
+      },
+      {
+        "en": "The Montreal Protocol",
+        "hi": "मॉन्ट्रियल प्रोटोकॉल"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It was agreed in 1987 and every UN member has joined it.",
+      "hi": "यह 1987 में तय हुई और संयुक्त राष्ट्र के सभी सदस्य इसमें शामिल हैं।"
+    }
+  },
+  {
+    "id": "DQ-0366",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which agreement on climate change was adopted by world leaders in 2015?",
+      "hi": "2015 में विश्व नेताओं ने जलवायु परिवर्तन पर कौन सा समझौता अपनाया?"
+    },
+    "options": [
+      {
+        "en": "The Copenhagen Accord",
+        "hi": "कोपनहेगन समझौता"
+      },
+      {
+        "en": "The Rio Declaration",
+        "hi": "रियो घोषणा"
+      },
+      {
+        "en": "The Kyoto Protocol",
+        "hi": "क्योटो प्रोटोकॉल"
+      },
+      {
+        "en": "The Paris Agreement",
+        "hi": "पेरिस समझौता"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Its long-term aim is to keep warming well below two degrees.",
+      "hi": "इसका दीर्घकालिक लक्ष्य तापमान वृद्धि को दो डिग्री से काफ़ी नीचे रखना है।"
+    }
+  },
+  {
+    "id": "DQ-0367",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "In which year was the Kyoto Protocol adopted?",
+      "hi": "क्योटो प्रोटोकॉल किस वर्ष अपनाया गया?"
+    },
+    "options": [
+      {
+        "en": "1997",
+        "hi": "1997"
+      },
+      {
+        "en": "1992",
+        "hi": "1992"
+      },
+      {
+        "en": "2015",
+        "hi": "2015"
+      },
+      {
+        "en": "2005",
+        "hi": "2005"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It set binding emission limits for industrialised countries.",
+      "hi": "इसने औद्योगिक देशों के लिए बाध्यकारी उत्सर्जन सीमाएँ तय कीं।"
+    }
+  },
+  {
+    "id": "DQ-0368",
+    "category": "Observances",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "On which date is World Environment Day observed each year?",
+      "hi": "विश्व पर्यावरण दिवस हर वर्ष किस तिथि को मनाया जाता है?"
+    },
+    "options": [
+      {
+        "en": "16 September",
+        "hi": "16 सितंबर"
+      },
+      {
+        "en": "5 July",
+        "hi": "5 जुलाई"
+      },
+      {
+        "en": "5 June",
+        "hi": "5 जून"
+      },
+      {
+        "en": "22 April",
+        "hi": "22 अप्रैल"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It marks the opening of the 1972 Stockholm conference.",
+      "hi": "यह 1972 के स्टॉकहोम सम्मेलन के उद्घाटन को दर्शाता है।"
+    }
+  },
+  {
+    "id": "DQ-0369",
+    "category": "Observances",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "On which date is World Water Day observed each year?",
+      "hi": "विश्व जल दिवस हर वर्ष किस तिथि को मनाया जाता है?"
+    },
+    "options": [
+      {
+        "en": "22 March",
+        "hi": "22 मार्च"
+      },
+      {
+        "en": "22 April",
+        "hi": "22 अप्रैल"
+      },
+      {
+        "en": "2 June",
+        "hi": "2 जून"
+      },
+      {
+        "en": "22 December",
+        "hi": "22 दिसंबर"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The United Nations has marked it since 1993.",
+      "hi": "संयुक्त राष्ट्र इसे 1993 से मना रहा है।"
+    }
+  },
+  {
+    "id": "DQ-0370",
+    "category": "Observances",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "On which date is the International Day of Yoga observed?",
+      "hi": "अंतर्राष्ट्रीय योग दिवस किस तिथि को मनाया जाता है?"
+    },
+    "options": [
+      {
+        "en": "7 April",
+        "hi": "7 अप्रैल"
+      },
+      {
+        "en": "21 March",
+        "hi": "21 मार्च"
+      },
+      {
+        "en": "21 June",
+        "hi": "21 जून"
+      },
+      {
+        "en": "5 June",
+        "hi": "5 जून"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It falls on the summer solstice in the northern hemisphere.",
+      "hi": "यह उत्तरी गोलार्ध में ग्रीष्म संक्रांति के दिन पड़ता है।"
+    }
+  },
+  {
+    "id": "DQ-0371",
+    "category": "Observances",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "On which date is World Health Day observed each year?",
+      "hi": "विश्व स्वास्थ्य दिवस हर वर्ष किस तिथि को मनाया जाता है?"
+    },
+    "options": [
+      {
+        "en": "7 April",
+        "hi": "7 अप्रैल"
+      },
+      {
+        "en": "24 October",
+        "hi": "24 अक्तूबर"
+      },
+      {
+        "en": "1 December",
+        "hi": "1 दिसंबर"
+      },
+      {
+        "en": "31 May",
+        "hi": "31 मई"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It marks the founding of the World Health Organization in 1948.",
+      "hi": "यह 1948 में विश्व स्वास्थ्य संगठन की स्थापना को दर्शाता है।"
+    }
+  },
+  {
+    "id": "DQ-0372",
+    "category": "Observances",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "On which date is Teachers' Day observed in India?",
+      "hi": "भारत में शिक्षक दिवस किस तिथि को मनाया जाता है?"
+    },
+    "options": [
+      {
+        "en": "2 October",
+        "hi": "2 अक्तूबर"
+      },
+      {
+        "en": "5 September",
+        "hi": "5 सितंबर"
+      },
+      {
+        "en": "14 November",
+        "hi": "14 नवंबर"
+      },
+      {
+        "en": "5 October",
+        "hi": "5 अक्तूबर"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It is the birthday of Dr S. Radhakrishnan.",
+      "hi": "यह डॉ. एस. राधाकृष्णन का जन्मदिन है।"
+    }
+  },
+  {
+    "id": "DQ-0373",
+    "category": "Observances",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "On which date is Children's Day observed in India?",
+      "hi": "भारत में बाल दिवस किस तिथि को मनाया जाता है?"
+    },
+    "options": [
+      {
+        "en": "14 November",
+        "hi": "14 नवंबर"
+      },
+      {
+        "en": "5 September",
+        "hi": "5 सितंबर"
+      },
+      {
+        "en": "20 November",
+        "hi": "20 नवंबर"
+      },
+      {
+        "en": "1 June",
+        "hi": "1 जून"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It is the birthday of Jawaharlal Nehru.",
+      "hi": "यह जवाहरलाल नेहरू का जन्मदिन है।"
+    }
+  },
+  {
+    "id": "DQ-0374",
+    "category": "Observances",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "On which date does India celebrate Independence Day?",
+      "hi": "भारत स्वतंत्रता दिवस किस तिथि को मनाता है?"
+    },
+    "options": [
+      {
+        "en": "2 October",
+        "hi": "2 अक्तूबर"
+      },
+      {
+        "en": "26 November",
+        "hi": "26 नवंबर"
+      },
+      {
+        "en": "26 January",
+        "hi": "26 जनवरी"
+      },
+      {
+        "en": "15 August",
+        "hi": "15 अगस्त"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The Indian Independence Act took effect that night in 1947.",
+      "hi": "भारतीय स्वतंत्रता अधिनियम 1947 में उसी रात लागू हुआ।"
+    }
+  },
+  {
+    "id": "DQ-0375",
+    "category": "Observances",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "On which date is Gandhi Jayanti observed in India?",
+      "hi": "भारत में गांधी जयंती किस तिथि को मनाई जाती है?"
+    },
+    "options": [
+      {
+        "en": "30 January",
+        "hi": "30 जनवरी"
+      },
+      {
+        "en": "15 August",
+        "hi": "15 अगस्त"
+      },
+      {
+        "en": "2 October",
+        "hi": "2 अक्तूबर"
+      },
+      {
+        "en": "14 November",
+        "hi": "14 नवंबर"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It is also observed internationally as the Day of Non-Violence.",
+      "hi": "इसे अंतर्राष्ट्रीय स्तर पर अहिंसा दिवस के रूप में भी मनाया जाता है।"
+    }
+  },
+  {
+    "id": "DQ-0376",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which is the largest lake in the world by surface area?",
+      "hi": "क्षेत्रफल की दृष्टि से विश्व की सबसे बड़ी झील कौन सी है?"
+    },
+    "options": [
+      {
+        "en": "Lake Superior",
+        "hi": "सुपीरियर झील"
+      },
+      {
+        "en": "The Caspian Sea",
+        "hi": "कैस्पियन सागर"
+      },
+      {
+        "en": "Lake Victoria",
+        "hi": "विक्टोरिया झील"
+      },
+      {
+        "en": "Lake Huron",
+        "hi": "ह्यूरॉन झील"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It is called a sea because of its size and salinity.",
+      "hi": "इसके आकार और खारेपन के कारण इसे सागर कहा जाता है।"
+    }
+  },
+  {
+    "id": "DQ-0377",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the longest river on the African continent?",
+      "hi": "अफ़्रीकी महाद्वीप की सबसे लंबी नदी कौन सी है?"
+    },
+    "options": [
+      {
+        "en": "The Zambezi",
+        "hi": "ज़ांबेज़ी"
+      },
+      {
+        "en": "The Congo",
+        "hi": "कांगो"
+      },
+      {
+        "en": "The Nile",
+        "hi": "नील"
+      },
+      {
+        "en": "The Niger",
+        "hi": "नाइजर"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It flows northwards into the Mediterranean.",
+      "hi": "यह उत्तर की ओर बहकर भूमध्य सागर में गिरती है।"
+    }
+  },
+  {
+    "id": "DQ-0378",
+    "category": "World geography",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which river flows through the city of London?",
+      "hi": "लंदन शहर से कौन सी नदी बहती है?"
+    },
+    "options": [
+      {
+        "en": "The Danube",
+        "hi": "डैन्यूब"
+      },
+      {
+        "en": "The Rhine",
+        "hi": "राइन"
+      },
+      {
+        "en": "The Thames",
+        "hi": "टेम्स"
+      },
+      {
+        "en": "The Seine",
+        "hi": "सीन"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It reaches the North Sea through a wide estuary.",
+      "hi": "यह एक चौड़े ज्वारनदमुख से होकर उत्तरी सागर में पहुँचती है।"
+    }
+  }
+]

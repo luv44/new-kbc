@@ -1,8 +1,8 @@
 # Draft question bank — unique, meta-word free
 
-Generated 2026-10-10T18:03:11.725Z by `node scripts/question-lint.mjs --write`.
+Generated 2026-10-11T06:40:48.077Z by `node scripts/question-lint.mjs --write`.
 
-- 298 questions, 298 distinct stems, 298 distinct fingerprints
+- 418 questions, 418 distinct stems, 418 distinct fingerprints
 - Banned meta-language scan: 0 hits
 - Duplication scan: 0 hits
 - Lifecycle: DRAFT_PENDING_REVIEW — not eligible for practice until human review accepts them (see `src/domain.ts eligible()`).
@@ -5070,6 +5070,2046 @@ Source: PENDING-EVIDENCE · EASY
 > उन्होंने बुद्ध के अवशेषों पर मूल ईंट संरचना बनवाई थी।
 
 Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 299. Which is the national bird of India?
+**भारत का राष्ट्रीय पक्षी कौन सा है?**
+
+- A. The Indian peacock — भारतीय मोर
+- B. The kingfisher — कठफोड़वा
+- C. The parrot — तोता
+- D. The sparrow — गौरैया
+
+**Answer: A. The Indian peacock**
+
+> It was declared the national bird in 1963.
+> इसे 1963 में राष्ट्रीय पक्षी घोषित किया गया।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 300. Which is the national animal of India?
+**भारत का राष्ट्रीय पशु कौन सा है?**
+
+- A. The lion — शेर
+- B. The leopard — तेंदुआ
+- C. The Bengal tiger — बंगाल टाइगर
+- D. The elephant — हाथी
+
+**Answer: C. The Bengal tiger**
+
+> It replaced the lion in April 1973.
+> इसने अप्रैल 1973 में शेर का स्थान लिया।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 301. Which is the national aquatic animal of India?
+**भारत का राष्ट्रीय जलीय जीव कौन सा है?**
+
+- A. The blue whale — नीली व्हेल
+- B. The dugong — ड्यूगोंग
+- C. The Ganges river dolphin — गंगा डॉल्फ़िन
+- D. The sea turtle — समुद्री कछुआ
+
+**Answer: C. The Ganges river dolphin**
+
+> It is nearly blind and navigates by sound.
+> यह लगभग अंधी होती है और ध्वनि से दिशा पहचानती है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 302. Which is the national flower of India?
+**भारत का राष्ट्रीय पुष्प कौन सा है?**
+
+- A. The jasmine — चमेली
+- B. The marigold — गेंदा
+- C. The lotus — कमल
+- D. The rose — गुलाब
+
+**Answer: C. The lotus**
+
+> It grows in shallow water and holds a place in Indian symbolism.
+> यह उथले जल में उगता है और भारतीय प्रतीकों में विशेष स्थान रखता है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 303. Which is the national fruit of India?
+**भारत का राष्ट्रीय फल कौन सा है?**
+
+- A. The mango — आम
+- B. The guava — अमरूद
+- C. The jackfruit — कटहल
+- D. The banana — केला
+
+**Answer: A. The mango**
+
+> India is also the world's largest producer of it.
+> भारत इसका विश्व का सबसे बड़ा उत्पादक भी है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 304. Which is the national tree of India?
+**भारत का राष्ट्रीय वृक्ष कौन सा है?**
+
+- A. The neem tree — नीम
+- B. The banyan tree — बरगद
+- C. The sandalwood tree — चंदन
+- D. The peepal tree — पीपल
+
+**Answer: B. The banyan tree**
+
+> Its aerial roots spread outward, so one tree can cover a wide area.
+> इसकी हवाई जड़ें बाहर की ओर फैलती हैं, इसलिए एक वृक्ष बड़ा क्षेत्र घेर सकता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 305. Which animal has been declared the national heritage animal of India?
+**भारत का राष्ट्रीय धरोहर पशु किसे घोषित किया गया है?**
+
+- A. The tiger — बाघ
+- B. The elephant — हाथी
+- C. The camel — ऊँट
+- D. The rhinoceros — गैंडा
+
+**Answer: B. The elephant**
+
+> It was given the status in 2010.
+> यह दर्जा 2010 में दिया गया।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 306. Who was the first woman to serve as President of India?
+**भारत की पहली महिला राष्ट्रपति कौन थीं?**
+
+- A. Sarojini Naidu — सरोजिनी नायडू
+- B. Meira Kumar — मीरा कुमार
+- C. Pratibha Patil — प्रतिभा पाटिल
+- D. Indira Gandhi — इंदिरा गांधी
+
+**Answer: C. Pratibha Patil**
+
+> She held office from 2007 to 2012.
+> वे 2007 से 2012 तक इस पद पर रहीं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 307. Who was independent India's first Education Minister?
+**स्वतंत्र भारत के पहले शिक्षा मंत्री कौन थे?**
+
+- A. C. Subramaniam — सी. सुब्रमण्यम
+- B. Dr Zakir Husain — डॉ. ज़ाकिर हुसैन
+- C. Humayun Kabir — हुमायूं कबीर
+- D. Maulana Abul Kalam Azad — मौलाना अबुल कलाम आज़ाद
+
+**Answer: D. Maulana Abul Kalam Azad**
+
+> His birthday, 11 November, is observed as National Education Day.
+> उनका जन्मदिन, 11 नवंबर, राष्ट्रीय शिक्षा दिवस के रूप में मनाया जाता है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 308. Who was the first Chief Justice of India?
+**भारत के पहले मुख्य न्यायाधीश कौन थे?**
+
+- A. Kailash Nath Wanchoo — कैलाश नाथ वानचू
+- B. Fazl Ali — फ़ज़ल अली
+- C. H. J. Kania — एच. जे. कानिया
+- D. M. Patanjali Sastri — एम. पतंजलि शास्त्री
+
+**Answer: C. H. J. Kania**
+
+> He took office when the Supreme Court opened on 28 January 1950.
+> उन्होंने 28 जनवरी 1950 को सर्वोच्च न्यायालय के उद्घाटन पर पदभार संभाला।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 309. Who was the first Chief Election Commissioner of India?
+**भारत के पहले मुख्य निर्वाचन आयुक्त कौन थे?**
+
+- A. S. P. Sen Verma — एस. पी. सेन वर्मा
+- B. K. V. K. Sundaram — के. वी. के. सुंदरम
+- C. T. N. Seshan — टी. एन. शेषन
+- D. Sukumar Sen — सुकुमार सेन
+
+**Answer: D. Sukumar Sen**
+
+> He oversaw the first general elections of 1951-52.
+> उन्होंने 1951-52 के पहले आम चुनाव का संचालन किया।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 310. Who was the first Indian to win a Nobel Prize?
+**नोबेल पुरस्कार जीतने वाले पहले भारतीय कौन थे?**
+
+- A. Mother Teresa — मदर टेरेसा
+- B. Amartya Sen — अमर्त्य सेन
+- C. C. V. Raman — सी. वी. रमन
+- D. Rabindranath Tagore — रवींद्रनाथ टैगोर
+
+**Answer: D. Rabindranath Tagore**
+
+> He received the Literature prize in 1913.
+> उन्हें 1913 में साहित्य का पुरस्कार मिला।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 311. Who was the first Indian to travel into space?
+**अंतरिक्ष में जाने वाले पहले भारतीय कौन थे?**
+
+- A. Sunita Williams — सुनीता विलियम्स
+- B. Rakesh Sharma — राकेश शर्मा
+- C. Ravish Malhotra — रवीश मल्होत्रा
+- D. Kalpana Chawla — कल्पना चावला
+
+**Answer: B. Rakesh Sharma**
+
+> He flew aboard Soyuz T-11 in 1984.
+> वे 1984 में सोयुज़ T-11 में उड़े।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 312. Who was the first Indian-born woman to fly in space?
+**अंतरिक्ष में उड़ने वाली पहली भारतीय मूल की महिला कौन थीं?**
+
+- A. Kalpana Chawla — कल्पना चावला
+- B. Sunita Williams — सुनीता विलियम्स
+- C. Ritu Karidhal — रितु करिधाल
+- D. N. Valarmathi — एन. वलारमथी
+
+**Answer: A. Kalpana Chawla**
+
+> Her first mission was STS-87 in 1997.
+> उनका पहला मिशन 1997 में STS-87 था।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 313. Who won India's first individual Olympic gold medal?
+**भारत का पहला व्यक्तिगत ओलंपिक स्वर्ण पदक किसने जीता?**
+
+- A. K. D. Jadhav — के. डी. जाधव
+- B. Leander Paes — लिएंडर पेस
+- C. Neeraj Chopra — नीरज चोपड़ा
+- D. Abhinav Bindra — अभिनव बिंद्रा
+
+**Answer: D. Abhinav Bindra**
+
+> He won the 10 m air rifle event at Beijing in 2008.
+> उन्होंने 2008 में बीजिंग में 10 मीटर एयर राइफ़ल स्पर्धा जीती।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 314. Which is the largest public sector bank in India?
+**भारत का सबसे बड़ा सार्वजनिक क्षेत्र का बैंक कौन सा है?**
+
+- A. Punjab National Bank — पंजाब नेशनल बैंक
+- B. Bank of Baroda — बैंक ऑफ़ बड़ौदा
+- C. The State Bank of India — भारतीय स्टेट बैंक
+- D. Canara Bank — कैनरा बैंक
+
+**Answer: C. The State Bank of India**
+
+> It took its present name in 1955.
+> इसे वर्तमान नाम 1955 में मिला।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 315. Which institution is India's apex body for financing agriculture and rural development?
+**कृषि और ग्रामीण विकास के वित्तपोषण के लिए भारत का शीर्ष निकाय कौन सा है?**
+
+- A. SIDBI — सिडबी
+- B. NABARD — नाबार्ड
+- C. EXIM Bank — एक्ज़िम बैंक
+- D. SEBI — सेबी
+
+**Answer: B. NABARD**
+
+> The National Bank for Agriculture and Rural Development was set up in 1982.
+> राष्ट्रीय कृषि और ग्रामीण विकास बैंक की स्थापना 1982 में हुई।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 316. Which body regulates the securities market in India?
+**भारत में प्रतिभूति बाज़ार का नियमन कौन सा निकाय करता है?**
+
+- A. NABARD — नाबार्ड
+- B. IRDAI — इरडाई
+- C. SEBI — सेबी
+- D. RBI — आरबीआई
+
+**Answer: C. SEBI**
+
+> The Securities and Exchange Board of India got statutory powers in 1992.
+> भारतीय प्रतिभूति और विनिमय बोर्ड को 1992 में वैधानिक शक्तियाँ मिलीं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 317. Which body regulates the insurance sector in India?
+**भारत में बीमा क्षेत्र का नियमन कौन सा निकाय करता है?**
+
+- A. SEBI — सेबी
+- B. TRAI — ट्राई
+- C. IRDAI — इरडाई
+- D. PFRDA — पीएफआरडीए
+
+**Answer: C. IRDAI**
+
+> It is the Insurance Regulatory and Development Authority of India.
+> यह भारतीय बीमा विनियामक और विकास प्राधिकरण है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 318. In Indian taxation, what does GST stand for?
+**भारतीय कराधान में GST का पूर्ण रूप क्या है?**
+
+- A. Gross Supply Tax — सकल आपूर्ति कर
+- B. Government Service Tax — सरकारी सेवा कर
+- C. Goods and Services Tax — वस्तु एवं सेवा कर
+- D. General Sales Tax — सामान्य बिक्री कर
+
+**Answer: C. Goods and Services Tax**
+
+> It replaced several separate central and state levies.
+> इसने कई अलग-अलग केंद्रीय और राज्य करों का स्थान लिया।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 319. On which date did the Goods and Services Tax come into effect in India?
+**भारत में वस्तु एवं सेवा कर किस तिथि से लागू हुआ?**
+
+- A. 8 November 2016 — 8 नवंबर 2016
+- B. 1 April 2016 — 1 अप्रैल 2016
+- C. 1 January 2018 — 1 जनवरी 2018
+- D. 1 July 2017 — 1 जुलाई 2017
+
+**Answer: D. 1 July 2017**
+
+> It was introduced by the One Hundred and First Amendment.
+> इसे एक सौ एकवें संविधान संशोधन द्वारा लाया गया।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 320. Which is the oldest stock exchange in Asia?
+**एशिया का सबसे पुराना शेयर बाज़ार कौन सा है?**
+
+- A. The National Stock Exchange — नेशनल स्टॉक एक्सचेंज
+- B. The Shanghai Stock Exchange — शंघाई स्टॉक एक्सचेंज
+- C. The Bombay Stock Exchange — बॉम्बे स्टॉक एक्सचेंज
+- D. The Tokyo Stock Exchange — टोक्यो स्टॉक एक्सचेंज
+
+**Answer: C. The Bombay Stock Exchange**
+
+> It began in 1875 under a banyan tree in Mumbai.
+> इसकी शुरुआत 1875 में मुंबई में एक बरगद के नीचे हुई।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 321. Which index tracks the leading companies listed on the Bombay Stock Exchange?
+**बॉम्बे स्टॉक एक्सचेंज में सूचीबद्ध अग्रणी कंपनियों को कौन सा सूचकांक दर्शाता है?**
+
+- A. The Nifty 50 — निफ़्टी 50
+- B. The BSE Midcap — बीएसई मिडकैप
+- C. The Bankex — बैंकेक्स
+- D. The Sensex — सेंसेक्स
+
+**Answer: D. The Sensex**
+
+> It is calculated from thirty large companies.
+> इसकी गणना तीस बड़ी कंपनियों से होती है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 322. Which is the benchmark index of the National Stock Exchange?
+**नेशनल स्टॉक एक्सचेंज का बेंचमार्क सूचकांक कौन सा है?**
+
+- A. The CNX IT — सीएनएक्स आईटी
+- B. The Sensex — सेंसेक्स
+- C. The Nifty 50 — निफ़्टी 50
+- D. The Nifty Bank — निफ़्टी बैंक
+
+**Answer: C. The Nifty 50**
+
+> It covers fifty of the exchange's largest listed companies.
+> इसमें एक्सचेंज की पचास सबसे बड़ी सूचीबद्ध कंपनियाँ शामिल हैं।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 323. What is the capital of Bangladesh?
+**बांग्लादेश की राजधानी क्या है?**
+
+- A. Sylhet — सिलहट
+- B. Khulna — खुलना
+- C. Chittagong — चिटगाँव
+- D. Dhaka — ढाका
+
+**Answer: D. Dhaka**
+
+> It sits on the Buriganga river.
+> यह बूढ़ीगंगा नदी के किनारे बसा है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 324. Which city is the commercial capital of Sri Lanka?
+**श्रीलंका की वाणिज्यिक राजधानी कौन सा शहर है?**
+
+- A. Kandy — कैंडी
+- B. Colombo — कोलंबो
+- C. Jaffna — जाफ़ना
+- D. Galle — गॉल
+
+**Answer: B. Colombo**
+
+> The legislature sits instead at Sri Jayawardenepura Kotte.
+> विधायिका इसके बजाय श्री जयवर्धनेपुरा कोट्टे में बैठती है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 325. What is the capital of Nepal?
+**नेपाल की राजधानी क्या है?**
+
+- A. Kathmandu — काठमांडू
+- B. Pokhara — पोखरा
+- C. Lalitpur — ललितपुर
+- D. Biratnagar — बिराटनगर
+
+**Answer: A. Kathmandu**
+
+> It lies in a valley ringed by the Himalayas.
+> यह हिमालय से घिरी एक घाटी में स्थित है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 326. What is the capital of Bhutan?
+**भूटान की राजधानी क्या है?**
+
+- A. Thimphu — थिम्पू
+- B. Paro — पारो
+- C. Punakha — पुनाखा
+- D. Phuntsholing — फ़ुंटशोलिंग
+
+**Answer: A. Thimphu**
+
+> It is one of very few capitals without traffic lights.
+> यह उन गिनी-चुनी राजधानियों में है जहाँ यातायात संकेत नहीं हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 327. What is the capital of the Maldives?
+**मालदीव की राजधानी क्या है?**
+
+- A. Fuvahmulah — फुवाहमुलाह
+- B. Kulhudhuffushi — कुलहुदुफ्फ़ुशी
+- C. Addu — अद्दू
+- D. Male — माले
+
+**Answer: D. Male**
+
+> The city occupies a single island of barely two square kilometres.
+> यह नगर मुश्किल से दो वर्ग किलोमीटर के एक ही द्वीप पर बसा है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 328. What is the capital of Myanmar?
+**म्यांमार की राजधानी क्या है?**
+
+- A. Bago — बागो
+- B. Yangon — यांगून
+- C. Mandalay — मांडले
+- D. Naypyidaw — नेपीडॉ
+
+**Answer: D. Naypyidaw**
+
+> The capital moved there from Yangon in 2005.
+> 2005 में राजधानी यांगून से यहाँ स्थानांतरित हुई।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 329. What is the currency of Bangladesh?
+**बांग्लादेश की मुद्रा क्या है?**
+
+- A. The Rupee — रुपया
+- B. The Ngultrum — नुल्ट्रम
+- C. The Taka — टका
+- D. The Kyat — क्यात
+
+**Answer: C. The Taka**
+
+> Its sign is written as Tk.
+> इसका चिह्न Tk लिखा जाता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 330. What is the currency of Bhutan?
+**भूटान की मुद्रा क्या है?**
+
+- A. The Ngultrum — नुल्ट्रम
+- B. The Kyat — क्यात
+- C. The Taka — टका
+- D. The Rufiyaa — रुफ़िया
+
+**Answer: A. The Ngultrum**
+
+> It is pegged at par with the Indian rupee.
+> यह भारतीय रुपये के समान मूल्य पर बंधी है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 331. What is the currency of the Maldives?
+**मालदीव की मुद्रा क्या है?**
+
+- A. The Riyal — रियाल
+- B. The Rufiyaa — रुफ़िया
+- C. The Dinar — दीनार
+- D. The Taka — टका
+
+**Answer: B. The Rufiyaa**
+
+> It is divided into one hundred laari.
+> यह सौ लारी में बँटती है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 332. Which is the largest saltwater lake in India?
+**भारत की सबसे बड़ी खारे पानी की झील कौन सी है?**
+
+- A. Sambhar Lake — सांभर झील
+- B. Chilika Lake — चिलिका झील
+- C. Dal Lake — डल झील
+- D. Wular Lake — वुलर झील
+
+**Answer: B. Chilika Lake**
+
+> It lies on the coast of Odisha and draws large flocks of migratory birds.
+> यह ओडिशा के तट पर है और प्रवासी पक्षियों के बड़े झुंड यहाँ आते हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 333. Which desert lies in northwestern India?
+**उत्तर-पश्चिमी भारत में कौन सा मरुभूमि स्थित है?**
+
+- A. The Kalahari desert — कालाहारी मरुभूमि
+- B. The Atacama desert — अटाकामा मरुभूमि
+- C. The Thar desert — थार मरुभूमि
+- D. The Gobi desert — गोबी मरुभूमि
+
+**Answer: C. The Thar desert**
+
+> It stretches across Rajasthan and into Pakistan.
+> यह राजस्थान से होते हुए पाकिस्तान तक फैला है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 334. Which mountain range runs along the western coast of peninsular India?
+**प्रायद्वीपीय भारत के पश्चिमी तट के साथ कौन सी पर्वत श्रृंखला चलती है?**
+
+- A. The Aravalli range — अरावली श्रृंखला
+- B. The Western Ghats — पश्चिमी घाट
+- C. The Eastern Ghats — पूर्वी घाट
+- D. The Vindhya range — विंध्य श्रृंखला
+
+**Answer: B. The Western Ghats**
+
+> It is a recognised biodiversity hotspot.
+> यह एक मान्यता प्राप्त जैव विविधता हॉटस्पॉट है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 335. Which point marks the southern tip of the Indian mainland?
+**भारतीय मुख्यभूमि का दक्षिणी छोर कौन सा बिंदु है?**
+
+- A. Kanyakumari — कन्याकुमारी
+- B. Kochi — कोच्चि
+- C. Rameswaram — रामेश्वरम
+- D. Indira Point — इंदिरा पॉइंट
+
+**Answer: A. Kanyakumari**
+
+> Indira Point, on Great Nicobar, lies further south still.
+> इंदिरा पॉइंट, ग्रेट निकोबार पर, इससे भी दक्षिण में है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 336. How many union territories does India currently have?
+**भारत में वर्तमान में कितने केंद्र शासित प्रदेश हैं?**
+
+- A. Eight union territories — आठ केंद्र शासित प्रदेश
+- B. Nine union territories — नौ केंद्र शासित प्रदेश
+- C. Seven union territories — सात केंद्र शासित प्रदेश
+- D. Six union territories — छह केंद्र शासित प्रदेश
+
+**Answer: A. Eight union territories**
+
+> Jammu and Kashmir, and Ladakh, became separate union territories in 2019.
+> जम्मू-कश्मीर और लद्दाख 2019 में अलग केंद्र शासित प्रदेश बने।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 337. Which is the newest state to be formed in India?
+**भारत में सबसे नया बना राज्य कौन सा है?**
+
+- A. Jharkhand — झारखंड
+- B. Chhattisgarh — छत्तीसगढ़
+- C. Telangana — तेलंगाना
+- D. Uttarakhand — उत्तराखंड
+
+**Answer: C. Telangana**
+
+> It was carved out of Andhra Pradesh in 2014.
+> इसे 2014 में आंध्र प्रदेश से अलग किया गया।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 338. Which is the largest mangrove forest in the world?
+**विश्व का सबसे बड़ा मैंग्रोव वन कौन सा है?**
+
+- A. Coringa — कोरिंगा
+- B. Bhitarkanika — भीतरकनिका
+- C. Pichavaram — पिचावरम
+- D. The Sundarbans — सुंदरबन
+
+**Answer: D. The Sundarbans**
+
+> It spreads across the delta shared by India and Bangladesh.
+> यह भारत और बांग्लादेश द्वारा साझा किए गए डेल्टा में फैला है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 339. In which year did the First World War begin?
+**प्रथम विश्व युद्ध किस वर्ष शुरू हुआ?**
+
+- A. 1918 — 1918
+- B. 1939 — 1939
+- C. 1914 — 1914
+- D. 1911 — 1911
+
+**Answer: C. 1914**
+
+> It ran until November 1918.
+> यह नवंबर 1918 तक चला।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 340. In which year did the First World War end?
+**प्रथम विश्व युद्ध किस वर्ष समाप्त हुआ?**
+
+- A. 1920 — 1920
+- B. 1918 — 1918
+- C. 1916 — 1916
+- D. 1914 — 1914
+
+**Answer: B. 1918**
+
+> The armistice took effect on 11 November.
+> युद्धविराम 11 नवंबर को लागू हुआ।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 341. In which year did the Second World War end?
+**द्वितीय विश्व युद्ध किस वर्ष समाप्त हुआ?**
+
+- A. 1939 — 1939
+- B. 1945 — 1945
+- C. 1943 — 1943
+- D. 1947 — 1947
+
+**Answer: B. 1945**
+
+> The United Nations was founded the same year.
+> उसी वर्ष संयुक्त राष्ट्र की स्थापना हुई।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 342. In which year did the French Revolution begin?
+**फ़्रांसीसी क्रांति किस वर्ष शुरू हुई?**
+
+- A. 1799 — 1799
+- B. 1776 — 1776
+- C. 1804 — 1804
+- D. 1789 — 1789
+
+**Answer: D. 1789**
+
+> The storming of the Bastille that July became its emblem.
+> उसी वर्ष जुलाई में बास्टील पर हमला इसका प्रतीक बना।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 343. Who was the first President of the United States?
+**संयुक्त राज्य अमेरिका के पहले राष्ट्रपति कौन थे?**
+
+- A. Thomas Jefferson — थॉमस जेफ़रसन
+- B. John Adams — जॉन एडम्स
+- C. Abraham Lincoln — अब्राहम लिंकन
+- D. George Washington — जॉर्ज वॉशिंगटन
+
+**Answer: D. George Washington**
+
+> He served two terms, from 1789 to 1797.
+> वे 1789 से 1797 तक दो कार्यकाल रहे।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 344. In which year did the Berlin Wall fall?
+**बर्लिन की दीवार किस वर्ष गिरी?**
+
+- A. 1991 — 1991
+- B. 1989 — 1989
+- C. 1979 — 1979
+- D. 1985 — 1985
+
+**Answer: B. 1989**
+
+> Germany was formally reunited in October 1990.
+> जर्मनी का औपचारिक पुनरेकीकरण अक्तूबर 1990 में हुआ।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 345. Which country presented the Statue of Liberty to the United States?
+**संयुक्त राज्य अमेरिका को स्टैच्यू ऑफ़ लिबर्टी किस देश ने भेंट की?**
+
+- A. Britain — ब्रिटेन
+- B. Italy — इटली
+- C. France — फ़्रांस
+- D. Spain — स्पेन
+
+**Answer: C. France**
+
+> It reached New York in crates in 1885.
+> यह 1885 में पेटीबंद होकर न्यूयॉर्क पहुँची।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 346. Who sailed across the Atlantic and reached the Americas in 1492?
+**1492 में अटलांटिक पार कर अमेरिकी महाद्वीप तक कौन पहुँचा?**
+
+- A. James Cook — जेम्स कुक
+- B. Ferdinand Magellan — फ़र्डिनेंड मैगलन
+- C. Vasco da Gama — वास्को डी गामा
+- D. Christopher Columbus — क्रिस्टोफ़र कोलंबस
+
+**Answer: D. Christopher Columbus**
+
+> He landed in the Caribbean believing he had reached Asia.
+> वे एशिया पहुँचे समझकर कैरिबियाई क्षेत्र में उतरे।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 347. Whose expedition was the first to sail right around the world?
+**किसका अभियान पहली बार पूरी पृथ्वी की परिक्रमा करने में सफल रहा?**
+
+- A. Francis Drake — फ़्रांसिस ड्रेक
+- B. Christopher Columbus — क्रिस्टोफ़र कोलंबस
+- C. Ferdinand Magellan — फ़र्डिनेंड मैगलन
+- D. Vasco da Gama — वास्को डी गामा
+
+**Answer: C. Ferdinand Magellan**
+
+> Magellan died on the way; Juan Sebastian Elcano brought the ship home.
+> मैगलन रास्ते में मारे गए; जुआन सेबास्टियन एल्कानो जहाज़ वापस लाए।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 348. Who painted the Mona Lisa?
+**मोना लिसा किसने बनाई?**
+
+- A. Pablo Picasso — पाब्लो पिकासो
+- B. Raphael — राफ़ेल
+- C. Michelangelo — माइकलएंजेलो
+- D. Leonardo da Vinci — लियोनार्डो दा विंची
+
+**Answer: D. Leonardo da Vinci**
+
+> He began it around 1503.
+> उन्होंने इसे लगभग 1503 में शुरू किया।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 349. In which museum is the Mona Lisa displayed?
+**मोना लिसा किस संग्रहालय में प्रदर्शित है?**
+
+- A. The Uffizi — उफ़िज़ी
+- B. The Prado — प्राडो
+- C. The British Museum — ब्रिटिश म्यूज़ियम
+- D. The Louvre — लूव्र
+
+**Answer: D. The Louvre**
+
+> The gallery stands in Paris on the Seine's right bank.
+> यह दीर्घा पेरिस में सीन नदी के दाहिने किनारे स्थित है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 350. Who wrote the play Romeo and Juliet?
+**नाटक रोमियो एंड जूलियट किसने लिखा?**
+
+- A. Charles Dickens — चार्ल्स डिकेंस
+- B. Oscar Wilde — ऑस्कर वाइल्ड
+- C. John Milton — जॉन मिल्टन
+- D. William Shakespeare — विलियम शेक्सपियर
+
+**Answer: D. William Shakespeare**
+
+> It was first published in 1597.
+> यह पहली बार 1597 में प्रकाशित हुआ।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 351. Who wrote the novel War and Peace?
+**उपन्यास वॉर एंड पीस किसने लिखा?**
+
+- A. Fyodor Dostoevsky — फ़्योदोर दोस्तोयेवस्की
+- B. Leo Tolstoy — लियो टॉल्स्टॉय
+- C. Anton Chekhov — एंतोन चेख़व
+- D. Ivan Turgenev — इवान तुर्गेनेव
+
+**Answer: B. Leo Tolstoy**
+
+> It was published in full in 1869.
+> यह पूरा 1869 में प्रकाशित हुआ।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 352. Who wrote the novel Les Misérables?
+**उपन्यास ले मिज़रेबल्स किसने लिखा?**
+
+- A. Alexandre Dumas — अलेक्ज़ांद्र दुमा
+- B. Gustave Flaubert — गुस्ताव फ़्लोबेर
+- C. Émile Zola — एमिल ज़ोला
+- D. Victor Hugo — विक्टर ह्यूगो
+
+**Answer: D. Victor Hugo**
+
+> It appeared in 1862.
+> यह 1862 में प्रकाशित हुआ।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 353. In which city does the Colosseum stand?
+**कोलोसियम किस शहर में स्थित है?**
+
+- A. Rome — रोम
+- B. Istanbul — इस्तांबुल
+- C. Athens — एथेंस
+- D. Cairo — काहिरा
+
+**Answer: A. Rome**
+
+> It opened as an amphitheatre in AD 80.
+> यह सन् 80 में रंगमंच के रूप में खुला।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 354. The Pyramids of Giza stand in which country?
+**गीज़ा के पिरामिड किस देश में स्थित हैं?**
+
+- A. Egypt — मिस्र
+- B. Sudan — सूडान
+- C. Libya — लीबिया
+- D. Mexico — मेक्सिको
+
+**Answer: A. Egypt**
+
+> They stand on the west bank of the Nile.
+> ये नील नदी के पश्चिमी किनारे पर हैं।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 355. Machu Picchu is an ancient site in which country?
+**माचू पिचू किस देश की प्राचीन धरोहर है?**
+
+- A. Chile — चिली
+- B. Bolivia — बोलिविया
+- C. Ecuador — इक्वाडोर
+- D. Peru — पेरू
+
+**Answer: D. Peru**
+
+> It was built by the Inca in the fifteenth century.
+> इसे पंद्रहवीं शताब्दी में इंका लोगों ने बनाया।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 356. The Great Wall stands in which country?
+**दीवार-ए-चीन किस देश में स्थित है?**
+
+- A. China — चीन
+- B. Japan — जापान
+- C. Korea — कोरिया
+- D. Mongolia — मंगोलिया
+
+**Answer: A. China**
+
+> Most of what stands today dates from the Ming era.
+> आज जो भाग दिखते हैं उनमें से अधिकांश मिंग काल के हैं।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 357. The Great Barrier Reef is built up by which living organisms?
+**ग्रेट बैरियर रीफ़ किन जीवों से बना है?**
+
+- A. Coral polyps — मूंगा पॉलिप
+- B. Kelp forests — केल्प वन
+- C. Sea sponges — समुद्री स्पंज
+- D. Shellfish beds — सीपों के बिछावन
+
+**Answer: A. Coral polyps**
+
+> Each polyp lays down a limestone cup around itself.
+> प्रत्येक पॉलिप अपने चारों ओर चूनापत्थर का कटोरा बनाता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 358. Which is the largest island in the world?
+**विश्व का सबसे बड़ा द्वीप कौन सा है?**
+
+- A. Borneo — बोर्नियो
+- B. New Guinea — न्यू गिनी
+- C. Madagascar — मेडागास्कर
+- D. Greenland — ग्रीनलैंड
+
+**Answer: D. Greenland**
+
+> Australia is usually counted as a continent rather than an island.
+> ऑस्ट्रेलिया को आम तौर पर द्वीप नहीं बल्कि महाद्वीप माना जाता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 359. Which is the coldest continent on Earth?
+**पृथ्वी का सबसे ठंडा महाद्वीप कौन सा है?**
+
+- A. Antarctica — अंटार्कटिका
+- B. Asia — एशिया
+- C. Europe — यूरोप
+- D. North America — उत्तरी अमेरिका
+
+**Answer: A. Antarctica**
+
+> Almost all of it lies under an ice sheet.
+> यह लगभग पूरा एक बर्फ़ की चादर के नीचे है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 360. Which is the highest waterfall in the world?
+**विश्व का सबसे ऊँचा जलप्रपात कौन सा है?**
+
+- A. Victoria Falls — विक्टोरिया फ़ॉल्स
+- B. Angel Falls — एन्जल फ़ॉल्स
+- C. Iguazu Falls — इग्वासू फ़ॉल्स
+- D. Niagara Falls — नियाग्रा फ़ॉल्स
+
+**Answer: B. Angel Falls**
+
+> It drops 979 metres in Venezuela.
+> यह वेनेज़ुएला में 979 मीटर गिरता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 361. Which is the largest canyon in the world?
+**विश्व की सबसे बड़ी घाटी कौन सी है?**
+
+- A. The Colca Canyon — कोल्का कैन्यन
+- B. The Fish River Canyon — फ़िश रिवर कैन्यन
+- C. The Yarlung Tsangpo Canyon — यारलुंग सांगपो कैन्यन
+- D. The Grand Canyon — ग्रांड कैन्यन
+
+**Answer: D. The Grand Canyon**
+
+> The Colorado river cut it over millions of years.
+> इसे कोलोराडो नदी ने करोड़ों वर्षों में काटा।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 362. Which country now has the largest population in the world?
+**वर्तमान में किस देश की जनसंख्या विश्व में सबसे अधिक है?**
+
+- A. The United States — संयुक्त राज्य अमेरिका
+- B. India — भारत
+- C. Indonesia — इंडोनेशिया
+- D. China — चीन
+
+**Answer: B. India**
+
+> It overtook China in 2023.
+> इसने 2023 में चीन को पीछे छोड़ा।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 363. Which layer of the atmosphere contains the ozone layer?
+**वायुमंडल की किस परत में ओज़ोन परत होती है?**
+
+- A. The thermosphere — ताप मंडल
+- B. The stratosphere — समताप मंडल
+- C. The troposphere — क्षोभ मंडल
+- D. The mesosphere — मध्य मंडल
+
+**Answer: B. The stratosphere**
+
+> Ozone there absorbs most of the Sun's harmful ultraviolet rays.
+> वहाँ की ओज़ोन सूर्य की अधिकांश हानिकारक पराबैंगनी किरणें सोख लेती है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 364. Chlorofluorocarbons released from old refrigerants damage which part of the atmosphere?
+**पुराने रेफ़्रिजरेंट से निकलने वाले क्लोरोफ़्लोरोकार्बन वायुमंडल के किस भाग को नुक़सान पहुँचाते हैं?**
+
+- A. The ozone layer — ओज़ोन परत
+- B. The ionosphere — आयन मंडल
+- C. The exosphere — बहिर्मंडल
+- D. The jet stream — जेट स्ट्रीम
+
+**Answer: A. The ozone layer**
+
+> One chlorine atom can break down many ozone molecules.
+> एक क्लोरीन परमाणु कई ओज़ोन अणुओं को तोड़ सकता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 365. Which international treaty phased out ozone-depleting substances?
+**ओज़ोन नाशक पदार्थों को चरणबद्ध रूप से हटाने वाली अंतर्राष्ट्रीय संधि कौन सी है?**
+
+- A. The Kyoto Protocol — क्योटो प्रोटोकॉल
+- B. The Basel Convention — बेसल संधि
+- C. The Ramsar Convention — रामसर संधि
+- D. The Montreal Protocol — मॉन्ट्रियल प्रोटोकॉल
+
+**Answer: D. The Montreal Protocol**
+
+> It was agreed in 1987 and every UN member has joined it.
+> यह 1987 में तय हुई और संयुक्त राष्ट्र के सभी सदस्य इसमें शामिल हैं।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 366. Which agreement on climate change was adopted by world leaders in 2015?
+**2015 में विश्व नेताओं ने जलवायु परिवर्तन पर कौन सा समझौता अपनाया?**
+
+- A. The Copenhagen Accord — कोपनहेगन समझौता
+- B. The Rio Declaration — रियो घोषणा
+- C. The Kyoto Protocol — क्योटो प्रोटोकॉल
+- D. The Paris Agreement — पेरिस समझौता
+
+**Answer: D. The Paris Agreement**
+
+> Its long-term aim is to keep warming well below two degrees.
+> इसका दीर्घकालिक लक्ष्य तापमान वृद्धि को दो डिग्री से काफ़ी नीचे रखना है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 367. In which year was the Kyoto Protocol adopted?
+**क्योटो प्रोटोकॉल किस वर्ष अपनाया गया?**
+
+- A. 1997 — 1997
+- B. 1992 — 1992
+- C. 2015 — 2015
+- D. 2005 — 2005
+
+**Answer: A. 1997**
+
+> It set binding emission limits for industrialised countries.
+> इसने औद्योगिक देशों के लिए बाध्यकारी उत्सर्जन सीमाएँ तय कीं।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 368. On which date is World Environment Day observed each year?
+**विश्व पर्यावरण दिवस हर वर्ष किस तिथि को मनाया जाता है?**
+
+- A. 16 September — 16 सितंबर
+- B. 5 July — 5 जुलाई
+- C. 5 June — 5 जून
+- D. 22 April — 22 अप्रैल
+
+**Answer: C. 5 June**
+
+> It marks the opening of the 1972 Stockholm conference.
+> यह 1972 के स्टॉकहोम सम्मेलन के उद्घाटन को दर्शाता है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 369. On which date is World Water Day observed each year?
+**विश्व जल दिवस हर वर्ष किस तिथि को मनाया जाता है?**
+
+- A. 22 March — 22 मार्च
+- B. 22 April — 22 अप्रैल
+- C. 2 June — 2 जून
+- D. 22 December — 22 दिसंबर
+
+**Answer: A. 22 March**
+
+> The United Nations has marked it since 1993.
+> संयुक्त राष्ट्र इसे 1993 से मना रहा है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 370. On which date is the International Day of Yoga observed?
+**अंतर्राष्ट्रीय योग दिवस किस तिथि को मनाया जाता है?**
+
+- A. 7 April — 7 अप्रैल
+- B. 21 March — 21 मार्च
+- C. 21 June — 21 जून
+- D. 5 June — 5 जून
+
+**Answer: C. 21 June**
+
+> It falls on the summer solstice in the northern hemisphere.
+> यह उत्तरी गोलार्ध में ग्रीष्म संक्रांति के दिन पड़ता है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 371. On which date is World Health Day observed each year?
+**विश्व स्वास्थ्य दिवस हर वर्ष किस तिथि को मनाया जाता है?**
+
+- A. 7 April — 7 अप्रैल
+- B. 24 October — 24 अक्तूबर
+- C. 1 December — 1 दिसंबर
+- D. 31 May — 31 मई
+
+**Answer: A. 7 April**
+
+> It marks the founding of the World Health Organization in 1948.
+> यह 1948 में विश्व स्वास्थ्य संगठन की स्थापना को दर्शाता है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 372. On which date is Teachers' Day observed in India?
+**भारत में शिक्षक दिवस किस तिथि को मनाया जाता है?**
+
+- A. 2 October — 2 अक्तूबर
+- B. 5 September — 5 सितंबर
+- C. 14 November — 14 नवंबर
+- D. 5 October — 5 अक्तूबर
+
+**Answer: B. 5 September**
+
+> It is the birthday of Dr S. Radhakrishnan.
+> यह डॉ. एस. राधाकृष्णन का जन्मदिन है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 373. On which date is Children's Day observed in India?
+**भारत में बाल दिवस किस तिथि को मनाया जाता है?**
+
+- A. 14 November — 14 नवंबर
+- B. 5 September — 5 सितंबर
+- C. 20 November — 20 नवंबर
+- D. 1 June — 1 जून
+
+**Answer: A. 14 November**
+
+> It is the birthday of Jawaharlal Nehru.
+> यह जवाहरलाल नेहरू का जन्मदिन है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 374. On which date does India celebrate Independence Day?
+**भारत स्वतंत्रता दिवस किस तिथि को मनाता है?**
+
+- A. 2 October — 2 अक्तूबर
+- B. 26 November — 26 नवंबर
+- C. 26 January — 26 जनवरी
+- D. 15 August — 15 अगस्त
+
+**Answer: D. 15 August**
+
+> The Indian Independence Act took effect that night in 1947.
+> भारतीय स्वतंत्रता अधिनियम 1947 में उसी रात लागू हुआ।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 375. On which date is Gandhi Jayanti observed in India?
+**भारत में गांधी जयंती किस तिथि को मनाई जाती है?**
+
+- A. 30 January — 30 जनवरी
+- B. 15 August — 15 अगस्त
+- C. 2 October — 2 अक्तूबर
+- D. 14 November — 14 नवंबर
+
+**Answer: C. 2 October**
+
+> It is also observed internationally as the Day of Non-Violence.
+> इसे अंतर्राष्ट्रीय स्तर पर अहिंसा दिवस के रूप में भी मनाया जाता है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 376. Which is the largest lake in the world by surface area?
+**क्षेत्रफल की दृष्टि से विश्व की सबसे बड़ी झील कौन सी है?**
+
+- A. Lake Superior — सुपीरियर झील
+- B. The Caspian Sea — कैस्पियन सागर
+- C. Lake Victoria — विक्टोरिया झील
+- D. Lake Huron — ह्यूरॉन झील
+
+**Answer: B. The Caspian Sea**
+
+> It is called a sea because of its size and salinity.
+> इसके आकार और खारेपन के कारण इसे सागर कहा जाता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 377. Which is the longest river on the African continent?
+**अफ़्रीकी महाद्वीप की सबसे लंबी नदी कौन सी है?**
+
+- A. The Zambezi — ज़ांबेज़ी
+- B. The Congo — कांगो
+- C. The Nile — नील
+- D. The Niger — नाइजर
+
+**Answer: C. The Nile**
+
+> It flows northwards into the Mediterranean.
+> यह उत्तर की ओर बहकर भूमध्य सागर में गिरती है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 378. Which river flows through the city of London?
+**लंदन शहर से कौन सी नदी बहती है?**
+
+- A. The Danube — डैन्यूब
+- B. The Rhine — राइन
+- C. The Thames — टेम्स
+- D. The Seine — सीन
+
+**Answer: C. The Thames**
+
+> It reaches the North Sea through a wide estuary.
+> यह एक चौड़े ज्वारनदमुख से होकर उत्तरी सागर में पहुँचती है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 379. Which star lies closest to the Earth?
+**पृथ्वी के सबसे निकट कौन सा तारा है?**
+
+- A. Proxima Centauri — प्रॉक्सिमा सेंटॉरी
+- B. Polaris — ध्रुव तारा
+- C. The Sun — सूर्य
+- D. Sirius — सिरियस
+
+**Answer: C. The Sun**
+
+> Its light takes about eight minutes to reach us.
+> इसका प्रकाश हम तक पहुँचने में लगभग आठ मिनट लेता है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 380. Apart from the Sun, which is the nearest star to Earth?
+**सूर्य के अलावा पृथ्वी के सबसे निकट कौन सा तारा है?**
+
+- A. Proxima Centauri — प्रॉक्सिमा सेंटॉरी
+- B. Alpha Centauri A — अल्फ़ा सेंटॉरी A
+- C. Betelgeuse — बीटलजूस
+- D. Sirius — सिरियस
+
+**Answer: A. Proxima Centauri**
+
+> It sits about 4.2 light years away.
+> यह लगभग 4.2 प्रकाश वर्ष दूर है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 381. In which galaxy is our solar system located?
+**हमारा सौर मंडल किस आकाशगंगा में स्थित है?**
+
+- A. Andromeda — एंड्रोमेडा
+- B. Triangulum — ट्रायंगुलम
+- C. Whirlpool — व्हर्लपूल
+- D. The Milky Way — आकाशगंगा
+
+**Answer: D. The Milky Way**
+
+> Our Sun orbits its centre once in roughly 230 million years.
+> हमारा सूर्य इसके केंद्र की परिक्रमा लगभग 23 करोड़ वर्षों में पूरी करता है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 382. Who was the first human being to travel into space?
+**अंतरिक्ष में जाने वाले पहले मानव कौन थे?**
+
+- A. Yuri Gagarin — यूरी गगारिन
+- B. John Glenn — जॉन ग्लेन
+- C. Neil Armstrong — नील आर्मस्ट्रांग
+- D. Alan Shepard — एलन शेपर्ड
+
+**Answer: A. Yuri Gagarin**
+
+> He orbited the Earth aboard Vostok 1 in April 1961.
+> उन्होंने अप्रैल 1961 में वोस्तोक 1 से पृथ्वी की परिक्रमा की।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 383. Which Soviet cosmonaut became the first woman to travel into space?
+**किस सोवियत अंतरिक्ष यात्री ने अंतरिक्ष में जाने वाली पहली महिला होने का रिकॉर्ड बनाया?**
+
+- A. Kalpana Chawla — कल्पना चावला
+- B. Sally Ride — सैली राइड
+- C. Svetlana Savitskaya — स्वेतलाना साविस्काया
+- D. Valentina Tereshkova — वेलेंटीना तेरेश्कोवा
+
+**Answer: D. Valentina Tereshkova**
+
+> She flew Vostok 6 in June 1963.
+> उन्होंने जून 1963 में वोस्तोक 6 उड़ाया।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 384. Which was the first artificial satellite placed in orbit?
+**कक्षा में स्थापित पहला कृत्रिम उपग्रह कौन सा था?**
+
+- A. Vanguard 1 — वैनगार्ड 1
+- B. Explorer 1 — एक्सप्लोरर 1
+- C. Aryabhata — आर्यभट्ट
+- D. Sputnik 1 — स्पुतनिक 1
+
+**Answer: D. Sputnik 1**
+
+> The Soviet Union launched it in October 1957.
+> इसे अक्तूबर 1957 में सोवियत संघ ने प्रक्षेपित किया।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 385. Which is India's national space agency?
+**भारत की राष्ट्रीय अंतरिक्ष एजेंसी कौन सी है?**
+
+- A. NASA — नासा
+- B. ISRO — इसरो
+- C. DRDO — डीआरडीओ
+- D. ESA — ईसा
+
+**Answer: B. ISRO**
+
+> The Indian Space Research Organisation was founded in 1969.
+> भारतीय अंतरिक्ष अनुसंधान संगठन की स्थापना 1969 में हुई।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 386. Where is the headquarters of ISRO?
+**इसरो का मुख्यालय कहाँ है?**
+
+- A. Sriharikota — श्रीहरिकोटा
+- B. Hyderabad — हैदराबाद
+- C. Thiruvananthapuram — तिരുवनंतपुरम
+- D. Bengaluru — बेंगलुरु
+
+**Answer: D. Bengaluru**
+
+> Launches take place instead from Sriharikota on the east coast.
+> प्रक्षेपण इसके बजाय पूर्वी तट पर स्थित श्रीहरिकोटा से होते हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 387. Which was India's first satellite?
+**भारत का पहला उपग्रह कौन सा था?**
+
+- A. Aryabhata — आर्यभट्ट
+- B. Rohini — रोहिणी
+- C. INSAT-1A — इंसेट-1A
+- D. Bhaskara — भास्कर
+
+**Answer: A. Aryabhata**
+
+> It was launched in 1975 aboard a Soviet rocket.
+> इसे 1975 में एक सोवियत रॉकेट से प्रक्षेपित किया गया।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 388. What was the name of India's first mission to the Moon?
+**चंद्रमा पर भारत के पहले मिशन का नाम क्या था?**
+
+- A. Aditya-L1 — आदित्य-L1
+- B. Chandrayaan-1 — चंद्रयान-1
+- C. Gaganyaan — गगनयान
+- D. Mangalyaan — मंगलयान
+
+**Answer: B. Chandrayaan-1**
+
+> It was launched in October 2008.
+> इसे अक्तूबर 2008 में प्रक्षेपित किया गया।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 389. Which instrument measures the moisture in the air?
+**वायु में नमी कौन सा यंत्र मापता है?**
+
+- A. A hygrometer — हाइग्रोमीटर
+- B. An anemometer — एनीमोमीटर
+- C. A thermometer — थर्मामीटर
+- D. A barometer — बैरोमीटर
+
+**Answer: A. A hygrometer**
+
+> It usually compares a dry bulb with a wet one.
+> यह प्रायः शुष्क बल्ब की तुलना आर्द्र बल्ब से करता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 390. Which instrument is used to measure body temperature?
+**शरीर का तापमान मापने के लिए कौन सा यंत्र प्रयोग होता है?**
+
+- A. A barometer — बैरोमीटर
+- B. A calorimeter — कैलोरीमीटर
+- C. A clinical thermometer — क्लिनिकल थर्मामीटर
+- D. A hydrometer — हाइड्रोमीटर
+
+**Answer: C. A clinical thermometer**
+
+> Its scale normally runs from 35 to 42 degrees Celsius.
+> इसका मापक्रम सामान्यतः 35 से 42 डिग्री सेल्सियस तक होता है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 391. What does a lactometer measure?
+**लैक्टोमीटर क्या मापता है?**
+
+- A. The salt content of water — जल में लवण की मात्रा
+- B. The fat in butter — मक्खन में वसा
+- C. The sugar level in fruit — फल में शर्करा की मात्रा
+- D. The purity of milk — दूध की शुद्धता
+
+**Answer: D. The purity of milk**
+
+> Milk diluted with water has a lower density, so the float sinks deeper.
+> जल मिलाए दूध का घनत्व कम होता है, इसलिए तैरक अधिक डूबता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 392. What does an altimeter measure?
+**अल्टीमीटर क्या मापता है?**
+
+- A. Height above sea level — समुद्र तल से ऊँचाई
+- B. Distance travelled — तय की गई दूरी
+- C. Speed of a vehicle — वाहन की गति
+- D. Depth below water — जल के नीचे की गहराई
+
+**Answer: A. Height above sea level**
+
+> It works because air pressure falls steadily with altitude.
+> यह इसलिए काम करता है क्योंकि ऊँचाई बढ़ने पर वायु दाब घटता जाता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 393. Which device converts alternating current into direct current?
+**कौन सा यंत्र प्रत्यावर्ती धारा को दिष्ट धारा में बदलता है?**
+
+- A. A capacitor — संधारित्र
+- B. An inverter — इनवर्टर
+- C. A rheostat — रियोस्टैट
+- D. A rectifier — रेक्टिफ़ायर
+
+**Answer: D. A rectifier**
+
+> An inverter does the opposite conversion.
+> इनवर्टर उल्टा रूपांतरण करता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 394. Which device raises or lowers the voltage of an alternating supply?
+**कौन सा यंत्र प्रत्यावर्ती आपूर्ति का वोल्टेज बढ़ाता या घटाता है?**
+
+- A. A galvanometer — गैल्वेनोमीटर
+- B. A transformer — ट्रांसफ़ॉर्मर
+- C. A generator — जनरेटर
+- D. A fuse — फ़्यूज़
+
+**Answer: B. A transformer**
+
+> It works only with alternating current, not direct.
+> यह केवल प्रत्यावर्ती धारा पर काम करता है, दिष्ट पर नहीं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 395. Which metal is the best conductor of electricity?
+**कौन सी धातु विद्युत की सर्वोत्तम चालक है?**
+
+- A. Gold — सोना
+- B. Aluminium — एल्युमिनियम
+- C. Copper — ताम्र
+- D. Silver — चाँदी
+
+**Answer: D. Silver**
+
+> Copper is used in wiring because it is far cheaper and nearly as good.
+> तारों में ताँबा प्रयोग होता है क्योंकि वह काफ़ी सस्ता और लगभग उतना ही अच्छा है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 396. Which metal is used for the filament of an electric bulb?
+**बिजली के बल्ब के तंतु में कौन सी धातु प्रयोग होती है?**
+
+- A. Iron — लोहा
+- B. Tungsten — टंगस्टन
+- C. Copper — ताम्र
+- D. Nickel — निकल
+
+**Answer: B. Tungsten**
+
+> Its very high melting point lets it glow without fusing.
+> इसका गलनांक बहुत ऊँचा होने से यह पिघले बिना चमकता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 397. Which inert gas is usually filled inside an electric bulb?
+**बिजली के बल्ब के भीतर सामान्यतः कौन सी अक्रिय गैस भरी जाती है?**
+
+- A. Helium — हीलियम
+- B. Neon — नियॉन
+- C. Krypton — क्रिप्टन
+- D. Argon — आर्गन
+
+**Answer: D. Argon**
+
+> It slows the evaporation of the hot filament.
+> यह गर्म तंतु के वाष्पीकरण को धीमा करती है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 398. Which non-metal conducts electricity?
+**कौन सी अधातु विद्युत का चालन करती है?**
+
+- A. Graphite — ग्रेफ़ाइट
+- B. Phosphorus — फ़ास्फोरस
+- C. Iodine — आयोडीन
+- D. Sulphur — गंधक
+
+**Answer: A. Graphite**
+
+> Its layered carbon structure lets electrons move freely.
+> इसकी परतदार कार्बन संरचना इलेक्ट्रॉनों को स्वतंत्र रूप से चलने देती है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 399. Which is the hardest naturally occurring substance?
+**प्राकृतिक रूप से पाया जाने वाला सबसे कठोर पदार्थ कौन सा है?**
+
+- A. Corundum — कोरंडम
+- B. Quartz — क्वार्ट्ज़
+- C. Topaz — टोपैज़
+- D. Diamond — हीरा
+
+**Answer: D. Diamond**
+
+> It sits at ten, the top of the Mohs hardness scale.
+> यह मोहस कठोरता मापक्रम के शीर्ष, दस पर है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 400. What is the main constituent of natural gas?
+**प्राकृतिक गैस का मुख्य घटक क्या है?**
+
+- A. Butane — ब्यूटेन
+- B. Ethane — एथेन
+- C. Methane — मीथेन
+- D. Propane — प्रोपेन
+
+**Answer: C. Methane**
+
+> Domestic cylinders hold butane and propane instead.
+> घरेलू सिलेंडर में इसके बजाय ब्यूटेन और प्रोपेन होते हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 401. What is baking soda chemically called?
+**खाने का सोडा रासायनिक रूप से क्या कहलाता है?**
+
+- A. Sodium bicarbonate — सोडियम बाइकार्बोनेट
+- B. Calcium carbonate — कैल्शियम कार्बोनेट
+- C. Sodium carbonate — सोडियम कार्बोनेट
+- D. Sodium hydroxide — सोडियम हाइड्रॉक्साइड
+
+**Answer: A. Sodium bicarbonate**
+
+> Its formula is NaHCO3.
+> इसका सूत्र NaHCO3 है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 402. What is washing soda chemically called?
+**धोने का सोडा रासायनिक रूप से क्या कहलाता है?**
+
+- A. Calcium oxide — कैल्शियम ऑक्साइड
+- B. Sodium chloride — सोडियम क्लोराइड
+- C. Sodium carbonate — सोडियम कार्बोनेट
+- D. Sodium bicarbonate — सोडियम बाइकार्बोनेट
+
+**Answer: C. Sodium carbonate**
+
+> Its formula is Na2CO3.
+> इसका सूत्र Na2CO3 है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 403. What is quicklime chemically called?
+**बिना बुझा चूना रासायनिक रूप से क्या कहलाता है?**
+
+- A. Calcium hydroxide — कैल्शियम हाइड्रॉक्साइड
+- B. Calcium carbonate — कैल्शियम कार्बोनेट
+- C. Calcium sulphate — कैल्शियम सल्फ़ेट
+- D. Calcium oxide — कैल्शियम ऑक्साइड
+
+**Answer: D. Calcium oxide**
+
+> Adding water turns it into slaked lime and releases heat.
+> जल मिलाने पर यह बुझा चूना बनता है और ऊष्मा निकलती है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 404. Which acid is present in vinegar?
+**सिरके में कौन सा अम्ल होता है?**
+
+- A. Acetic acid — एसिटिक अम्ल
+- B. Tartaric acid — टार्टरिक अम्ल
+- C. Citric acid — सिट्रिक अम्ल
+- D. Lactic acid — लैक्टिक अम्ल
+
+**Answer: A. Acetic acid**
+
+> Table vinegar holds roughly five per cent of it in water.
+> टेबल सिरके में यह लगभग पाँच प्रतिशत जल में घुला होता है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 405. Which acid gives citrus fruits their sour taste?
+**खट्टे फलों को खट्टापन कौन सा अम्ल देता है?**
+
+- A. Acetic acid — एसिटिक अम्ल
+- B. Malic acid only — केवल मैलिक अम्ल
+- C. Citric acid — सिट्रिक अम्ल
+- D. Ascorbic acid only — केवल एस्कॉर्बिक अम्ल
+
+**Answer: C. Citric acid**
+
+> Lemons contain more of it than almost any other fruit.
+> नींबू में यह लगभग किसी भी अन्य फल से अधिक होता है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 406. Which acid is formed when milk turns into curd?
+**दूध के दही बनने पर कौन सा अम्ल बनता है?**
+
+- A. Formic acid — फ़ॉर्मिक अम्ल
+- B. Butyric acid — ब्यूटिरिक अम्ल
+- C. Lactic acid — लैक्टिक अम्ल
+- D. Acetic acid — एसिटिक अम्ल
+
+**Answer: C. Lactic acid**
+
+> Bacteria convert the milk sugar lactose into this acid.
+> जीवाणु दूध की शर्करा लैक्टोज़ को इस अम्ल में बदलते हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 407. Which acid is injected by an ant's sting?
+**चींटी के डंक में कौन सा अम्ल होता है?**
+
+- A. Citric acid — सिट्रिक अम्ल
+- B. Formic acid — फ़ॉर्मिक अम्ल
+- C. Oxalic acid — ऑक्सैलिक अम्ल
+- D. Acetic acid — एसिटिक अम्ल
+
+**Answer: B. Formic acid**
+
+> Its name comes from formica, the Latin word for ant.
+> इसका नाम लैटिन शब्द फ़ॉर्मिका से आया है, जिसका अर्थ चींटी है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 408. Which gas is used to ripen fruit artificially?
+**फल कृत्रिम रूप से पकाने के लिए कौन सी गैस प्रयोग होती है?**
+
+- A. Carbon monoxide — कार्बन मोनोऑक्साइड
+- B. Oxygen — ऑक्सीजन
+- C. Nitrogen — नाइट्रोजन
+- D. Ethylene — एथिलीन
+
+**Answer: D. Ethylene**
+
+> Fruit also releases it naturally as it ripens.
+> पकते समय फल इसे प्राकृतिक रूप से भी छोड़ते हैं।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 409. Which gas is known as laughing gas?
+**किस गैस को हँसाने वाली गैस कहा जाता है?**
+
+- A. Ammonia — अमोनिया
+- B. Nitrogen dioxide — नाइट्रोजन डाइऑक्साइड
+- C. Nitrous oxide — नाइट्रस ऑक्साइड
+- D. Nitric oxide — नाइट्रिक ऑक्साइड
+
+**Answer: C. Nitrous oxide**
+
+> Dentists use it as a mild anaesthetic.
+> दंत चिकित्सक इसे हल्के संवेदनाहारी के रूप में प्रयोग करते हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 410. A shortage of which vitamin causes night blindness?
+**किस विटामिन की कमी से रतौंधी होती है?**
+
+- A. Vitamin K — विटामिन K
+- B. Vitamin E — विटामिन E
+- C. Vitamin A — विटामिन A
+- D. Vitamin C — विटामिन C
+
+**Answer: C. Vitamin A**
+
+> The vitamin is needed to make the pigment rhodopsin in the retina.
+> रेटिना में वर्णक रोडोप्सिन बनाने के लिए यह विटामिन चाहिए।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 411. A shortage of which vitamin causes scurvy?
+**किस विटामिन की कमी से स्कर्वी रोग होता है?**
+
+- A. Vitamin C — विटामिन C
+- B. Vitamin D — विटामिन D
+- C. Vitamin B12 — विटामिन B12
+- D. Vitamin A — विटामिन A
+
+**Answer: A. Vitamin C**
+
+> Sailors once carried citrus fruit on long voyages to prevent it.
+> नाविक इसे रोकने के लिए लंबी यात्राओं में खट्टे फल साथ रखते थे।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 412. A shortage of which vitamin causes beriberi?
+**किस विटामिन की कमी से बेरीबेरी रोग होता है?**
+
+- A. Vitamin B12 — विटामिन B12
+- B. Vitamin B1 — विटामिन B1
+- C. Vitamin K — विटामिन K
+- D. Vitamin B6 — विटामिन B6
+
+**Answer: B. Vitamin B1**
+
+> It is also called thiamine.
+> इसे थायमिन भी कहते हैं।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 413. A shortage of which mineral in the diet causes goitre?
+**भोजन में किस खनिज की कमी से घेंघा रोग होता है?**
+
+- A. Calcium — कैल्शियम
+- B. Magnesium — मैग्नीशियम
+- C. Zinc — ज़िंक
+- D. Iodine — आयोडीन
+
+**Answer: D. Iodine**
+
+> This is why table salt is commonly sold iodised.
+> इसीलिए बाज़ार में नमक प्रायः आयोडीन युक्त बिकता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 414. Which mineral sits at the centre of every haemoglobin molecule?
+**प्रत्येक हीमोग्लोबिन अणु के केंद्र में कौन सा खनिज होता है?**
+
+- A. Iron — लोहा
+- B. Copper — ताम्र
+- C. Sodium — सोडियम
+- D. Calcium — कैल्शियम
+
+**Answer: A. Iron**
+
+> That is why too little of it in the diet leads to anaemia.
+> इसीलिए भोजन में इसकी कमी से एनीमिया होता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 415. Which is the largest part of the human brain?
+**मानव मस्तिष्क का सबसे बड़ा भाग कौन सा है?**
+
+- A. The cerebrum — प्रमस्तिष्क
+- B. The cerebellum — अनुमस्तिष्क
+- C. The brainstem — मस्तिष्क दंड
+- D. The hypothalamus — हाइपोथैलेमस
+
+**Answer: A. The cerebrum**
+
+> It handles thought, memory and voluntary movement.
+> यह सोच, स्मृति और ऐच्छिक गति संभालता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 416. How many pairs of cranial nerves does a human have?
+**मानव में क्रेनियल तंत्रुओं के कितने युग्म होते हैं?**
+
+- A. Eight pairs — आठ युग्म
+- B. Thirty-one pairs — इकतीस युग्म
+- C. Ten pairs — दस युग्म
+- D. Twelve pairs — बारह युग्म
+
+**Answer: D. Twelve pairs**
+
+> Thirty-one pairs of spinal nerves emerge from the cord instead.
+> मेरुरज्जु से इसके बजाय इकतीस युग्म स्पైనल तंत्रु निकलते हैं।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 417. Which is the smallest bone in the human body?
+**मानव शरीर की सबसे छोटी हड्डी कौन सी है?**
+
+- A. The incus — इनकस
+- B. The hyoid — हायोइड
+- C. The malleus — मैलियस
+- D. The stapes — स्टेपीज़
+
+**Answer: D. The stapes**
+
+> It is a stirrup-shaped bone inside the middle ear.
+> यह मध्य कान के भीतर रकाब के आकार की हड्डी है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 418. Which is the longest bone in the human body?
+**मानव शरीर की सबसे लंबी हड्डी कौन सी है?**
+
+- A. The fibula — फ़िबुला
+- B. The humerus — ह्यूमरस
+- C. The tibia — टिबिया
+- D. The femur — फीमर
+
+**Answer: D. The femur**
+
+> It runs from the hip down to the knee.
+> यह कूल्हे से घुटने तक जाती है।
+
+Source: PENDING-EVIDENCE · EASY
 
 ---
 

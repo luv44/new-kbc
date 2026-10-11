@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "DQ-0379",
+    "category": "Astronomy",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which star lies closest to the Earth?",
+      "hi": "पृथ्वी के सबसे निकट कौन सा तारा है?"
+    },
+    "options": [
+      {
+        "en": "Proxima Centauri",
+        "hi": "प्रॉक्सिमा सेंटॉरी"
+      },
+      {
+        "en": "Polaris",
+        "hi": "ध्रुव तारा"
+      },
+      {
+        "en": "The Sun",
+        "hi": "सूर्य"
+      },
+      {
+        "en": "Sirius",
+        "hi": "सिरियस"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Its light takes about eight minutes to reach us.",
+      "hi": "इसका प्रकाश हम तक पहुँचने में लगभग आठ मिनट लेता है।"
+    }
+  },
+  {
+    "id": "DQ-0380",
+    "category": "Astronomy",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Apart from the Sun, which is the nearest star to Earth?",
+      "hi": "सूर्य के अलावा पृथ्वी के सबसे निकट कौन सा तारा है?"
+    },
+    "options": [
+      {
+        "en": "Proxima Centauri",
+        "hi": "प्रॉक्सिमा सेंटॉरी"
+      },
+      {
+        "en": "Alpha Centauri A",
+        "hi": "अल्फ़ा सेंटॉरी A"
+      },
+      {
+        "en": "Betelgeuse",
+        "hi": "बीटलजूस"
+      },
+      {
+        "en": "Sirius",
+        "hi": "सिरियस"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It sits about 4.2 light years away.",
+      "hi": "यह लगभग 4.2 प्रकाश वर्ष दूर है।"
+    }
+  },
+  {
+    "id": "DQ-0381",
+    "category": "Astronomy",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "In which galaxy is our solar system located?",
+      "hi": "हमारा सौर मंडल किस आकाशगंगा में स्थित है?"
+    },
+    "options": [
+      {
+        "en": "Andromeda",
+        "hi": "एंड्रोमेडा"
+      },
+      {
+        "en": "Triangulum",
+        "hi": "ट्रायंगुलम"
+      },
+      {
+        "en": "Whirlpool",
+        "hi": "व्हर्लपूल"
+      },
+      {
+        "en": "The Milky Way",
+        "hi": "आकाशगंगा"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Our Sun orbits its centre once in roughly 230 million years.",
+      "hi": "हमारा सूर्य इसके केंद्र की परिक्रमा लगभग 23 करोड़ वर्षों में पूरी करता है।"
+    }
+  },
+  {
+    "id": "DQ-0382",
+    "category": "Space",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Who was the first human being to travel into space?",
+      "hi": "अंतरिक्ष में जाने वाले पहले मानव कौन थे?"
+    },
+    "options": [
+      {
+        "en": "Yuri Gagarin",
+        "hi": "यूरी गगारिन"
+      },
+      {
+        "en": "John Glenn",
+        "hi": "जॉन ग्लेन"
+      },
+      {
+        "en": "Neil Armstrong",
+        "hi": "नील आर्मस्ट्रांग"
+      },
+      {
+        "en": "Alan Shepard",
+        "hi": "एलन शेपर्ड"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "He orbited the Earth aboard Vostok 1 in April 1961.",
+      "hi": "उन्होंने अप्रैल 1961 में वोस्तोक 1 से पृथ्वी की परिक्रमा की।"
+    }
+  },
+  {
+    "id": "DQ-0383",
+    "category": "Space",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which Soviet cosmonaut became the first woman to travel into space?",
+      "hi": "किस सोवियत अंतरिक्ष यात्री ने अंतरिक्ष में जाने वाली पहली महिला होने का रिकॉर्ड बनाया?"
+    },
+    "options": [
+      {
+        "en": "Kalpana Chawla",
+        "hi": "कल्पना चावला"
+      },
+      {
+        "en": "Sally Ride",
+        "hi": "सैली राइड"
+      },
+      {
+        "en": "Svetlana Savitskaya",
+        "hi": "स्वेतलाना साविस्काया"
+      },
+      {
+        "en": "Valentina Tereshkova",
+        "hi": "वेलेंटीना तेरेश्कोवा"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "She flew Vostok 6 in June 1963.",
+      "hi": "उन्होंने जून 1963 में वोस्तोक 6 उड़ाया।"
+    }
+  },
+  {
+    "id": "DQ-0384",
+    "category": "Space",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which was the first artificial satellite placed in orbit?",
+      "hi": "कक्षा में स्थापित पहला कृत्रिम उपग्रह कौन सा था?"
+    },
+    "options": [
+      {
+        "en": "Vanguard 1",
+        "hi": "वैनगार्ड 1"
+      },
+      {
+        "en": "Explorer 1",
+        "hi": "एक्सप्लोरर 1"
+      },
+      {
+        "en": "Aryabhata",
+        "hi": "आर्यभट्ट"
+      },
+      {
+        "en": "Sputnik 1",
+        "hi": "स्पुतनिक 1"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The Soviet Union launched it in October 1957.",
+      "hi": "इसे अक्तूबर 1957 में सोवियत संघ ने प्रक्षेपित किया।"
+    }
+  },
+  {
+    "id": "DQ-0385",
+    "category": "India — space",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is India's national space agency?",
+      "hi": "भारत की राष्ट्रीय अंतरिक्ष एजेंसी कौन सी है?"
+    },
+    "options": [
+      {
+        "en": "NASA",
+        "hi": "नासा"
+      },
+      {
+        "en": "ISRO",
+        "hi": "इसरो"
+      },
+      {
+        "en": "DRDO",
+        "hi": "डीआरडीओ"
+      },
+      {
+        "en": "ESA",
+        "hi": "ईसा"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "The Indian Space Research Organisation was founded in 1969.",
+      "hi": "भारतीय अंतरिक्ष अनुसंधान संगठन की स्थापना 1969 में हुई।"
+    }
+  },
+  {
+    "id": "DQ-0386",
+    "category": "India — space",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Where is the headquarters of ISRO?",
+      "hi": "इसरो का मुख्यालय कहाँ है?"
+    },
+    "options": [
+      {
+        "en": "Sriharikota",
+        "hi": "श्रीहरिकोटा"
+      },
+      {
+        "en": "Hyderabad",
+        "hi": "हैदराबाद"
+      },
+      {
+        "en": "Thiruvananthapuram",
+        "hi": "तिരുवनंतपुरम"
+      },
+      {
+        "en": "Bengaluru",
+        "hi": "बेंगलुरु"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Launches take place instead from Sriharikota on the east coast.",
+      "hi": "प्रक्षेपण इसके बजाय पूर्वी तट पर स्थित श्रीहरिकोटा से होते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0387",
+    "category": "India — space",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which was India's first satellite?",
+      "hi": "भारत का पहला उपग्रह कौन सा था?"
+    },
+    "options": [
+      {
+        "en": "Aryabhata",
+        "hi": "आर्यभट्ट"
+      },
+      {
+        "en": "Rohini",
+        "hi": "रोहिणी"
+      },
+      {
+        "en": "INSAT-1A",
+        "hi": "इंसेट-1A"
+      },
+      {
+        "en": "Bhaskara",
+        "hi": "भास्कर"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It was launched in 1975 aboard a Soviet rocket.",
+      "hi": "इसे 1975 में एक सोवियत रॉकेट से प्रक्षेपित किया गया।"
+    }
+  },
+  {
+    "id": "DQ-0388",
+    "category": "India — space",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What was the name of India's first mission to the Moon?",
+      "hi": "चंद्रमा पर भारत के पहले मिशन का नाम क्या था?"
+    },
+    "options": [
+      {
+        "en": "Aditya-L1",
+        "hi": "आदित्य-L1"
+      },
+      {
+        "en": "Chandrayaan-1",
+        "hi": "चंद्रयान-1"
+      },
+      {
+        "en": "Gaganyaan",
+        "hi": "गगनयान"
+      },
+      {
+        "en": "Mangalyaan",
+        "hi": "मंगलयान"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It was launched in October 2008.",
+      "hi": "इसे अक्तूबर 2008 में प्रक्षेपित किया गया।"
+    }
+  },
+  {
+    "id": "DQ-0389",
+    "category": "Instruments",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which instrument measures the moisture in the air?",
+      "hi": "वायु में नमी कौन सा यंत्र मापता है?"
+    },
+    "options": [
+      {
+        "en": "A hygrometer",
+        "hi": "हाइग्रोमीटर"
+      },
+      {
+        "en": "An anemometer",
+        "hi": "एनीमोमीटर"
+      },
+      {
+        "en": "A thermometer",
+        "hi": "थर्मामीटर"
+      },
+      {
+        "en": "A barometer",
+        "hi": "बैरोमीटर"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It usually compares a dry bulb with a wet one.",
+      "hi": "यह प्रायः शुष्क बल्ब की तुलना आर्द्र बल्ब से करता है।"
+    }
+  },
+  {
+    "id": "DQ-0390",
+    "category": "Instruments",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which instrument is used to measure body temperature?",
+      "hi": "शरीर का तापमान मापने के लिए कौन सा यंत्र प्रयोग होता है?"
+    },
+    "options": [
+      {
+        "en": "A barometer",
+        "hi": "बैरोमीटर"
+      },
+      {
+        "en": "A calorimeter",
+        "hi": "कैलोरीमीटर"
+      },
+      {
+        "en": "A clinical thermometer",
+        "hi": "क्लिनिकल थर्मामीटर"
+      },
+      {
+        "en": "A hydrometer",
+        "hi": "हाइड्रोमीटर"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Its scale normally runs from 35 to 42 degrees Celsius.",
+      "hi": "इसका मापक्रम सामान्यतः 35 से 42 डिग्री सेल्सियस तक होता है।"
+    }
+  },
+  {
+    "id": "DQ-0391",
+    "category": "Instruments",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What does a lactometer measure?",
+      "hi": "लैक्टोमीटर क्या मापता है?"
+    },
+    "options": [
+      {
+        "en": "The salt content of water",
+        "hi": "जल में लवण की मात्रा"
+      },
+      {
+        "en": "The fat in butter",
+        "hi": "मक्खन में वसा"
+      },
+      {
+        "en": "The sugar level in fruit",
+        "hi": "फल में शर्करा की मात्रा"
+      },
+      {
+        "en": "The purity of milk",
+        "hi": "दूध की शुद्धता"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Milk diluted with water has a lower density, so the float sinks deeper.",
+      "hi": "जल मिलाए दूध का घनत्व कम होता है, इसलिए तैरक अधिक डूबता है।"
+    }
+  },
+  {
+    "id": "DQ-0392",
+    "category": "Instruments",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What does an altimeter measure?",
+      "hi": "अल्टीमीटर क्या मापता है?"
+    },
+    "options": [
+      {
+        "en": "Height above sea level",
+        "hi": "समुद्र तल से ऊँचाई"
+      },
+      {
+        "en": "Distance travelled",
+        "hi": "तय की गई दूरी"
+      },
+      {
+        "en": "Speed of a vehicle",
+        "hi": "वाहन की गति"
+      },
+      {
+        "en": "Depth below water",
+        "hi": "जल के नीचे की गहराई"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It works because air pressure falls steadily with altitude.",
+      "hi": "यह इसलिए काम करता है क्योंकि ऊँचाई बढ़ने पर वायु दाब घटता जाता है।"
+    }
+  },
+  {
+    "id": "DQ-0393",
+    "category": "Physics",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which device converts alternating current into direct current?",
+      "hi": "कौन सा यंत्र प्रत्यावर्ती धारा को दिष्ट धारा में बदलता है?"
+    },
+    "options": [
+      {
+        "en": "A capacitor",
+        "hi": "संधारित्र"
+      },
+      {
+        "en": "An inverter",
+        "hi": "इनवर्टर"
+      },
+      {
+        "en": "A rheostat",
+        "hi": "रियोस्टैट"
+      },
+      {
+        "en": "A rectifier",
+        "hi": "रेक्टिफ़ायर"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "An inverter does the opposite conversion.",
+      "hi": "इनवर्टर उल्टा रूपांतरण करता है।"
+    }
+  },
+  {
+    "id": "DQ-0394",
+    "category": "Physics",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which device raises or lowers the voltage of an alternating supply?",
+      "hi": "कौन सा यंत्र प्रत्यावर्ती आपूर्ति का वोल्टेज बढ़ाता या घटाता है?"
+    },
+    "options": [
+      {
+        "en": "A galvanometer",
+        "hi": "गैल्वेनोमीटर"
+      },
+      {
+        "en": "A transformer",
+        "hi": "ट्रांसफ़ॉर्मर"
+      },
+      {
+        "en": "A generator",
+        "hi": "जनरेटर"
+      },
+      {
+        "en": "A fuse",
+        "hi": "फ़्यूज़"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It works only with alternating current, not direct.",
+      "hi": "यह केवल प्रत्यावर्ती धारा पर काम करता है, दिष्ट पर नहीं।"
+    }
+  },
+  {
+    "id": "DQ-0395",
+    "category": "Physics",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which metal is the best conductor of electricity?",
+      "hi": "कौन सी धातु विद्युत की सर्वोत्तम चालक है?"
+    },
+    "options": [
+      {
+        "en": "Gold",
+        "hi": "सोना"
+      },
+      {
+        "en": "Aluminium",
+        "hi": "एल्युमिनियम"
+      },
+      {
+        "en": "Copper",
+        "hi": "ताम्र"
+      },
+      {
+        "en": "Silver",
+        "hi": "चाँदी"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Copper is used in wiring because it is far cheaper and nearly as good.",
+      "hi": "तारों में ताँबा प्रयोग होता है क्योंकि वह काफ़ी सस्ता और लगभग उतना ही अच्छा है।"
+    }
+  },
+  {
+    "id": "DQ-0396",
+    "category": "Physics",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which metal is used for the filament of an electric bulb?",
+      "hi": "बिजली के बल्ब के तंतु में कौन सी धातु प्रयोग होती है?"
+    },
+    "options": [
+      {
+        "en": "Iron",
+        "hi": "लोहा"
+      },
+      {
+        "en": "Tungsten",
+        "hi": "टंगस्टन"
+      },
+      {
+        "en": "Copper",
+        "hi": "ताम्र"
+      },
+      {
+        "en": "Nickel",
+        "hi": "निकल"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Its very high melting point lets it glow without fusing.",
+      "hi": "इसका गलनांक बहुत ऊँचा होने से यह पिघले बिना चमकता है।"
+    }
+  },
+  {
+    "id": "DQ-0397",
+    "category": "Physics",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which inert gas is usually filled inside an electric bulb?",
+      "hi": "बिजली के बल्ब के भीतर सामान्यतः कौन सी अक्रिय गैस भरी जाती है?"
+    },
+    "options": [
+      {
+        "en": "Helium",
+        "hi": "हीलियम"
+      },
+      {
+        "en": "Neon",
+        "hi": "नियॉन"
+      },
+      {
+        "en": "Krypton",
+        "hi": "क्रिप्टन"
+      },
+      {
+        "en": "Argon",
+        "hi": "आर्गन"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It slows the evaporation of the hot filament.",
+      "hi": "यह गर्म तंतु के वाष्पीकरण को धीमा करती है।"
+    }
+  },
+  {
+    "id": "DQ-0398",
+    "category": "Chemistry",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which non-metal conducts electricity?",
+      "hi": "कौन सी अधातु विद्युत का चालन करती है?"
+    },
+    "options": [
+      {
+        "en": "Graphite",
+        "hi": "ग्रेफ़ाइट"
+      },
+      {
+        "en": "Phosphorus",
+        "hi": "फ़ास्फोरस"
+      },
+      {
+        "en": "Iodine",
+        "hi": "आयोडीन"
+      },
+      {
+        "en": "Sulphur",
+        "hi": "गंधक"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Its layered carbon structure lets electrons move freely.",
+      "hi": "इसकी परतदार कार्बन संरचना इलेक्ट्रॉनों को स्वतंत्र रूप से चलने देती है।"
+    }
+  },
+  {
+    "id": "DQ-0399",
+    "category": "Chemistry",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the hardest naturally occurring substance?",
+      "hi": "प्राकृतिक रूप से पाया जाने वाला सबसे कठोर पदार्थ कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "Corundum",
+        "hi": "कोरंडम"
+      },
+      {
+        "en": "Quartz",
+        "hi": "क्वार्ट्ज़"
+      },
+      {
+        "en": "Topaz",
+        "hi": "टोपैज़"
+      },
+      {
+        "en": "Diamond",
+        "hi": "हीरा"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It sits at ten, the top of the Mohs hardness scale.",
+      "hi": "यह मोहस कठोरता मापक्रम के शीर्ष, दस पर है।"
+    }
+  },
+  {
+    "id": "DQ-0400",
+    "category": "Chemistry",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What is the main constituent of natural gas?",
+      "hi": "प्राकृतिक गैस का मुख्य घटक क्या है?"
+    },
+    "options": [
+      {
+        "en": "Butane",
+        "hi": "ब्यूटेन"
+      },
+      {
+        "en": "Ethane",
+        "hi": "एथेन"
+      },
+      {
+        "en": "Methane",
+        "hi": "मीथेन"
+      },
+      {
+        "en": "Propane",
+        "hi": "प्रोपेन"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Domestic cylinders hold butane and propane instead.",
+      "hi": "घरेलू सिलेंडर में इसके बजाय ब्यूटेन और प्रोपेन होते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0401",
+    "category": "Chemistry",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "What is baking soda chemically called?",
+      "hi": "खाने का सोडा रासायनिक रूप से क्या कहलाता है?"
+    },
+    "options": [
+      {
+        "en": "Sodium bicarbonate",
+        "hi": "सोडियम बाइकार्बोनेट"
+      },
+      {
+        "en": "Calcium carbonate",
+        "hi": "कैल्शियम कार्बोनेट"
+      },
+      {
+        "en": "Sodium carbonate",
+        "hi": "सोडियम कार्बोनेट"
+      },
+      {
+        "en": "Sodium hydroxide",
+        "hi": "सोडियम हाइड्रॉक्साइड"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Its formula is NaHCO3.",
+      "hi": "इसका सूत्र NaHCO3 है।"
+    }
+  },
+  {
+    "id": "DQ-0402",
+    "category": "Chemistry",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "What is washing soda chemically called?",
+      "hi": "धोने का सोडा रासायनिक रूप से क्या कहलाता है?"
+    },
+    "options": [
+      {
+        "en": "Calcium oxide",
+        "hi": "कैल्शियम ऑक्साइड"
+      },
+      {
+        "en": "Sodium chloride",
+        "hi": "सोडियम क्लोराइड"
+      },
+      {
+        "en": "Sodium carbonate",
+        "hi": "सोडियम कार्बोनेट"
+      },
+      {
+        "en": "Sodium bicarbonate",
+        "hi": "सोडियम बाइकार्बोनेट"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Its formula is Na2CO3.",
+      "hi": "इसका सूत्र Na2CO3 है।"
+    }
+  },
+  {
+    "id": "DQ-0403",
+    "category": "Chemistry",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What is quicklime chemically called?",
+      "hi": "बिना बुझा चूना रासायनिक रूप से क्या कहलाता है?"
+    },
+    "options": [
+      {
+        "en": "Calcium hydroxide",
+        "hi": "कैल्शियम हाइड्रॉक्साइड"
+      },
+      {
+        "en": "Calcium carbonate",
+        "hi": "कैल्शियम कार्बोनेट"
+      },
+      {
+        "en": "Calcium sulphate",
+        "hi": "कैल्शियम सल्फ़ेट"
+      },
+      {
+        "en": "Calcium oxide",
+        "hi": "कैल्शियम ऑक्साइड"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Adding water turns it into slaked lime and releases heat.",
+      "hi": "जल मिलाने पर यह बुझा चूना बनता है और ऊष्मा निकलती है।"
+    }
+  },
+  {
+    "id": "DQ-0404",
+    "category": "Chemistry",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which acid is present in vinegar?",
+      "hi": "सिरके में कौन सा अम्ल होता है?"
+    },
+    "options": [
+      {
+        "en": "Acetic acid",
+        "hi": "एसिटिक अम्ल"
+      },
+      {
+        "en": "Tartaric acid",
+        "hi": "टार्टरिक अम्ल"
+      },
+      {
+        "en": "Citric acid",
+        "hi": "सिट्रिक अम्ल"
+      },
+      {
+        "en": "Lactic acid",
+        "hi": "लैक्टिक अम्ल"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Table vinegar holds roughly five per cent of it in water.",
+      "hi": "टेबल सिरके में यह लगभग पाँच प्रतिशत जल में घुला होता है।"
+    }
+  },
+  {
+    "id": "DQ-0405",
+    "category": "Chemistry",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which acid gives citrus fruits their sour taste?",
+      "hi": "खट्टे फलों को खट्टापन कौन सा अम्ल देता है?"
+    },
+    "options": [
+      {
+        "en": "Acetic acid",
+        "hi": "एसिटिक अम्ल"
+      },
+      {
+        "en": "Malic acid only",
+        "hi": "केवल मैलिक अम्ल"
+      },
+      {
+        "en": "Citric acid",
+        "hi": "सिट्रिक अम्ल"
+      },
+      {
+        "en": "Ascorbic acid only",
+        "hi": "केवल एस्कॉर्बिक अम्ल"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Lemons contain more of it than almost any other fruit.",
+      "hi": "नींबू में यह लगभग किसी भी अन्य फल से अधिक होता है।"
+    }
+  },
+  {
+    "id": "DQ-0406",
+    "category": "Chemistry",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which acid is formed when milk turns into curd?",
+      "hi": "दूध के दही बनने पर कौन सा अम्ल बनता है?"
+    },
+    "options": [
+      {
+        "en": "Formic acid",
+        "hi": "फ़ॉर्मिक अम्ल"
+      },
+      {
+        "en": "Butyric acid",
+        "hi": "ब्यूटिरिक अम्ल"
+      },
+      {
+        "en": "Lactic acid",
+        "hi": "लैक्टिक अम्ल"
+      },
+      {
+        "en": "Acetic acid",
+        "hi": "एसिटिक अम्ल"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Bacteria convert the milk sugar lactose into this acid.",
+      "hi": "जीवाणु दूध की शर्करा लैक्टोज़ को इस अम्ल में बदलते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0407",
+    "category": "Chemistry",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which acid is injected by an ant's sting?",
+      "hi": "चींटी के डंक में कौन सा अम्ल होता है?"
+    },
+    "options": [
+      {
+        "en": "Citric acid",
+        "hi": "सिट्रिक अम्ल"
+      },
+      {
+        "en": "Formic acid",
+        "hi": "फ़ॉर्मिक अम्ल"
+      },
+      {
+        "en": "Oxalic acid",
+        "hi": "ऑक्सैलिक अम्ल"
+      },
+      {
+        "en": "Acetic acid",
+        "hi": "एसिटिक अम्ल"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Its name comes from formica, the Latin word for ant.",
+      "hi": "इसका नाम लैटिन शब्द फ़ॉर्मिका से आया है, जिसका अर्थ चींटी है।"
+    }
+  },
+  {
+    "id": "DQ-0408",
+    "category": "Chemistry",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which gas is used to ripen fruit artificially?",
+      "hi": "फल कृत्रिम रूप से पकाने के लिए कौन सी गैस प्रयोग होती है?"
+    },
+    "options": [
+      {
+        "en": "Carbon monoxide",
+        "hi": "कार्बन मोनोऑक्साइड"
+      },
+      {
+        "en": "Oxygen",
+        "hi": "ऑक्सीजन"
+      },
+      {
+        "en": "Nitrogen",
+        "hi": "नाइट्रोजन"
+      },
+      {
+        "en": "Ethylene",
+        "hi": "एथिलीन"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Fruit also releases it naturally as it ripens.",
+      "hi": "पकते समय फल इसे प्राकृतिक रूप से भी छोड़ते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0409",
+    "category": "Chemistry",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which gas is known as laughing gas?",
+      "hi": "किस गैस को हँसाने वाली गैस कहा जाता है?"
+    },
+    "options": [
+      {
+        "en": "Ammonia",
+        "hi": "अमोनिया"
+      },
+      {
+        "en": "Nitrogen dioxide",
+        "hi": "नाइट्रोजन डाइऑक्साइड"
+      },
+      {
+        "en": "Nitrous oxide",
+        "hi": "नाइट्रस ऑक्साइड"
+      },
+      {
+        "en": "Nitric oxide",
+        "hi": "नाइट्रिक ऑक्साइड"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Dentists use it as a mild anaesthetic.",
+      "hi": "दंत चिकित्सक इसे हल्के संवेदनाहारी के रूप में प्रयोग करते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0410",
+    "category": "Human body",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "A shortage of which vitamin causes night blindness?",
+      "hi": "किस विटामिन की कमी से रतौंधी होती है?"
+    },
+    "options": [
+      {
+        "en": "Vitamin K",
+        "hi": "विटामिन K"
+      },
+      {
+        "en": "Vitamin E",
+        "hi": "विटामिन E"
+      },
+      {
+        "en": "Vitamin A",
+        "hi": "विटामिन A"
+      },
+      {
+        "en": "Vitamin C",
+        "hi": "विटामिन C"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "The vitamin is needed to make the pigment rhodopsin in the retina.",
+      "hi": "रेटिना में वर्णक रोडोप्सिन बनाने के लिए यह विटामिन चाहिए।"
+    }
+  },
+  {
+    "id": "DQ-0411",
+    "category": "Human body",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "A shortage of which vitamin causes scurvy?",
+      "hi": "किस विटामिन की कमी से स्कर्वी रोग होता है?"
+    },
+    "options": [
+      {
+        "en": "Vitamin C",
+        "hi": "विटामिन C"
+      },
+      {
+        "en": "Vitamin D",
+        "hi": "विटामिन D"
+      },
+      {
+        "en": "Vitamin B12",
+        "hi": "विटामिन B12"
+      },
+      {
+        "en": "Vitamin A",
+        "hi": "विटामिन A"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Sailors once carried citrus fruit on long voyages to prevent it.",
+      "hi": "नाविक इसे रोकने के लिए लंबी यात्राओं में खट्टे फल साथ रखते थे।"
+    }
+  },
+  {
+    "id": "DQ-0412",
+    "category": "Human body",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "A shortage of which vitamin causes beriberi?",
+      "hi": "किस विटामिन की कमी से बेरीबेरी रोग होता है?"
+    },
+    "options": [
+      {
+        "en": "Vitamin B12",
+        "hi": "विटामिन B12"
+      },
+      {
+        "en": "Vitamin B1",
+        "hi": "विटामिन B1"
+      },
+      {
+        "en": "Vitamin K",
+        "hi": "विटामिन K"
+      },
+      {
+        "en": "Vitamin B6",
+        "hi": "विटामिन B6"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It is also called thiamine.",
+      "hi": "इसे थायमिन भी कहते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0413",
+    "category": "Human body",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "A shortage of which mineral in the diet causes goitre?",
+      "hi": "भोजन में किस खनिज की कमी से घेंघा रोग होता है?"
+    },
+    "options": [
+      {
+        "en": "Calcium",
+        "hi": "कैल्शियम"
+      },
+      {
+        "en": "Magnesium",
+        "hi": "मैग्नीशियम"
+      },
+      {
+        "en": "Zinc",
+        "hi": "ज़िंक"
+      },
+      {
+        "en": "Iodine",
+        "hi": "आयोडीन"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "This is why table salt is commonly sold iodised.",
+      "hi": "इसीलिए बाज़ार में नमक प्रायः आयोडीन युक्त बिकता है।"
+    }
+  },
+  {
+    "id": "DQ-0414",
+    "category": "Human body",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which mineral sits at the centre of every haemoglobin molecule?",
+      "hi": "प्रत्येक हीमोग्लोबिन अणु के केंद्र में कौन सा खनिज होता है?"
+    },
+    "options": [
+      {
+        "en": "Iron",
+        "hi": "लोहा"
+      },
+      {
+        "en": "Copper",
+        "hi": "ताम्र"
+      },
+      {
+        "en": "Sodium",
+        "hi": "सोडियम"
+      },
+      {
+        "en": "Calcium",
+        "hi": "कैल्शियम"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "That is why too little of it in the diet leads to anaemia.",
+      "hi": "इसीलिए भोजन में इसकी कमी से एनीमिया होता है।"
+    }
+  },
+  {
+    "id": "DQ-0415",
+    "category": "Human body",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which is the largest part of the human brain?",
+      "hi": "मानव मस्तिष्क का सबसे बड़ा भाग कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "The cerebrum",
+        "hi": "प्रमस्तिष्क"
+      },
+      {
+        "en": "The cerebellum",
+        "hi": "अनुमस्तिष्क"
+      },
+      {
+        "en": "The brainstem",
+        "hi": "मस्तिष्क दंड"
+      },
+      {
+        "en": "The hypothalamus",
+        "hi": "हाइपोथैलेमस"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It handles thought, memory and voluntary movement.",
+      "hi": "यह सोच, स्मृति और ऐच्छिक गति संभालता है।"
+    }
+  },
+  {
+    "id": "DQ-0416",
+    "category": "Human body",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "How many pairs of cranial nerves does a human have?",
+      "hi": "मानव में क्रेनियल तंत्रुओं के कितने युग्म होते हैं?"
+    },
+    "options": [
+      {
+        "en": "Eight pairs",
+        "hi": "आठ युग्म"
+      },
+      {
+        "en": "Thirty-one pairs",
+        "hi": "इकतीस युग्म"
+      },
+      {
+        "en": "Ten pairs",
+        "hi": "दस युग्म"
+      },
+      {
+        "en": "Twelve pairs",
+        "hi": "बारह युग्म"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Thirty-one pairs of spinal nerves emerge from the cord instead.",
+      "hi": "मेरुरज्जु से इसके बजाय इकतीस युग्म स्पైనल तंत्रु निकलते हैं।"
+    }
+  },
+  {
+    "id": "DQ-0417",
+    "category": "Human body",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which is the smallest bone in the human body?",
+      "hi": "मानव शरीर की सबसे छोटी हड्डी कौन सी है?"
+    },
+    "options": [
+      {
+        "en": "The incus",
+        "hi": "इनकस"
+      },
+      {
+        "en": "The hyoid",
+        "hi": "हायोइड"
+      },
+      {
+        "en": "The malleus",
+        "hi": "मैलियस"
+      },
+      {
+        "en": "The stapes",
+        "hi": "स्टेपीज़"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It is a stirrup-shaped bone inside the middle ear.",
+      "hi": "यह मध्य कान के भीतर रकाब के आकार की हड्डी है।"
+    }
+  },
+  {
+    "id": "DQ-0418",
+    "category": "Human body",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the longest bone in the human body?",
+      "hi": "मानव शरीर की सबसे लंबी हड्डी कौन सी है?"
+    },
+    "options": [
+      {
+        "en": "The fibula",
+        "hi": "फ़िबुला"
+      },
+      {
+        "en": "The humerus",
+        "hi": "ह्यूमरस"
+      },
+      {
+        "en": "The tibia",
+        "hi": "टिबिया"
+      },
+      {
+        "en": "The femur",
+        "hi": "फीमर"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It runs from the hip down to the knee.",
+      "hi": "यह कूल्हे से घुटने तक जाती है।"
+    }
+  }
+]
