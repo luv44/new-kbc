@@ -1,0 +1,1522 @@
+[
+  {
+    "id": "DQ-0499",
+    "category": "Nature",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which plant produces the largest single flower in the world?",
+      "hi": "विश्व का सबसे बड़ा एकल पुष्प कौन सा पौधा देता है?"
+    },
+    "options": [
+      {
+        "en": "The lotus",
+        "hi": "कमल"
+      },
+      {
+        "en": "The titan arum",
+        "hi": "टिटन अरम"
+      },
+      {
+        "en": "Rafflesia",
+        "hi": "रैफ़्लेसिया"
+      },
+      {
+        "en": "The sunflower",
+        "hi": "सूरजमुखी"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It can exceed a metre across and smells of rotting meat.",
+      "hi": "यह एक मीटर से अधिक चौड़ा हो सकता है और सड़े माँस जैसी गंध देता है।"
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-NATURE"
+  },
+  {
+    "id": "DQ-0500",
+    "category": "Nature",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Bamboo is botanically a member of which plant family?",
+      "hi": "वानस्पतिक दृष्टि से बाँस किस पौध परिवार का सदस्य है?"
+    },
+    "options": [
+      {
+        "en": "The grass family",
+        "hi": "घास परिवार"
+      },
+      {
+        "en": "The palm family",
+        "hi": "ताड़ परिवार"
+      },
+      {
+        "en": "The fig family",
+        "hi": "अंजीर परिवार"
+      },
+      {
+        "en": "The orchid family",
+        "hi": "ऑर्किड परिवार"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Some species can grow almost a metre in a single day.",
+      "hi": "कुछ प्रजातियाँ एक ही दिन में लगभग एक मीटर बढ़ सकती हैं।"
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-NATURE"
+  },
+  {
+    "id": "DQ-0501",
+    "category": "India — sport",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In which team sport has India won the most Olympic gold medals?",
+      "hi": "किस टीम खेल में भारत ने सबसे अधिक ओलंपिक स्वर्ण पदक जीते हैं?"
+    },
+    "options": [
+      {
+        "en": "Football",
+        "hi": "फ़ुटबॉल"
+      },
+      {
+        "en": "Kabaddi",
+        "hi": "कबड्डी"
+      },
+      {
+        "en": "Field hockey",
+        "hi": "फ़ील्ड हॉकी"
+      },
+      {
+        "en": "Cricket",
+        "hi": "क्रिकेट"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Eight of its golds came between 1928 and 1980.",
+      "hi": "इनमें से आठ स्वर्ण 1928 से 1980 के बीच आए।"
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-INDIA_SPORT"
+  },
+  {
+    "id": "DQ-0502",
+    "category": "India — sport",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which Indian cricketer is popularly called the Run Machine?",
+      "hi": "किस भारतीय क्रिकेटर को लोकप्रिय रूप से रन मशीन कहा जाता है?"
+    },
+    "options": [
+      {
+        "en": "Sachin Tendulkar",
+        "hi": "सचिन तेंदुलकर"
+      },
+      {
+        "en": "Virat Kohli",
+        "hi": "विराट कोहली"
+      },
+      {
+        "en": "Rahul Dravid",
+        "hi": "राहुल द्रविड़"
+      },
+      {
+        "en": "Rohit Sharma",
+        "hi": "रोहित शर्मा"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "He was the fastest to ten thousand one-day international runs.",
+      "hi": "वे दस हज़ार एकदिवसीय अंतर्राष्ट्रीय रन तक सबसे तेज़ पहुँचे।"
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-INDIA_SPORT"
+  },
+  {
+    "id": "DQ-0503",
+    "category": "India — awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which is India's highest gallantry award for peacetime?",
+      "hi": "शांतिकाल के लिए भारत का सर्वोच्च वीरता सम्मान कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "The Sena Medal",
+        "hi": "सेना मेडल"
+      },
+      {
+        "en": "The Kirti Chakra",
+        "hi": "कीर्ति चक्र"
+      },
+      {
+        "en": "The Shaurya Chakra",
+        "hi": "शौर्य चक्र"
+      },
+      {
+        "en": "The Ashoka Chakra",
+        "hi": "अशोक चक्र"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The Param Vir Chakra is the wartime equivalent.",
+      "hi": "युद्धकाल के लिए परम वीर चक्र समकक्ष है।"
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_AWARDS"
+  },
+  {
+    "id": "DQ-0504",
+    "category": "India — awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Where does the Padma Shri sit in the order of India's civilian awards?",
+      "hi": "भारत के नागरिक सम्मानों के क्रम में पद्म श्री का कौन सा स्थान है?"
+    },
+    "options": [
+      {
+        "en": "The sixth-highest",
+        "hi": "छठा सर्वोच्च"
+      },
+      {
+        "en": "The second-highest",
+        "hi": "दूसरा सर्वोच्च"
+      },
+      {
+        "en": "The highest",
+        "hi": "सर्वोच्च"
+      },
+      {
+        "en": "The fourth-highest",
+        "hi": "चौथा सर्वोच्च"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The order runs Bharat Ratna, Padma Vibhushan, Padma Bhushan, Padma Shri.",
+      "hi": "क्रम है भारत रत्न, पद्म विभूषण, पद्म भूषण, पद्म श्री।"
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_AWARDS"
+  },
+  {
+    "id": "DQ-0505",
+    "category": "India — judiciary",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "What is the sanctioned strength of the Supreme Court of India, including the Chief Justice?",
+      "hi": "मुख्य न्यायाधीश सहित भारत के सर्वोच्च न्यायालय की स्वीकृत संख्या कितनी है?"
+    },
+    "options": [
+      {
+        "en": "34",
+        "hi": "34"
+      },
+      {
+        "en": "26",
+        "hi": "26"
+      },
+      {
+        "en": "40",
+        "hi": "40"
+      },
+      {
+        "en": "31",
+        "hi": "31"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Parliament raised it from 31 to 34 in 2019.",
+      "hi": "संसद ने 2019 में इसे 31 से बढ़ाकर 34 किया।"
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_JUDICIARY"
+  },
+  {
+    "id": "DQ-0506",
+    "category": "India — judiciary",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which is the oldest High Court in India?",
+      "hi": "भारत का सबसे पुराना उच्च न्यायालय कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "The Madras High Court",
+        "hi": "मद्रास उच्च न्यायालय"
+      },
+      {
+        "en": "The Calcutta High Court",
+        "hi": "कलकत्ता उच्च न्यायालय"
+      },
+      {
+        "en": "The Allahabad High Court",
+        "hi": "इलाहाबाद उच्च न्यायालय"
+      },
+      {
+        "en": "The Bombay High Court",
+        "hi": "बॉम्बे उच्च न्यायालय"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It was established in 1862, the same year as Bombay and Madras.",
+      "hi": "इसकी स्थापना 1862 में हुई, उसी वर्ष जब बॉम्बे और मद्रास की हुई।"
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_JUDICIARY"
+  },
+  {
+    "id": "DQ-0507",
+    "category": "Global institutions",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Where is the headquarters of the International Atomic Energy Agency?",
+      "hi": "अंतर्राष्ट्रीय परमाणु ऊर्जा एजेंसी का मुख्यालय कहाँ है?"
+    },
+    "options": [
+      {
+        "en": "The Hague",
+        "hi": "द हेग"
+      },
+      {
+        "en": "Geneva",
+        "hi": "जिनेवा"
+      },
+      {
+        "en": "Vienna",
+        "hi": "वियना"
+      },
+      {
+        "en": "Paris",
+        "hi": "पेरिस"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It was set up in 1957 to promote safe nuclear technology.",
+      "hi": "इसकी स्थापना 1957 में सुरक्षित परमाणु तकनीक को बढ़ावा देने के लिए हुई।"
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-GLOBAL_INSTITUTIONS"
+  },
+  {
+    "id": "DQ-0508",
+    "category": "Global institutions",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which body governs association football worldwide?",
+      "hi": "एसोसिएशन फ़ुटबॉल का विश्व स्तरीय नियामक निकाय कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "FIFA",
+        "hi": "फ़ीफ़ा"
+      },
+      {
+        "en": "FIBA",
+        "hi": "फ़ीबा"
+      },
+      {
+        "en": "The ICC",
+        "hi": "आईसीसी"
+      },
+      {
+        "en": "World Athletics",
+        "hi": "वर्ल्ड एथलेटिक्स"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Its headquarters stand in Zurich.",
+      "hi": "इसका मुख्यालय ज़्यूरिख़ में है।"
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-GLOBAL_INSTITUTIONS"
+  },
+  {
+    "id": "DQ-0509",
+    "category": "India — banking",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which is the largest private sector bank in India?",
+      "hi": "भारत का सबसे बड़ा निजी क्षेत्र का बैंक कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "Kotak Mahindra Bank",
+        "hi": "कोटक महिंद्रा बैंक"
+      },
+      {
+        "en": "ICICI Bank",
+        "hi": "आईसीआईसीआई बैंक"
+      },
+      {
+        "en": "Axis Bank",
+        "hi": "एक्सिस बैंक"
+      },
+      {
+        "en": "HDFC Bank",
+        "hi": "एचडीएफ़सी बैंक"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It absorbed HDFC Ltd in a 2023 merger.",
+      "hi": "इसने 2023 के विलय में एचडीएफ़सी लिमिटेड को समाहित किया।"
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-INDIA_BANKING"
+  },
+  {
+    "id": "DQ-0510",
+    "category": "India — banking",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "In Indian banking, what does the code IFSC stand for?",
+      "hi": "भारतीय बैंकिंग में कोड IFSC का पूर्ण रूप क्या है?"
+    },
+    "options": [
+      {
+        "en": "Indian Fiscal Standard Code",
+        "hi": "इंडियन फ़िस्कल स्टैंडर्ड कोड"
+      },
+      {
+        "en": "International Fund Security Code",
+        "hi": "इंटरनेशनल फ़ंड सिक्योरिटी कोड"
+      },
+      {
+        "en": "Internal Financial Service Code",
+        "hi": "इंटरनल फ़ाइनेंशियल सर्विस कोड"
+      },
+      {
+        "en": "Indian Financial System Code",
+        "hi": "इंडियन फ़ाइनेंशियल सिस्टम कोड"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Eleven characters identify a single branch for electronic transfers.",
+      "hi": "ग्यारह अक्षर इलेक्ट्रॉनिक हस्तांतरण के लिए एक शाखा की पहचान करते हैं।"
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-INDIA_BANKING"
+  },
+  {
+    "id": "DQ-0511",
+    "category": "Biology",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "What is the basic structural and functional unit of every living thing?",
+      "hi": "प्रत्येक जीव की मूल संरचनात्मक और कार्यात्मक इकाई क्या है?"
+    },
+    "options": [
+      {
+        "en": "The molecule",
+        "hi": "अणु"
+      },
+      {
+        "en": "The organ",
+        "hi": "अंग"
+      },
+      {
+        "en": "The cell",
+        "hi": "कोशिका"
+      },
+      {
+        "en": "The tissue",
+        "hi": "ऊतक"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Robert Hooke first gave it that name in 1665.",
+      "hi": "रॉबर्ट हुक ने 1665 में इसे पहली बार यह नाम दिया।"
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-BIOLOGY"
+  },
+  {
+    "id": "DQ-0512",
+    "category": "Biology",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which process do green plants use to make their own food?",
+      "hi": "हरे पौधे अपना भोजन बनाने के लिए किस प्रक्रिया का उपयोग करते हैं?"
+    },
+    "options": [
+      {
+        "en": "Respiration",
+        "hi": "श्वसन"
+      },
+      {
+        "en": "Photosynthesis",
+        "hi": "प्रकाशसंश्लेषण"
+      },
+      {
+        "en": "Fermentation",
+        "hi": "किण्वन"
+      },
+      {
+        "en": "Digestion",
+        "hi": "पाचन"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Chlorophyll captures the light that drives it.",
+      "hi": "क्लोरोफ़िल उस प्रकाश को पकड़ता है जो इसे चलाता है।"
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-BIOLOGY"
+  },
+  {
+    "id": "DQ-0513",
+    "category": "Astronomy",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "A recognisable pattern of stars in the sky is called what?",
+      "hi": "आकाश में तारों का पहचाना जा सकने वाला नमूना क्या कहलाता है?"
+    },
+    "options": [
+      {
+        "en": "A nebula",
+        "hi": "नीहारिका"
+      },
+      {
+        "en": "A cluster only",
+        "hi": "केवल तारा पुंज"
+      },
+      {
+        "en": "A constellation",
+        "hi": "नक्षत्र मंडल"
+      },
+      {
+        "en": "A galaxy",
+        "hi": "आकाशगंगा"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Astronomers officially recognise eighty-eight of them.",
+      "hi": "खगोलज्ञ आधिकारिक रूप से अट्ठासी नक्षत्र मंडल मानते हैं।"
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-ASTRONOMY"
+  },
+  {
+    "id": "DQ-0514",
+    "category": "Astronomy",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which is the brightest star in the night sky as seen from Earth?",
+      "hi": "पृथ्वी से देखने पर रात के आकाश का सबसे चमकीला तारा कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "Polaris",
+        "hi": "ध्रुव तारा"
+      },
+      {
+        "en": "Sirius",
+        "hi": "सिरियस"
+      },
+      {
+        "en": "Vega",
+        "hi": "वेगा"
+      },
+      {
+        "en": "Betelgeuse",
+        "hi": "बीटलजूस"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It sits in the constellation Canis Major.",
+      "hi": "यह कैनिस मेजर नक्षत्र मंडल में स्थित है।"
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-ASTRONOMY"
+  },
+  {
+    "id": "DQ-0515",
+    "category": "Currencies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What is the currency of Indonesia?",
+      "hi": "इंडोनेशिया की मुद्रा क्या है?"
+    },
+    "options": [
+      {
+        "en": "The Baht",
+        "hi": "बात"
+      },
+      {
+        "en": "The Dong",
+        "hi": "डोंग"
+      },
+      {
+        "en": "The Rupiah",
+        "hi": "रुपियाह"
+      },
+      {
+        "en": "The Ringgit",
+        "hi": "रिंगिट"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "The ringgit belongs to Malaysia and the baht to Thailand.",
+      "hi": "रिंगिट मलेशिया की और बात थाईलैंड की मुद्रा है।"
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-CURRENCIES"
+  },
+  {
+    "id": "DQ-0516",
+    "category": "Currencies",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "What is the currency of Israel?",
+      "hi": "इज़राइल की मुद्रा क्या है?"
+    },
+    "options": [
+      {
+        "en": "The Dirham",
+        "hi": "दिरहम"
+      },
+      {
+        "en": "The Dinar",
+        "hi": "दीनार"
+      },
+      {
+        "en": "The Shekel",
+        "hi": "शेकेल"
+      },
+      {
+        "en": "The Lira",
+        "hi": "लीरा"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "The new shekel replaced the old one in 1985.",
+      "hi": "नए शेकेल ने 1985 में पुराने शेकेल का स्थान लिया।"
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-CURRENCIES"
+  },
+  {
+    "id": "DQ-0517",
+    "category": "India — polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "How many times has a National Emergency been declared in India?",
+      "hi": "भारत में कितनी बार राष्ट्रीय आपातकाल लगाया गया है?"
+    },
+    "options": [
+      {
+        "en": "Three times",
+        "hi": "तीन बार"
+      },
+      {
+        "en": "Twice",
+        "hi": "दो बार"
+      },
+      {
+        "en": "Five times",
+        "hi": "पाँच बार"
+      },
+      {
+        "en": "Four times",
+        "hi": "चार बार"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "In 1962, in 1971 and from 1975 to 1977.",
+      "hi": "1962 में, 1971 में और 1975 से 1977 तक।"
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_POLITY"
+  },
+  {
+    "id": "DQ-0518",
+    "category": "India — polity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which Article of the Indian Constitution mentions a Uniform Civil Code?",
+      "hi": "भारतीय संविधान का कौन सा अनुच्छेद समान नागरिक संहिता का उल्लेख करता है?"
+    },
+    "options": [
+      {
+        "en": "Article 32",
+        "hi": "अनुच्छेद 32"
+      },
+      {
+        "en": "Article 370",
+        "hi": "अनुच्छेद 370"
+      },
+      {
+        "en": "Article 21",
+        "hi": "अनुच्छेद 21"
+      },
+      {
+        "en": "Article 44",
+        "hi": "अनुच्छेद 44"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It sits among the Directive Principles, which courts cannot enforce directly.",
+      "hi": "यह नीति निर्देशक तत्वों में है जिन्हें न्यायालय सीधे लागू नहीं कर सकते।"
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_POLITY"
+  },
+  {
+    "id": "DQ-0519",
+    "category": "Cinema",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who directed the 1975 film Sholay?",
+      "hi": "1975 की फ़िल्म शोले का निर्देशन किसने किया?"
+    },
+    "options": [
+      {
+        "en": "Yash Chopra",
+        "hi": "यश चोपड़ा"
+      },
+      {
+        "en": "Manmohan Desai",
+        "hi": "मनमोहन देसाई"
+      },
+      {
+        "en": "Prakash Mehra",
+        "hi": "प्रकाश मेहरा"
+      },
+      {
+        "en": "Ramesh Sippy",
+        "hi": "रमेश सिप्पी"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "His father G. P. Sippy produced it.",
+      "hi": "इसके निर्माता उनके पिता जी. पी. सिप्पी थे।"
+    },
+    "subjectId": "ART-CULT",
+    "chapterId": "ART-CULT",
+    "topicId": "ART-CULT-CINEMA"
+  },
+  {
+    "id": "DQ-0520",
+    "category": "Cinema",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which was India's first sound film?",
+      "hi": "भारत की पहली सवाक फ़िल्म कौन सी थी?"
+    },
+    "options": [
+      {
+        "en": "Mughal-e-Azam",
+        "hi": "मुग़ल-ए-आज़म"
+      },
+      {
+        "en": "Kisan Kanya",
+        "hi": "किसान कन्या"
+      },
+      {
+        "en": "Raja Harishchandra",
+        "hi": "राजा हरिश्चंद्र"
+      },
+      {
+        "en": "Alam Ara",
+        "hi": "आलम आरा"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It was released in 1931; Raja Harishchandra had been silent.",
+      "hi": "यह 1931 में रिलीज़ हुई; राजा हरिश्चंद्र मूक फ़िल्म थी।"
+    },
+    "subjectId": "ART-CULT",
+    "chapterId": "ART-CULT",
+    "topicId": "ART-CULT-CINEMA"
+  },
+  {
+    "id": "DQ-0521",
+    "category": "History",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "The Iron Pillar near the Qutub Minar dates to which period?",
+      "hi": "क़ुतुब मीनार के पास का लौह स्तंभ किस काल का है?"
+    },
+    "options": [
+      {
+        "en": "The Mughal period",
+        "hi": "मुग़ल काल"
+      },
+      {
+        "en": "The Gupta period",
+        "hi": "गुप्त काल"
+      },
+      {
+        "en": "The Maurya period",
+        "hi": "मौर्य काल"
+      },
+      {
+        "en": "The Chola period",
+        "hi": "चोल काल"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It has resisted rust for well over a thousand years.",
+      "hi": "यह एक हज़ार वर्ष से अधिक समय से जंग से बचा हुआ है।"
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "IND-HIST-HISTORY"
+  },
+  {
+    "id": "DQ-0522",
+    "category": "History",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The wall paintings in the Ajanta caves mainly depict stories of which figure?",
+      "hi": "अजंता गुफ़ाओं की भित्ति चित्रकारी मुख्यतः किससे जुड़ी कथाएँ दर्शाती है?"
+    },
+    "options": [
+      {
+        "en": "Rama",
+        "hi": "राम"
+      },
+      {
+        "en": "Krishna",
+        "hi": "कृष्ण"
+      },
+      {
+        "en": "The Buddha",
+        "hi": "बुद्ध"
+      },
+      {
+        "en": "Mahavira",
+        "hi": "महावीर"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Most scenes come from the Jataka tales of his earlier lives.",
+      "hi": "अधिकतर दृश्य उनके पूर्व जीवन की जातक कथाओं से हैं।"
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "IND-HIST-HISTORY"
+  },
+  {
+    "id": "DQ-0523",
+    "category": "Time and standards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "How many minutes ahead of Greenwich Mean Time is Indian Standard Time?",
+      "hi": "भारतीय मानक समय ग्रीनविच माध्य समय से कितने मिनट आगे है?"
+    },
+    "options": [
+      {
+        "en": "330 minutes",
+        "hi": "330 मिनट"
+      },
+      {
+        "en": "270 minutes",
+        "hi": "270 मिनट"
+      },
+      {
+        "en": "300 minutes",
+        "hi": "300 मिनट"
+      },
+      {
+        "en": "360 minutes",
+        "hi": "360 मिनट"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "That is five and a half hours.",
+      "hi": "यह पाँच घंटे तीस मिनट है।"
+    },
+    "subjectId": "IND-GEO",
+    "chapterId": "IND-GEO",
+    "topicId": "IND-GEO-TIME_AND_STANDARDS"
+  },
+  {
+    "id": "DQ-0524",
+    "category": "Time and standards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "How many standard time zones divide the world?",
+      "hi": "विश्व कितने मानक समय क्षेत्रों में बँटा है?"
+    },
+    "options": [
+      {
+        "en": "24 time zones",
+        "hi": "24 समय क्षेत्र"
+      },
+      {
+        "en": "48 time zones",
+        "hi": "48 समय क्षेत्र"
+      },
+      {
+        "en": "36 time zones",
+        "hi": "36 समय क्षेत्र"
+      },
+      {
+        "en": "12 time zones",
+        "hi": "12 समय क्षेत्र"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "One for each hour of the day, though some countries sit off the hour.",
+      "hi": "दिन के प्रत्येक घंटे के लिए एक, हालाँकि कुछ देश घंटे के बीच में आते हैं।"
+    },
+    "subjectId": "IND-GEO",
+    "chapterId": "IND-GEO",
+    "topicId": "IND-GEO-TIME_AND_STANDARDS"
+  },
+  {
+    "id": "DQ-0525",
+    "category": "Instruments",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which scale is used to express the strength of an earthquake?",
+      "hi": "भूकंप की तीव्रता बताने के लिए कौन सा मापक्रम प्रयोग होता है?"
+    },
+    "options": [
+      {
+        "en": "The Richter scale",
+        "hi": "रिक्टर मापक्रम"
+      },
+      {
+        "en": "The Decibel scale",
+        "hi": "डेसिबल मापक्रम"
+      },
+      {
+        "en": "The Beaufort scale",
+        "hi": "ब्यूफ़ोर्ट मापक्रम"
+      },
+      {
+        "en": "The Mohs scale",
+        "hi": "मोहस मापक्रम"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Beaufort rates wind and Mohs rates mineral hardness.",
+      "hi": "ब्यूफ़ोर्ट हवा और मोहस खनिज कठोरता मापते हैं।"
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-INSTRUMENTS"
+  },
+  {
+    "id": "DQ-0526",
+    "category": "Instruments",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which instrument measures the electric current flowing in a circuit?",
+      "hi": "परिपथ में बहने वाली विद्युत धारा कौन सा यंत्र मापता है?"
+    },
+    "options": [
+      {
+        "en": "A voltmeter",
+        "hi": "वोल्टमीटर"
+      },
+      {
+        "en": "A wattmeter",
+        "hi": "वाटमीटर"
+      },
+      {
+        "en": "An ohmmeter",
+        "hi": "ओममीटर"
+      },
+      {
+        "en": "An ammeter",
+        "hi": "ऐमीटर"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It is connected in series so the same current passes through it.",
+      "hi": "इसे श्रेणीक्रम में जोड़ा जाता है ताकि वही धारा इससे गुज़रे।"
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-INSTRUMENTS"
+  },
+  {
+    "id": "DQ-0527",
+    "category": "Monuments",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Taj Mahal stands beside which river?",
+      "hi": "ताजमहल किस नदी के किनारे स्थित है?"
+    },
+    "options": [
+      {
+        "en": "The Yamuna",
+        "hi": "यमुना"
+      },
+      {
+        "en": "The Chambal",
+        "hi": "चंबल"
+      },
+      {
+        "en": "The Ganga",
+        "hi": "गंगा"
+      },
+      {
+        "en": "The Narmada",
+        "hi": "नर्मदा"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The mausoleum faces the water on its northern side.",
+      "hi": "मक़बरे का मुख उत्तर की ओर जल की तरफ़ है।"
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-MONUMENTS"
+  },
+  {
+    "id": "DQ-0528",
+    "category": "Monuments",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Statue of Liberty stands on which island?",
+      "hi": "स्टैच्यू ऑफ़ लिबर्टी किस द्वीप पर स्थित है?"
+    },
+    "options": [
+      {
+        "en": "Ellis Island",
+        "hi": "एलिस आइलैंड"
+      },
+      {
+        "en": "Liberty Island",
+        "hi": "लिबर्टी आइलैंड"
+      },
+      {
+        "en": "Roosevelt Island",
+        "hi": "रूज़वेल्ट आइलैंड"
+      },
+      {
+        "en": "Governors Island",
+        "hi": "गवर्नर्स आइलैंड"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "The island was known as Bedloe's Island until 1956.",
+      "hi": "इस द्वीप को 1956 तक बेडलो आइलैंड कहा जाता था।"
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-MONUMENTS"
+  },
+  {
+    "id": "DQ-0529",
+    "category": "Art",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who painted The Starry Night?",
+      "hi": "द स्टैरी नाइट किसने बनाई?"
+    },
+    "options": [
+      {
+        "en": "Paul Cézanne",
+        "hi": "पॉल सेज़ान"
+      },
+      {
+        "en": "Vincent van Gogh",
+        "hi": "विंसेंट वैन गॉग"
+      },
+      {
+        "en": "Claude Monet",
+        "hi": "क्लॉद मोने"
+      },
+      {
+        "en": "Edvard Munch",
+        "hi": "एडवर्ड मुंक"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "He painted it in 1889 while in an asylum at Saint-Rémy.",
+      "hi": "उन्होंने 1889 में सेंट-रेमी के आश्रम में रहते हुए इसे बनाया।"
+    },
+    "subjectId": "ART-CULT",
+    "chapterId": "ART-CULT",
+    "topicId": "ART-CULT-ART"
+  },
+  {
+    "id": "DQ-0530",
+    "category": "Art",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Ustad Bismillah Khan was a maestro of which instrument?",
+      "hi": "उस्ताद बिस्मिल्लाह ख़ाँ किस वाद्य यंत्र के महान कलाकार थे?"
+    },
+    "options": [
+      {
+        "en": "The shehnai",
+        "hi": "शहनाई"
+      },
+      {
+        "en": "The sarangi",
+        "hi": "सारंगी"
+      },
+      {
+        "en": "The tabla",
+        "hi": "तबला"
+      },
+      {
+        "en": "The sitar",
+        "hi": "सितार"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "He received the Bharat Ratna in 2001.",
+      "hi": "उन्हें 2001 में भारत रत्न मिला।"
+    },
+    "subjectId": "ART-CULT",
+    "chapterId": "ART-CULT",
+    "topicId": "ART-CULT-ART"
+  },
+  {
+    "id": "DQ-0531",
+    "category": "Weather",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which instrument measures how much rain has fallen?",
+      "hi": "कितनी वर्षा हुई, यह कौन सा यंत्र मापता है?"
+    },
+    "options": [
+      {
+        "en": "A hygrometer",
+        "hi": "हाइग्रोमीटर"
+      },
+      {
+        "en": "An anemometer",
+        "hi": "एनीमोमीटर"
+      },
+      {
+        "en": "A barometer",
+        "hi": "बैरोमीटर"
+      },
+      {
+        "en": "A rain gauge",
+        "hi": "वर्षा मापक"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It collects water in a funnel and measures the depth.",
+      "hi": "यह जल को कीप में इकट्ठा कर उसकी गहराई मापता है।"
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-WEATHER"
+  },
+  {
+    "id": "DQ-0532",
+    "category": "Weather",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "The scientific study of weather and the atmosphere is called what?",
+      "hi": "मौसम और वायुमंडल का वैज्ञानिक अध्ययन क्या कहलाता है?"
+    },
+    "options": [
+      {
+        "en": "Ecology",
+        "hi": "पारिस्थितिकी"
+      },
+      {
+        "en": "Seismology",
+        "hi": "भूकंप विज्ञान"
+      },
+      {
+        "en": "Meteorology",
+        "hi": "मौसम विज्ञान"
+      },
+      {
+        "en": "Geology",
+        "hi": "भूविज्ञान"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Climatology covers the long-term patterns instead.",
+      "hi": "जलवायु विज्ञान इसके बजाय दीर्घकालिक प्रतिरूप देखता है।"
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-WEATHER"
+  },
+  {
+    "id": "DQ-0533",
+    "category": "Cybersecurity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What is the practice of turning data into a form that cannot be read without a key?",
+      "hi": "डेटा को बिना कुंजी के पढ़े न जा सके ऐसे रूप में बदलने की प्रक्रिया क्या कहलाती है?"
+    },
+    "options": [
+      {
+        "en": "Hashing only",
+        "hi": "केवल हैशिंग"
+      },
+      {
+        "en": "Indexing",
+        "hi": "अनुक्रमण"
+      },
+      {
+        "en": "Encryption",
+        "hi": "एन्क्रिप्शन"
+      },
+      {
+        "en": "Compression",
+        "hi": "संपीड़न"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Hashing is one-way, while encryption can be reversed with the key.",
+      "hi": "हैशिंग एकदिशीय होती है, जबकि एन्क्रिप्शन कुंजी से उलटी जा सकती है।"
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-CYBERSECURITY"
+  },
+  {
+    "id": "DQ-0534",
+    "category": "Cybersecurity",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "What is a network of hijacked computers controlled together by an attacker called?",
+      "hi": "हमलावर द्वारा एक साथ नियंत्रित किए गए कब्ज़ा किए कंप्यूटरों के जाल को क्या कहते हैं?"
+    },
+    "options": [
+      {
+        "en": "A botnet",
+        "hi": "बॉटनेट"
+      },
+      {
+        "en": "A honeypot",
+        "hi": "हनीपॉट"
+      },
+      {
+        "en": "A proxy chain",
+        "hi": "प्रॉक्सी चेन"
+      },
+      {
+        "en": "A sandbox",
+        "hi": "सैंडबॉक्स"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Botnets are often used to flood websites with traffic.",
+      "hi": "बॉटनेट का प्रयोग प्रायः वेबसाइटों पर ट्रैफ़िक की बौछार के लिए होता है।"
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-CYBERSECURITY"
+  },
+  {
+    "id": "DQ-0535",
+    "category": "Ocean",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the smallest of the world's oceans?",
+      "hi": "विश्व के महासागरों में सबसे छोटा कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "The Indian Ocean",
+        "hi": "हिंद महासागर"
+      },
+      {
+        "en": "The Southern Ocean",
+        "hi": "दक्षिणी महासागर"
+      },
+      {
+        "en": "The Atlantic Ocean",
+        "hi": "अटलांटिक महासागर"
+      },
+      {
+        "en": "The Arctic Ocean",
+        "hi": "आर्कटिक महासागर"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Much of its surface stays covered by sea ice.",
+      "hi": "इसकी अधिकतर सतह समुद्री बर्फ़ से ढकी रहती है।"
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-OCEAN"
+  },
+  {
+    "id": "DQ-0536",
+    "category": "Ocean",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which is generally considered the warmest ocean on Earth?",
+      "hi": "पृथ्वी का सबसे गर्म महासागर आम तौर पर कौन सा माना जाता है?"
+    },
+    "options": [
+      {
+        "en": "The Arctic Ocean",
+        "hi": "आर्कटिक महासागर"
+      },
+      {
+        "en": "The North Atlantic",
+        "hi": "उत्तरी अटलांटिक"
+      },
+      {
+        "en": "The Southern Ocean",
+        "hi": "दक्षिणी महासागर"
+      },
+      {
+        "en": "The Indian Ocean",
+        "hi": "हिंद महासागर"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Most of it lies in the tropics, between Africa and Australia.",
+      "hi": "इसका अधिकांश भाग अफ़्रीका और ऑस्ट्रेलिया के बीच उष्णकटिबंध में है।"
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-OCEAN"
+  },
+  {
+    "id": "DQ-0537",
+    "category": "Neighbourhood",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What is the capital of Afghanistan?",
+      "hi": "अफ़ग़ानिस्तान की राजधानी क्या है?"
+    },
+    "options": [
+      {
+        "en": "Kandahar",
+        "hi": "कंधार"
+      },
+      {
+        "en": "Herat",
+        "hi": "हरात"
+      },
+      {
+        "en": "Mazar-i-Sharif",
+        "hi": "मज़ार-ए-शरीफ़"
+      },
+      {
+        "en": "Kabul",
+        "hi": "काबुल"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It sits in a narrow valley in the east of the country.",
+      "hi": "यह देश के पूर्व में एक संकरी घाटी में बसा है।"
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-NEIGHBOURHOOD"
+  },
+  {
+    "id": "DQ-0538",
+    "category": "Neighbourhood",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What is the capital of Pakistan?",
+      "hi": "पाकिस्तान की राजधानी क्या है?"
+    },
+    "options": [
+      {
+        "en": "Islamabad",
+        "hi": "इस्लामाबाद"
+      },
+      {
+        "en": "Lahore",
+        "hi": "लाहौर"
+      },
+      {
+        "en": "Karachi",
+        "hi": "कराची"
+      },
+      {
+        "en": "Rawalpindi",
+        "hi": "रावलपिंडी"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It replaced Karachi as capital in the 1960s.",
+      "hi": "इसने 1960 के दशक में कराची की जगह राजधानी का दर्जा लिया।"
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-NEIGHBOURHOOD"
+  }
+]

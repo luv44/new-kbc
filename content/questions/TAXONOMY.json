@@ -20,7 +20,7 @@
     "IND-POLITY-INDIA_SYMBOLS",
     "IND-POLITY-OBSERVANCES"
    ],
-   "questionCount": 62
+   "questionCount": 68
   },
   {
    "id": "WORLD-BODIES",
@@ -32,7 +32,7 @@
     "WORLD-BODIES-UNITED_NATIONS",
     "WORLD-BODIES-WORLD_BODIES"
    ],
-   "questionCount": 46
+   "questionCount": 50
   },
   {
    "id": "WORLD-GEO",
@@ -44,7 +44,7 @@
     "WORLD-GEO-WORLD_GEOGRAPHY",
     "WORLD-GEO-WORLD_HERITAGE"
    ],
-   "questionCount": 44
+   "questionCount": 50
   },
   {
    "id": "SCI-BIO",
@@ -54,7 +54,18 @@
     "SCI-BIO-HEALTH",
     "SCI-BIO-HUMAN_BODY"
    ],
-   "questionCount": 32
+   "questionCount": 34
+  },
+  {
+   "id": "SCI-TECH",
+   "title": "Computing & instruments",
+   "topics": [
+    "SCI-TECH-COMPUTING",
+    "SCI-TECH-CYBERSECURITY",
+    "SCI-TECH-INSTRUMENTS",
+    "SCI-TECH-WEATHER"
+   ],
+   "questionCount": 34
   },
   {
    "id": "SCI-CHEM",
@@ -65,13 +76,11 @@
    "questionCount": 30
   },
   {
-   "id": "SCI-TECH",
-   "title": "Computing & instruments",
+   "id": "IND-GEO",
+   "title": "Indian geography",
    "topics": [
-    "SCI-TECH-COMPUTING",
-    "SCI-TECH-CYBERSECURITY",
-    "SCI-TECH-INSTRUMENTS",
-    "SCI-TECH-WEATHER"
+    "IND-GEO-INDIAN_GEOGRAPHY",
+    "IND-GEO-TIME_AND_STANDARDS"
    ],
    "questionCount": 28
   },
@@ -85,15 +94,6 @@
    "questionCount": 27
   },
   {
-   "id": "IND-GEO",
-   "title": "Indian geography",
-   "topics": [
-    "IND-GEO-INDIAN_GEOGRAPHY",
-    "IND-GEO-TIME_AND_STANDARDS"
-   ],
-   "questionCount": 26
-  },
-  {
    "id": "SPORT",
    "title": "Sport & games",
    "topics": [
@@ -101,16 +101,7 @@
     "SPORT-INDIA_SPORT",
     "SPORT-SPORT"
    ],
-   "questionCount": 25
-  },
-  {
-   "id": "SCI-SPACE",
-   "title": "Astronomy & spaceflight",
-   "topics": [
-    "SCI-SPACE-ASTRONOMY",
-    "SCI-SPACE-SPACE"
-   ],
-   "questionCount": 23
+   "questionCount": 27
   },
   {
    "id": "ART-CULT",
@@ -121,7 +112,7 @@
     "ART-CULT-CULTURE",
     "ART-CULT-LITERATURE"
    ],
-   "questionCount": 23
+   "questionCount": 27
   },
   {
    "id": "IND-ECON",
@@ -132,7 +123,16 @@
     "IND-ECON-INDIA_BANKING",
     "IND-ECON-INDIA_ECONOMY"
    ],
-   "questionCount": 22
+   "questionCount": 26
+  },
+  {
+   "id": "SCI-SPACE",
+   "title": "Astronomy & spaceflight",
+   "topics": [
+    "SCI-SPACE-ASTRONOMY",
+    "SCI-SPACE-SPACE"
+   ],
+   "questionCount": 25
   },
   {
    "id": "IND-HIST",
@@ -141,7 +141,7 @@
     "IND-HIST-HISTORY",
     "IND-HIST-INDIAN_HISTORY"
    ],
-   "questionCount": 21
+   "questionCount": 23
   },
   {
    "id": "ENV",
@@ -185,7 +185,7 @@
   }
  ],
  "totals": {
-  "questions": 498,
+  "questions": 538,
   "subjects": 18,
   "topics": 48
  }

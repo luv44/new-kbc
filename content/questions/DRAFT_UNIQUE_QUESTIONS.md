@@ -1,8 +1,8 @@
 # Draft question bank — unique, meta-word free
 
-Generated 2026-10-11T07:14:51.801Z by `node scripts/question-lint.mjs --write`.
+Generated 2026-10-11T07:25:17.348Z by `node scripts/question-lint.mjs --write`.
 
-- 498 questions, 498 distinct stems, 498 distinct fingerprints
+- 538 questions, 538 distinct stems, 538 distinct fingerprints
 - Banned meta-language scan: 0 hits
 - Duplication scan: 0 hits
 - Lifecycle: DRAFT_PENDING_REVIEW — not eligible for practice until human review accepts them (see `src/domain.ts eligible()`).
@@ -8470,6 +8470,686 @@ Source: PENDING-EVIDENCE · EASY
 > गेंद को ऊपर से घेरे में नीचे की ओर ठोंसा जाता है।
 
 Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 499. Which plant produces the largest single flower in the world?
+**विश्व का सबसे बड़ा एकल पुष्प कौन सा पौधा देता है?**
+
+- A. The lotus — कमल
+- B. The titan arum — टिटन अरम
+- C. Rafflesia — रैफ़्लेसिया
+- D. The sunflower — सूरजमुखी
+
+**Answer: C. Rafflesia**
+
+> It can exceed a metre across and smells of rotting meat.
+> यह एक मीटर से अधिक चौड़ा हो सकता है और सड़े माँस जैसी गंध देता है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 500. Bamboo is botanically a member of which plant family?
+**वानस्पतिक दृष्टि से बाँस किस पौध परिवार का सदस्य है?**
+
+- A. The grass family — घास परिवार
+- B. The palm family — ताड़ परिवार
+- C. The fig family — अंजीर परिवार
+- D. The orchid family — ऑर्किड परिवार
+
+**Answer: A. The grass family**
+
+> Some species can grow almost a metre in a single day.
+> कुछ प्रजातियाँ एक ही दिन में लगभग एक मीटर बढ़ सकती हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 501. In which team sport has India won the most Olympic gold medals?
+**किस टीम खेल में भारत ने सबसे अधिक ओलंपिक स्वर्ण पदक जीते हैं?**
+
+- A. Football — फ़ुटबॉल
+- B. Kabaddi — कबड्डी
+- C. Field hockey — फ़ील्ड हॉकी
+- D. Cricket — क्रिकेट
+
+**Answer: C. Field hockey**
+
+> Eight of its golds came between 1928 and 1980.
+> इनमें से आठ स्वर्ण 1928 से 1980 के बीच आए।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 502. Which Indian cricketer is popularly called the Run Machine?
+**किस भारतीय क्रिकेटर को लोकप्रिय रूप से रन मशीन कहा जाता है?**
+
+- A. Sachin Tendulkar — सचिन तेंदुलकर
+- B. Virat Kohli — विराट कोहली
+- C. Rahul Dravid — राहुल द्रविड़
+- D. Rohit Sharma — रोहित शर्मा
+
+**Answer: B. Virat Kohli**
+
+> He was the fastest to ten thousand one-day international runs.
+> वे दस हज़ार एकदिवसीय अंतर्राष्ट्रीय रन तक सबसे तेज़ पहुँचे।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 503. Which is India's highest gallantry award for peacetime?
+**शांतिकाल के लिए भारत का सर्वोच्च वीरता सम्मान कौन सा है?**
+
+- A. The Sena Medal — सेना मेडल
+- B. The Kirti Chakra — कीर्ति चक्र
+- C. The Shaurya Chakra — शौर्य चक्र
+- D. The Ashoka Chakra — अशोक चक्र
+
+**Answer: D. The Ashoka Chakra**
+
+> The Param Vir Chakra is the wartime equivalent.
+> युद्धकाल के लिए परम वीर चक्र समकक्ष है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 504. Where does the Padma Shri sit in the order of India's civilian awards?
+**भारत के नागरिक सम्मानों के क्रम में पद्म श्री का कौन सा स्थान है?**
+
+- A. The sixth-highest — छठा सर्वोच्च
+- B. The second-highest — दूसरा सर्वोच्च
+- C. The highest — सर्वोच्च
+- D. The fourth-highest — चौथा सर्वोच्च
+
+**Answer: D. The fourth-highest**
+
+> The order runs Bharat Ratna, Padma Vibhushan, Padma Bhushan, Padma Shri.
+> क्रम है भारत रत्न, पद्म विभूषण, पद्म भूषण, पद्म श्री।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 505. What is the sanctioned strength of the Supreme Court of India, including the Chief Justice?
+**मुख्य न्यायाधीश सहित भारत के सर्वोच्च न्यायालय की स्वीकृत संख्या कितनी है?**
+
+- A. 34 — 34
+- B. 26 — 26
+- C. 40 — 40
+- D. 31 — 31
+
+**Answer: A. 34**
+
+> Parliament raised it from 31 to 34 in 2019.
+> संसद ने 2019 में इसे 31 से बढ़ाकर 34 किया।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 506. Which is the oldest High Court in India?
+**भारत का सबसे पुराना उच्च न्यायालय कौन सा है?**
+
+- A. The Madras High Court — मद्रास उच्च न्यायालय
+- B. The Calcutta High Court — कलकत्ता उच्च न्यायालय
+- C. The Allahabad High Court — इलाहाबाद उच्च न्यायालय
+- D. The Bombay High Court — बॉम्बे उच्च न्यायालय
+
+**Answer: B. The Calcutta High Court**
+
+> It was established in 1862, the same year as Bombay and Madras.
+> इसकी स्थापना 1862 में हुई, उसी वर्ष जब बॉम्बे और मद्रास की हुई।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 507. Where is the headquarters of the International Atomic Energy Agency?
+**अंतर्राष्ट्रीय परमाणु ऊर्जा एजेंसी का मुख्यालय कहाँ है?**
+
+- A. The Hague — द हेग
+- B. Geneva — जिनेवा
+- C. Vienna — वियना
+- D. Paris — पेरिस
+
+**Answer: C. Vienna**
+
+> It was set up in 1957 to promote safe nuclear technology.
+> इसकी स्थापना 1957 में सुरक्षित परमाणु तकनीक को बढ़ावा देने के लिए हुई।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 508. Which body governs association football worldwide?
+**एसोसिएशन फ़ुटबॉल का विश्व स्तरीय नियामक निकाय कौन सा है?**
+
+- A. FIFA — फ़ीफ़ा
+- B. FIBA — फ़ीबा
+- C. The ICC — आईसीसी
+- D. World Athletics — वर्ल्ड एथलेटिक्स
+
+**Answer: A. FIFA**
+
+> Its headquarters stand in Zurich.
+> इसका मुख्यालय ज़्यूरिख़ में है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 509. Which is the largest private sector bank in India?
+**भारत का सबसे बड़ा निजी क्षेत्र का बैंक कौन सा है?**
+
+- A. Kotak Mahindra Bank — कोटक महिंद्रा बैंक
+- B. ICICI Bank — आईसीआईसीआई बैंक
+- C. Axis Bank — एक्सिस बैंक
+- D. HDFC Bank — एचडीएफ़सी बैंक
+
+**Answer: D. HDFC Bank**
+
+> It absorbed HDFC Ltd in a 2023 merger.
+> इसने 2023 के विलय में एचडीएफ़सी लिमिटेड को समाहित किया।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 510. In Indian banking, what does the code IFSC stand for?
+**भारतीय बैंकिंग में कोड IFSC का पूर्ण रूप क्या है?**
+
+- A. Indian Fiscal Standard Code — इंडियन फ़िस्कल स्टैंडर्ड कोड
+- B. International Fund Security Code — इंटरनेशनल फ़ंड सिक्योरिटी कोड
+- C. Internal Financial Service Code — इंटरनल फ़ाइनेंशियल सर्विस कोड
+- D. Indian Financial System Code — इंडियन फ़ाइनेंशियल सिस्टम कोड
+
+**Answer: D. Indian Financial System Code**
+
+> Eleven characters identify a single branch for electronic transfers.
+> ग्यारह अक्षर इलेक्ट्रॉनिक हस्तांतरण के लिए एक शाखा की पहचान करते हैं।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 511. What is the basic structural and functional unit of every living thing?
+**प्रत्येक जीव की मूल संरचनात्मक और कार्यात्मक इकाई क्या है?**
+
+- A. The molecule — अणु
+- B. The organ — अंग
+- C. The cell — कोशिका
+- D. The tissue — ऊतक
+
+**Answer: C. The cell**
+
+> Robert Hooke first gave it that name in 1665.
+> रॉबर्ट हुक ने 1665 में इसे पहली बार यह नाम दिया।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 512. Which process do green plants use to make their own food?
+**हरे पौधे अपना भोजन बनाने के लिए किस प्रक्रिया का उपयोग करते हैं?**
+
+- A. Respiration — श्वसन
+- B. Photosynthesis — प्रकाशसंश्लेषण
+- C. Fermentation — किण्वन
+- D. Digestion — पाचन
+
+**Answer: B. Photosynthesis**
+
+> Chlorophyll captures the light that drives it.
+> क्लोरोफ़िल उस प्रकाश को पकड़ता है जो इसे चलाता है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 513. A recognisable pattern of stars in the sky is called what?
+**आकाश में तारों का पहचाना जा सकने वाला नमूना क्या कहलाता है?**
+
+- A. A nebula — नीहारिका
+- B. A cluster only — केवल तारा पुंज
+- C. A constellation — नक्षत्र मंडल
+- D. A galaxy — आकाशगंगा
+
+**Answer: C. A constellation**
+
+> Astronomers officially recognise eighty-eight of them.
+> खगोलज्ञ आधिकारिक रूप से अट्ठासी नक्षत्र मंडल मानते हैं।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 514. Which is the brightest star in the night sky as seen from Earth?
+**पृथ्वी से देखने पर रात के आकाश का सबसे चमकीला तारा कौन सा है?**
+
+- A. Polaris — ध्रुव तारा
+- B. Sirius — सिरियस
+- C. Vega — वेगा
+- D. Betelgeuse — बीटलजूस
+
+**Answer: B. Sirius**
+
+> It sits in the constellation Canis Major.
+> यह कैनिस मेजर नक्षत्र मंडल में स्थित है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 515. What is the currency of Indonesia?
+**इंडोनेशिया की मुद्रा क्या है?**
+
+- A. The Baht — बात
+- B. The Dong — डोंग
+- C. The Rupiah — रुपियाह
+- D. The Ringgit — रिंगिट
+
+**Answer: C. The Rupiah**
+
+> The ringgit belongs to Malaysia and the baht to Thailand.
+> रिंगिट मलेशिया की और बात थाईलैंड की मुद्रा है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 516. What is the currency of Israel?
+**इज़राइल की मुद्रा क्या है?**
+
+- A. The Dirham — दिरहम
+- B. The Dinar — दीनार
+- C. The Shekel — शेकेल
+- D. The Lira — लीरा
+
+**Answer: C. The Shekel**
+
+> The new shekel replaced the old one in 1985.
+> नए शेकेल ने 1985 में पुराने शेकेल का स्थान लिया।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 517. How many times has a National Emergency been declared in India?
+**भारत में कितनी बार राष्ट्रीय आपातकाल लगाया गया है?**
+
+- A. Three times — तीन बार
+- B. Twice — दो बार
+- C. Five times — पाँच बार
+- D. Four times — चार बार
+
+**Answer: A. Three times**
+
+> In 1962, in 1971 and from 1975 to 1977.
+> 1962 में, 1971 में और 1975 से 1977 तक।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 518. Which Article of the Indian Constitution mentions a Uniform Civil Code?
+**भारतीय संविधान का कौन सा अनुच्छेद समान नागरिक संहिता का उल्लेख करता है?**
+
+- A. Article 32 — अनुच्छेद 32
+- B. Article 370 — अनुच्छेद 370
+- C. Article 21 — अनुच्छेद 21
+- D. Article 44 — अनुच्छेद 44
+
+**Answer: D. Article 44**
+
+> It sits among the Directive Principles, which courts cannot enforce directly.
+> यह नीति निर्देशक तत्वों में है जिन्हें न्यायालय सीधे लागू नहीं कर सकते।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 519. Who directed the 1975 film Sholay?
+**1975 की फ़िल्म शोले का निर्देशन किसने किया?**
+
+- A. Yash Chopra — यश चोपड़ा
+- B. Manmohan Desai — मनमोहन देसाई
+- C. Prakash Mehra — प्रकाश मेहरा
+- D. Ramesh Sippy — रमेश सिप्पी
+
+**Answer: D. Ramesh Sippy**
+
+> His father G. P. Sippy produced it.
+> इसके निर्माता उनके पिता जी. पी. सिप्पी थे।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 520. Which was India's first sound film?
+**भारत की पहली सवाक फ़िल्म कौन सी थी?**
+
+- A. Mughal-e-Azam — मुग़ल-ए-आज़म
+- B. Kisan Kanya — किसान कन्या
+- C. Raja Harishchandra — राजा हरिश्चंद्र
+- D. Alam Ara — आलम आरा
+
+**Answer: D. Alam Ara**
+
+> It was released in 1931; Raja Harishchandra had been silent.
+> यह 1931 में रिलीज़ हुई; राजा हरिश्चंद्र मूक फ़िल्म थी।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 521. The Iron Pillar near the Qutub Minar dates to which period?
+**क़ुतुब मीनार के पास का लौह स्तंभ किस काल का है?**
+
+- A. The Mughal period — मुग़ल काल
+- B. The Gupta period — गुप्त काल
+- C. The Maurya period — मौर्य काल
+- D. The Chola period — चोल काल
+
+**Answer: B. The Gupta period**
+
+> It has resisted rust for well over a thousand years.
+> यह एक हज़ार वर्ष से अधिक समय से जंग से बचा हुआ है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 522. The wall paintings in the Ajanta caves mainly depict stories of which figure?
+**अजंता गुफ़ाओं की भित्ति चित्रकारी मुख्यतः किससे जुड़ी कथाएँ दर्शाती है?**
+
+- A. Rama — राम
+- B. Krishna — कृष्ण
+- C. The Buddha — बुद्ध
+- D. Mahavira — महावीर
+
+**Answer: C. The Buddha**
+
+> Most scenes come from the Jataka tales of his earlier lives.
+> अधिकतर दृश्य उनके पूर्व जीवन की जातक कथाओं से हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 523. How many minutes ahead of Greenwich Mean Time is Indian Standard Time?
+**भारतीय मानक समय ग्रीनविच माध्य समय से कितने मिनट आगे है?**
+
+- A. 330 minutes — 330 मिनट
+- B. 270 minutes — 270 मिनट
+- C. 300 minutes — 300 मिनट
+- D. 360 minutes — 360 मिनट
+
+**Answer: A. 330 minutes**
+
+> That is five and a half hours.
+> यह पाँच घंटे तीस मिनट है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 524. How many standard time zones divide the world?
+**विश्व कितने मानक समय क्षेत्रों में बँटा है?**
+
+- A. 24 time zones — 24 समय क्षेत्र
+- B. 48 time zones — 48 समय क्षेत्र
+- C. 36 time zones — 36 समय क्षेत्र
+- D. 12 time zones — 12 समय क्षेत्र
+
+**Answer: A. 24 time zones**
+
+> One for each hour of the day, though some countries sit off the hour.
+> दिन के प्रत्येक घंटे के लिए एक, हालाँकि कुछ देश घंटे के बीच में आते हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 525. Which scale is used to express the strength of an earthquake?
+**भूकंप की तीव्रता बताने के लिए कौन सा मापक्रम प्रयोग होता है?**
+
+- A. The Richter scale — रिक्टर मापक्रम
+- B. The Decibel scale — डेसिबल मापक्रम
+- C. The Beaufort scale — ब्यूफ़ोर्ट मापक्रम
+- D. The Mohs scale — मोहस मापक्रम
+
+**Answer: A. The Richter scale**
+
+> Beaufort rates wind and Mohs rates mineral hardness.
+> ब्यूफ़ोर्ट हवा और मोहस खनिज कठोरता मापते हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 526. Which instrument measures the electric current flowing in a circuit?
+**परिपथ में बहने वाली विद्युत धारा कौन सा यंत्र मापता है?**
+
+- A. A voltmeter — वोल्टमीटर
+- B. A wattmeter — वाटमीटर
+- C. An ohmmeter — ओममीटर
+- D. An ammeter — ऐमीटर
+
+**Answer: D. An ammeter**
+
+> It is connected in series so the same current passes through it.
+> इसे श्रेणीक्रम में जोड़ा जाता है ताकि वही धारा इससे गुज़रे।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 527. The Taj Mahal stands beside which river?
+**ताजमहल किस नदी के किनारे स्थित है?**
+
+- A. The Yamuna — यमुना
+- B. The Chambal — चंबल
+- C. The Ganga — गंगा
+- D. The Narmada — नर्मदा
+
+**Answer: A. The Yamuna**
+
+> The mausoleum faces the water on its northern side.
+> मक़बरे का मुख उत्तर की ओर जल की तरफ़ है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 528. The Statue of Liberty stands on which island?
+**स्टैच्यू ऑफ़ लिबर्टी किस द्वीप पर स्थित है?**
+
+- A. Ellis Island — एलिस आइलैंड
+- B. Liberty Island — लिबर्टी आइलैंड
+- C. Roosevelt Island — रूज़वेल्ट आइलैंड
+- D. Governors Island — गवर्नर्स आइलैंड
+
+**Answer: B. Liberty Island**
+
+> The island was known as Bedloe's Island until 1956.
+> इस द्वीप को 1956 तक बेडलो आइलैंड कहा जाता था।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 529. Who painted The Starry Night?
+**द स्टैरी नाइट किसने बनाई?**
+
+- A. Paul Cézanne — पॉल सेज़ान
+- B. Vincent van Gogh — विंसेंट वैन गॉग
+- C. Claude Monet — क्लॉद मोने
+- D. Edvard Munch — एडवर्ड मुंक
+
+**Answer: B. Vincent van Gogh**
+
+> He painted it in 1889 while in an asylum at Saint-Rémy.
+> उन्होंने 1889 में सेंट-रेमी के आश्रम में रहते हुए इसे बनाया।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 530. Ustad Bismillah Khan was a maestro of which instrument?
+**उस्ताद बिस्मिल्लाह ख़ाँ किस वाद्य यंत्र के महान कलाकार थे?**
+
+- A. The shehnai — शहनाई
+- B. The sarangi — सारंगी
+- C. The tabla — तबला
+- D. The sitar — सितार
+
+**Answer: A. The shehnai**
+
+> He received the Bharat Ratna in 2001.
+> उन्हें 2001 में भारत रत्न मिला।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 531. Which instrument measures how much rain has fallen?
+**कितनी वर्षा हुई, यह कौन सा यंत्र मापता है?**
+
+- A. A hygrometer — हाइग्रोमीटर
+- B. An anemometer — एनीमोमीटर
+- C. A barometer — बैरोमीटर
+- D. A rain gauge — वर्षा मापक
+
+**Answer: D. A rain gauge**
+
+> It collects water in a funnel and measures the depth.
+> यह जल को कीप में इकट्ठा कर उसकी गहराई मापता है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 532. The scientific study of weather and the atmosphere is called what?
+**मौसम और वायुमंडल का वैज्ञानिक अध्ययन क्या कहलाता है?**
+
+- A. Ecology — पारिस्थितिकी
+- B. Seismology — भूकंप विज्ञान
+- C. Meteorology — मौसम विज्ञान
+- D. Geology — भूविज्ञान
+
+**Answer: C. Meteorology**
+
+> Climatology covers the long-term patterns instead.
+> जलवायु विज्ञान इसके बजाय दीर्घकालिक प्रतिरूप देखता है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 533. What is the practice of turning data into a form that cannot be read without a key?
+**डेटा को बिना कुंजी के पढ़े न जा सके ऐसे रूप में बदलने की प्रक्रिया क्या कहलाती है?**
+
+- A. Hashing only — केवल हैशिंग
+- B. Indexing — अनुक्रमण
+- C. Encryption — एन्क्रिप्शन
+- D. Compression — संपीड़न
+
+**Answer: C. Encryption**
+
+> Hashing is one-way, while encryption can be reversed with the key.
+> हैशिंग एकदिशीय होती है, जबकि एन्क्रिप्शन कुंजी से उलटी जा सकती है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 534. What is a network of hijacked computers controlled together by an attacker called?
+**हमलावर द्वारा एक साथ नियंत्रित किए गए कब्ज़ा किए कंप्यूटरों के जाल को क्या कहते हैं?**
+
+- A. A botnet — बॉटनेट
+- B. A honeypot — हनीपॉट
+- C. A proxy chain — प्रॉक्सी चेन
+- D. A sandbox — सैंडबॉक्स
+
+**Answer: A. A botnet**
+
+> Botnets are often used to flood websites with traffic.
+> बॉटनेट का प्रयोग प्रायः वेबसाइटों पर ट्रैफ़िक की बौछार के लिए होता है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 535. Which is the smallest of the world's oceans?
+**विश्व के महासागरों में सबसे छोटा कौन सा है?**
+
+- A. The Indian Ocean — हिंद महासागर
+- B. The Southern Ocean — दक्षिणी महासागर
+- C. The Atlantic Ocean — अटलांटिक महासागर
+- D. The Arctic Ocean — आर्कटिक महासागर
+
+**Answer: D. The Arctic Ocean**
+
+> Much of its surface stays covered by sea ice.
+> इसकी अधिकतर सतह समुद्री बर्फ़ से ढकी रहती है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 536. Which is generally considered the warmest ocean on Earth?
+**पृथ्वी का सबसे गर्म महासागर आम तौर पर कौन सा माना जाता है?**
+
+- A. The Arctic Ocean — आर्कटिक महासागर
+- B. The North Atlantic — उत्तरी अटलांटिक
+- C. The Southern Ocean — दक्षिणी महासागर
+- D. The Indian Ocean — हिंद महासागर
+
+**Answer: D. The Indian Ocean**
+
+> Most of it lies in the tropics, between Africa and Australia.
+> इसका अधिकांश भाग अफ़्रीका और ऑस्ट्रेलिया के बीच उष्णकटिबंध में है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 537. What is the capital of Afghanistan?
+**अफ़ग़ानिस्तान की राजधानी क्या है?**
+
+- A. Kandahar — कंधार
+- B. Herat — हरात
+- C. Mazar-i-Sharif — मज़ार-ए-शरीफ़
+- D. Kabul — काबुल
+
+**Answer: D. Kabul**
+
+> It sits in a narrow valley in the east of the country.
+> यह देश के पूर्व में एक संकरी घाटी में बसा है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 538. What is the capital of Pakistan?
+**पाकिस्तान की राजधानी क्या है?**
+
+- A. Islamabad — इस्लामाबाद
+- B. Lahore — लाहौर
+- C. Karachi — कराची
+- D. Rawalpindi — रावलपिंडी
+
+**Answer: A. Islamabad**
+
+> It replaced Karachi as capital in the 1960s.
+> इसने 1960 के दशक में कराची की जगह राजधानी का दर्जा लिया।
+
+Source: PENDING-EVIDENCE · MEDIUM
 
 ---
 
