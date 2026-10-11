@@ -73,6 +73,30 @@
    "gapTo50": 11
   },
   {
+   "id": "WORLD-HIST",
+   "title": "World history",
+   "topics": [
+    "TOP-WORLD-HIST"
+   ],
+   "questionCount": 35,
+   "subtopics": [
+    "World history"
+   ],
+   "gapTo50": 15
+  },
+  {
+   "id": "AWARDS",
+   "title": "Awards & honours",
+   "topics": [
+    "TOP-AWARDS"
+   ],
+   "questionCount": 35,
+   "subtopics": [
+    "Awards"
+   ],
+   "gapTo50": 15
+  },
+  {
    "id": "SCI-TECH",
    "title": "Computing & instruments",
    "topics": [
@@ -230,39 +254,15 @@
     "Science history"
    ],
    "gapTo50": 31
-  },
-  {
-   "id": "WORLD-HIST",
-   "title": "World history",
-   "topics": [
-    "TOP-WORLD-HIST"
-   ],
-   "questionCount": 15,
-   "subtopics": [
-    "World history"
-   ],
-   "gapTo50": 35
-  },
-  {
-   "id": "AWARDS",
-   "title": "Awards & honours",
-   "topics": [
-    "TOP-AWARDS"
-   ],
-   "questionCount": 15,
-   "subtopics": [
-    "Awards"
-   ],
-   "gapTo50": 35
   }
  ],
  "totals": {
-  "questions": 578,
+  "questions": 618,
   "subjects": 18,
   "topics": 18,
   "targetPerTopic": 50,
   "targetTotal": 900,
-  "stillNeeded": 360
+  "stillNeeded": 320
  },
  "topicGranularity": "CONSOLIDATED_TO_SUBJECT_LEVEL — 48 authoring categories were merged into one topic per subject so that a 50-question-per-topic target is reachable. The fine grouping is preserved verbatim in each question's `category` field and in git history."
 }

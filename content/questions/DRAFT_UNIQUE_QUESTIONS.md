@@ -1,8 +1,8 @@
 # Draft question bank — unique, meta-word free
 
-Generated 2026-10-11T07:34:22.479Z by `node scripts/question-lint.mjs --write`.
+Generated 2026-10-11T07:39:39.563Z by `node scripts/question-lint.mjs --write`.
 
-- 578 questions, 578 distinct stems, 578 distinct fingerprints
+- 618 questions, 618 distinct stems, 618 distinct fingerprints
 - Banned meta-language scan: 0 hits
 - Duplication scan: 0 hits
 - Lifecycle: DRAFT_PENDING_REVIEW — not eligible for practice until human review accepts them (see `src/domain.ts eligible()`).
@@ -9830,6 +9830,686 @@ Source: PENDING-EVIDENCE · HARD
 > यह अट्ठाईस दिन से बढ़कर उनतीस हो जाता है।
 
 Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 579. The ancient city of Troy lies in which modern country?
+**प्राचीन नगरी ट्रॉय किस आधुनिक देश में स्थित है?**
+
+- A. Greece — यूनान
+- B. Turkey — तुर्की
+- C. Italy — इटली
+- D. Syria — सीरिया
+
+**Answer: B. Turkey**
+
+> Its mound is called Hisarlik.
+> इसके टीले को हिसारलिक कहते हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 580. Who founded the Ottoman Empire?
+**उस्मानी साम्राज्य की स्थापना किसने की?**
+
+- A. Bayezid I — बयाज़िद प्रथम
+- B. Mehmed II — मेहमेद द्वितीय
+- C. Suleiman the Magnificent — सुलेमान द मैग्निफ़िसेंट
+- D. Osman I — उस्मान प्रथम
+
+**Answer: D. Osman I**
+
+> The dynasty takes its name from him.
+> वंश का नाम उन्हीं के नाम पर पड़ा।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 581. In which year was the Magna Carta sealed?
+**मैग्ना कार्टा पर किस वर्ष मुहर लगी?**
+
+- A. 1348 — 1348
+- B. 1492 — 1492
+- C. 1066 — 1066
+- D. 1215 — 1215
+
+**Answer: D. 1215**
+
+> King John agreed to it at Runnymede.
+> राजा जॉन ने इसे रनीमीड में स्वीकार किया।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 582. Which city served as the capital of the Byzantine Empire?
+**बाइज़ेंटाइन साम्राज्य की राजधानी कौन सा शहर थी?**
+
+- A. Constantinople — कॉन्स्टेंटिनोपल
+- B. Athens — एथेंस
+- C. Alexandria — अलेक्ज़ेंड्रिया
+- D. Antioch — अंताक्या
+
+**Answer: A. Constantinople**
+
+> It is Istanbul today.
+> आज यह इस्तांबुल है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 583. Who led the French forces that lifted the siege of Orleans in 1429?
+**1429 में ऑरलियांस की घेराबंदी हटाने वाले फ़्रांसीसी बलों का नेतृत्व किसने किया?**
+
+- A. Eleanor of Aquitaine — एलिनोर ऑफ़ एक्विटेन
+- B. Catherine de Medici — कैथरीन डी मेडिसी
+- C. Joan of Arc — जोआन ऑफ़ आर्क
+- D. Marie Antoinette — मेरी एंटोनेट
+
+**Answer: C. Joan of Arc**
+
+> She was burnt at the stake two years later.
+> दो वर्ष बाद उन्हें खंभे से बाँधकर जला दिया गया।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 584. In which century did the Black Death reach Europe?
+**ब्लैक डेथ यूरोप में किस शताब्दी में पहुँची?**
+
+- A. The fourteenth century — चौदहवीं शताब्दी
+- B. The sixteenth century — सोलहवीं शताब्दी
+- C. The eighteenth century — अठारहवीं शताब्दी
+- D. The eleventh century — ग्यारहवीं शताब्दी
+
+**Answer: A. The fourteenth century**
+
+> It arrived in 1347 and killed perhaps a third of the population.
+> यह 1347 में आई और लगभग एक तिहाई जनसंख्या को ले गई।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 585. Who was the first ruler to take the title of Tsar of Russia?
+**रूस के ज़ार की उपाधि ग्रहण करने वाले पहले शासक कौन थे?**
+
+- A. Ivan the Terrible — इवान द टेरीबल
+- B. Peter the Great — पीटर द ग्रेट
+- C. Alexander I — अलेक्ज़ेंडर प्रथम
+- D. Nicholas II — निकोलस द्वितीय
+
+**Answer: A. Ivan the Terrible**
+
+> He was crowned in 1547.
+> उनका राज्याभिषेक 1547 में हुआ।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 586. In which year did the American Civil War end?
+**अमेरिकी गृहयुद्ध किस वर्ष समाप्त हुआ?**
+
+- A. 1861 — 1861
+- B. 1865 — 1865
+- C. 1870 — 1870
+- D. 1858 — 1858
+
+**Answer: B. 1865**
+
+> General Lee surrendered at Appomattox that April.
+> उसी वर्ष अप्रैल में जनरल ली ने एपोमैटॉक्स में आत्मसमर्पण किया।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 587. Which British monarch reigned for most of the nineteenth century?
+**उन्नीसवीं शताब्दी के अधिकतर भाग में कौन से ब्रिटिश सम्राट का शासन रहा?**
+
+- A. Queen Anne — महारानी ऐन
+- B. Queen Elizabeth I — महारानी एलिज़ाबेथ प्रथम
+- C. Mary II — मेरी द्वितीय
+- D. Queen Victoria — महारानी विक्टोरिया
+
+**Answer: D. Queen Victoria**
+
+> Her sixty-three year reign gave the era its name.
+> उनके तिरसठ वर्ष के शासन ने उस युग को नाम दिया।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 588. In which year was the Treaty of Versailles signed?
+**वर्साय की संधि किस वर्ष पर हस्ताक्षर हुए?**
+
+- A. 1919 — 1919
+- B. 1925 — 1925
+- C. 1914 — 1914
+- D. 1933 — 1933
+
+**Answer: A. 1919**
+
+> It formally ended the First World War with Germany.
+> इसने जर्मनी के साथ प्रथम विश्व युद्ध औपचारिक रूप से समाप्त किया।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 589. Who became the first Chancellor of a united Germany in 1871?
+**1871 में एकीकृत जर्मनी के पहले चांसलर कौन बने?**
+
+- A. Helmuth von Moltke — हेलमुथ वॉन मोल्टके
+- B. Friedrich Ebert — फ़्रीडरिक एबर्ट
+- C. Kaiser Wilhelm II — कैसर विल्हेल्म द्वितीय
+- D. Otto von Bismarck — ओटो वॉन बिस्मार्क
+
+**Answer: D. Otto von Bismarck**
+
+> He is remembered as the Iron Chancellor.
+> उन्हें लौह चांसलर के नाम से याद किया जाता है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 590. Who led the Soviet Union through most of the Second World War?
+**द्वितीय विश्व युद्ध के अधिकतर समय सोवियत संघ का नेतृत्व किसने किया?**
+
+- A. Leonid Brezhnev — लियोनिद ब्रेज़नेव
+- B. Nikita Khrushchev — निकिता ख्रुशचेव
+- C. Joseph Stalin — जोसेफ़ स्टालिन
+- D. Vladimir Lenin — व्लादिमीर लेनिन
+
+**Answer: C. Joseph Stalin**
+
+> Lenin had died in 1924, long before the war.
+> लेनिन की मृत्यु 1924 में, युद्ध से काफ़ी पहले हो चुकी थी।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 591. In which year did the Apollo 11 astronauts land on the Moon?
+**अपोलो 11 के अंतरिक्ष यात्री किस वर्ष चंद्रमा पर उतरे?**
+
+- A. 1965 — 1965
+- B. 1972 — 1972
+- C. 1969 — 1969
+- D. 1961 — 1961
+
+**Answer: C. 1969**
+
+> Six crewed landings followed before the programme ended.
+> कार्यक्रम समाप्त होने से पहले छह और मानव लैंडिंग हुईं।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 592. Which country was divided by a wall until 1990?
+**किस देश को 1990 तक एक दीवार दो हिस्सों में बाँटे रही?**
+
+- A. Vietnam — वियतनाम
+- B. Yemen — यमन
+- C. Korea — कोरिया
+- D. Germany — जर्मनी
+
+**Answer: D. Germany**
+
+> Korea remains divided, though by a border rather than a wall.
+> कोरिया अब भी बँटा है, पर दीवार से नहीं सीमा से।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 593. Which country hosted the first modern Olympic Games?
+**पहले आधुनिक ओलंपिक खेलों की मेज़बानी किस देश ने की?**
+
+- A. Italy — इटली
+- B. Greece — यूनान
+- C. France — फ़्रांस
+- D. Egypt — मिस्र
+
+**Answer: B. Greece**
+
+> The host city was Athens.
+> मेज़बान शहर एथेंस था।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 594. In which year did the Titanic sink?
+**टाइटैनिक किस वर्ष डूबा?**
+
+- A. 1923 — 1923
+- B. 1918 — 1918
+- C. 1905 — 1905
+- D. 1912 — 1912
+
+**Answer: D. 1912**
+
+> It struck an iceberg on its first crossing.
+> यह अपनी पहली ही यात्रा में हिमशैल से टकराया।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 595. Who discovered the tomb of Tutankhamun?
+**तुतनखामुन का मक़बरा किसने खोजा?**
+
+- A. Howard Carter — हॉवर्ड कार्टर
+- B. Zahi Hawass — ज़ाही हवास
+- C. Jean-François Champollion — जीन-फ़्रेंकोइस शैम्पोलियन
+- D. Heinrich Schliemann — हाइनरिक श्लीमान
+
+**Answer: A. Howard Carter**
+
+> He opened it in the Valley of the Kings in 1922.
+> उन्होंने 1922 में किंग्स वैली में इसे खोला।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 596. In which year did the Great Fire of London occur?
+**लंदन की महान अग्निकांड किस वर्ष हुई?**
+
+- A. 1605 — 1605
+- B. 1666 — 1666
+- C. 1755 — 1755
+- D. 1712 — 1712
+
+**Answer: B. 1666**
+
+> It burned for four days from a bakery in Pudding Lane.
+> यह पडिंग लेन के एक बेकरी से शुरू होकर चार दिन जलती रही।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 597. Who was the first woman to rule Egypt in her own right as pharaoh?
+**मिस्र पर अपने अधिकार से शासन करने वाली पहली महिला फिरौन कौन थीं?**
+
+- A. Cleopatra — क्लियोपेट्रा
+- B. Nefertiti — नेफ़रतीती
+- C. Hatshepsut — हत्शेपसुत
+- D. Sobekneferu — सोबेकनेफ़ेरू
+
+**Answer: C. Hatshepsut**
+
+> She reigned in the fifteenth century BC.
+> उन्होंने पंद्रहवीं शताब्दी ईसा पूर्व में शासन किया।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 598. In which year did the Berlin Conference on Africa take place?
+**अफ़्रीका पर बर्लिन सम्मेलन किस वर्ष हुआ?**
+
+- A. 1884 — 1884
+- B. 1870 — 1870
+- C. 1900 — 1900
+- D. 1912 — 1912
+
+**Answer: A. 1884**
+
+> European powers drew up rules there for dividing the continent.
+> यूरोपीय शक्तियों ने वहाँ महाद्वीप को बाँटने के नियम तय किए।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 599. The Palme d'Or is the top prize at which film festival?
+**पाल्म द ओर किस फ़िल्म महोत्सव का सर्वोच्च पुरस्कार है?**
+
+- A. The Cannes Film Festival — कान फ़िल्म महोत्सव
+- B. The Venice Film Festival — वेनिस फ़िल्म महोत्सव
+- C. The Sundance Festival — सनडांस महोत्सव
+- D. The Berlin International Film Festival — बर्लिन अंतर्राष्ट्रीय फ़िल्म महोत्सव
+
+**Answer: A. The Cannes Film Festival**
+
+> Its name means the golden palm.
+> इस नाम का अर्थ है स्वर्ण ताड़ पत्र।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 600. The Golden Lion is the top prize at which film festival?
+**गोल्डन लायन किस फ़िल्म महोत्सव का सर्वोच्च पुरस्कार है?**
+
+- A. The Venice Film Festival — वेनिस फ़िल्म महोत्सव
+- B. The Locarno Festival — लोकार्नो महोत्सव
+- C. The Karlovy Vary Festival — कार्लोवी वारी महोत्सव
+- D. The Cannes Film Festival — कान फ़िल्म महोत्सव
+
+**Answer: A. The Venice Film Festival**
+
+> Venice is the oldest of the major festivals, begun in 1932.
+> वेनिस प्रमुख महोत्सवों में सबसे पुराना है, 1932 में शुरू हुआ।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 601. In which city is the Nobel Peace Prize presented?
+**नोबेल शांति पुरस्कार किस शहर में दिया जाता है?**
+
+- A. Oslo — ओस्लो
+- B. Copenhagen — कोपनहेगन
+- C. Geneva — जिनेवा
+- D. Stockholm — स्टॉकहोम
+
+**Answer: A. Oslo**
+
+> Every other Nobel prize is presented in Sweden.
+> अन्य सभी नोबेल पुरस्कार स्वीडन में दिए जाते हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 602. In which city are the Nobel Prizes other than Peace presented?
+**शांति के अलावा अन्य नोबेल पुरस्कार किस शहर में दिए जाते हैं?**
+
+- A. Helsinki — हेलसिंकी
+- B. Uppsala — उपसाला
+- C. Stockholm — स्टॉकहोम
+- D. Oslo — ओस्लो
+
+**Answer: C. Stockholm**
+
+> The ceremony falls on 10 December, the anniversary of Nobel's death.
+> समारोह 10 दिसंबर को होता है, नोबेल की मृत्यु की वर्षगांठ पर।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 603. The Newbery Medal is awarded for work in which field?
+**न्यूबेरी पदक किस क्षेत्र के कार्य के लिए दिया जाता है?**
+
+- A. Scientific photography — वैज्ञानिक फ़ोटोग्राफ़ी
+- B. Architectural design — वास्तु डिज़ाइन
+- C. War journalism — युद्ध पत्रकारिता
+- D. Children's literature — बाल साहित्य
+
+**Answer: D. Children's literature**
+
+> It has been given by American librarians since 1922.
+> यह 1922 से अमेरिकी पुस्तकालयाध्यक्ष देते रहे हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 604. The Caldecott Medal recognises excellence in what?
+**कैलडेकॉट पदक किसमें उत्कृष्टता को मान्यता देता है?**
+
+- A. Playwriting — नाटक लेखन
+- B. Picture book illustration — चित्र पुस्तक सचित्रण
+- C. Poetry translation — कविता अनुवाद
+- D. Novel writing — उपन्यास लेखन
+
+**Answer: B. Picture book illustration**
+
+> It honours the artist rather than the author.
+> यह लेखक के बजाय चित्रकार का सम्मान करता है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 605. The Tony Award recognises achievement in which field?
+**टोनी पुरस्कार किस क्षेत्र में उपलब्धि का सम्मान करता है?**
+
+- A. Publishing — प्रकाशन
+- B. Radio — रेडियो
+- C. Theatre — रंगमंच
+- D. Television — टेलीविज़न
+
+**Answer: C. Theatre**
+
+> It is named after Antoinette Perry.
+> इसका नाम एंटोनेट पेरी के नाम पर है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 606. The Emmy Award is given for work in which medium?
+**एमी पुरस्कार किस माध्यम में कार्य के लिए दिया जाता है?**
+
+- A. Cinema — सिनेमा
+- B. Music recording — संगीत रिकॉर्डिंग
+- C. Television — टेलीविज़न
+- D. Theatre — रंगमंच
+
+**Answer: C. Television**
+
+> The statuette holds an atom above a winged figure.
+> प्रतिमा में एक पंखों वाली आकृति के ऊपर परमाणु है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 607. The Filmfare Awards in India are given for which industry?
+**भारत में फ़िल्मफ़ेयर पुरस्कार किस उद्योग के लिए दिए जाते हैं?**
+
+- A. Hindi cinema — हिंदी सिनेमा
+- B. Tamil cinema — तमिल सिनेमा
+- C. Bengali cinema — बंगाली सिनेमा
+- D. Documentary film only — केवल वृत्तचित्र
+
+**Answer: A. Hindi cinema**
+
+> They began in 1954 and are voted on by readers.
+> ये 1954 में शुरू हुए और पाठकों के मत से तय होते हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 608. The Sahitya Akademi Award is presented for what?
+**साहित्य अकादमी पुरस्कार किसके लिए दिया जाता है?**
+
+- A. Literary work in an Indian language — भारतीय भाषा में साहित्यिक कार्य के लिए
+- B. Classical vocal music — शास्त्रीय गायन के लिए
+- C. Sports commentary — खेल व्याख्या के लिए
+- D. Scientific writing only — केवल वैज्ञानिक लेखन के लिए
+
+**Answer: A. Literary work in an Indian language**
+
+> It covers twenty-two languages plus English.
+> यह बाईस भाषाओं और अंग्रेज़ी को शामिल करता है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 609. The Sangeet Natak Akademi Award is given for work in which field?
+**संगीत नाटक अकादमी पुरस्कार किस क्षेत्र में कार्य के लिए दिया जाता है?**
+
+- A. The performing arts — प्रदर्शन कला
+- B. Historical research — ऐतिहासिक अनुसंधान
+- C. Literary criticism — साहित्य समालोचना
+- D. The visual arts — दृश्य कला
+
+**Answer: A. The performing arts**
+
+> It covers music, dance, theatre and puppetry.
+> इसमें संगीत, नृत्य, रंगमंच और कठपुतली कला आते हैं।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 610. The Lalit Kala Akademi Award recognises work in which field?
+**ललित कला अकादमी पुरस्कार किस क्षेत्र में कार्य का सम्मान करता है?**
+
+- A. Film direction — फ़िल्म निर्देशन
+- B. The performing arts — प्रदर्शन कला
+- C. Poetry — कविता
+- D. The visual arts — दृश्य कला
+
+**Answer: D. The visual arts**
+
+> It is India's national academy of fine art.
+> यह भारत की राष्ट्रीय ललित कला अकादमी है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 611. The Vyas Samman is named after which figure?
+**व्यास सम्मान का नाम किस विभूति के नाम पर है?**
+
+- A. Ved Vyas — वेद व्यास
+- B. Valmiki — वाल्मीकि
+- C. Tulsidas — तुलसीदास
+- D. Kalidasa — कालिदास
+
+**Answer: A. Ved Vyas**
+
+> He is traditionally credited with composing the Mahabharata.
+> परंपरा के अनुसार वे महाभारत के रचयिता माने जाते हैं।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 612. The Turing Award is often described as the Nobel Prize of which field?
+**ट्यूरिंग पुरस्कार को प्रायः किस क्षेत्र का नोबेल पुरस्कार कहा जाता है?**
+
+- A. Computing — कंप्यूटिंग
+- B. Economics — अर्थशास्त्र
+- C. Architecture — वास्तुकला
+- D. Medicine — चिकित्सा
+
+**Answer: A. Computing**
+
+> It is presented by the Association for Computing Machinery.
+> इसे एसोसिएशन फ़ॉर कंप्यूटिंग मशीनरी देती है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 613. The Wolf Prize is awarded by which country?
+**वुल्फ़ पुरस्कार किस देश द्वारा दिया जाता है?**
+
+- A. Sweden — स्वीडन
+- B. Israel — इज़राइल
+- C. Japan — जापान
+- D. Norway — नॉर्वे
+
+**Answer: B. Israel**
+
+> It has run since 1978 across several sciences and arts.
+> यह 1978 से कई विज्ञानों और कलाओं में दिया जा रहा है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 614. Which body established the Nobel Prize in Economic Sciences?
+**आर्थिक विज्ञान में नोबेल पुरस्कार की स्थापना किस निकाय ने की?**
+
+- A. The Norwegian Parliament — नॉर्वे की संसद
+- B. The Royal Swedish Academy only — केवल रॉयल स्वीडिश अकादमी
+- C. The Bank of Sweden — स्वीडन का केंद्रीय बैंक
+- D. The Nobel Foundation — नोबेल फ़ाउंडेशन
+
+**Answer: C. The Bank of Sweden**
+
+> It was added in 1968, unlike the original five prizes.
+> इसे 1968 में जोड़ा गया, मूल पाँच पुरस्कारों से अलग।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 615. The Right Livelihood Award is commonly known by what nickname?
+**राइट लाइवलीहुड पुरस्कार सामान्यतः किस उपनाम से जाना जाता है?**
+
+- A. The Alternative Nobel Prize — द अल्टरनेटिव नोबेल पुरस्कार
+- B. The People's Oscar — द पीपुल्स ऑस्कर
+- C. The Civic Pulitzer — द सिविक पुलित्ज़र
+- D. The Global Peace Medal — द ग्लोबल पीस मेडल
+
+**Answer: A. The Alternative Nobel Prize**
+
+> It was created in 1980 to honour work the Nobels overlook.
+> इसे 1980 में उन कार्यों के लिए बनाया गया जिन्हें नोबेल नहीं देखते।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 616. In football, the Golden Boot is given to whom?
+**फ़ुटबॉल में गोल्डन बूट किसे दिया जाता है?**
+
+- A. The best goalkeeper — सर्वश्रेष्ठ गोलकीपर को
+- B. The winning captain — विजेता कप्तान को
+- C. The top scorer of a tournament — टूर्नामेंट के सर्वोच्च गोलकर्ता को
+- D. The youngest player — सबसे युवा खिलाड़ी को
+
+**Answer: C. The top scorer of a tournament**
+
+> Assists or minutes played break a tie on goals.
+> गोल बराबर होने पर असिस्ट या खेले गए मिनट निर्णायक होते हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 617. The Ballon d'Or is awarded for achievement in which sport?
+**बैलोन डी ओर किस खेल में उपलब्धि के लिए दिया जाता है?**
+
+- A. Athletics — एथलेटिक्स
+- B. Swimming — तैराकी
+- C. Football — फ़ुटबॉल
+- D. Tennis — टेनिस
+
+**Answer: C. Football**
+
+> It was first presented in 1956.
+> यह पहली बार 1956 में दिया गया।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 618. India announces the Padma awards each year on which occasion?
+**भारत हर वर्ष पद्म पुरस्कारों की घोषणा किस अवसर पर करता है?**
+
+- A. National Education Day — राष्ट्रीय शिक्षा दिवस
+- B. Independence Day — स्वतंत्रता दिवस
+- C. Gandhi Jayanti — गांधी जयंती
+- D. Republic Day — गणतंत्र दिवस
+
+**Answer: D. Republic Day**
+
+> The honours are conferred later, usually in the spring.
+> सम्मान बाद में, प्रायः वसंत में प्रदान किए जाते हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
 
 ---
 

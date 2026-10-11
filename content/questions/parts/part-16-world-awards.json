@@ -1,0 +1,1522 @@
+[
+  {
+    "id": "DQ-0579",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The ancient city of Troy lies in which modern country?",
+      "hi": "प्राचीन नगरी ट्रॉय किस आधुनिक देश में स्थित है?"
+    },
+    "options": [
+      {
+        "en": "Greece",
+        "hi": "यूनान"
+      },
+      {
+        "en": "Turkey",
+        "hi": "तुर्की"
+      },
+      {
+        "en": "Italy",
+        "hi": "इटली"
+      },
+      {
+        "en": "Syria",
+        "hi": "सीरिया"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Its mound is called Hisarlik.",
+      "hi": "इसके टीले को हिसारलिक कहते हैं।"
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "TOP-WORLD-HIST"
+  },
+  {
+    "id": "DQ-0580",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Who founded the Ottoman Empire?",
+      "hi": "उस्मानी साम्राज्य की स्थापना किसने की?"
+    },
+    "options": [
+      {
+        "en": "Bayezid I",
+        "hi": "बयाज़िद प्रथम"
+      },
+      {
+        "en": "Mehmed II",
+        "hi": "मेहमेद द्वितीय"
+      },
+      {
+        "en": "Suleiman the Magnificent",
+        "hi": "सुलेमान द मैग्निफ़िसेंट"
+      },
+      {
+        "en": "Osman I",
+        "hi": "उस्मान प्रथम"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The dynasty takes its name from him.",
+      "hi": "वंश का नाम उन्हीं के नाम पर पड़ा।"
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "TOP-WORLD-HIST"
+  },
+  {
+    "id": "DQ-0581",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In which year was the Magna Carta sealed?",
+      "hi": "मैग्ना कार्टा पर किस वर्ष मुहर लगी?"
+    },
+    "options": [
+      {
+        "en": "1348",
+        "hi": "1348"
+      },
+      {
+        "en": "1492",
+        "hi": "1492"
+      },
+      {
+        "en": "1066",
+        "hi": "1066"
+      },
+      {
+        "en": "1215",
+        "hi": "1215"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "King John agreed to it at Runnymede.",
+      "hi": "राजा जॉन ने इसे रनीमीड में स्वीकार किया।"
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "TOP-WORLD-HIST"
+  },
+  {
+    "id": "DQ-0582",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which city served as the capital of the Byzantine Empire?",
+      "hi": "बाइज़ेंटाइन साम्राज्य की राजधानी कौन सा शहर थी?"
+    },
+    "options": [
+      {
+        "en": "Constantinople",
+        "hi": "कॉन्स्टेंटिनोपल"
+      },
+      {
+        "en": "Athens",
+        "hi": "एथेंस"
+      },
+      {
+        "en": "Alexandria",
+        "hi": "अलेक्ज़ेंड्रिया"
+      },
+      {
+        "en": "Antioch",
+        "hi": "अंताक्या"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It is Istanbul today.",
+      "hi": "आज यह इस्तांबुल है।"
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "TOP-WORLD-HIST"
+  },
+  {
+    "id": "DQ-0583",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Who led the French forces that lifted the siege of Orleans in 1429?",
+      "hi": "1429 में ऑरलियांस की घेराबंदी हटाने वाले फ़्रांसीसी बलों का नेतृत्व किसने किया?"
+    },
+    "options": [
+      {
+        "en": "Eleanor of Aquitaine",
+        "hi": "एलिनोर ऑफ़ एक्विटेन"
+      },
+      {
+        "en": "Catherine de Medici",
+        "hi": "कैथरीन डी मेडिसी"
+      },
+      {
+        "en": "Joan of Arc",
+        "hi": "जोआन ऑफ़ आर्क"
+      },
+      {
+        "en": "Marie Antoinette",
+        "hi": "मेरी एंटोनेट"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "She was burnt at the stake two years later.",
+      "hi": "दो वर्ष बाद उन्हें खंभे से बाँधकर जला दिया गया।"
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "TOP-WORLD-HIST"
+  },
+  {
+    "id": "DQ-0584",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In which century did the Black Death reach Europe?",
+      "hi": "ब्लैक डेथ यूरोप में किस शताब्दी में पहुँची?"
+    },
+    "options": [
+      {
+        "en": "The fourteenth century",
+        "hi": "चौदहवीं शताब्दी"
+      },
+      {
+        "en": "The sixteenth century",
+        "hi": "सोलहवीं शताब्दी"
+      },
+      {
+        "en": "The eighteenth century",
+        "hi": "अठारहवीं शताब्दी"
+      },
+      {
+        "en": "The eleventh century",
+        "hi": "ग्यारहवीं शताब्दी"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It arrived in 1347 and killed perhaps a third of the population.",
+      "hi": "यह 1347 में आई और लगभग एक तिहाई जनसंख्या को ले गई।"
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "TOP-WORLD-HIST"
+  },
+  {
+    "id": "DQ-0585",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Who was the first ruler to take the title of Tsar of Russia?",
+      "hi": "रूस के ज़ार की उपाधि ग्रहण करने वाले पहले शासक कौन थे?"
+    },
+    "options": [
+      {
+        "en": "Ivan the Terrible",
+        "hi": "इवान द टेरीबल"
+      },
+      {
+        "en": "Peter the Great",
+        "hi": "पीटर द ग्रेट"
+      },
+      {
+        "en": "Alexander I",
+        "hi": "अलेक्ज़ेंडर प्रथम"
+      },
+      {
+        "en": "Nicholas II",
+        "hi": "निकोलस द्वितीय"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "He was crowned in 1547.",
+      "hi": "उनका राज्याभिषेक 1547 में हुआ।"
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "TOP-WORLD-HIST"
+  },
+  {
+    "id": "DQ-0586",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In which year did the American Civil War end?",
+      "hi": "अमेरिकी गृहयुद्ध किस वर्ष समाप्त हुआ?"
+    },
+    "options": [
+      {
+        "en": "1861",
+        "hi": "1861"
+      },
+      {
+        "en": "1865",
+        "hi": "1865"
+      },
+      {
+        "en": "1870",
+        "hi": "1870"
+      },
+      {
+        "en": "1858",
+        "hi": "1858"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "General Lee surrendered at Appomattox that April.",
+      "hi": "उसी वर्ष अप्रैल में जनरल ली ने एपोमैटॉक्स में आत्मसमर्पण किया।"
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "TOP-WORLD-HIST"
+  },
+  {
+    "id": "DQ-0587",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which British monarch reigned for most of the nineteenth century?",
+      "hi": "उन्नीसवीं शताब्दी के अधिकतर भाग में कौन से ब्रिटिश सम्राट का शासन रहा?"
+    },
+    "options": [
+      {
+        "en": "Queen Anne",
+        "hi": "महारानी ऐन"
+      },
+      {
+        "en": "Queen Elizabeth I",
+        "hi": "महारानी एलिज़ाबेथ प्रथम"
+      },
+      {
+        "en": "Mary II",
+        "hi": "मेरी द्वितीय"
+      },
+      {
+        "en": "Queen Victoria",
+        "hi": "महारानी विक्टोरिया"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Her sixty-three year reign gave the era its name.",
+      "hi": "उनके तिरसठ वर्ष के शासन ने उस युग को नाम दिया।"
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "TOP-WORLD-HIST"
+  },
+  {
+    "id": "DQ-0588",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In which year was the Treaty of Versailles signed?",
+      "hi": "वर्साय की संधि किस वर्ष पर हस्ताक्षर हुए?"
+    },
+    "options": [
+      {
+        "en": "1919",
+        "hi": "1919"
+      },
+      {
+        "en": "1925",
+        "hi": "1925"
+      },
+      {
+        "en": "1914",
+        "hi": "1914"
+      },
+      {
+        "en": "1933",
+        "hi": "1933"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It formally ended the First World War with Germany.",
+      "hi": "इसने जर्मनी के साथ प्रथम विश्व युद्ध औपचारिक रूप से समाप्त किया।"
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "TOP-WORLD-HIST"
+  },
+  {
+    "id": "DQ-0589",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Who became the first Chancellor of a united Germany in 1871?",
+      "hi": "1871 में एकीकृत जर्मनी के पहले चांसलर कौन बने?"
+    },
+    "options": [
+      {
+        "en": "Helmuth von Moltke",
+        "hi": "हेलमुथ वॉन मोल्टके"
+      },
+      {
+        "en": "Friedrich Ebert",
+        "hi": "फ़्रीडरिक एबर्ट"
+      },
+      {
+        "en": "Kaiser Wilhelm II",
+        "hi": "कैसर विल्हेल्म द्वितीय"
+      },
+      {
+        "en": "Otto von Bismarck",
+        "hi": "ओटो वॉन बिस्मार्क"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "He is remembered as the Iron Chancellor.",
+      "hi": "उन्हें लौह चांसलर के नाम से याद किया जाता है।"
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "TOP-WORLD-HIST"
+  },
+  {
+    "id": "DQ-0590",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Who led the Soviet Union through most of the Second World War?",
+      "hi": "द्वितीय विश्व युद्ध के अधिकतर समय सोवियत संघ का नेतृत्व किसने किया?"
+    },
+    "options": [
+      {
+        "en": "Leonid Brezhnev",
+        "hi": "लियोनिद ब्रेज़नेव"
+      },
+      {
+        "en": "Nikita Khrushchev",
+        "hi": "निकिता ख्रुशचेव"
+      },
+      {
+        "en": "Joseph Stalin",
+        "hi": "जोसेफ़ स्टालिन"
+      },
+      {
+        "en": "Vladimir Lenin",
+        "hi": "व्लादिमीर लेनिन"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Lenin had died in 1924, long before the war.",
+      "hi": "लेनिन की मृत्यु 1924 में, युद्ध से काफ़ी पहले हो चुकी थी।"
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "TOP-WORLD-HIST"
+  },
+  {
+    "id": "DQ-0591",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "In which year did the Apollo 11 astronauts land on the Moon?",
+      "hi": "अपोलो 11 के अंतरिक्ष यात्री किस वर्ष चंद्रमा पर उतरे?"
+    },
+    "options": [
+      {
+        "en": "1965",
+        "hi": "1965"
+      },
+      {
+        "en": "1972",
+        "hi": "1972"
+      },
+      {
+        "en": "1969",
+        "hi": "1969"
+      },
+      {
+        "en": "1961",
+        "hi": "1961"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Six crewed landings followed before the programme ended.",
+      "hi": "कार्यक्रम समाप्त होने से पहले छह और मानव लैंडिंग हुईं।"
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "TOP-WORLD-HIST"
+  },
+  {
+    "id": "DQ-0592",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which country was divided by a wall until 1990?",
+      "hi": "किस देश को 1990 तक एक दीवार दो हिस्सों में बाँटे रही?"
+    },
+    "options": [
+      {
+        "en": "Vietnam",
+        "hi": "वियतनाम"
+      },
+      {
+        "en": "Yemen",
+        "hi": "यमन"
+      },
+      {
+        "en": "Korea",
+        "hi": "कोरिया"
+      },
+      {
+        "en": "Germany",
+        "hi": "जर्मनी"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Korea remains divided, though by a border rather than a wall.",
+      "hi": "कोरिया अब भी बँटा है, पर दीवार से नहीं सीमा से।"
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "TOP-WORLD-HIST"
+  },
+  {
+    "id": "DQ-0593",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which country hosted the first modern Olympic Games?",
+      "hi": "पहले आधुनिक ओलंपिक खेलों की मेज़बानी किस देश ने की?"
+    },
+    "options": [
+      {
+        "en": "Italy",
+        "hi": "इटली"
+      },
+      {
+        "en": "Greece",
+        "hi": "यूनान"
+      },
+      {
+        "en": "France",
+        "hi": "फ़्रांस"
+      },
+      {
+        "en": "Egypt",
+        "hi": "मिस्र"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "The host city was Athens.",
+      "hi": "मेज़बान शहर एथेंस था।"
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "TOP-WORLD-HIST"
+  },
+  {
+    "id": "DQ-0594",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In which year did the Titanic sink?",
+      "hi": "टाइटैनिक किस वर्ष डूबा?"
+    },
+    "options": [
+      {
+        "en": "1923",
+        "hi": "1923"
+      },
+      {
+        "en": "1918",
+        "hi": "1918"
+      },
+      {
+        "en": "1905",
+        "hi": "1905"
+      },
+      {
+        "en": "1912",
+        "hi": "1912"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It struck an iceberg on its first crossing.",
+      "hi": "यह अपनी पहली ही यात्रा में हिमशैल से टकराया।"
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "TOP-WORLD-HIST"
+  },
+  {
+    "id": "DQ-0595",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who discovered the tomb of Tutankhamun?",
+      "hi": "तुतनखामुन का मक़बरा किसने खोजा?"
+    },
+    "options": [
+      {
+        "en": "Howard Carter",
+        "hi": "हॉवर्ड कार्टर"
+      },
+      {
+        "en": "Zahi Hawass",
+        "hi": "ज़ाही हवास"
+      },
+      {
+        "en": "Jean-François Champollion",
+        "hi": "जीन-फ़्रेंकोइस शैम्पोलियन"
+      },
+      {
+        "en": "Heinrich Schliemann",
+        "hi": "हाइनरिक श्लीमान"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "He opened it in the Valley of the Kings in 1922.",
+      "hi": "उन्होंने 1922 में किंग्स वैली में इसे खोला।"
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "TOP-WORLD-HIST"
+  },
+  {
+    "id": "DQ-0596",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In which year did the Great Fire of London occur?",
+      "hi": "लंदन की महान अग्निकांड किस वर्ष हुई?"
+    },
+    "options": [
+      {
+        "en": "1605",
+        "hi": "1605"
+      },
+      {
+        "en": "1666",
+        "hi": "1666"
+      },
+      {
+        "en": "1755",
+        "hi": "1755"
+      },
+      {
+        "en": "1712",
+        "hi": "1712"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It burned for four days from a bakery in Pudding Lane.",
+      "hi": "यह पडिंग लेन के एक बेकरी से शुरू होकर चार दिन जलती रही।"
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "TOP-WORLD-HIST"
+  },
+  {
+    "id": "DQ-0597",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Who was the first woman to rule Egypt in her own right as pharaoh?",
+      "hi": "मिस्र पर अपने अधिकार से शासन करने वाली पहली महिला फिरौन कौन थीं?"
+    },
+    "options": [
+      {
+        "en": "Cleopatra",
+        "hi": "क्लियोपेट्रा"
+      },
+      {
+        "en": "Nefertiti",
+        "hi": "नेफ़रतीती"
+      },
+      {
+        "en": "Hatshepsut",
+        "hi": "हत्शेपसुत"
+      },
+      {
+        "en": "Sobekneferu",
+        "hi": "सोबेकनेफ़ेरू"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "She reigned in the fifteenth century BC.",
+      "hi": "उन्होंने पंद्रहवीं शताब्दी ईसा पूर्व में शासन किया।"
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "TOP-WORLD-HIST"
+  },
+  {
+    "id": "DQ-0598",
+    "category": "World history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "In which year did the Berlin Conference on Africa take place?",
+      "hi": "अफ़्रीका पर बर्लिन सम्मेलन किस वर्ष हुआ?"
+    },
+    "options": [
+      {
+        "en": "1884",
+        "hi": "1884"
+      },
+      {
+        "en": "1870",
+        "hi": "1870"
+      },
+      {
+        "en": "1900",
+        "hi": "1900"
+      },
+      {
+        "en": "1912",
+        "hi": "1912"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "European powers drew up rules there for dividing the continent.",
+      "hi": "यूरोपीय शक्तियों ने वहाँ महाद्वीप को बाँटने के नियम तय किए।"
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "TOP-WORLD-HIST"
+  },
+  {
+    "id": "DQ-0599",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Palme d'Or is the top prize at which film festival?",
+      "hi": "पाल्म द ओर किस फ़िल्म महोत्सव का सर्वोच्च पुरस्कार है?"
+    },
+    "options": [
+      {
+        "en": "The Cannes Film Festival",
+        "hi": "कान फ़िल्म महोत्सव"
+      },
+      {
+        "en": "The Venice Film Festival",
+        "hi": "वेनिस फ़िल्म महोत्सव"
+      },
+      {
+        "en": "The Sundance Festival",
+        "hi": "सनडांस महोत्सव"
+      },
+      {
+        "en": "The Berlin International Film Festival",
+        "hi": "बर्लिन अंतर्राष्ट्रीय फ़िल्म महोत्सव"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Its name means the golden palm.",
+      "hi": "इस नाम का अर्थ है स्वर्ण ताड़ पत्र।"
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "TOP-AWARDS"
+  },
+  {
+    "id": "DQ-0600",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Golden Lion is the top prize at which film festival?",
+      "hi": "गोल्डन लायन किस फ़िल्म महोत्सव का सर्वोच्च पुरस्कार है?"
+    },
+    "options": [
+      {
+        "en": "The Venice Film Festival",
+        "hi": "वेनिस फ़िल्म महोत्सव"
+      },
+      {
+        "en": "The Locarno Festival",
+        "hi": "लोकार्नो महोत्सव"
+      },
+      {
+        "en": "The Karlovy Vary Festival",
+        "hi": "कार्लोवी वारी महोत्सव"
+      },
+      {
+        "en": "The Cannes Film Festival",
+        "hi": "कान फ़िल्म महोत्सव"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Venice is the oldest of the major festivals, begun in 1932.",
+      "hi": "वेनिस प्रमुख महोत्सवों में सबसे पुराना है, 1932 में शुरू हुआ।"
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "TOP-AWARDS"
+  },
+  {
+    "id": "DQ-0601",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In which city is the Nobel Peace Prize presented?",
+      "hi": "नोबेल शांति पुरस्कार किस शहर में दिया जाता है?"
+    },
+    "options": [
+      {
+        "en": "Oslo",
+        "hi": "ओस्लो"
+      },
+      {
+        "en": "Copenhagen",
+        "hi": "कोपनहेगन"
+      },
+      {
+        "en": "Geneva",
+        "hi": "जिनेवा"
+      },
+      {
+        "en": "Stockholm",
+        "hi": "स्टॉकहोम"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Every other Nobel prize is presented in Sweden.",
+      "hi": "अन्य सभी नोबेल पुरस्कार स्वीडन में दिए जाते हैं।"
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "TOP-AWARDS"
+  },
+  {
+    "id": "DQ-0602",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In which city are the Nobel Prizes other than Peace presented?",
+      "hi": "शांति के अलावा अन्य नोबेल पुरस्कार किस शहर में दिए जाते हैं?"
+    },
+    "options": [
+      {
+        "en": "Helsinki",
+        "hi": "हेलसिंकी"
+      },
+      {
+        "en": "Uppsala",
+        "hi": "उपसाला"
+      },
+      {
+        "en": "Stockholm",
+        "hi": "स्टॉकहोम"
+      },
+      {
+        "en": "Oslo",
+        "hi": "ओस्लो"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "The ceremony falls on 10 December, the anniversary of Nobel's death.",
+      "hi": "समारोह 10 दिसंबर को होता है, नोबेल की मृत्यु की वर्षगांठ पर।"
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "TOP-AWARDS"
+  },
+  {
+    "id": "DQ-0603",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Newbery Medal is awarded for work in which field?",
+      "hi": "न्यूबेरी पदक किस क्षेत्र के कार्य के लिए दिया जाता है?"
+    },
+    "options": [
+      {
+        "en": "Scientific photography",
+        "hi": "वैज्ञानिक फ़ोटोग्राफ़ी"
+      },
+      {
+        "en": "Architectural design",
+        "hi": "वास्तु डिज़ाइन"
+      },
+      {
+        "en": "War journalism",
+        "hi": "युद्ध पत्रकारिता"
+      },
+      {
+        "en": "Children's literature",
+        "hi": "बाल साहित्य"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It has been given by American librarians since 1922.",
+      "hi": "यह 1922 से अमेरिकी पुस्तकालयाध्यक्ष देते रहे हैं।"
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "TOP-AWARDS"
+  },
+  {
+    "id": "DQ-0604",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "The Caldecott Medal recognises excellence in what?",
+      "hi": "कैलडेकॉट पदक किसमें उत्कृष्टता को मान्यता देता है?"
+    },
+    "options": [
+      {
+        "en": "Playwriting",
+        "hi": "नाटक लेखन"
+      },
+      {
+        "en": "Picture book illustration",
+        "hi": "चित्र पुस्तक सचित्रण"
+      },
+      {
+        "en": "Poetry translation",
+        "hi": "कविता अनुवाद"
+      },
+      {
+        "en": "Novel writing",
+        "hi": "उपन्यास लेखन"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It honours the artist rather than the author.",
+      "hi": "यह लेखक के बजाय चित्रकार का सम्मान करता है।"
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "TOP-AWARDS"
+  },
+  {
+    "id": "DQ-0605",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "The Tony Award recognises achievement in which field?",
+      "hi": "टोनी पुरस्कार किस क्षेत्र में उपलब्धि का सम्मान करता है?"
+    },
+    "options": [
+      {
+        "en": "Publishing",
+        "hi": "प्रकाशन"
+      },
+      {
+        "en": "Radio",
+        "hi": "रेडियो"
+      },
+      {
+        "en": "Theatre",
+        "hi": "रंगमंच"
+      },
+      {
+        "en": "Television",
+        "hi": "टेलीविज़न"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It is named after Antoinette Perry.",
+      "hi": "इसका नाम एंटोनेट पेरी के नाम पर है।"
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "TOP-AWARDS"
+  },
+  {
+    "id": "DQ-0606",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "The Emmy Award is given for work in which medium?",
+      "hi": "एमी पुरस्कार किस माध्यम में कार्य के लिए दिया जाता है?"
+    },
+    "options": [
+      {
+        "en": "Cinema",
+        "hi": "सिनेमा"
+      },
+      {
+        "en": "Music recording",
+        "hi": "संगीत रिकॉर्डिंग"
+      },
+      {
+        "en": "Television",
+        "hi": "टेलीविज़न"
+      },
+      {
+        "en": "Theatre",
+        "hi": "रंगमंच"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "The statuette holds an atom above a winged figure.",
+      "hi": "प्रतिमा में एक पंखों वाली आकृति के ऊपर परमाणु है।"
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "TOP-AWARDS"
+  },
+  {
+    "id": "DQ-0607",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Filmfare Awards in India are given for which industry?",
+      "hi": "भारत में फ़िल्मफ़ेयर पुरस्कार किस उद्योग के लिए दिए जाते हैं?"
+    },
+    "options": [
+      {
+        "en": "Hindi cinema",
+        "hi": "हिंदी सिनेमा"
+      },
+      {
+        "en": "Tamil cinema",
+        "hi": "तमिल सिनेमा"
+      },
+      {
+        "en": "Bengali cinema",
+        "hi": "बंगाली सिनेमा"
+      },
+      {
+        "en": "Documentary film only",
+        "hi": "केवल वृत्तचित्र"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "They began in 1954 and are voted on by readers.",
+      "hi": "ये 1954 में शुरू हुए और पाठकों के मत से तय होते हैं।"
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "TOP-AWARDS"
+  },
+  {
+    "id": "DQ-0608",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "The Sahitya Akademi Award is presented for what?",
+      "hi": "साहित्य अकादमी पुरस्कार किसके लिए दिया जाता है?"
+    },
+    "options": [
+      {
+        "en": "Literary work in an Indian language",
+        "hi": "भारतीय भाषा में साहित्यिक कार्य के लिए"
+      },
+      {
+        "en": "Classical vocal music",
+        "hi": "शास्त्रीय गायन के लिए"
+      },
+      {
+        "en": "Sports commentary",
+        "hi": "खेल व्याख्या के लिए"
+      },
+      {
+        "en": "Scientific writing only",
+        "hi": "केवल वैज्ञानिक लेखन के लिए"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It covers twenty-two languages plus English.",
+      "hi": "यह बाईस भाषाओं और अंग्रेज़ी को शामिल करता है।"
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "TOP-AWARDS"
+  },
+  {
+    "id": "DQ-0609",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "The Sangeet Natak Akademi Award is given for work in which field?",
+      "hi": "संगीत नाटक अकादमी पुरस्कार किस क्षेत्र में कार्य के लिए दिया जाता है?"
+    },
+    "options": [
+      {
+        "en": "The performing arts",
+        "hi": "प्रदर्शन कला"
+      },
+      {
+        "en": "Historical research",
+        "hi": "ऐतिहासिक अनुसंधान"
+      },
+      {
+        "en": "Literary criticism",
+        "hi": "साहित्य समालोचना"
+      },
+      {
+        "en": "The visual arts",
+        "hi": "दृश्य कला"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It covers music, dance, theatre and puppetry.",
+      "hi": "इसमें संगीत, नृत्य, रंगमंच और कठपुतली कला आते हैं।"
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "TOP-AWARDS"
+  },
+  {
+    "id": "DQ-0610",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "The Lalit Kala Akademi Award recognises work in which field?",
+      "hi": "ललित कला अकादमी पुरस्कार किस क्षेत्र में कार्य का सम्मान करता है?"
+    },
+    "options": [
+      {
+        "en": "Film direction",
+        "hi": "फ़िल्म निर्देशन"
+      },
+      {
+        "en": "The performing arts",
+        "hi": "प्रदर्शन कला"
+      },
+      {
+        "en": "Poetry",
+        "hi": "कविता"
+      },
+      {
+        "en": "The visual arts",
+        "hi": "दृश्य कला"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It is India's national academy of fine art.",
+      "hi": "यह भारत की राष्ट्रीय ललित कला अकादमी है।"
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "TOP-AWARDS"
+  },
+  {
+    "id": "DQ-0611",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "The Vyas Samman is named after which figure?",
+      "hi": "व्यास सम्मान का नाम किस विभूति के नाम पर है?"
+    },
+    "options": [
+      {
+        "en": "Ved Vyas",
+        "hi": "वेद व्यास"
+      },
+      {
+        "en": "Valmiki",
+        "hi": "वाल्मीकि"
+      },
+      {
+        "en": "Tulsidas",
+        "hi": "तुलसीदास"
+      },
+      {
+        "en": "Kalidasa",
+        "hi": "कालिदास"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "He is traditionally credited with composing the Mahabharata.",
+      "hi": "परंपरा के अनुसार वे महाभारत के रचयिता माने जाते हैं।"
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "TOP-AWARDS"
+  },
+  {
+    "id": "DQ-0612",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Turing Award is often described as the Nobel Prize of which field?",
+      "hi": "ट्यूरिंग पुरस्कार को प्रायः किस क्षेत्र का नोबेल पुरस्कार कहा जाता है?"
+    },
+    "options": [
+      {
+        "en": "Computing",
+        "hi": "कंप्यूटिंग"
+      },
+      {
+        "en": "Economics",
+        "hi": "अर्थशास्त्र"
+      },
+      {
+        "en": "Architecture",
+        "hi": "वास्तुकला"
+      },
+      {
+        "en": "Medicine",
+        "hi": "चिकित्सा"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It is presented by the Association for Computing Machinery.",
+      "hi": "इसे एसोसिएशन फ़ॉर कंप्यूटिंग मशीनरी देती है।"
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "TOP-AWARDS"
+  },
+  {
+    "id": "DQ-0613",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "The Wolf Prize is awarded by which country?",
+      "hi": "वुल्फ़ पुरस्कार किस देश द्वारा दिया जाता है?"
+    },
+    "options": [
+      {
+        "en": "Sweden",
+        "hi": "स्वीडन"
+      },
+      {
+        "en": "Israel",
+        "hi": "इज़राइल"
+      },
+      {
+        "en": "Japan",
+        "hi": "जापान"
+      },
+      {
+        "en": "Norway",
+        "hi": "नॉर्वे"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It has run since 1978 across several sciences and arts.",
+      "hi": "यह 1978 से कई विज्ञानों और कलाओं में दिया जा रहा है।"
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "TOP-AWARDS"
+  },
+  {
+    "id": "DQ-0614",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which body established the Nobel Prize in Economic Sciences?",
+      "hi": "आर्थिक विज्ञान में नोबेल पुरस्कार की स्थापना किस निकाय ने की?"
+    },
+    "options": [
+      {
+        "en": "The Norwegian Parliament",
+        "hi": "नॉर्वे की संसद"
+      },
+      {
+        "en": "The Royal Swedish Academy only",
+        "hi": "केवल रॉयल स्वीडिश अकादमी"
+      },
+      {
+        "en": "The Bank of Sweden",
+        "hi": "स्वीडन का केंद्रीय बैंक"
+      },
+      {
+        "en": "The Nobel Foundation",
+        "hi": "नोबेल फ़ाउंडेशन"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It was added in 1968, unlike the original five prizes.",
+      "hi": "इसे 1968 में जोड़ा गया, मूल पाँच पुरस्कारों से अलग।"
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "TOP-AWARDS"
+  },
+  {
+    "id": "DQ-0615",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "The Right Livelihood Award is commonly known by what nickname?",
+      "hi": "राइट लाइवलीहुड पुरस्कार सामान्यतः किस उपनाम से जाना जाता है?"
+    },
+    "options": [
+      {
+        "en": "The Alternative Nobel Prize",
+        "hi": "द अल्टरनेटिव नोबेल पुरस्कार"
+      },
+      {
+        "en": "The People's Oscar",
+        "hi": "द पीपुल्स ऑस्कर"
+      },
+      {
+        "en": "The Civic Pulitzer",
+        "hi": "द सिविक पुलित्ज़र"
+      },
+      {
+        "en": "The Global Peace Medal",
+        "hi": "द ग्लोबल पीस मेडल"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It was created in 1980 to honour work the Nobels overlook.",
+      "hi": "इसे 1980 में उन कार्यों के लिए बनाया गया जिन्हें नोबेल नहीं देखते।"
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "TOP-AWARDS"
+  },
+  {
+    "id": "DQ-0616",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In football, the Golden Boot is given to whom?",
+      "hi": "फ़ुटबॉल में गोल्डन बूट किसे दिया जाता है?"
+    },
+    "options": [
+      {
+        "en": "The best goalkeeper",
+        "hi": "सर्वश्रेष्ठ गोलकीपर को"
+      },
+      {
+        "en": "The winning captain",
+        "hi": "विजेता कप्तान को"
+      },
+      {
+        "en": "The top scorer of a tournament",
+        "hi": "टूर्नामेंट के सर्वोच्च गोलकर्ता को"
+      },
+      {
+        "en": "The youngest player",
+        "hi": "सबसे युवा खिलाड़ी को"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Assists or minutes played break a tie on goals.",
+      "hi": "गोल बराबर होने पर असिस्ट या खेले गए मिनट निर्णायक होते हैं।"
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "TOP-AWARDS"
+  },
+  {
+    "id": "DQ-0617",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Ballon d'Or is awarded for achievement in which sport?",
+      "hi": "बैलोन डी ओर किस खेल में उपलब्धि के लिए दिया जाता है?"
+    },
+    "options": [
+      {
+        "en": "Athletics",
+        "hi": "एथलेटिक्स"
+      },
+      {
+        "en": "Swimming",
+        "hi": "तैराकी"
+      },
+      {
+        "en": "Football",
+        "hi": "फ़ुटबॉल"
+      },
+      {
+        "en": "Tennis",
+        "hi": "टेनिस"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It was first presented in 1956.",
+      "hi": "यह पहली बार 1956 में दिया गया।"
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "TOP-AWARDS"
+  },
+  {
+    "id": "DQ-0618",
+    "category": "Awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "India announces the Padma awards each year on which occasion?",
+      "hi": "भारत हर वर्ष पद्म पुरस्कारों की घोषणा किस अवसर पर करता है?"
+    },
+    "options": [
+      {
+        "en": "National Education Day",
+        "hi": "राष्ट्रीय शिक्षा दिवस"
+      },
+      {
+        "en": "Independence Day",
+        "hi": "स्वतंत्रता दिवस"
+      },
+      {
+        "en": "Gandhi Jayanti",
+        "hi": "गांधी जयंती"
+      },
+      {
+        "en": "Republic Day",
+        "hi": "गणतंत्र दिवस"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "The honours are conferred later, usually in the spring.",
+      "hi": "सम्मान बाद में, प्रायः वसंत में प्रदान किए जाते हैं।"
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "TOP-AWARDS"
+  }
+]
