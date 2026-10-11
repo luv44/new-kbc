@@ -1,0 +1,187 @@
+{
+ "generatedAt": "2026-10-11",
+ "origin": "AUTHORED_IN_SESSION",
+ "warning": "Authored during a chat session. NOT the project's own subject/topic list, which is absent from this checkout. Reconcile against coverage/subjects/*.json before treating these ids as canonical. Deliberately does not reuse the project's opaque Snn-C..-T.. ids.",
+ "projectHierarchyFromGlobalGapQueue": {
+  "subjects": 26,
+  "chapters": 82,
+  "topics": 342,
+  "note": "titles absent from this checkout; 313 of 342 topics have no questions recorded"
+ },
+ "subjects": [
+  {
+   "id": "IND-POLITY",
+   "title": "Indian polity & governance",
+   "topics": [
+    "IND-POLITY-INDIAN_POLITY",
+    "IND-POLITY-INDIA_AWARDS",
+    "IND-POLITY-INDIA_JUDICIARY",
+    "IND-POLITY-INDIA_POLITY",
+    "IND-POLITY-INDIA_SYMBOLS",
+    "IND-POLITY-OBSERVANCES"
+   ],
+   "questionCount": 62
+  },
+  {
+   "id": "IND-GEO",
+   "title": "Indian geography",
+   "topics": [
+    "IND-GEO-INDIAN_GEOGRAPHY",
+    "IND-GEO-TIME_AND_STANDARDS"
+   ],
+   "questionCount": 26
+  },
+  {
+   "id": "IND-HIST",
+   "title": "Indian & general history",
+   "topics": [
+    "IND-HIST-HISTORY",
+    "IND-HIST-INDIAN_HISTORY"
+   ],
+   "questionCount": 15
+  },
+  {
+   "id": "IND-ECON",
+   "title": "Indian economy & currency",
+   "topics": [
+    "IND-ECON-CURRENCIES",
+    "IND-ECON-CURRENCY",
+    "IND-ECON-INDIA_BANKING",
+    "IND-ECON-INDIA_ECONOMY"
+   ],
+   "questionCount": 22
+  },
+  {
+   "id": "IND-SPACE",
+   "title": "India in space",
+   "topics": [
+    "IND-SPACE-INDIA_SPACE"
+   ],
+   "questionCount": 6
+  },
+  {
+   "id": "WORLD-GEO",
+   "title": "World geography & heritage",
+   "topics": [
+    "WORLD-GEO-MONUMENTS",
+    "WORLD-GEO-NATURE",
+    "WORLD-GEO-OCEAN",
+    "WORLD-GEO-WORLD_GEOGRAPHY",
+    "WORLD-GEO-WORLD_HERITAGE"
+   ],
+   "questionCount": 44
+  },
+  {
+   "id": "WORLD-BODIES",
+   "title": "World bodies & finance",
+   "topics": [
+    "WORLD-BODIES-GLOBAL_FINANCE",
+    "WORLD-BODIES-GLOBAL_INSTITUTIONS",
+    "WORLD-BODIES-NEIGHBOURHOOD",
+    "WORLD-BODIES-UNITED_NATIONS",
+    "WORLD-BODIES-WORLD_BODIES"
+   ],
+   "questionCount": 46
+  },
+  {
+   "id": "WORLD-HIST",
+   "title": "World history",
+   "topics": [
+    "WORLD-HIST-WORLD_HISTORY"
+   ],
+   "questionCount": 9
+  },
+  {
+   "id": "SCI-PHYS",
+   "title": "Physics & measurement",
+   "topics": [
+    "SCI-PHYS-PHYSICS",
+    "SCI-PHYS-UNITS"
+   ],
+   "questionCount": 27
+  },
+  {
+   "id": "SCI-CHEM",
+   "title": "Chemistry",
+   "topics": [
+    "SCI-CHEM-CHEMISTRY"
+   ],
+   "questionCount": 22
+  },
+  {
+   "id": "SCI-BIO",
+   "title": "Biology, body & health",
+   "topics": [
+    "SCI-BIO-BIOLOGY",
+    "SCI-BIO-HEALTH",
+    "SCI-BIO-HUMAN_BODY"
+   ],
+   "questionCount": 32
+  },
+  {
+   "id": "SCI-SPACE",
+   "title": "Astronomy & spaceflight",
+   "topics": [
+    "SCI-SPACE-ASTRONOMY",
+    "SCI-SPACE-SPACE"
+   ],
+   "questionCount": 23
+  },
+  {
+   "id": "SCI-TECH",
+   "title": "Computing & instruments",
+   "topics": [
+    "SCI-TECH-COMPUTING",
+    "SCI-TECH-CYBERSECURITY",
+    "SCI-TECH-INSTRUMENTS",
+    "SCI-TECH-WEATHER"
+   ],
+   "questionCount": 28
+  },
+  {
+   "id": "SCI-HIST",
+   "title": "History of science",
+   "topics": [
+    "SCI-HIST-SCIENCE_HISTORY"
+   ],
+   "questionCount": 6
+  },
+  {
+   "id": "ART-CULT",
+   "title": "Art, culture & literature",
+   "topics": [
+    "ART-CULT-ART",
+    "ART-CULT-CINEMA",
+    "ART-CULT-CULTURE",
+    "ART-CULT-LITERATURE"
+   ],
+   "questionCount": 16
+  },
+  {
+   "id": "SPORT",
+   "title": "Sport & games",
+   "topics": [
+    "SPORT-CHESS",
+    "SPORT-INDIA_SPORT",
+    "SPORT-SPORT"
+   ],
+   "questionCount": 19
+  },
+  {
+   "id": "AWARDS",
+   "title": "Awards & honours",
+   "topics": [
+    "AWARDS-AWARDS"
+   ],
+   "questionCount": 9
+  },
+  {
+   "id": "ENV",
+   "title": "Environment",
+   "topics": [
+    "ENV-ENVIRONMENT"
+   ],
+   "questionCount": 6
+  }
+ ]
+}

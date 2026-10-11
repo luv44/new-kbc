@@ -32,7 +32,10 @@
     "explanation": {
       "en": "Article 79 puts the President together with the two Houses to form Parliament.",
       "hi": "अनुच्छेद 79 के अनुसार राष्ट्रपति तथा दोनों सदन मिलकर संसद बनाते हैं।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIAN_POLITY"
   },
   {
     "id": "DQ-0037",
@@ -67,7 +70,10 @@
     "explanation": {
       "en": "Members of the Rajya Sabha are elected mainly by the elected members of state legislatures.",
       "hi": "राज्य सभा के सदस्य मुख्यतः राज्य विधानमंडलों के निर्वाचित सदस्यों द्वारा चुने जाते हैं।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIAN_POLITY"
   },
   {
     "id": "DQ-0038",
@@ -102,7 +108,10 @@
     "explanation": {
       "en": "The Rajya Sabha may only suggest changes to a money bill; it cannot introduce one.",
       "hi": "राज्य सभा धन विधेयक में केवल सुझाव दे सकती है, उसे प्रस्तुत नहीं कर सकती।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIAN_POLITY"
   },
   {
     "id": "DQ-0039",
@@ -137,7 +146,10 @@
     "explanation": {
       "en": "Members of the Lok Sabha elect the Speaker, who also decides whether a bill is a money bill.",
       "hi": "लोक सभा के सदस्य अध्यक्ष चुनते हैं, जो यह भी तय करते हैं कि कोई विधेयक धन विधेयक है या नहीं।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIAN_POLITY"
   },
   {
     "id": "DQ-0040",
@@ -172,7 +184,10 @@
     "explanation": {
       "en": "Article 81 allows up to 530 members from the states and 20 from the Union territories.",
       "hi": "अनुच्छेद 81 के अनुसार राज्यों से अधिकतम 530 और केंद्र शासित प्रदेशों से 20 सदस्य हो सकते हैं।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIAN_POLITY"
   },
   {
     "id": "DQ-0041",
@@ -207,7 +222,10 @@
     "explanation": {
       "en": "Members serve six years, with a third of the seats falling vacant every second year.",
       "hi": "सदस्यों का कार्यकाल छह वर्ष होता है और हर दूसरे वर्ष एक तिहाई स्थान रिक्त हो जाते हैं।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIAN_POLITY"
   },
   {
     "id": "DQ-0042",
@@ -242,7 +260,10 @@
     "explanation": {
       "en": "The text was adopted on 26 November 1949 and came into force on 26 January 1950.",
       "hi": "संविधान 26 नवंबर 1949 को अपनाया गया और 26 जनवरी 1950 को लागू हुआ।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIAN_POLITY"
   },
   {
     "id": "DQ-0043",
@@ -277,7 +298,10 @@
     "explanation": {
       "en": "Part IX carries Articles 243 to 243O on Panchayats; Part IXA covers Municipalities.",
       "hi": "भाग IX में पंचायतों पर अनुच्छेद 243 से 243O हैं; भाग IXA नगरपालिकाओं से संबंधित है।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIAN_POLITY"
   },
   {
     "id": "DQ-0044",
@@ -312,7 +336,10 @@
     "explanation": {
       "en": "Part IXA, added in 1992, gives urban local bodies their constitutional footing.",
       "hi": "1992 में जोड़ा गया भाग IXA शहरी स्थानीय निकायों को संवैधानिक आधार देता है।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIAN_POLITY"
   },
   {
     "id": "DQ-0045",
@@ -347,7 +374,10 @@
     "explanation": {
       "en": "The 73rd Amendment Act of 1992 came into force on 24 April 1993.",
       "hi": "73वाँ संविधान संशोधन अधिनियम, 1992, 24 अप्रैल 1993 को लागू हुआ।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIAN_POLITY"
   },
   {
     "id": "DQ-0046",
@@ -382,7 +412,10 @@
     "explanation": {
       "en": "Article 243A defines the Gram Sabha as a body of persons on the electoral roll of a village area.",
       "hi": "अनुच्छेद 243A ग्राम सभा को ग्राम क्षेत्र की मतदाता सूची में दर्ज व्यक्तियों का निकाय बताता है।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIAN_POLITY"
   },
   {
     "id": "DQ-0047",
@@ -417,7 +450,10 @@
     "explanation": {
       "en": "Rajasthan became the first state to launch the scheme at Nagaur in 1959.",
       "hi": "राजस्थान 1959 में नागौर में यह योजना लागू करने वाला पहला राज्य बना।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIAN_POLITY"
   },
   {
     "id": "DQ-0048",
@@ -452,7 +488,10 @@
     "explanation": {
       "en": "The 1963 Act creates the legislative machinery for Union territories that Parliament designates.",
       "hi": "1963 का अधिनियम उन केंद्र शासित प्रदेशों के लिए विधायी ढाँचा बनाता है जिन्हें संसद नामित करती है।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIAN_POLITY"
   },
   {
     "id": "DQ-0049",
@@ -487,7 +526,10 @@
     "explanation": {
       "en": "Part IV instead carries the Directive Principles of State Policy.",
       "hi": "भाग IV में राज्य के नीति निर्देशक तत्व रखे गए हैं।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIAN_POLITY"
   },
   {
     "id": "DQ-0050",
@@ -522,7 +564,10 @@
     "explanation": {
       "en": "Dr Ambedkar called Article 32 the heart and soul of the Constitution.",
       "hi": "डॉ. अम्बेडकर ने अनुच्छेद 32 को संविधान की आत्मा कहा था।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIAN_POLITY"
   },
   {
     "id": "DQ-0051",
@@ -557,7 +602,10 @@
     "explanation": {
       "en": "Parliament may amend within limits, but the Court decides what the text means.",
       "hi": "संसद सीमाओं में रहते हुए संशोधन कर सकती है, पर अर्थ का निर्णय न्यायालय करता है।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIAN_POLITY"
   },
   {
     "id": "DQ-0052",
@@ -592,7 +640,10 @@
     "explanation": {
       "en": "The India–Bangladesh land border runs roughly 4,096 kilometres across five Indian states.",
       "hi": "भारत–बांग्लादेश स्थल सीमा लगभग 4,096 किलोमीटर लंबी है और पाँच भारतीय राज्यों से गुज़रती है।"
-    }
+    },
+    "subjectId": "IND-GEO",
+    "chapterId": "IND-GEO",
+    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
   },
   {
     "id": "DQ-0053",
@@ -627,7 +678,10 @@
     "explanation": {
       "en": "The MHA list names Afghanistan, Bangladesh, Bhutan, China, Myanmar, Nepal and Pakistan.",
       "hi": "गृह मंत्रालय की सूची में अफ़ग़ानिस्तान, बांग्लादेश, भूटान, चीन, म्यांमार, नेपाल और पाकिस्तान हैं।"
-    }
+    },
+    "subjectId": "IND-GEO",
+    "chapterId": "IND-GEO",
+    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
   },
   {
     "id": "DQ-0054",
@@ -662,7 +716,10 @@
     "explanation": {
       "en": "West Bengal borders three countries: Bangladesh, Nepal and Bhutan.",
       "hi": "पश्चिम बंगाल की सीमा तीन देशों — बांग्लादेश, नेपाल और भूटान — से लगती है।"
-    }
+    },
+    "subjectId": "IND-GEO",
+    "chapterId": "IND-GEO",
+    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
   },
   {
     "id": "DQ-0055",
@@ -697,7 +754,10 @@
     "explanation": {
       "en": "Cyril Radcliffe chaired the boundary commissions that drew the line.",
       "hi": "सिरिल रेडक्लिफ उस सीमा आयोग के अध्यक्ष थे जिसने यह रेखा खींची।"
-    }
+    },
+    "subjectId": "IND-GEO",
+    "chapterId": "IND-GEO",
+    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
   },
   {
     "id": "DQ-0056",
@@ -732,7 +792,10 @@
     "explanation": {
       "en": "IST is written as UTC+05:30 across the whole country.",
       "hi": "पूरे देश में IST को UTC+05:30 के रूप में लिखा जाता है।"
-    }
+    },
+    "subjectId": "IND-GEO",
+    "chapterId": "IND-GEO",
+    "topicId": "IND-GEO-TIME_AND_STANDARDS"
   },
   {
     "id": "DQ-0057",
@@ -767,7 +830,10 @@
     "explanation": {
       "en": "CSIR-NPL in New Delhi maintains the national caesium atomic clocks that broadcast IST.",
       "hi": "नई दिल्ली स्थित सीएसआईआर-एनपीएल राष्ट्रीय सीज़ियम परमाणु घड़ियाँ रखता है जो IST प्रसारित करती हैं।"
-    }
+    },
+    "subjectId": "IND-GEO",
+    "chapterId": "IND-GEO",
+    "topicId": "IND-GEO-TIME_AND_STANDARDS"
   },
   {
     "id": "DQ-0058",
@@ -803,7 +869,10 @@
     "explanation": {
       "en": "The meridian passes close to Prayagraj and Mirzapur in Uttar Pradesh.",
       "hi": "यह मध्याह्न उत्तर प्रदेश में प्रयागराज और मिर्ज़ापुर के पास से गुज़रता है।"
-    }
+    },
+    "subjectId": "IND-GEO",
+    "chapterId": "IND-GEO",
+    "topicId": "IND-GEO-TIME_AND_STANDARDS"
   },
   {
     "id": "DQ-0059",
@@ -838,7 +907,10 @@
     "explanation": {
       "en": "The RBI issues notes under the Reserve Bank of India Act, 1934.",
       "hi": "भारतीय रिज़र्व बैंक, भारतीय रिज़र्व बैंक अधिनियम, 1934 के तहत नोट जारी करता है।"
-    }
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-CURRENCY"
   },
   {
     "id": "DQ-0060",
@@ -873,7 +945,10 @@
     "explanation": {
       "en": "One rupee notes and coins carry the signature of the Finance Secretary, not the RBI Governor.",
       "hi": "एक रुपये के नोट और सिक्कों पर वित्त सचिव के हस्ताक्षर होते हैं, RBI गवर्नर के नहीं।"
-    }
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-CURRENCY"
   },
   {
     "id": "DQ-0061",
@@ -908,7 +983,10 @@
     "explanation": {
       "en": "The symbol blends the Devanagari 'Ra' with the Roman 'R' and was adopted on 15 July 2010.",
       "hi": "यह प्रतीक देवनागरी 'र' और रोमन 'R' का मिश्रण है और 15 जुलाई 2010 को अपनाया गया।"
-    }
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-CURRENCY"
   },
   {
     "id": "DQ-0062",
@@ -943,7 +1021,10 @@
     "explanation": {
       "en": "The mints are at Mumbai, Kolkata, Hyderabad and Noida.",
       "hi": "टकसालें मुंबई, कोलकाता, हैदराबाद और नोएडा में स्थित हैं।"
-    }
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-CURRENCY"
   },
   {
     "id": "DQ-0063",
@@ -978,7 +1059,10 @@
     "explanation": {
       "en": "The Himalayas are young fold mountains still rising as the two plates press together.",
       "hi": "हिमालय नवीन वलित पर्वत हैं जो दोनों प्लेटों के दबाव से अब भी ऊपर उठ रहे हैं।"
-    }
+    },
+    "subjectId": "IND-GEO",
+    "chapterId": "IND-GEO",
+    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
   },
   {
     "id": "DQ-0064",
@@ -1013,7 +1097,10 @@
     "explanation": {
       "en": "The Indus, Ganga and Brahmaputra systems deposited the sediment that forms the plains.",
       "hi": "सिंधु, गंगा और ब्रह्मपुत्र प्रणालियों ने वह अवसाद जमा किया जिससे मैदान बना।"
-    }
+    },
+    "subjectId": "IND-GEO",
+    "chapterId": "IND-GEO",
+    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
   },
   {
     "id": "DQ-0065",
@@ -1048,7 +1135,10 @@
     "explanation": {
       "en": "The Thar stretches across north-western India, with its largest part in Rajasthan.",
       "hi": "थार उत्तर-पश्चिमी भारत में फैला है और इसका सबसे बड़ा हिस्सा राजस्थान में है।"
-    }
+    },
+    "subjectId": "IND-GEO",
+    "chapterId": "IND-GEO",
+    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
   },
   {
     "id": "DQ-0066",
@@ -1083,7 +1173,10 @@
     "explanation": {
       "en": "Malabar and Konkan lie on the western side, facing the Arabian Sea.",
       "hi": "मालाबार और कोंकण पश्चिमी ओर अरब सागर की तरफ़ स्थित हैं।"
-    }
+    },
+    "subjectId": "IND-GEO",
+    "chapterId": "IND-GEO",
+    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
   },
   {
     "id": "DQ-0067",
@@ -1118,6 +1211,9 @@
     "explanation": {
       "en": "The Deccan Plateau is a triangular tableland of old crystalline rock south of the Narmada.",
       "hi": "दक्कन का पठार नर्मदा के दक्षिण प्राचीन क्रिस्टलीय चट्टानों से बना त्रिभुजाकार स्थल है।"
-    }
+    },
+    "subjectId": "IND-GEO",
+    "chapterId": "IND-GEO",
+    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
   }
 ]

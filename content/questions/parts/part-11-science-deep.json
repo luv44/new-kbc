@@ -32,7 +32,10 @@
     "explanation": {
       "en": "Its light takes about eight minutes to reach us.",
       "hi": "इसका प्रकाश हम तक पहुँचने में लगभग आठ मिनट लेता है।"
-    }
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-ASTRONOMY"
   },
   {
     "id": "DQ-0380",
@@ -67,7 +70,10 @@
     "explanation": {
       "en": "It sits about 4.2 light years away.",
       "hi": "यह लगभग 4.2 प्रकाश वर्ष दूर है।"
-    }
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-ASTRONOMY"
   },
   {
     "id": "DQ-0381",
@@ -102,7 +108,10 @@
     "explanation": {
       "en": "Our Sun orbits its centre once in roughly 230 million years.",
       "hi": "हमारा सूर्य इसके केंद्र की परिक्रमा लगभग 23 करोड़ वर्षों में पूरी करता है।"
-    }
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-ASTRONOMY"
   },
   {
     "id": "DQ-0382",
@@ -137,7 +146,10 @@
     "explanation": {
       "en": "He orbited the Earth aboard Vostok 1 in April 1961.",
       "hi": "उन्होंने अप्रैल 1961 में वोस्तोक 1 से पृथ्वी की परिक्रमा की।"
-    }
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-SPACE"
   },
   {
     "id": "DQ-0383",
@@ -172,7 +184,10 @@
     "explanation": {
       "en": "She flew Vostok 6 in June 1963.",
       "hi": "उन्होंने जून 1963 में वोस्तोक 6 उड़ाया।"
-    }
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-SPACE"
   },
   {
     "id": "DQ-0384",
@@ -207,7 +222,10 @@
     "explanation": {
       "en": "The Soviet Union launched it in October 1957.",
       "hi": "इसे अक्तूबर 1957 में सोवियत संघ ने प्रक्षेपित किया।"
-    }
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-SPACE"
   },
   {
     "id": "DQ-0385",
@@ -242,7 +260,10 @@
     "explanation": {
       "en": "The Indian Space Research Organisation was founded in 1969.",
       "hi": "भारतीय अंतरिक्ष अनुसंधान संगठन की स्थापना 1969 में हुई।"
-    }
+    },
+    "subjectId": "IND-SPACE",
+    "chapterId": "IND-SPACE",
+    "topicId": "IND-SPACE-INDIA_SPACE"
   },
   {
     "id": "DQ-0386",
@@ -277,7 +298,10 @@
     "explanation": {
       "en": "Launches take place instead from Sriharikota on the east coast.",
       "hi": "प्रक्षेपण इसके बजाय पूर्वी तट पर स्थित श्रीहरिकोटा से होते हैं।"
-    }
+    },
+    "subjectId": "IND-SPACE",
+    "chapterId": "IND-SPACE",
+    "topicId": "IND-SPACE-INDIA_SPACE"
   },
   {
     "id": "DQ-0387",
@@ -312,7 +336,10 @@
     "explanation": {
       "en": "It was launched in 1975 aboard a Soviet rocket.",
       "hi": "इसे 1975 में एक सोवियत रॉकेट से प्रक्षेपित किया गया।"
-    }
+    },
+    "subjectId": "IND-SPACE",
+    "chapterId": "IND-SPACE",
+    "topicId": "IND-SPACE-INDIA_SPACE"
   },
   {
     "id": "DQ-0388",
@@ -347,7 +374,10 @@
     "explanation": {
       "en": "It was launched in October 2008.",
       "hi": "इसे अक्तूबर 2008 में प्रक्षेपित किया गया।"
-    }
+    },
+    "subjectId": "IND-SPACE",
+    "chapterId": "IND-SPACE",
+    "topicId": "IND-SPACE-INDIA_SPACE"
   },
   {
     "id": "DQ-0389",
@@ -382,7 +412,10 @@
     "explanation": {
       "en": "It usually compares a dry bulb with a wet one.",
       "hi": "यह प्रायः शुष्क बल्ब की तुलना आर्द्र बल्ब से करता है।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-INSTRUMENTS"
   },
   {
     "id": "DQ-0390",
@@ -417,7 +450,10 @@
     "explanation": {
       "en": "Its scale normally runs from 35 to 42 degrees Celsius.",
       "hi": "इसका मापक्रम सामान्यतः 35 से 42 डिग्री सेल्सियस तक होता है।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-INSTRUMENTS"
   },
   {
     "id": "DQ-0391",
@@ -452,7 +488,10 @@
     "explanation": {
       "en": "Milk diluted with water has a lower density, so the float sinks deeper.",
       "hi": "जल मिलाए दूध का घनत्व कम होता है, इसलिए तैरक अधिक डूबता है।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-INSTRUMENTS"
   },
   {
     "id": "DQ-0392",
@@ -487,7 +526,10 @@
     "explanation": {
       "en": "It works because air pressure falls steadily with altitude.",
       "hi": "यह इसलिए काम करता है क्योंकि ऊँचाई बढ़ने पर वायु दाब घटता जाता है।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-INSTRUMENTS"
   },
   {
     "id": "DQ-0393",
@@ -522,7 +564,10 @@
     "explanation": {
       "en": "An inverter does the opposite conversion.",
       "hi": "इनवर्टर उल्टा रूपांतरण करता है।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-PHYSICS"
   },
   {
     "id": "DQ-0394",
@@ -557,7 +602,10 @@
     "explanation": {
       "en": "It works only with alternating current, not direct.",
       "hi": "यह केवल प्रत्यावर्ती धारा पर काम करता है, दिष्ट पर नहीं।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-PHYSICS"
   },
   {
     "id": "DQ-0395",
@@ -592,7 +640,10 @@
     "explanation": {
       "en": "Copper is used in wiring because it is far cheaper and nearly as good.",
       "hi": "तारों में ताँबा प्रयोग होता है क्योंकि वह काफ़ी सस्ता और लगभग उतना ही अच्छा है।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-PHYSICS"
   },
   {
     "id": "DQ-0396",
@@ -627,7 +678,10 @@
     "explanation": {
       "en": "Its very high melting point lets it glow without fusing.",
       "hi": "इसका गलनांक बहुत ऊँचा होने से यह पिघले बिना चमकता है।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-PHYSICS"
   },
   {
     "id": "DQ-0397",
@@ -662,7 +716,10 @@
     "explanation": {
       "en": "It slows the evaporation of the hot filament.",
       "hi": "यह गर्म तंतु के वाष्पीकरण को धीमा करती है।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-PHYSICS"
   },
   {
     "id": "DQ-0398",
@@ -697,7 +754,10 @@
     "explanation": {
       "en": "Its layered carbon structure lets electrons move freely.",
       "hi": "इसकी परतदार कार्बन संरचना इलेक्ट्रॉनों को स्वतंत्र रूप से चलने देती है।"
-    }
+    },
+    "subjectId": "SCI-CHEM",
+    "chapterId": "SCI-CHEM",
+    "topicId": "SCI-CHEM-CHEMISTRY"
   },
   {
     "id": "DQ-0399",
@@ -732,7 +792,10 @@
     "explanation": {
       "en": "It sits at ten, the top of the Mohs hardness scale.",
       "hi": "यह मोहस कठोरता मापक्रम के शीर्ष, दस पर है।"
-    }
+    },
+    "subjectId": "SCI-CHEM",
+    "chapterId": "SCI-CHEM",
+    "topicId": "SCI-CHEM-CHEMISTRY"
   },
   {
     "id": "DQ-0400",
@@ -767,7 +830,10 @@
     "explanation": {
       "en": "Domestic cylinders hold butane and propane instead.",
       "hi": "घरेलू सिलेंडर में इसके बजाय ब्यूटेन और प्रोपेन होते हैं।"
-    }
+    },
+    "subjectId": "SCI-CHEM",
+    "chapterId": "SCI-CHEM",
+    "topicId": "SCI-CHEM-CHEMISTRY"
   },
   {
     "id": "DQ-0401",
@@ -802,7 +868,10 @@
     "explanation": {
       "en": "Its formula is NaHCO3.",
       "hi": "इसका सूत्र NaHCO3 है।"
-    }
+    },
+    "subjectId": "SCI-CHEM",
+    "chapterId": "SCI-CHEM",
+    "topicId": "SCI-CHEM-CHEMISTRY"
   },
   {
     "id": "DQ-0402",
@@ -837,7 +906,10 @@
     "explanation": {
       "en": "Its formula is Na2CO3.",
       "hi": "इसका सूत्र Na2CO3 है।"
-    }
+    },
+    "subjectId": "SCI-CHEM",
+    "chapterId": "SCI-CHEM",
+    "topicId": "SCI-CHEM-CHEMISTRY"
   },
   {
     "id": "DQ-0403",
@@ -872,7 +944,10 @@
     "explanation": {
       "en": "Adding water turns it into slaked lime and releases heat.",
       "hi": "जल मिलाने पर यह बुझा चूना बनता है और ऊष्मा निकलती है।"
-    }
+    },
+    "subjectId": "SCI-CHEM",
+    "chapterId": "SCI-CHEM",
+    "topicId": "SCI-CHEM-CHEMISTRY"
   },
   {
     "id": "DQ-0404",
@@ -907,7 +982,10 @@
     "explanation": {
       "en": "Table vinegar holds roughly five per cent of it in water.",
       "hi": "टेबल सिरके में यह लगभग पाँच प्रतिशत जल में घुला होता है।"
-    }
+    },
+    "subjectId": "SCI-CHEM",
+    "chapterId": "SCI-CHEM",
+    "topicId": "SCI-CHEM-CHEMISTRY"
   },
   {
     "id": "DQ-0405",
@@ -942,7 +1020,10 @@
     "explanation": {
       "en": "Lemons contain more of it than almost any other fruit.",
       "hi": "नींबू में यह लगभग किसी भी अन्य फल से अधिक होता है।"
-    }
+    },
+    "subjectId": "SCI-CHEM",
+    "chapterId": "SCI-CHEM",
+    "topicId": "SCI-CHEM-CHEMISTRY"
   },
   {
     "id": "DQ-0406",
@@ -977,7 +1058,10 @@
     "explanation": {
       "en": "Bacteria convert the milk sugar lactose into this acid.",
       "hi": "जीवाणु दूध की शर्करा लैक्टोज़ को इस अम्ल में बदलते हैं।"
-    }
+    },
+    "subjectId": "SCI-CHEM",
+    "chapterId": "SCI-CHEM",
+    "topicId": "SCI-CHEM-CHEMISTRY"
   },
   {
     "id": "DQ-0407",
@@ -1012,7 +1096,10 @@
     "explanation": {
       "en": "Its name comes from formica, the Latin word for ant.",
       "hi": "इसका नाम लैटिन शब्द फ़ॉर्मिका से आया है, जिसका अर्थ चींटी है।"
-    }
+    },
+    "subjectId": "SCI-CHEM",
+    "chapterId": "SCI-CHEM",
+    "topicId": "SCI-CHEM-CHEMISTRY"
   },
   {
     "id": "DQ-0408",
@@ -1047,7 +1134,10 @@
     "explanation": {
       "en": "Fruit also releases it naturally as it ripens.",
       "hi": "पकते समय फल इसे प्राकृतिक रूप से भी छोड़ते हैं।"
-    }
+    },
+    "subjectId": "SCI-CHEM",
+    "chapterId": "SCI-CHEM",
+    "topicId": "SCI-CHEM-CHEMISTRY"
   },
   {
     "id": "DQ-0409",
@@ -1082,7 +1172,10 @@
     "explanation": {
       "en": "Dentists use it as a mild anaesthetic.",
       "hi": "दंत चिकित्सक इसे हल्के संवेदनाहारी के रूप में प्रयोग करते हैं।"
-    }
+    },
+    "subjectId": "SCI-CHEM",
+    "chapterId": "SCI-CHEM",
+    "topicId": "SCI-CHEM-CHEMISTRY"
   },
   {
     "id": "DQ-0410",
@@ -1117,7 +1210,10 @@
     "explanation": {
       "en": "The vitamin is needed to make the pigment rhodopsin in the retina.",
       "hi": "रेटिना में वर्णक रोडोप्सिन बनाने के लिए यह विटामिन चाहिए।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HUMAN_BODY"
   },
   {
     "id": "DQ-0411",
@@ -1152,7 +1248,10 @@
     "explanation": {
       "en": "Sailors once carried citrus fruit on long voyages to prevent it.",
       "hi": "नाविक इसे रोकने के लिए लंबी यात्राओं में खट्टे फल साथ रखते थे।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HUMAN_BODY"
   },
   {
     "id": "DQ-0412",
@@ -1187,7 +1286,10 @@
     "explanation": {
       "en": "It is also called thiamine.",
       "hi": "इसे थायमिन भी कहते हैं।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HUMAN_BODY"
   },
   {
     "id": "DQ-0413",
@@ -1222,7 +1324,10 @@
     "explanation": {
       "en": "This is why table salt is commonly sold iodised.",
       "hi": "इसीलिए बाज़ार में नमक प्रायः आयोडीन युक्त बिकता है।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HUMAN_BODY"
   },
   {
     "id": "DQ-0414",
@@ -1257,7 +1362,10 @@
     "explanation": {
       "en": "That is why too little of it in the diet leads to anaemia.",
       "hi": "इसीलिए भोजन में इसकी कमी से एनीमिया होता है।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HUMAN_BODY"
   },
   {
     "id": "DQ-0415",
@@ -1292,7 +1400,10 @@
     "explanation": {
       "en": "It handles thought, memory and voluntary movement.",
       "hi": "यह सोच, स्मृति और ऐच्छिक गति संभालता है।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HUMAN_BODY"
   },
   {
     "id": "DQ-0416",
@@ -1327,7 +1438,10 @@
     "explanation": {
       "en": "Thirty-one pairs of spinal nerves emerge from the cord instead.",
       "hi": "मेरुरज्जु से इसके बजाय इकतीस युग्म स्पైనल तंत्रु निकलते हैं।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HUMAN_BODY"
   },
   {
     "id": "DQ-0417",
@@ -1362,7 +1476,10 @@
     "explanation": {
       "en": "It is a stirrup-shaped bone inside the middle ear.",
       "hi": "यह मध्य कान के भीतर रकाब के आकार की हड्डी है।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HUMAN_BODY"
   },
   {
     "id": "DQ-0418",
@@ -1397,6 +1514,9 @@
     "explanation": {
       "en": "It runs from the hip down to the knee.",
       "hi": "यह कूल्हे से घुटने तक जाती है।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HUMAN_BODY"
   }
 ]

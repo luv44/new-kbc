@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T06:40:48.068Z",
+  "generatedAt": "2026-10-11T07:00:33.540Z",
   "lifecycle": "DRAFT_PENDING_REVIEW",
   "count": 418,
   "bannedWordPolicy": [
@@ -54,9 +54,9 @@
   "questions": [
     {
       "id": "DRAFT-DQ-0001",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-SPACE",
+      "chapterId": "SCI-SPACE",
+      "topicId": "SCI-SPACE-SPACE",
       "conceptIds": [],
       "question": {
         "en": "Which planet has the largest diameter in our solar system?",
@@ -110,9 +110,9 @@
     },
     {
       "id": "DRAFT-DQ-0002",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-SPACE",
+      "chapterId": "SCI-SPACE",
+      "topicId": "SCI-SPACE-SPACE",
       "conceptIds": [],
       "question": {
         "en": "Which planet has the hottest surface because of a thick carbon dioxide atmosphere?",
@@ -166,9 +166,9 @@
     },
     {
       "id": "DRAFT-DQ-0003",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-SPACE",
+      "chapterId": "SCI-SPACE",
+      "topicId": "SCI-SPACE-SPACE",
       "conceptIds": [],
       "question": {
         "en": "Which of these is a rocky planet rather than a gas giant?",
@@ -222,9 +222,9 @@
     },
     {
       "id": "DRAFT-DQ-0004",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-SPACE",
+      "chapterId": "SCI-SPACE",
+      "topicId": "SCI-SPACE-SPACE",
       "conceptIds": [],
       "question": {
         "en": "Which planet rolls around the Sun tipped on its side, with an axial tilt near 98 degrees?",
@@ -278,9 +278,9 @@
     },
     {
       "id": "DRAFT-DQ-0005",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-SPACE",
+      "chapterId": "SCI-SPACE",
+      "topicId": "SCI-SPACE-SPACE",
       "conceptIds": [],
       "question": {
         "en": "Which world finishes one full trip around the Sun in the shortest time?",
@@ -334,9 +334,9 @@
     },
     {
       "id": "DRAFT-DQ-0006",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-SPACE",
+      "chapterId": "SCI-SPACE",
+      "topicId": "SCI-SPACE-SPACE",
       "conceptIds": [],
       "question": {
         "en": "What kind of feature is Jupiter's Great Red Spot?",
@@ -390,9 +390,9 @@
     },
     {
       "id": "DRAFT-DQ-0007",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-SPACE",
+      "chapterId": "SCI-SPACE",
+      "topicId": "SCI-SPACE-SPACE",
       "conceptIds": [],
       "question": {
         "en": "Phobos and Deimos orbit which planet?",
@@ -446,9 +446,9 @@
     },
     {
       "id": "DRAFT-DQ-0008",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-SPACE",
+      "chapterId": "SCI-SPACE",
+      "topicId": "SCI-SPACE-SPACE",
       "conceptIds": [],
       "question": {
         "en": "Which planet is known for a wide, bright ring system seen even through small telescopes?",
@@ -502,9 +502,9 @@
     },
     {
       "id": "DRAFT-DQ-0009",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-SPACE",
+      "chapterId": "SCI-SPACE",
+      "topicId": "SCI-SPACE-SPACE",
       "conceptIds": [],
       "question": {
         "en": "What is the Sun's visible surface layer, from which most sunlight escapes, called?",
@@ -558,9 +558,9 @@
     },
     {
       "id": "DRAFT-DQ-0010",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-SPACE",
+      "chapterId": "SCI-SPACE",
+      "topicId": "SCI-SPACE-SPACE",
       "conceptIds": [],
       "question": {
         "en": "Why do sunspots appear darker than the gas around them?",
@@ -614,9 +614,9 @@
     },
     {
       "id": "DRAFT-DQ-0011",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-SPACE",
+      "chapterId": "SCI-SPACE",
+      "topicId": "SCI-SPACE-SPACE",
       "conceptIds": [],
       "question": {
         "en": "Which part of the Sun becomes visible as a pearly halo during a total solar eclipse?",
@@ -670,9 +670,9 @@
     },
     {
       "id": "DRAFT-DQ-0012",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-SPACE",
+      "chapterId": "SCI-SPACE",
+      "topicId": "SCI-SPACE-SPACE",
       "conceptIds": [],
       "question": {
         "en": "Roughly how long does sunlight take to travel from the Sun to Earth?",
@@ -726,9 +726,9 @@
     },
     {
       "id": "DRAFT-DQ-0013",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-SPACE",
+      "chapterId": "SCI-SPACE",
+      "topicId": "SCI-SPACE-SPACE",
       "conceptIds": [],
       "question": {
         "en": "Which mission first carried humans down to the Moon's surface?",
@@ -782,9 +782,9 @@
     },
     {
       "id": "DRAFT-DQ-0014",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-SPACE",
+      "chapterId": "SCI-SPACE",
+      "topicId": "SCI-SPACE-SPACE",
       "conceptIds": [],
       "question": {
         "en": "Who was the first person to walk on the Moon?",
@@ -838,9 +838,9 @@
     },
     {
       "id": "DRAFT-DQ-0015",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-SPACE",
+      "chapterId": "SCI-SPACE",
+      "topicId": "SCI-SPACE-SPACE",
       "conceptIds": [],
       "question": {
         "en": "During the first Moon landing, who remained alone in orbit inside the Command Module?",
@@ -894,9 +894,9 @@
     },
     {
       "id": "DRAFT-DQ-0016",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-SPACE",
+      "chapterId": "SCI-SPACE",
+      "topicId": "SCI-SPACE-SPACE",
       "conceptIds": [],
       "question": {
         "en": "What name was given to the lander that touched down on the Moon in 1969?",
@@ -950,9 +950,9 @@
     },
     {
       "id": "DRAFT-DQ-0017",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-UNITS",
       "conceptIds": [],
       "question": {
         "en": "How many base units does the International System of Units contain?",
@@ -1007,9 +1007,9 @@
     },
     {
       "id": "DRAFT-DQ-0018",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-UNITS",
       "conceptIds": [],
       "question": {
         "en": "Which is the SI base unit of electric current?",
@@ -1063,9 +1063,9 @@
     },
     {
       "id": "DRAFT-DQ-0019",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-UNITS",
       "conceptIds": [],
       "question": {
         "en": "Luminous intensity is measured in which SI base unit?",
@@ -1119,9 +1119,9 @@
     },
     {
       "id": "DRAFT-DQ-0020",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-UNITS",
       "conceptIds": [],
       "question": {
         "en": "Which SI base unit counts the amount of substance?",
@@ -1175,9 +1175,9 @@
     },
     {
       "id": "DRAFT-DQ-0021",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-UNITS",
       "conceptIds": [],
       "question": {
         "en": "Thermodynamic temperature uses which SI base unit?",
@@ -1231,9 +1231,9 @@
     },
     {
       "id": "DRAFT-DQ-0022",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-UNITS",
       "conceptIds": [],
       "question": {
         "en": "Which of these is not one of the seven SI base units?",
@@ -1288,9 +1288,9 @@
     },
     {
       "id": "DRAFT-DQ-0023",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-UNITS",
       "conceptIds": [],
       "question": {
         "en": "The SI prefix 'kilo' stands for which factor?",
@@ -1345,9 +1345,9 @@
     },
     {
       "id": "DRAFT-DQ-0024",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-UNITS",
       "conceptIds": [],
       "question": {
         "en": "Which SI prefix represents one billionth, 10 to the minus 9?",
@@ -1402,9 +1402,9 @@
     },
     {
       "id": "DRAFT-DQ-0025",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-UNITS",
       "conceptIds": [],
       "question": {
         "en": "A red blood cell is roughly 8 micrometres wide. What does the prefix 'micro' mean in micrometre?",
@@ -1458,9 +1458,9 @@
     },
     {
       "id": "DRAFT-DQ-0026",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-UNITS",
       "conceptIds": [],
       "question": {
         "en": "The SI prefix 'tera' stands for which factor?",
@@ -1514,9 +1514,9 @@
     },
     {
       "id": "DRAFT-DQ-0027",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-UNITS",
       "conceptIds": [],
       "question": {
         "en": "One inch is exactly equal to how many centimetres?",
@@ -1570,9 +1570,9 @@
     },
     {
       "id": "DRAFT-DQ-0028",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-UNITS",
       "conceptIds": [],
       "question": {
         "en": "A nautical mile, used by ships and aircraft, is exactly how many metres?",
@@ -1626,9 +1626,9 @@
     },
     {
       "id": "DRAFT-DQ-0029",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-OCEAN",
       "conceptIds": [],
       "question": {
         "en": "Which technique maps the seafloor by timing sound pulses that bounce back from it?",
@@ -1682,9 +1682,9 @@
     },
     {
       "id": "DRAFT-DQ-0030",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-OCEAN",
       "conceptIds": [],
       "question": {
         "en": "In ocean exploration, what does the abbreviation ROV stand for?",
@@ -1738,9 +1738,9 @@
     },
     {
       "id": "DRAFT-DQ-0031",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-OCEAN",
       "conceptIds": [],
       "question": {
         "en": "The deepest known point in the world's oceans lies in which trench?",
@@ -1794,9 +1794,9 @@
     },
     {
       "id": "DRAFT-DQ-0032",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-OCEAN",
       "conceptIds": [],
       "question": {
         "en": "Life clustered around deep-sea hydrothermal vents draws its energy mainly through which process?",
@@ -1850,9 +1850,9 @@
     },
     {
       "id": "DRAFT-DQ-0033",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-OCEAN",
       "conceptIds": [],
       "question": {
         "en": "In ocean exploration, what does the abbreviation AUV stand for?",
@@ -1906,9 +1906,9 @@
     },
     {
       "id": "DRAFT-DQ-0034",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-SPACE",
+      "chapterId": "SCI-SPACE",
+      "topicId": "SCI-SPACE-SPACE",
       "conceptIds": [],
       "question": {
         "en": "Which planet is whipped by the fastest winds measured in the solar system?",
@@ -1962,9 +1962,9 @@
     },
     {
       "id": "DRAFT-DQ-0035",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-UNITS",
       "conceptIds": [],
       "question": {
         "en": "The SI second is defined by counting vibrations of which atom?",
@@ -2019,9 +2019,9 @@
     },
     {
       "id": "DRAFT-DQ-0036",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "The Parliament of India is made up of which three parts?",
@@ -2075,9 +2075,9 @@
     },
     {
       "id": "DRAFT-DQ-0037",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Which House of Parliament is described as the Council of States?",
@@ -2131,9 +2131,9 @@
     },
     {
       "id": "DRAFT-DQ-0038",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "A money bill can be introduced only in which House?",
@@ -2187,9 +2187,9 @@
     },
     {
       "id": "DRAFT-DQ-0039",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Who presides over the sittings of the Lok Sabha?",
@@ -2243,9 +2243,9 @@
     },
     {
       "id": "DRAFT-DQ-0040",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "What is the maximum strength of the Lok Sabha provided by the Constitution?",
@@ -2299,9 +2299,9 @@
     },
     {
       "id": "DRAFT-DQ-0041",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "The Rajya Sabha is never dissolved. What share of its members retires every two years?",
@@ -2355,9 +2355,9 @@
     },
     {
       "id": "DRAFT-DQ-0042",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "On which date did the Constitution of India come into effect?",
@@ -2411,9 +2411,9 @@
     },
     {
       "id": "DRAFT-DQ-0043",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Which Part of the Constitution of India deals with Panchayats?",
@@ -2467,9 +2467,9 @@
     },
     {
       "id": "DRAFT-DQ-0044",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Which Part of the Constitution sets out the framework for Municipalities?",
@@ -2523,9 +2523,9 @@
     },
     {
       "id": "DRAFT-DQ-0045",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Panchayati Raj institutions received constitutional status through which Amendment Act?",
@@ -2579,9 +2579,9 @@
     },
     {
       "id": "DRAFT-DQ-0046",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "The Gram Sabha consists of whom?",
@@ -2635,9 +2635,9 @@
     },
     {
       "id": "DRAFT-DQ-0047",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Which committee's 1957 report recommended democratic decentralisation behind Panchayati Raj?",
@@ -2691,9 +2691,9 @@
     },
     {
       "id": "DRAFT-DQ-0048",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Which Act provides for a legislature and council of ministers for certain Union territories?",
@@ -2747,9 +2747,9 @@
     },
     {
       "id": "DRAFT-DQ-0049",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Fundamental Rights are contained in which Part of the Constitution of India?",
@@ -2803,9 +2803,9 @@
     },
     {
       "id": "DRAFT-DQ-0050",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Which Article lets a citizen move the Supreme Court directly to enforce a Fundamental Right?",
@@ -2859,9 +2859,9 @@
     },
     {
       "id": "DRAFT-DQ-0051",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Which institution is the final interpreter of the Constitution of India?",
@@ -2915,9 +2915,9 @@
     },
     {
       "id": "DRAFT-DQ-0052",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-INDIAN_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which country shares the longest land border with India?",
@@ -2971,9 +2971,9 @@
     },
     {
       "id": "DRAFT-DQ-0053",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-INDIAN_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "How many countries share a land boundary with India, according to the Ministry of Home Affairs?",
@@ -3027,9 +3027,9 @@
     },
     {
       "id": "DRAFT-DQ-0054",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-INDIAN_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which Indian state has the longest international border?",
@@ -3083,9 +3083,9 @@
     },
     {
       "id": "DRAFT-DQ-0055",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-INDIAN_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which line marked the 1947 boundary between India and Pakistan?",
@@ -3139,9 +3139,9 @@
     },
     {
       "id": "DRAFT-DQ-0056",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-TIME_AND_STANDARDS",
       "conceptIds": [],
       "question": {
         "en": "Indian Standard Time runs ahead of UTC by how much?",
@@ -3195,9 +3195,9 @@
     },
     {
       "id": "DRAFT-DQ-0057",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-TIME_AND_STANDARDS",
       "conceptIds": [],
       "question": {
         "en": "Which Indian laboratory keeps the country's official time and frequency standards?",
@@ -3251,9 +3251,9 @@
     },
     {
       "id": "DRAFT-DQ-0058",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-TIME_AND_STANDARDS",
       "conceptIds": [],
       "question": {
         "en": "Indian Standard Time is calculated from the standard meridian at which longitude?",
@@ -3308,9 +3308,9 @@
     },
     {
       "id": "DRAFT-DQ-0059",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-ECON",
+      "chapterId": "IND-ECON",
+      "topicId": "IND-ECON-CURRENCY",
       "conceptIds": [],
       "question": {
         "en": "Who issues currency notes in India?",
@@ -3364,9 +3364,9 @@
     },
     {
       "id": "DRAFT-DQ-0060",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-ECON",
+      "chapterId": "IND-ECON",
+      "topicId": "IND-ECON-CURRENCY",
       "conceptIds": [],
       "question": {
         "en": "Which body issues the one rupee note in India?",
@@ -3420,9 +3420,9 @@
     },
     {
       "id": "DRAFT-DQ-0061",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-ECON",
+      "chapterId": "IND-ECON",
+      "topicId": "IND-ECON-CURRENCY",
       "conceptIds": [],
       "question": {
         "en": "Who designed the rupee symbol that India adopted in 2010?",
@@ -3476,9 +3476,9 @@
     },
     {
       "id": "DRAFT-DQ-0062",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-ECON",
+      "chapterId": "IND-ECON",
+      "topicId": "IND-ECON-CURRENCY",
       "conceptIds": [],
       "question": {
         "en": "How many mints in India produce coins?",
@@ -3532,9 +3532,9 @@
     },
     {
       "id": "DRAFT-DQ-0063",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-INDIAN_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "The Himalayas rose mainly because of the collision between which two tectonic plates?",
@@ -3588,9 +3588,9 @@
     },
     {
       "id": "DRAFT-DQ-0064",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-INDIAN_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "The Northern Plains of India are built mainly from what kind of material?",
@@ -3644,9 +3644,9 @@
     },
     {
       "id": "DRAFT-DQ-0065",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-INDIAN_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "The Thar Desert lies mainly in which Indian state?",
@@ -3700,9 +3700,9 @@
     },
     {
       "id": "DRAFT-DQ-0066",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-INDIAN_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "The eastern coast of India between the deltas of the Krishna and Kaveri is known by which name?",
@@ -3756,9 +3756,9 @@
     },
     {
       "id": "DRAFT-DQ-0067",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-INDIAN_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which plateau is bounded by the Western Ghats on one side and the Eastern Ghats on the other?",
@@ -3812,9 +3812,9 @@
     },
     {
       "id": "DRAFT-DQ-0068",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-UNITED_NATIONS",
       "conceptIds": [],
       "question": {
         "en": "In which city was the Charter of the United Nations signed in 1945?",
@@ -3868,9 +3868,9 @@
     },
     {
       "id": "DRAFT-DQ-0069",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-UNITED_NATIONS",
       "conceptIds": [],
       "question": {
         "en": "On which date did the United Nations officially come into existence?",
@@ -3924,9 +3924,9 @@
     },
     {
       "id": "DRAFT-DQ-0070",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-UNITED_NATIONS",
       "conceptIds": [],
       "question": {
         "en": "The Charter opens by stating the United Nations' first purpose. What is it?",
@@ -3980,9 +3980,9 @@
     },
     {
       "id": "DRAFT-DQ-0071",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-UNITED_NATIONS",
       "conceptIds": [],
       "question": {
         "en": "How many principal organs does the United Nations have?",
@@ -4036,9 +4036,9 @@
     },
     {
       "id": "DRAFT-DQ-0072",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-UNITED_NATIONS",
       "conceptIds": [],
       "question": {
         "en": "Which principal organ of the United Nations sits in The Hague?",
@@ -4092,9 +4092,9 @@
     },
     {
       "id": "DRAFT-DQ-0073",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-UNITED_NATIONS",
       "conceptIds": [],
       "question": {
         "en": "How many permanent members sit on the United Nations Security Council?",
@@ -4148,9 +4148,9 @@
     },
     {
       "id": "DRAFT-DQ-0074",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-UNITED_NATIONS",
       "conceptIds": [],
       "question": {
         "en": "Including the permanent ones, how many members does the Security Council have?",
@@ -4204,9 +4204,9 @@
     },
     {
       "id": "DRAFT-DQ-0075",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-UNITED_NATIONS",
       "conceptIds": [],
       "question": {
         "en": "Which United Nations organ suspended its operations in 1994 after the last trust territory became independent?",
@@ -4260,9 +4260,9 @@
     },
     {
       "id": "DRAFT-DQ-0076",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-UNITED_NATIONS",
       "conceptIds": [],
       "question": {
         "en": "Which body recommends the appointment of the Secretary-General of the United Nations?",
@@ -4316,9 +4316,9 @@
     },
     {
       "id": "DRAFT-DQ-0077",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_HERITAGE",
       "conceptIds": [],
       "question": {
         "en": "The ruins of Mohenjo-daro, a World Heritage site, lie in which country?",
@@ -4372,9 +4372,9 @@
     },
     {
       "id": "DRAFT-DQ-0078",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_HERITAGE",
       "conceptIds": [],
       "question": {
         "en": "Mohenjo-daro belonged to which ancient civilisation?",
@@ -4428,9 +4428,9 @@
     },
     {
       "id": "DRAFT-DQ-0079",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_HERITAGE",
       "conceptIds": [],
       "question": {
         "en": "Which large brick water structure is a famous feature of Mohenjo-daro?",
@@ -4484,9 +4484,9 @@
     },
     {
       "id": "DRAFT-DQ-0080",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_HERITAGE",
       "conceptIds": [],
       "question": {
         "en": "The name 'Mohenjo-daro' is usually translated into English as what?",
@@ -4540,9 +4540,9 @@
     },
     {
       "id": "DRAFT-DQ-0081",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_HERITAGE",
       "conceptIds": [],
       "question": {
         "en": "Lumbini, the birthplace of the Lord Buddha, is located in which country?",
@@ -4596,9 +4596,9 @@
     },
     {
       "id": "DRAFT-DQ-0082",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_HERITAGE",
       "conceptIds": [],
       "question": {
         "en": "Which ancient pillar stands at Lumbini as a marker of the Buddha's birthplace?",
@@ -4652,9 +4652,9 @@
     },
     {
       "id": "DRAFT-DQ-0083",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "ART-CULT",
+      "chapterId": "ART-CULT",
+      "topicId": "ART-CULT-CULTURE",
       "conceptIds": [],
       "question": {
         "en": "The UNESCO Convention adopted in 2003 is meant to safeguard which kind of heritage?",
@@ -4708,9 +4708,9 @@
     },
     {
       "id": "DRAFT-DQ-0084",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-GLOBAL_FINANCE",
       "conceptIds": [],
       "question": {
         "en": "In which country was the 1944 Bretton Woods Conference held?",
@@ -4764,9 +4764,9 @@
     },
     {
       "id": "DRAFT-DQ-0085",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-GLOBAL_FINANCE",
       "conceptIds": [],
       "question": {
         "en": "The Bretton Woods Conference led to the creation of which pair of institutions?",
@@ -4820,9 +4820,9 @@
     },
     {
       "id": "DRAFT-DQ-0086",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-GLOBAL_FINANCE",
       "conceptIds": [],
       "question": {
         "en": "Where is the headquarters of the International Monetary Fund?",
@@ -4876,9 +4876,9 @@
     },
     {
       "id": "DRAFT-DQ-0087",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-GLOBAL_FINANCE",
       "conceptIds": [],
       "question": {
         "en": "What is the name of the reserve asset and unit of account used by the IMF?",
@@ -4932,9 +4932,9 @@
     },
     {
       "id": "DRAFT-DQ-0088",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-GLOBAL_FINANCE",
       "conceptIds": [],
       "question": {
         "en": "The IMF describes its central job in one phrase. Which of these is it?",
@@ -4988,9 +4988,9 @@
     },
     {
       "id": "DRAFT-DQ-0089",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-GLOBAL_FINANCE",
       "conceptIds": [],
       "question": {
         "en": "The World Bank Group is made up of how many institutions?",
@@ -5044,9 +5044,9 @@
     },
     {
       "id": "DRAFT-DQ-0090",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-GLOBAL_FINANCE",
       "conceptIds": [],
       "question": {
         "en": "Which World Bank Group institution works directly with private companies in developing countries?",
@@ -5100,9 +5100,9 @@
     },
     {
       "id": "DRAFT-DQ-0091",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-GLOBAL_FINANCE",
       "conceptIds": [],
       "question": {
         "en": "Which World Bank Group body provides political risk insurance to foreign investors?",
@@ -5156,9 +5156,9 @@
     },
     {
       "id": "DRAFT-DQ-0092",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-GLOBAL_FINANCE",
       "conceptIds": [],
       "question": {
         "en": "Which World Bank Group body settles investment disputes between governments and foreign investors?",
@@ -5212,9 +5212,9 @@
     },
     {
       "id": "DRAFT-DQ-0093",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-GLOBAL_FINANCE",
       "conceptIds": [],
       "question": {
         "en": "Which World Bank Group institution gives interest-free credits and grants to the poorest countries?",
@@ -5268,9 +5268,9 @@
     },
     {
       "id": "DRAFT-DQ-0094",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "AWARDS",
+      "chapterId": "AWARDS",
+      "topicId": "AWARDS-AWARDS",
       "conceptIds": [],
       "question": {
         "en": "Alfred Nobel's will created prizes in how many original fields?",
@@ -5324,9 +5324,9 @@
     },
     {
       "id": "DRAFT-DQ-0095",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "AWARDS",
+      "chapterId": "AWARDS",
+      "topicId": "AWARDS-AWARDS",
       "conceptIds": [],
       "question": {
         "en": "Which Nobel Prize is presented in Oslo rather than Stockholm?",
@@ -5380,9 +5380,9 @@
     },
     {
       "id": "DRAFT-DQ-0096",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "AWARDS",
+      "chapterId": "AWARDS",
+      "topicId": "AWARDS-AWARDS",
       "conceptIds": [],
       "question": {
         "en": "In which year were the first Nobel Prizes handed out?",
@@ -5436,9 +5436,9 @@
     },
     {
       "id": "DRAFT-DQ-0097",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "ART-CULT",
+      "chapterId": "ART-CULT",
+      "topicId": "ART-CULT-LITERATURE",
       "conceptIds": [],
       "question": {
         "en": "In which year did Rabindranath Tagore receive the Nobel Prize in Literature?",
@@ -5492,9 +5492,9 @@
     },
     {
       "id": "DRAFT-DQ-0098",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "ART-CULT",
+      "chapterId": "ART-CULT",
+      "topicId": "ART-CULT-LITERATURE",
       "conceptIds": [],
       "question": {
         "en": "Tagore's Nobel award was cited for which collection of poems?",
@@ -5548,9 +5548,9 @@
     },
     {
       "id": "DRAFT-DQ-0099",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "ART-CULT",
+      "chapterId": "ART-CULT",
+      "topicId": "ART-CULT-LITERATURE",
       "conceptIds": [],
       "question": {
         "en": "Which national anthem of India was written by Rabindranath Tagore?",
@@ -5604,9 +5604,9 @@
     },
     {
       "id": "DRAFT-DQ-0100",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-HIST",
+      "chapterId": "IND-HIST",
+      "topicId": "IND-HIST-HISTORY",
       "conceptIds": [],
       "question": {
         "en": "On which date was the American Declaration of Independence adopted?",
@@ -5660,9 +5660,9 @@
     },
     {
       "id": "DRAFT-DQ-0101",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-HIST",
+      "chapterId": "IND-HIST",
+      "topicId": "IND-HIST-HISTORY",
       "conceptIds": [],
       "question": {
         "en": "Who was the principal author of the American Declaration of Independence?",
@@ -5716,9 +5716,9 @@
     },
     {
       "id": "DRAFT-DQ-0102",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-HIST",
+      "chapterId": "IND-HIST",
+      "topicId": "IND-HIST-HISTORY",
       "conceptIds": [],
       "question": {
         "en": "The Declaration of Independence says governments draw their just powers from what?",
@@ -5772,9 +5772,9 @@
     },
     {
       "id": "DRAFT-DQ-0103",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-COMPUTING",
       "conceptIds": [],
       "question": {
         "en": "In networking, what does DNS stand for?",
@@ -5828,9 +5828,9 @@
     },
     {
       "id": "DRAFT-DQ-0104",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-COMPUTING",
       "conceptIds": [],
       "question": {
         "en": "What is the main job of DNS?",
@@ -5884,9 +5884,9 @@
     },
     {
       "id": "DRAFT-DQ-0105",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-COMPUTING",
       "conceptIds": [],
       "question": {
         "en": "In which year was RFC 1034, the paper that set out domain name concepts, published?",
@@ -5940,9 +5940,9 @@
     },
     {
       "id": "DRAFT-DQ-0106",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-COMPUTING",
       "conceptIds": [],
       "question": {
         "en": "In the domain name system, what does the word 'zone' mean?",
@@ -5996,9 +5996,9 @@
     },
     {
       "id": "DRAFT-DQ-0107",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-COMPUTING",
       "conceptIds": [],
       "question": {
         "en": "The domain name space is arranged as an upside-down tree. What sits at its very top?",
@@ -6052,9 +6052,9 @@
     },
     {
       "id": "DRAFT-DQ-0108",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-CYBERSECURITY",
       "conceptIds": [],
       "question": {
         "en": "What does 'phishing' describe in cybersecurity?",
@@ -6108,9 +6108,9 @@
     },
     {
       "id": "DRAFT-DQ-0109",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-CYBERSECURITY",
       "conceptIds": [],
       "question": {
         "en": "The word 'malware' is short for what?",
@@ -6164,9 +6164,9 @@
     },
     {
       "id": "DRAFT-DQ-0110",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-CYBERSECURITY",
       "conceptIds": [],
       "question": {
         "en": "What does a firewall mainly do for a network?",
@@ -6220,9 +6220,9 @@
     },
     {
       "id": "DRAFT-DQ-0111",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-CYBERSECURITY",
       "conceptIds": [],
       "question": {
         "en": "Which kind of malware locks your files and then demands payment to release them?",
@@ -6276,9 +6276,9 @@
     },
     {
       "id": "DRAFT-DQ-0112",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-CYBERSECURITY",
       "conceptIds": [],
       "question": {
         "en": "Two-factor authentication improves account security by requiring what?",
@@ -6332,9 +6332,9 @@
     },
     {
       "id": "DRAFT-DQ-0113",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-WEATHER",
       "conceptIds": [],
       "question": {
         "en": "Which instrument measures atmospheric pressure?",
@@ -6388,9 +6388,9 @@
     },
     {
       "id": "DRAFT-DQ-0114",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-WEATHER",
       "conceptIds": [],
       "question": {
         "en": "What is the dew point?",
@@ -6444,9 +6444,9 @@
     },
     {
       "id": "DRAFT-DQ-0115",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-WEATHER",
       "conceptIds": [],
       "question": {
         "en": "Wind speed at a weather station is recorded with which instrument?",
@@ -6500,9 +6500,9 @@
     },
     {
       "id": "DRAFT-DQ-0116",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-WEATHER",
       "conceptIds": [],
       "question": {
         "en": "In weather language, what does a cyclone refer to?",
@@ -6556,9 +6556,9 @@
     },
     {
       "id": "DRAFT-DQ-0117",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HEALTH",
       "conceptIds": [],
       "question": {
         "en": "The WHO's five keys to safer food open with which piece of advice?",
@@ -6612,9 +6612,9 @@
     },
     {
       "id": "DRAFT-DQ-0118",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HEALTH",
       "conceptIds": [],
       "question": {
         "en": "In which temperature band do food-poisoning bacteria multiply fastest?",
@@ -6668,9 +6668,9 @@
     },
     {
       "id": "DRAFT-DQ-0119",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HEALTH",
       "conceptIds": [],
       "question": {
         "en": "Why should raw meat be kept apart from ready-to-eat food in the kitchen?",
@@ -6725,9 +6725,9 @@
     },
     {
       "id": "DRAFT-DQ-0120",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HEALTH",
       "conceptIds": [],
       "question": {
         "en": "What does putting cooked food in the refrigerator actually do to the bacteria on it?",
@@ -6781,9 +6781,9 @@
     },
     {
       "id": "DRAFT-DQ-0121",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-CHESS",
       "conceptIds": [],
       "question": {
         "en": "How many pieces does each player command at the start of a chess game?",
@@ -6837,9 +6837,9 @@
     },
     {
       "id": "DRAFT-DQ-0122",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-CHESS",
       "conceptIds": [],
       "question": {
         "en": "In chess, which side makes the first move?",
@@ -6893,9 +6893,9 @@
     },
     {
       "id": "DRAFT-DQ-0123",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-CHESS",
       "conceptIds": [],
       "question": {
         "en": "What is stalemate in chess?",
@@ -6949,9 +6949,9 @@
     },
     {
       "id": "DRAFT-DQ-0124",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-CHESS",
       "conceptIds": [],
       "question": {
         "en": "Castling is a single move that involves which two pieces?",
@@ -7005,9 +7005,9 @@
     },
     {
       "id": "DRAFT-DQ-0125",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-CHESS",
       "conceptIds": [],
       "question": {
         "en": "En passant is a special capture that can be made only by which piece?",
@@ -7061,9 +7061,9 @@
     },
     {
       "id": "DRAFT-DQ-0126",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-CHESS",
       "conceptIds": [],
       "question": {
         "en": "Under the FIDE Laws of Chess, what happens when a player completes a first illegal move in a standard game?",
@@ -7117,9 +7117,9 @@
     },
     {
       "id": "DRAFT-DQ-0127",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "ART-CULT",
+      "chapterId": "ART-CULT",
+      "topicId": "ART-CULT-CINEMA",
       "conceptIds": [],
       "question": {
         "en": "Who held the famous public film screening in Paris in 1895?",
@@ -7173,9 +7173,9 @@
     },
     {
       "id": "DRAFT-DQ-0128",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "ART-CULT",
+      "chapterId": "ART-CULT",
+      "topicId": "ART-CULT-CINEMA",
       "conceptIds": [],
       "question": {
         "en": "Which 1927 release is remembered for bringing synchronised sound to mainstream cinema?",
@@ -7229,9 +7229,9 @@
     },
     {
       "id": "DRAFT-DQ-0129",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "ART-CULT",
+      "chapterId": "ART-CULT",
+      "topicId": "ART-CULT-CULTURE",
       "conceptIds": [],
       "question": {
         "en": "In Greek tradition, who rules the sky and leads the gods?",
@@ -7285,9 +7285,9 @@
     },
     {
       "id": "DRAFT-DQ-0130",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "ART-CULT",
+      "chapterId": "ART-CULT",
+      "topicId": "ART-CULT-CULTURE",
       "conceptIds": [],
       "question": {
         "en": "Which Greek goddess is linked with wisdom and strategic warfare?",
@@ -7341,9 +7341,9 @@
     },
     {
       "id": "DRAFT-DQ-0131",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "ART-CULT",
+      "chapterId": "ART-CULT",
+      "topicId": "ART-CULT-CULTURE",
       "conceptIds": [],
       "question": {
         "en": "Who is the Greek god of the sea, earthquakes and horses?",
@@ -7397,9 +7397,9 @@
     },
     {
       "id": "DRAFT-DQ-0132",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "ART-CULT",
+      "chapterId": "ART-CULT",
+      "topicId": "ART-CULT-CULTURE",
       "conceptIds": [],
       "question": {
         "en": "Which Greek god rules the realm of the dead?",
@@ -7453,9 +7453,9 @@
     },
     {
       "id": "DRAFT-DQ-0133",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "ART-CULT",
+      "chapterId": "ART-CULT",
+      "topicId": "ART-CULT-CULTURE",
       "conceptIds": [],
       "question": {
         "en": "Which Greek goddess is associated with love and beauty?",
@@ -7509,9 +7509,9 @@
     },
     {
       "id": "DRAFT-DQ-0134",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HEALTH",
       "conceptIds": [],
       "question": {
         "en": "The spread of cancer from where it started to distant parts of the body is called what?",
@@ -7565,9 +7565,9 @@
     },
     {
       "id": "DRAFT-DQ-0135",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HEALTH",
       "conceptIds": [],
       "question": {
         "en": "A growth that stays in one place and does not invade nearby tissue is described as what?",
@@ -7621,9 +7621,9 @@
     },
     {
       "id": "DRAFT-DQ-0136",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HEALTH",
       "conceptIds": [],
       "question": {
         "en": "What is a biopsy?",
@@ -7677,9 +7677,9 @@
     },
     {
       "id": "DRAFT-DQ-0137",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HEALTH",
       "conceptIds": [],
       "question": {
         "en": "Which treatment uses drugs to destroy or slow fast-growing cells?",
@@ -7733,9 +7733,9 @@
     },
     {
       "id": "DRAFT-DQ-0138",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-GLOBAL_INSTITUTIONS",
       "conceptIds": [],
       "question": {
         "en": "The World Health Organization works as a specialised agency of which body?",
@@ -7790,9 +7790,9 @@
     },
     {
       "id": "DRAFT-DQ-0139",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Who is the constitutional head of state of India?",
@@ -7846,9 +7846,9 @@
     },
     {
       "id": "DRAFT-DQ-0140",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Who is the ex-officio Chairman of NITI Aayog?",
@@ -7902,9 +7902,9 @@
     },
     {
       "id": "DRAFT-DQ-0141",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Who is the ex-officio Chairman of the Rajya Sabha?",
@@ -7958,9 +7958,9 @@
     },
     {
       "id": "DRAFT-DQ-0142",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "What is the minimum age to become a member of the Lok Sabha?",
@@ -8014,9 +8014,9 @@
     },
     {
       "id": "DRAFT-DQ-0143",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "What is the minimum age to become a member of the Rajya Sabha?",
@@ -8070,9 +8070,9 @@
     },
     {
       "id": "DRAFT-DQ-0144",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "What is the minimum voting age in India?",
@@ -8126,9 +8126,9 @@
     },
     {
       "id": "DRAFT-DQ-0145",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Which Article of the Constitution guarantees equality before the law?",
@@ -8182,9 +8182,9 @@
     },
     {
       "id": "DRAFT-DQ-0146",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Freedom of speech and expression comes under which Article?",
@@ -8238,9 +8238,9 @@
     },
     {
       "id": "DRAFT-DQ-0147",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Which Article abolishes untouchability in India?",
@@ -8294,9 +8294,9 @@
     },
     {
       "id": "DRAFT-DQ-0148",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "The Fundamental Duties of Indian citizens are listed in which Article?",
@@ -8350,9 +8350,9 @@
     },
     {
       "id": "DRAFT-DQ-0149",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "The Directive Principles of State Policy sit in which Part of the Constitution?",
@@ -8406,9 +8406,9 @@
     },
     {
       "id": "DRAFT-DQ-0150",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "How many Schedules does the Constitution of India contain?",
@@ -8462,9 +8462,9 @@
     },
     {
       "id": "DRAFT-DQ-0151",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Who chaired the Drafting Committee of the Constituent Assembly?",
@@ -8518,9 +8518,9 @@
     },
     {
       "id": "DRAFT-DQ-0152",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "With which words does the Preamble of the Indian Constitution begin?",
@@ -8574,9 +8574,9 @@
     },
     {
       "id": "DRAFT-DQ-0153",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Which Amendment added the words 'Socialist' and 'Secular' to the Preamble?",
@@ -8630,9 +8630,9 @@
     },
     {
       "id": "DRAFT-DQ-0154",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "What is the quorum required to hold a sitting of either House of Parliament?",
@@ -8686,9 +8686,9 @@
     },
     {
       "id": "DRAFT-DQ-0155",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Who presides over a joint sitting of the two Houses of Parliament?",
@@ -8742,9 +8742,9 @@
     },
     {
       "id": "DRAFT-DQ-0156",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Who administers the oath of office to the President of India?",
@@ -8798,9 +8798,9 @@
     },
     {
       "id": "DRAFT-DQ-0157",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "The establishment of the Supreme Court of India is provided for in which Article?",
@@ -8854,9 +8854,9 @@
     },
     {
       "id": "DRAFT-DQ-0158",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "The office of the Attorney General for India is created by which Article?",
@@ -8910,9 +8910,9 @@
     },
     {
       "id": "DRAFT-DQ-0159",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "The Comptroller and Auditor General of India is provided for in which Article?",
@@ -8966,9 +8966,9 @@
     },
     {
       "id": "DRAFT-DQ-0160",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Which Article establishes the Election Commission of India?",
@@ -9022,9 +9022,9 @@
     },
     {
       "id": "DRAFT-DQ-0161",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "On which date was the national flag of India adopted by the Constituent Assembly?",
@@ -9078,9 +9078,9 @@
     },
     {
       "id": "DRAFT-DQ-0162",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "On which date was Jana Gana Mana adopted as the national anthem?",
@@ -9134,9 +9134,9 @@
     },
     {
       "id": "DRAFT-DQ-0163",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-ECON",
+      "chapterId": "IND-ECON",
+      "topicId": "IND-ECON-CURRENCY",
       "conceptIds": [],
       "question": {
         "en": "In which year was the Reserve Bank of India established?",
@@ -9190,9 +9190,9 @@
     },
     {
       "id": "DRAFT-DQ-0164",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-ECON",
+      "chapterId": "IND-ECON",
+      "topicId": "IND-ECON-CURRENCY",
       "conceptIds": [],
       "question": {
         "en": "In which year was the Reserve Bank of India nationalised?",
@@ -9246,9 +9246,9 @@
     },
     {
       "id": "DRAFT-DQ-0165",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-ECON",
+      "chapterId": "IND-ECON",
+      "topicId": "IND-ECON-CURRENCY",
       "conceptIds": [],
       "question": {
         "en": "Where is the central office of the Reserve Bank of India?",
@@ -9302,9 +9302,9 @@
     },
     {
       "id": "DRAFT-DQ-0166",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-ECON",
+      "chapterId": "IND-ECON",
+      "topicId": "IND-ECON-CURRENCY",
       "conceptIds": [],
       "question": {
         "en": "Whose signature appears on Indian currency notes other than the one rupee note?",
@@ -9358,9 +9358,9 @@
     },
     {
       "id": "DRAFT-DQ-0167",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-ECON",
+      "chapterId": "IND-ECON",
+      "topicId": "IND-ECON-CURRENCY",
       "conceptIds": [],
       "question": {
         "en": "After the ₹2,000 note was withdrawn from circulation in 2023, which is the highest denomination the RBI issues?",
@@ -9414,9 +9414,9 @@
     },
     {
       "id": "DRAFT-DQ-0168",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-ECON",
+      "chapterId": "IND-ECON",
+      "topicId": "IND-ECON-CURRENCY",
       "conceptIds": [],
       "question": {
         "en": "In which month and year were the ₹500 and ₹1,000 notes demonetised in India?",
@@ -9470,9 +9470,9 @@
     },
     {
       "id": "DRAFT-DQ-0169",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-INDIAN_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which is the longest river flowing within India?",
@@ -9526,9 +9526,9 @@
     },
     {
       "id": "DRAFT-DQ-0170",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-INDIAN_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which is the largest Indian state by area?",
@@ -9582,9 +9582,9 @@
     },
     {
       "id": "DRAFT-DQ-0171",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-INDIAN_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which is the smallest Indian state by area?",
@@ -9638,9 +9638,9 @@
     },
     {
       "id": "DRAFT-DQ-0172",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-INDIAN_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which Indian state had the largest population in the 2011 census?",
@@ -9694,9 +9694,9 @@
     },
     {
       "id": "DRAFT-DQ-0173",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-INDIAN_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which Indian state has the longest coastline?",
@@ -9750,9 +9750,9 @@
     },
     {
       "id": "DRAFT-DQ-0174",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-INDIAN_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "The Lakshadweep islands lie in which body of water?",
@@ -9806,9 +9806,9 @@
     },
     {
       "id": "DRAFT-DQ-0175",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-INDIAN_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "The Andaman and Nicobar Islands lie in which body of water?",
@@ -9862,9 +9862,9 @@
     },
     {
       "id": "DRAFT-DQ-0176",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-INDIAN_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "The Narmada river empties into which sea?",
@@ -9918,9 +9918,9 @@
     },
     {
       "id": "DRAFT-DQ-0177",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-INDIAN_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "The Tropic of Cancer passes through how many Indian states?",
@@ -9974,9 +9974,9 @@
     },
     {
       "id": "DRAFT-DQ-0178",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-INDIAN_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "The Sundarbans delta is formed by which pair of rivers?",
@@ -10030,9 +10030,9 @@
     },
     {
       "id": "DRAFT-DQ-0179",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-WORLD_BODIES",
       "conceptIds": [],
       "question": {
         "en": "In which city is the headquarters of the United Nations?",
@@ -10086,9 +10086,9 @@
     },
     {
       "id": "DRAFT-DQ-0180",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-WORLD_BODIES",
       "conceptIds": [],
       "question": {
         "en": "For how many years is the Secretary-General of the United Nations appointed at a time?",
@@ -10142,9 +10142,9 @@
     },
     {
       "id": "DRAFT-DQ-0181",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-WORLD_BODIES",
       "conceptIds": [],
       "question": {
         "en": "How many member states does the United Nations currently have?",
@@ -10198,9 +10198,9 @@
     },
     {
       "id": "DRAFT-DQ-0182",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-WORLD_BODIES",
       "conceptIds": [],
       "question": {
         "en": "Which international organisation came before the United Nations?",
@@ -10254,9 +10254,9 @@
     },
     {
       "id": "DRAFT-DQ-0183",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-WORLD_BODIES",
       "conceptIds": [],
       "question": {
         "en": "In which year was the Universal Declaration of Human Rights adopted?",
@@ -10310,9 +10310,9 @@
     },
     {
       "id": "DRAFT-DQ-0184",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-WORLD_BODIES",
       "conceptIds": [],
       "question": {
         "en": "Who chaired the committee that drafted the Universal Declaration of Human Rights?",
@@ -10366,9 +10366,9 @@
     },
     {
       "id": "DRAFT-DQ-0185",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-WORLD_BODIES",
       "conceptIds": [],
       "question": {
         "en": "How many official languages does the United Nations have?",
@@ -10422,9 +10422,9 @@
     },
     {
       "id": "DRAFT-DQ-0186",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-WORLD_BODIES",
       "conceptIds": [],
       "question": {
         "en": "Which of these is not an official language of the United Nations?",
@@ -10478,9 +10478,9 @@
     },
     {
       "id": "DRAFT-DQ-0187",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-WORLD_BODIES",
       "conceptIds": [],
       "question": {
         "en": "Where is the headquarters of the World Health Organization?",
@@ -10534,9 +10534,9 @@
     },
     {
       "id": "DRAFT-DQ-0188",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-WORLD_BODIES",
       "conceptIds": [],
       "question": {
         "en": "Where is the headquarters of UNESCO?",
@@ -10590,9 +10590,9 @@
     },
     {
       "id": "DRAFT-DQ-0189",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-WORLD_BODIES",
       "conceptIds": [],
       "question": {
         "en": "In which year did the World Trade Organization come into being?",
@@ -10646,9 +10646,9 @@
     },
     {
       "id": "DRAFT-DQ-0190",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-WORLD_BODIES",
       "conceptIds": [],
       "question": {
         "en": "The World Trade Organization took over from which earlier agreement?",
@@ -10702,9 +10702,9 @@
     },
     {
       "id": "DRAFT-DQ-0191",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-WORLD_BODIES",
       "conceptIds": [],
       "question": {
         "en": "In which city was the North Atlantic Treaty signed in April 1949?",
@@ -10758,9 +10758,9 @@
     },
     {
       "id": "DRAFT-DQ-0192",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-WORLD_BODIES",
       "conceptIds": [],
       "question": {
         "en": "How many member states does ASEAN have?",
@@ -10814,9 +10814,9 @@
     },
     {
       "id": "DRAFT-DQ-0193",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-WORLD_BODIES",
       "conceptIds": [],
       "question": {
         "en": "How many member states does SAARC have?",
@@ -10870,9 +10870,9 @@
     },
     {
       "id": "DRAFT-DQ-0194",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-WORLD_BODIES",
       "conceptIds": [],
       "question": {
         "en": "Which country joined the original BRIC grouping in 2010 to make it BRICS?",
@@ -10926,9 +10926,9 @@
     },
     {
       "id": "DRAFT-DQ-0195",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-WORLD_BODIES",
       "conceptIds": [],
       "question": {
         "en": "Who founded the International Committee of the Red Cross?",
@@ -10982,9 +10982,9 @@
     },
     {
       "id": "DRAFT-DQ-0196",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-WORLD_BODIES",
       "conceptIds": [],
       "question": {
         "en": "In which French city is the headquarters of INTERPOL?",
@@ -11038,9 +11038,9 @@
     },
     {
       "id": "DRAFT-DQ-0197",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-WORLD_BODIES",
       "conceptIds": [],
       "question": {
         "en": "How many judges sit on the International Court of Justice?",
@@ -11094,9 +11094,9 @@
     },
     {
       "id": "DRAFT-DQ-0198",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-WORLD_BODIES",
       "conceptIds": [],
       "question": {
         "en": "For how long is a judge of the International Court of Justice elected?",
@@ -11150,9 +11150,9 @@
     },
     {
       "id": "DRAFT-DQ-0199",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which is the largest continent by area?",
@@ -11206,9 +11206,9 @@
     },
     {
       "id": "DRAFT-DQ-0200",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which is the smallest continent by area?",
@@ -11262,9 +11262,9 @@
     },
     {
       "id": "DRAFT-DQ-0201",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which is the largest ocean on Earth?",
@@ -11318,9 +11318,9 @@
     },
     {
       "id": "DRAFT-DQ-0202",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which is the highest mountain above sea level?",
@@ -11374,9 +11374,9 @@
     },
     {
       "id": "DRAFT-DQ-0203",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which is the largest country in the world by area?",
@@ -11430,9 +11430,9 @@
     },
     {
       "id": "DRAFT-DQ-0204",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which is the smallest country in the world by area?",
@@ -11486,9 +11486,9 @@
     },
     {
       "id": "DRAFT-DQ-0205",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "The line of zero degrees latitude is known by what name?",
@@ -11542,9 +11542,9 @@
     },
     {
       "id": "DRAFT-DQ-0206",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "The Prime Meridian of zero degrees longitude passes through which place?",
@@ -11598,9 +11598,9 @@
     },
     {
       "id": "DRAFT-DQ-0207",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "How many continents are there on Earth?",
@@ -11654,9 +11654,9 @@
     },
     {
       "id": "DRAFT-DQ-0208",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which continent contains the greatest number of countries?",
@@ -11710,9 +11710,9 @@
     },
     {
       "id": "DRAFT-DQ-0209",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which river carries the greatest volume of water to the sea?",
@@ -11766,9 +11766,9 @@
     },
     {
       "id": "DRAFT-DQ-0210",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which is the largest hot desert in the world?",
@@ -11822,9 +11822,9 @@
     },
     {
       "id": "DRAFT-DQ-0211",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which is the deepest lake in the world?",
@@ -11878,9 +11878,9 @@
     },
     {
       "id": "DRAFT-DQ-0212",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which is the longest mountain range on land?",
@@ -11934,9 +11934,9 @@
     },
     {
       "id": "DRAFT-DQ-0213",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which country is known as the Land of the Rising Sun?",
@@ -11990,9 +11990,9 @@
     },
     {
       "id": "DRAFT-DQ-0214",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "What is the currency of Japan?",
@@ -12046,9 +12046,9 @@
     },
     {
       "id": "DRAFT-DQ-0215",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "What is the currency of the United Kingdom?",
@@ -12102,9 +12102,9 @@
     },
     {
       "id": "DRAFT-DQ-0216",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "What is the official currency of China?",
@@ -12158,9 +12158,9 @@
     },
     {
       "id": "DRAFT-DQ-0217",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "What is the capital city of Australia?",
@@ -12214,9 +12214,9 @@
     },
     {
       "id": "DRAFT-DQ-0218",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "What is the capital city of Canada?",
@@ -12270,9 +12270,9 @@
     },
     {
       "id": "DRAFT-DQ-0219",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HUMAN_BODY",
       "conceptIds": [],
       "question": {
         "en": "How many chambers does the human heart have?",
@@ -12326,9 +12326,9 @@
     },
     {
       "id": "DRAFT-DQ-0220",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HUMAN_BODY",
       "conceptIds": [],
       "question": {
         "en": "How many bones are there in a normal adult human body?",
@@ -12382,9 +12382,9 @@
     },
     {
       "id": "DRAFT-DQ-0221",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HUMAN_BODY",
       "conceptIds": [],
       "question": {
         "en": "Which organ produces insulin?",
@@ -12438,9 +12438,9 @@
     },
     {
       "id": "DRAFT-DQ-0222",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HUMAN_BODY",
       "conceptIds": [],
       "question": {
         "en": "Which blood cells defend the body against infection?",
@@ -12494,9 +12494,9 @@
     },
     {
       "id": "DRAFT-DQ-0223",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HUMAN_BODY",
       "conceptIds": [],
       "question": {
         "en": "Which vitamin does the skin manufacture when exposed to sunlight?",
@@ -12550,9 +12550,9 @@
     },
     {
       "id": "DRAFT-DQ-0224",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HUMAN_BODY",
       "conceptIds": [],
       "question": {
         "en": "Which nutrient is the body's principal source of energy?",
@@ -12606,9 +12606,9 @@
     },
     {
       "id": "DRAFT-DQ-0225",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HUMAN_BODY",
       "conceptIds": [],
       "question": {
         "en": "Which is the largest organ of the human body?",
@@ -12662,9 +12662,9 @@
     },
     {
       "id": "DRAFT-DQ-0226",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HUMAN_BODY",
       "conceptIds": [],
       "question": {
         "en": "Which part of the brain coordinates balance and posture?",
@@ -12718,9 +12718,9 @@
     },
     {
       "id": "DRAFT-DQ-0227",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HUMAN_BODY",
       "conceptIds": [],
       "question": {
         "en": "What is the normal core temperature of the human body in degrees Celsius?",
@@ -12774,9 +12774,9 @@
     },
     {
       "id": "DRAFT-DQ-0228",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HUMAN_BODY",
       "conceptIds": [],
       "question": {
         "en": "How many teeth does a normal adult have?",
@@ -12830,9 +12830,9 @@
     },
     {
       "id": "DRAFT-DQ-0229",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HUMAN_BODY",
       "conceptIds": [],
       "question": {
         "en": "Which pigment gives human skin its colour?",
@@ -12886,9 +12886,9 @@
     },
     {
       "id": "DRAFT-DQ-0230",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HUMAN_BODY",
       "conceptIds": [],
       "question": {
         "en": "Which is the largest gland in the human body?",
@@ -12942,9 +12942,9 @@
     },
     {
       "id": "DRAFT-DQ-0231",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "SCI-HIST-SCIENCE_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "Who discovered the human blood groups?",
@@ -12998,9 +12998,9 @@
     },
     {
       "id": "DRAFT-DQ-0232",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HUMAN_BODY",
       "conceptIds": [],
       "question": {
         "en": "Which acid is present in the human stomach?",
@@ -13054,9 +13054,9 @@
     },
     {
       "id": "DRAFT-DQ-0233",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
       "conceptIds": [],
       "question": {
         "en": "Which gas must be present for a fire to keep burning?",
@@ -13110,9 +13110,9 @@
     },
     {
       "id": "DRAFT-DQ-0234",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
       "conceptIds": [],
       "question": {
         "en": "What is the chemical symbol for gold?",
@@ -13166,9 +13166,9 @@
     },
     {
       "id": "DRAFT-DQ-0235",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
       "conceptIds": [],
       "question": {
         "en": "What is the chemical symbol for iron?",
@@ -13222,9 +13222,9 @@
     },
     {
       "id": "DRAFT-DQ-0236",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
       "conceptIds": [],
       "question": {
         "en": "What is the chemical formula of water?",
@@ -13278,9 +13278,9 @@
     },
     {
       "id": "DRAFT-DQ-0237",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
       "conceptIds": [],
       "question": {
         "en": "Common table salt is chemically known as what?",
@@ -13334,9 +13334,9 @@
     },
     {
       "id": "DRAFT-DQ-0238",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
       "conceptIds": [],
       "question": {
         "en": "Which gas is the most abundant in Earth's atmosphere?",
@@ -13390,9 +13390,9 @@
     },
     {
       "id": "DRAFT-DQ-0239",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
       "conceptIds": [],
       "question": {
         "en": "What is the pH of pure water at room temperature?",
@@ -13446,9 +13446,9 @@
     },
     {
       "id": "DRAFT-DQ-0240",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
       "conceptIds": [],
       "question": {
         "en": "Which metal is liquid at room temperature?",
@@ -13502,9 +13502,9 @@
     },
     {
       "id": "DRAFT-DQ-0241",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
       "conceptIds": [],
       "question": {
         "en": "Which non-metal is liquid at room temperature?",
@@ -13558,9 +13558,9 @@
     },
     {
       "id": "DRAFT-DQ-0242",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
       "conceptIds": [],
       "question": {
         "en": "Which is the lightest element in the periodic table?",
@@ -13614,9 +13614,9 @@
     },
     {
       "id": "DRAFT-DQ-0243",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-BIOLOGY",
       "conceptIds": [],
       "question": {
         "en": "Which gas do green plants take in for photosynthesis?",
@@ -13670,9 +13670,9 @@
     },
     {
       "id": "DRAFT-DQ-0244",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-BIOLOGY",
       "conceptIds": [],
       "question": {
         "en": "Which part of a cell is called its powerhouse?",
@@ -13726,9 +13726,9 @@
     },
     {
       "id": "DRAFT-DQ-0245",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "SCI-HIST-SCIENCE_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "Who formulated the three laws of motion?",
@@ -13782,9 +13782,9 @@
     },
     {
       "id": "DRAFT-DQ-0246",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "SCI-HIST-SCIENCE_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "Who proposed the theory of relativity?",
@@ -13838,9 +13838,9 @@
     },
     {
       "id": "DRAFT-DQ-0247",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "SCI-HIST-SCIENCE_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "Who discovered penicillin?",
@@ -13894,9 +13894,9 @@
     },
     {
       "id": "DRAFT-DQ-0248",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "SCI-HIST-SCIENCE_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "Who proposed evolution by natural selection?",
@@ -13950,9 +13950,9 @@
     },
     {
       "id": "DRAFT-DQ-0249",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "SCI-HIST-SCIENCE_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "Who is known as the father of genetics?",
@@ -14006,9 +14006,9 @@
     },
     {
       "id": "DRAFT-DQ-0250",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-PHYSICS",
       "conceptIds": [],
       "question": {
         "en": "Which is the SI unit of electrical resistance?",
@@ -14062,9 +14062,9 @@
     },
     {
       "id": "DRAFT-DQ-0251",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-PHYSICS",
       "conceptIds": [],
       "question": {
         "en": "Which is the SI unit of capacitance?",
@@ -14118,9 +14118,9 @@
     },
     {
       "id": "DRAFT-DQ-0252",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-PHYSICS",
       "conceptIds": [],
       "question": {
         "en": "What is the approximate speed of light in a vacuum?",
@@ -14174,9 +14174,9 @@
     },
     {
       "id": "DRAFT-DQ-0253",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-PHYSICS",
       "conceptIds": [],
       "question": {
         "en": "Through which medium can sound not travel at all?",
@@ -14230,9 +14230,9 @@
     },
     {
       "id": "DRAFT-DQ-0254",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-PHYSICS",
       "conceptIds": [],
       "question": {
         "en": "Which type of lens corrects short-sightedness?",
@@ -14286,9 +14286,9 @@
     },
     {
       "id": "DRAFT-DQ-0255",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-PHYSICS",
       "conceptIds": [],
       "question": {
         "en": "A rainbow is produced mainly by which effect on sunlight inside raindrops?",
@@ -14342,9 +14342,9 @@
     },
     {
       "id": "DRAFT-DQ-0256",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-PHYSICS",
       "conceptIds": [],
       "question": {
         "en": "Which instrument records the shaking of the ground during an earthquake?",
@@ -14398,9 +14398,9 @@
     },
     {
       "id": "DRAFT-DQ-0257",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-PHYSICS",
       "conceptIds": [],
       "question": {
         "en": "Which machine converts mechanical energy into electrical energy?",
@@ -14454,9 +14454,9 @@
     },
     {
       "id": "DRAFT-DQ-0258",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-PHYSICS",
       "conceptIds": [],
       "question": {
         "en": "Which force pulls objects towards the centre of the Earth?",
@@ -14510,9 +14510,9 @@
     },
     {
       "id": "DRAFT-DQ-0259",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-COMPUTING",
       "conceptIds": [],
       "question": {
         "en": "In computing, what does CPU stand for?",
@@ -14566,9 +14566,9 @@
     },
     {
       "id": "DRAFT-DQ-0260",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-COMPUTING",
       "conceptIds": [],
       "question": {
         "en": "In computing, what does RAM stand for?",
@@ -14622,9 +14622,9 @@
     },
     {
       "id": "DRAFT-DQ-0261",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-COMPUTING",
       "conceptIds": [],
       "question": {
         "en": "What does the web status code 404 mean?",
@@ -14678,9 +14678,9 @@
     },
     {
       "id": "DRAFT-DQ-0262",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-COMPUTING",
       "conceptIds": [],
       "question": {
         "en": "Who is credited with proposing the World Wide Web?",
@@ -14734,9 +14734,9 @@
     },
     {
       "id": "DRAFT-DQ-0263",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-COMPUTING",
       "conceptIds": [],
       "question": {
         "en": "How many bits make up one byte?",
@@ -14790,9 +14790,9 @@
     },
     {
       "id": "DRAFT-DQ-0264",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-COMPUTING",
       "conceptIds": [],
       "question": {
         "en": "What does LED stand for?",
@@ -14846,9 +14846,9 @@
     },
     {
       "id": "DRAFT-DQ-0265",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-COMPUTING",
       "conceptIds": [],
       "question": {
         "en": "What does GPS stand for?",
@@ -14902,9 +14902,9 @@
     },
     {
       "id": "DRAFT-DQ-0266",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-COMPUTING",
       "conceptIds": [],
       "question": {
         "en": "Which protocol is used to send an email from a client to a mail server?",
@@ -14958,9 +14958,9 @@
     },
     {
       "id": "DRAFT-DQ-0267",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-COMPUTING",
       "conceptIds": [],
       "question": {
         "en": "In the address HTTPS, what does the final letter S stand for?",
@@ -15014,9 +15014,9 @@
     },
     {
       "id": "DRAFT-DQ-0268",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-COMPUTING",
       "conceptIds": [],
       "question": {
         "en": "How many digits does the binary number system use?",
@@ -15070,9 +15070,9 @@
     },
     {
       "id": "DRAFT-DQ-0269",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-SPORT",
       "conceptIds": [],
       "question": {
         "en": "After how many years are the Summer Olympic Games normally held?",
@@ -15126,9 +15126,9 @@
     },
     {
       "id": "DRAFT-DQ-0270",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-SPORT",
       "conceptIds": [],
       "question": {
         "en": "Where were the first modern Olympic Games held in 1896?",
@@ -15182,9 +15182,9 @@
     },
     {
       "id": "DRAFT-DQ-0271",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-SPORT",
       "conceptIds": [],
       "question": {
         "en": "Which country has won the most FIFA World Cup titles?",
@@ -15238,9 +15238,9 @@
     },
     {
       "id": "DRAFT-DQ-0272",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-SPORT",
       "conceptIds": [],
       "question": {
         "en": "How long is a standard marathon race?",
@@ -15294,9 +15294,9 @@
     },
     {
       "id": "DRAFT-DQ-0273",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-SPORT",
       "conceptIds": [],
       "question": {
         "en": "Which body governs chess worldwide?",
@@ -15350,9 +15350,9 @@
     },
     {
       "id": "DRAFT-DQ-0274",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-SPORT",
       "conceptIds": [],
       "question": {
         "en": "Which body governs international cricket?",
@@ -15406,9 +15406,9 @@
     },
     {
       "id": "DRAFT-DQ-0275",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-SPORT",
       "conceptIds": [],
       "question": {
         "en": "How many players from one football team are on the field during play?",
@@ -15462,9 +15462,9 @@
     },
     {
       "id": "DRAFT-DQ-0276",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-SPORT",
       "conceptIds": [],
       "question": {
         "en": "How many legal deliveries make up one over in cricket?",
@@ -15518,9 +15518,9 @@
     },
     {
       "id": "DRAFT-DQ-0277",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-SPORT",
       "conceptIds": [],
       "question": {
         "en": "The Tour de France is a competition in which sport?",
@@ -15574,9 +15574,9 @@
     },
     {
       "id": "DRAFT-DQ-0278",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-SPORT",
       "conceptIds": [],
       "question": {
         "en": "Wimbledon is the oldest tournament in which sport?",
@@ -15630,9 +15630,9 @@
     },
     {
       "id": "DRAFT-DQ-0279",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-SPORT",
       "conceptIds": [],
       "question": {
         "en": "The Ashes cricket series is contested between which two countries?",
@@ -15686,9 +15686,9 @@
     },
     {
       "id": "DRAFT-DQ-0280",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-SPORT",
       "conceptIds": [],
       "question": {
         "en": "In tennis, which score is announced as 'love'?",
@@ -15742,9 +15742,9 @@
     },
     {
       "id": "DRAFT-DQ-0281",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "AWARDS",
+      "chapterId": "AWARDS",
+      "topicId": "AWARDS-AWARDS",
       "conceptIds": [],
       "question": {
         "en": "In which subject did Alfred Nobel leave no prize?",
@@ -15798,9 +15798,9 @@
     },
     {
       "id": "DRAFT-DQ-0282",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "AWARDS",
+      "chapterId": "AWARDS",
+      "topicId": "AWARDS-AWARDS",
       "conceptIds": [],
       "question": {
         "en": "The Oscar statuette is awarded for achievement in which field?",
@@ -15854,9 +15854,9 @@
     },
     {
       "id": "DRAFT-DQ-0283",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "AWARDS",
+      "chapterId": "AWARDS",
+      "topicId": "AWARDS-AWARDS",
       "conceptIds": [],
       "question": {
         "en": "The Booker Prize is awarded for which kind of work?",
@@ -15910,9 +15910,9 @@
     },
     {
       "id": "DRAFT-DQ-0284",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "AWARDS",
+      "chapterId": "AWARDS",
+      "topicId": "AWARDS-AWARDS",
       "conceptIds": [],
       "question": {
         "en": "The Dadasaheb Phalke Award honours lifetime work in which field?",
@@ -15966,9 +15966,9 @@
     },
     {
       "id": "DRAFT-DQ-0285",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "AWARDS",
+      "chapterId": "AWARDS",
+      "topicId": "AWARDS-AWARDS",
       "conceptIds": [],
       "question": {
         "en": "What is the Bharat Ratna in India?",
@@ -16022,9 +16022,9 @@
     },
     {
       "id": "DRAFT-DQ-0286",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "AWARDS",
+      "chapterId": "AWARDS",
+      "topicId": "AWARDS-AWARDS",
       "conceptIds": [],
       "question": {
         "en": "The Param Vir Chakra is awarded for what?",
@@ -16078,9 +16078,9 @@
     },
     {
       "id": "DRAFT-DQ-0287",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-HIST",
+      "chapterId": "IND-HIST",
+      "topicId": "IND-HIST-INDIAN_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "Who composed the song Vande Mataram?",
@@ -16134,9 +16134,9 @@
     },
     {
       "id": "DRAFT-DQ-0288",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-HIST",
+      "chapterId": "IND-HIST",
+      "topicId": "IND-HIST-INDIAN_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "Who is honoured in India as the Father of the Nation?",
@@ -16190,9 +16190,9 @@
     },
     {
       "id": "DRAFT-DQ-0289",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-HIST",
+      "chapterId": "IND-HIST",
+      "topicId": "IND-HIST-INDIAN_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "Who was the first President of India?",
@@ -16246,9 +16246,9 @@
     },
     {
       "id": "DRAFT-DQ-0290",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-HIST",
+      "chapterId": "IND-HIST",
+      "topicId": "IND-HIST-INDIAN_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "Who was the first Prime Minister of independent India?",
@@ -16302,9 +16302,9 @@
     },
     {
       "id": "DRAFT-DQ-0291",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-HIST",
+      "chapterId": "IND-HIST",
+      "topicId": "IND-HIST-INDIAN_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "Who is remembered as the Iron Man of India for uniting the princely states?",
@@ -16358,9 +16358,9 @@
     },
     {
       "id": "DRAFT-DQ-0292",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-HIST",
+      "chapterId": "IND-HIST",
+      "topicId": "IND-HIST-INDIAN_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "Who was the first woman to serve as Prime Minister of India?",
@@ -16414,9 +16414,9 @@
     },
     {
       "id": "DRAFT-DQ-0293",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-HIST",
+      "chapterId": "IND-HIST",
+      "topicId": "IND-HIST-INDIAN_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "Who gave the slogan 'Jai Hind'?",
@@ -16470,9 +16470,9 @@
     },
     {
       "id": "DRAFT-DQ-0294",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-HIST",
+      "chapterId": "IND-HIST",
+      "topicId": "IND-HIST-INDIAN_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "Who founded the Maurya Empire?",
@@ -16526,9 +16526,9 @@
     },
     {
       "id": "DRAFT-DQ-0295",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-HIST",
+      "chapterId": "IND-HIST",
+      "topicId": "IND-HIST-INDIAN_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "The Taj Mahal was built on the orders of which emperor?",
@@ -16582,9 +16582,9 @@
     },
     {
       "id": "DRAFT-DQ-0296",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-HIST",
+      "chapterId": "IND-HIST",
+      "topicId": "IND-HIST-INDIAN_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "Who founded the Mughal dynasty in India?",
@@ -16638,9 +16638,9 @@
     },
     {
       "id": "DRAFT-DQ-0297",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-HIST",
+      "chapterId": "IND-HIST",
+      "topicId": "IND-HIST-INDIAN_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "In which city does the Qutub Minar stand?",
@@ -16694,9 +16694,9 @@
     },
     {
       "id": "DRAFT-DQ-0298",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-HIST",
+      "chapterId": "IND-HIST",
+      "topicId": "IND-HIST-INDIAN_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "The Great Stupa at Sanchi is associated with which emperor?",
@@ -16750,9 +16750,9 @@
     },
     {
       "id": "DRAFT-DQ-0299",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIA_SYMBOLS",
       "conceptIds": [],
       "question": {
         "en": "Which is the national bird of India?",
@@ -16806,9 +16806,9 @@
     },
     {
       "id": "DRAFT-DQ-0300",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIA_SYMBOLS",
       "conceptIds": [],
       "question": {
         "en": "Which is the national animal of India?",
@@ -16862,9 +16862,9 @@
     },
     {
       "id": "DRAFT-DQ-0301",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIA_SYMBOLS",
       "conceptIds": [],
       "question": {
         "en": "Which is the national aquatic animal of India?",
@@ -16918,9 +16918,9 @@
     },
     {
       "id": "DRAFT-DQ-0302",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIA_SYMBOLS",
       "conceptIds": [],
       "question": {
         "en": "Which is the national flower of India?",
@@ -16974,9 +16974,9 @@
     },
     {
       "id": "DRAFT-DQ-0303",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIA_SYMBOLS",
       "conceptIds": [],
       "question": {
         "en": "Which is the national fruit of India?",
@@ -17030,9 +17030,9 @@
     },
     {
       "id": "DRAFT-DQ-0304",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIA_SYMBOLS",
       "conceptIds": [],
       "question": {
         "en": "Which is the national tree of India?",
@@ -17086,9 +17086,9 @@
     },
     {
       "id": "DRAFT-DQ-0305",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIA_SYMBOLS",
       "conceptIds": [],
       "question": {
         "en": "Which animal has been declared the national heritage animal of India?",
@@ -17142,9 +17142,9 @@
     },
     {
       "id": "DRAFT-DQ-0306",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIA_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Who was the first woman to serve as President of India?",
@@ -17198,9 +17198,9 @@
     },
     {
       "id": "DRAFT-DQ-0307",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIA_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Who was independent India's first Education Minister?",
@@ -17254,9 +17254,9 @@
     },
     {
       "id": "DRAFT-DQ-0308",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIA_JUDICIARY",
       "conceptIds": [],
       "question": {
         "en": "Who was the first Chief Justice of India?",
@@ -17310,9 +17310,9 @@
     },
     {
       "id": "DRAFT-DQ-0309",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIA_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Who was the first Chief Election Commissioner of India?",
@@ -17366,9 +17366,9 @@
     },
     {
       "id": "DRAFT-DQ-0310",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIA_AWARDS",
       "conceptIds": [],
       "question": {
         "en": "Who was the first Indian to win a Nobel Prize?",
@@ -17422,9 +17422,9 @@
     },
     {
       "id": "DRAFT-DQ-0311",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "IND-SPACE-INDIA_SPACE",
       "conceptIds": [],
       "question": {
         "en": "Who was the first Indian to travel into space?",
@@ -17478,9 +17478,9 @@
     },
     {
       "id": "DRAFT-DQ-0312",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "IND-SPACE-INDIA_SPACE",
       "conceptIds": [],
       "question": {
         "en": "Who was the first Indian-born woman to fly in space?",
@@ -17534,9 +17534,9 @@
     },
     {
       "id": "DRAFT-DQ-0313",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SPORT",
+      "chapterId": "SPORT",
+      "topicId": "SPORT-INDIA_SPORT",
       "conceptIds": [],
       "question": {
         "en": "Who won India's first individual Olympic gold medal?",
@@ -17590,9 +17590,9 @@
     },
     {
       "id": "DRAFT-DQ-0314",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-ECON",
+      "chapterId": "IND-ECON",
+      "topicId": "IND-ECON-INDIA_BANKING",
       "conceptIds": [],
       "question": {
         "en": "Which is the largest public sector bank in India?",
@@ -17646,9 +17646,9 @@
     },
     {
       "id": "DRAFT-DQ-0315",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-ECON",
+      "chapterId": "IND-ECON",
+      "topicId": "IND-ECON-INDIA_BANKING",
       "conceptIds": [],
       "question": {
         "en": "Which institution is India's apex body for financing agriculture and rural development?",
@@ -17702,9 +17702,9 @@
     },
     {
       "id": "DRAFT-DQ-0316",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-ECON",
+      "chapterId": "IND-ECON",
+      "topicId": "IND-ECON-INDIA_ECONOMY",
       "conceptIds": [],
       "question": {
         "en": "Which body regulates the securities market in India?",
@@ -17758,9 +17758,9 @@
     },
     {
       "id": "DRAFT-DQ-0317",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-ECON",
+      "chapterId": "IND-ECON",
+      "topicId": "IND-ECON-INDIA_ECONOMY",
       "conceptIds": [],
       "question": {
         "en": "Which body regulates the insurance sector in India?",
@@ -17814,9 +17814,9 @@
     },
     {
       "id": "DRAFT-DQ-0318",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-ECON",
+      "chapterId": "IND-ECON",
+      "topicId": "IND-ECON-INDIA_ECONOMY",
       "conceptIds": [],
       "question": {
         "en": "In Indian taxation, what does GST stand for?",
@@ -17870,9 +17870,9 @@
     },
     {
       "id": "DRAFT-DQ-0319",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-ECON",
+      "chapterId": "IND-ECON",
+      "topicId": "IND-ECON-INDIA_ECONOMY",
       "conceptIds": [],
       "question": {
         "en": "On which date did the Goods and Services Tax come into effect in India?",
@@ -17926,9 +17926,9 @@
     },
     {
       "id": "DRAFT-DQ-0320",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-ECON",
+      "chapterId": "IND-ECON",
+      "topicId": "IND-ECON-INDIA_ECONOMY",
       "conceptIds": [],
       "question": {
         "en": "Which is the oldest stock exchange in Asia?",
@@ -17982,9 +17982,9 @@
     },
     {
       "id": "DRAFT-DQ-0321",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-ECON",
+      "chapterId": "IND-ECON",
+      "topicId": "IND-ECON-INDIA_ECONOMY",
       "conceptIds": [],
       "question": {
         "en": "Which index tracks the leading companies listed on the Bombay Stock Exchange?",
@@ -18038,9 +18038,9 @@
     },
     {
       "id": "DRAFT-DQ-0322",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-ECON",
+      "chapterId": "IND-ECON",
+      "topicId": "IND-ECON-INDIA_ECONOMY",
       "conceptIds": [],
       "question": {
         "en": "Which is the benchmark index of the National Stock Exchange?",
@@ -18094,9 +18094,9 @@
     },
     {
       "id": "DRAFT-DQ-0323",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-NEIGHBOURHOOD",
       "conceptIds": [],
       "question": {
         "en": "What is the capital of Bangladesh?",
@@ -18150,9 +18150,9 @@
     },
     {
       "id": "DRAFT-DQ-0324",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-NEIGHBOURHOOD",
       "conceptIds": [],
       "question": {
         "en": "Which city is the commercial capital of Sri Lanka?",
@@ -18206,9 +18206,9 @@
     },
     {
       "id": "DRAFT-DQ-0325",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-NEIGHBOURHOOD",
       "conceptIds": [],
       "question": {
         "en": "What is the capital of Nepal?",
@@ -18262,9 +18262,9 @@
     },
     {
       "id": "DRAFT-DQ-0326",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-NEIGHBOURHOOD",
       "conceptIds": [],
       "question": {
         "en": "What is the capital of Bhutan?",
@@ -18318,9 +18318,9 @@
     },
     {
       "id": "DRAFT-DQ-0327",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-NEIGHBOURHOOD",
       "conceptIds": [],
       "question": {
         "en": "What is the capital of the Maldives?",
@@ -18374,9 +18374,9 @@
     },
     {
       "id": "DRAFT-DQ-0328",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-BODIES",
+      "chapterId": "WORLD-BODIES",
+      "topicId": "WORLD-BODIES-NEIGHBOURHOOD",
       "conceptIds": [],
       "question": {
         "en": "What is the capital of Myanmar?",
@@ -18430,9 +18430,9 @@
     },
     {
       "id": "DRAFT-DQ-0329",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-ECON",
+      "chapterId": "IND-ECON",
+      "topicId": "IND-ECON-CURRENCIES",
       "conceptIds": [],
       "question": {
         "en": "What is the currency of Bangladesh?",
@@ -18486,9 +18486,9 @@
     },
     {
       "id": "DRAFT-DQ-0330",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-ECON",
+      "chapterId": "IND-ECON",
+      "topicId": "IND-ECON-CURRENCIES",
       "conceptIds": [],
       "question": {
         "en": "What is the currency of Bhutan?",
@@ -18542,9 +18542,9 @@
     },
     {
       "id": "DRAFT-DQ-0331",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-ECON",
+      "chapterId": "IND-ECON",
+      "topicId": "IND-ECON-CURRENCIES",
       "conceptIds": [],
       "question": {
         "en": "What is the currency of the Maldives?",
@@ -18598,9 +18598,9 @@
     },
     {
       "id": "DRAFT-DQ-0332",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-INDIAN_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which is the largest saltwater lake in India?",
@@ -18654,9 +18654,9 @@
     },
     {
       "id": "DRAFT-DQ-0333",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-INDIAN_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which desert lies in northwestern India?",
@@ -18710,9 +18710,9 @@
     },
     {
       "id": "DRAFT-DQ-0334",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-INDIAN_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which mountain range runs along the western coast of peninsular India?",
@@ -18766,9 +18766,9 @@
     },
     {
       "id": "DRAFT-DQ-0335",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-GEO",
+      "chapterId": "IND-GEO",
+      "topicId": "IND-GEO-INDIAN_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which point marks the southern tip of the Indian mainland?",
@@ -18822,9 +18822,9 @@
     },
     {
       "id": "DRAFT-DQ-0336",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "How many union territories does India currently have?",
@@ -18878,9 +18878,9 @@
     },
     {
       "id": "DRAFT-DQ-0337",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-INDIAN_POLITY",
       "conceptIds": [],
       "question": {
         "en": "Which is the newest state to be formed in India?",
@@ -18934,9 +18934,9 @@
     },
     {
       "id": "DRAFT-DQ-0338",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "ENV",
+      "chapterId": "ENV",
+      "topicId": "ENV-ENVIRONMENT",
       "conceptIds": [],
       "question": {
         "en": "Which is the largest mangrove forest in the world?",
@@ -18990,9 +18990,9 @@
     },
     {
       "id": "DRAFT-DQ-0339",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-HIST",
+      "chapterId": "WORLD-HIST",
+      "topicId": "WORLD-HIST-WORLD_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "In which year did the First World War begin?",
@@ -19046,9 +19046,9 @@
     },
     {
       "id": "DRAFT-DQ-0340",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-HIST",
+      "chapterId": "WORLD-HIST",
+      "topicId": "WORLD-HIST-WORLD_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "In which year did the First World War end?",
@@ -19102,9 +19102,9 @@
     },
     {
       "id": "DRAFT-DQ-0341",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-HIST",
+      "chapterId": "WORLD-HIST",
+      "topicId": "WORLD-HIST-WORLD_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "In which year did the Second World War end?",
@@ -19158,9 +19158,9 @@
     },
     {
       "id": "DRAFT-DQ-0342",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-HIST",
+      "chapterId": "WORLD-HIST",
+      "topicId": "WORLD-HIST-WORLD_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "In which year did the French Revolution begin?",
@@ -19214,9 +19214,9 @@
     },
     {
       "id": "DRAFT-DQ-0343",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-HIST",
+      "chapterId": "WORLD-HIST",
+      "topicId": "WORLD-HIST-WORLD_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "Who was the first President of the United States?",
@@ -19270,9 +19270,9 @@
     },
     {
       "id": "DRAFT-DQ-0344",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-HIST",
+      "chapterId": "WORLD-HIST",
+      "topicId": "WORLD-HIST-WORLD_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "In which year did the Berlin Wall fall?",
@@ -19326,9 +19326,9 @@
     },
     {
       "id": "DRAFT-DQ-0345",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-HIST",
+      "chapterId": "WORLD-HIST",
+      "topicId": "WORLD-HIST-WORLD_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "Which country presented the Statue of Liberty to the United States?",
@@ -19382,9 +19382,9 @@
     },
     {
       "id": "DRAFT-DQ-0346",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-HIST",
+      "chapterId": "WORLD-HIST",
+      "topicId": "WORLD-HIST-WORLD_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "Who sailed across the Atlantic and reached the Americas in 1492?",
@@ -19438,9 +19438,9 @@
     },
     {
       "id": "DRAFT-DQ-0347",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-HIST",
+      "chapterId": "WORLD-HIST",
+      "topicId": "WORLD-HIST-WORLD_HISTORY",
       "conceptIds": [],
       "question": {
         "en": "Whose expedition was the first to sail right around the world?",
@@ -19494,9 +19494,9 @@
     },
     {
       "id": "DRAFT-DQ-0348",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "ART-CULT",
+      "chapterId": "ART-CULT",
+      "topicId": "ART-CULT-ART",
       "conceptIds": [],
       "question": {
         "en": "Who painted the Mona Lisa?",
@@ -19550,9 +19550,9 @@
     },
     {
       "id": "DRAFT-DQ-0349",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "ART-CULT",
+      "chapterId": "ART-CULT",
+      "topicId": "ART-CULT-ART",
       "conceptIds": [],
       "question": {
         "en": "In which museum is the Mona Lisa displayed?",
@@ -19606,9 +19606,9 @@
     },
     {
       "id": "DRAFT-DQ-0350",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "ART-CULT",
+      "chapterId": "ART-CULT",
+      "topicId": "ART-CULT-LITERATURE",
       "conceptIds": [],
       "question": {
         "en": "Who wrote the play Romeo and Juliet?",
@@ -19662,9 +19662,9 @@
     },
     {
       "id": "DRAFT-DQ-0351",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "ART-CULT",
+      "chapterId": "ART-CULT",
+      "topicId": "ART-CULT-LITERATURE",
       "conceptIds": [],
       "question": {
         "en": "Who wrote the novel War and Peace?",
@@ -19718,9 +19718,9 @@
     },
     {
       "id": "DRAFT-DQ-0352",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "ART-CULT",
+      "chapterId": "ART-CULT",
+      "topicId": "ART-CULT-LITERATURE",
       "conceptIds": [],
       "question": {
         "en": "Who wrote the novel Les Misérables?",
@@ -19774,9 +19774,9 @@
     },
     {
       "id": "DRAFT-DQ-0353",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-MONUMENTS",
       "conceptIds": [],
       "question": {
         "en": "In which city does the Colosseum stand?",
@@ -19830,9 +19830,9 @@
     },
     {
       "id": "DRAFT-DQ-0354",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-MONUMENTS",
       "conceptIds": [],
       "question": {
         "en": "The Pyramids of Giza stand in which country?",
@@ -19886,9 +19886,9 @@
     },
     {
       "id": "DRAFT-DQ-0355",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-MONUMENTS",
       "conceptIds": [],
       "question": {
         "en": "Machu Picchu is an ancient site in which country?",
@@ -19942,9 +19942,9 @@
     },
     {
       "id": "DRAFT-DQ-0356",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-MONUMENTS",
       "conceptIds": [],
       "question": {
         "en": "The Great Wall stands in which country?",
@@ -19998,9 +19998,9 @@
     },
     {
       "id": "DRAFT-DQ-0357",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-NATURE",
       "conceptIds": [],
       "question": {
         "en": "The Great Barrier Reef is built up by which living organisms?",
@@ -20054,9 +20054,9 @@
     },
     {
       "id": "DRAFT-DQ-0358",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which is the largest island in the world?",
@@ -20110,9 +20110,9 @@
     },
     {
       "id": "DRAFT-DQ-0359",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which is the coldest continent on Earth?",
@@ -20166,9 +20166,9 @@
     },
     {
       "id": "DRAFT-DQ-0360",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which is the highest waterfall in the world?",
@@ -20222,9 +20222,9 @@
     },
     {
       "id": "DRAFT-DQ-0361",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which is the largest canyon in the world?",
@@ -20278,9 +20278,9 @@
     },
     {
       "id": "DRAFT-DQ-0362",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which country now has the largest population in the world?",
@@ -20334,9 +20334,9 @@
     },
     {
       "id": "DRAFT-DQ-0363",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "ENV",
+      "chapterId": "ENV",
+      "topicId": "ENV-ENVIRONMENT",
       "conceptIds": [],
       "question": {
         "en": "Which layer of the atmosphere contains the ozone layer?",
@@ -20390,9 +20390,9 @@
     },
     {
       "id": "DRAFT-DQ-0364",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "ENV",
+      "chapterId": "ENV",
+      "topicId": "ENV-ENVIRONMENT",
       "conceptIds": [],
       "question": {
         "en": "Chlorofluorocarbons released from old refrigerants damage which part of the atmosphere?",
@@ -20446,9 +20446,9 @@
     },
     {
       "id": "DRAFT-DQ-0365",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "ENV",
+      "chapterId": "ENV",
+      "topicId": "ENV-ENVIRONMENT",
       "conceptIds": [],
       "question": {
         "en": "Which international treaty phased out ozone-depleting substances?",
@@ -20502,9 +20502,9 @@
     },
     {
       "id": "DRAFT-DQ-0366",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "ENV",
+      "chapterId": "ENV",
+      "topicId": "ENV-ENVIRONMENT",
       "conceptIds": [],
       "question": {
         "en": "Which agreement on climate change was adopted by world leaders in 2015?",
@@ -20558,9 +20558,9 @@
     },
     {
       "id": "DRAFT-DQ-0367",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "ENV",
+      "chapterId": "ENV",
+      "topicId": "ENV-ENVIRONMENT",
       "conceptIds": [],
       "question": {
         "en": "In which year was the Kyoto Protocol adopted?",
@@ -20614,9 +20614,9 @@
     },
     {
       "id": "DRAFT-DQ-0368",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-OBSERVANCES",
       "conceptIds": [],
       "question": {
         "en": "On which date is World Environment Day observed each year?",
@@ -20670,9 +20670,9 @@
     },
     {
       "id": "DRAFT-DQ-0369",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-OBSERVANCES",
       "conceptIds": [],
       "question": {
         "en": "On which date is World Water Day observed each year?",
@@ -20726,9 +20726,9 @@
     },
     {
       "id": "DRAFT-DQ-0370",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-OBSERVANCES",
       "conceptIds": [],
       "question": {
         "en": "On which date is the International Day of Yoga observed?",
@@ -20782,9 +20782,9 @@
     },
     {
       "id": "DRAFT-DQ-0371",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-OBSERVANCES",
       "conceptIds": [],
       "question": {
         "en": "On which date is World Health Day observed each year?",
@@ -20838,9 +20838,9 @@
     },
     {
       "id": "DRAFT-DQ-0372",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-OBSERVANCES",
       "conceptIds": [],
       "question": {
         "en": "On which date is Teachers' Day observed in India?",
@@ -20894,9 +20894,9 @@
     },
     {
       "id": "DRAFT-DQ-0373",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-OBSERVANCES",
       "conceptIds": [],
       "question": {
         "en": "On which date is Children's Day observed in India?",
@@ -20950,9 +20950,9 @@
     },
     {
       "id": "DRAFT-DQ-0374",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-OBSERVANCES",
       "conceptIds": [],
       "question": {
         "en": "On which date does India celebrate Independence Day?",
@@ -21006,9 +21006,9 @@
     },
     {
       "id": "DRAFT-DQ-0375",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-POLITY",
+      "chapterId": "IND-POLITY",
+      "topicId": "IND-POLITY-OBSERVANCES",
       "conceptIds": [],
       "question": {
         "en": "On which date is Gandhi Jayanti observed in India?",
@@ -21062,9 +21062,9 @@
     },
     {
       "id": "DRAFT-DQ-0376",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which is the largest lake in the world by surface area?",
@@ -21118,9 +21118,9 @@
     },
     {
       "id": "DRAFT-DQ-0377",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which is the longest river on the African continent?",
@@ -21174,9 +21174,9 @@
     },
     {
       "id": "DRAFT-DQ-0378",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "WORLD-GEO",
+      "chapterId": "WORLD-GEO",
+      "topicId": "WORLD-GEO-WORLD_GEOGRAPHY",
       "conceptIds": [],
       "question": {
         "en": "Which river flows through the city of London?",
@@ -21230,9 +21230,9 @@
     },
     {
       "id": "DRAFT-DQ-0379",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-SPACE",
+      "chapterId": "SCI-SPACE",
+      "topicId": "SCI-SPACE-ASTRONOMY",
       "conceptIds": [],
       "question": {
         "en": "Which star lies closest to the Earth?",
@@ -21286,9 +21286,9 @@
     },
     {
       "id": "DRAFT-DQ-0380",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-SPACE",
+      "chapterId": "SCI-SPACE",
+      "topicId": "SCI-SPACE-ASTRONOMY",
       "conceptIds": [],
       "question": {
         "en": "Apart from the Sun, which is the nearest star to Earth?",
@@ -21342,9 +21342,9 @@
     },
     {
       "id": "DRAFT-DQ-0381",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-SPACE",
+      "chapterId": "SCI-SPACE",
+      "topicId": "SCI-SPACE-ASTRONOMY",
       "conceptIds": [],
       "question": {
         "en": "In which galaxy is our solar system located?",
@@ -21398,9 +21398,9 @@
     },
     {
       "id": "DRAFT-DQ-0382",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-SPACE",
+      "chapterId": "SCI-SPACE",
+      "topicId": "SCI-SPACE-SPACE",
       "conceptIds": [],
       "question": {
         "en": "Who was the first human being to travel into space?",
@@ -21454,9 +21454,9 @@
     },
     {
       "id": "DRAFT-DQ-0383",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-SPACE",
+      "chapterId": "SCI-SPACE",
+      "topicId": "SCI-SPACE-SPACE",
       "conceptIds": [],
       "question": {
         "en": "Which Soviet cosmonaut became the first woman to travel into space?",
@@ -21510,9 +21510,9 @@
     },
     {
       "id": "DRAFT-DQ-0384",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-SPACE",
+      "chapterId": "SCI-SPACE",
+      "topicId": "SCI-SPACE-SPACE",
       "conceptIds": [],
       "question": {
         "en": "Which was the first artificial satellite placed in orbit?",
@@ -21566,9 +21566,9 @@
     },
     {
       "id": "DRAFT-DQ-0385",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "IND-SPACE-INDIA_SPACE",
       "conceptIds": [],
       "question": {
         "en": "Which is India's national space agency?",
@@ -21622,9 +21622,9 @@
     },
     {
       "id": "DRAFT-DQ-0386",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "IND-SPACE-INDIA_SPACE",
       "conceptIds": [],
       "question": {
         "en": "Where is the headquarters of ISRO?",
@@ -21678,9 +21678,9 @@
     },
     {
       "id": "DRAFT-DQ-0387",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "IND-SPACE-INDIA_SPACE",
       "conceptIds": [],
       "question": {
         "en": "Which was India's first satellite?",
@@ -21734,9 +21734,9 @@
     },
     {
       "id": "DRAFT-DQ-0388",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "IND-SPACE-INDIA_SPACE",
       "conceptIds": [],
       "question": {
         "en": "What was the name of India's first mission to the Moon?",
@@ -21790,9 +21790,9 @@
     },
     {
       "id": "DRAFT-DQ-0389",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-INSTRUMENTS",
       "conceptIds": [],
       "question": {
         "en": "Which instrument measures the moisture in the air?",
@@ -21846,9 +21846,9 @@
     },
     {
       "id": "DRAFT-DQ-0390",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-INSTRUMENTS",
       "conceptIds": [],
       "question": {
         "en": "Which instrument is used to measure body temperature?",
@@ -21902,9 +21902,9 @@
     },
     {
       "id": "DRAFT-DQ-0391",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-INSTRUMENTS",
       "conceptIds": [],
       "question": {
         "en": "What does a lactometer measure?",
@@ -21958,9 +21958,9 @@
     },
     {
       "id": "DRAFT-DQ-0392",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-TECH",
+      "chapterId": "SCI-TECH",
+      "topicId": "SCI-TECH-INSTRUMENTS",
       "conceptIds": [],
       "question": {
         "en": "What does an altimeter measure?",
@@ -22014,9 +22014,9 @@
     },
     {
       "id": "DRAFT-DQ-0393",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-PHYSICS",
       "conceptIds": [],
       "question": {
         "en": "Which device converts alternating current into direct current?",
@@ -22070,9 +22070,9 @@
     },
     {
       "id": "DRAFT-DQ-0394",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-PHYSICS",
       "conceptIds": [],
       "question": {
         "en": "Which device raises or lowers the voltage of an alternating supply?",
@@ -22126,9 +22126,9 @@
     },
     {
       "id": "DRAFT-DQ-0395",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-PHYSICS",
       "conceptIds": [],
       "question": {
         "en": "Which metal is the best conductor of electricity?",
@@ -22182,9 +22182,9 @@
     },
     {
       "id": "DRAFT-DQ-0396",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-PHYSICS",
       "conceptIds": [],
       "question": {
         "en": "Which metal is used for the filament of an electric bulb?",
@@ -22238,9 +22238,9 @@
     },
     {
       "id": "DRAFT-DQ-0397",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-PHYS",
+      "chapterId": "SCI-PHYS",
+      "topicId": "SCI-PHYS-PHYSICS",
       "conceptIds": [],
       "question": {
         "en": "Which inert gas is usually filled inside an electric bulb?",
@@ -22294,9 +22294,9 @@
     },
     {
       "id": "DRAFT-DQ-0398",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
       "conceptIds": [],
       "question": {
         "en": "Which non-metal conducts electricity?",
@@ -22350,9 +22350,9 @@
     },
     {
       "id": "DRAFT-DQ-0399",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
       "conceptIds": [],
       "question": {
         "en": "Which is the hardest naturally occurring substance?",
@@ -22406,9 +22406,9 @@
     },
     {
       "id": "DRAFT-DQ-0400",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
       "conceptIds": [],
       "question": {
         "en": "What is the main constituent of natural gas?",
@@ -22462,9 +22462,9 @@
     },
     {
       "id": "DRAFT-DQ-0401",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
       "conceptIds": [],
       "question": {
         "en": "What is baking soda chemically called?",
@@ -22518,9 +22518,9 @@
     },
     {
       "id": "DRAFT-DQ-0402",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
       "conceptIds": [],
       "question": {
         "en": "What is washing soda chemically called?",
@@ -22574,9 +22574,9 @@
     },
     {
       "id": "DRAFT-DQ-0403",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
       "conceptIds": [],
       "question": {
         "en": "What is quicklime chemically called?",
@@ -22630,9 +22630,9 @@
     },
     {
       "id": "DRAFT-DQ-0404",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
       "conceptIds": [],
       "question": {
         "en": "Which acid is present in vinegar?",
@@ -22686,9 +22686,9 @@
     },
     {
       "id": "DRAFT-DQ-0405",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
       "conceptIds": [],
       "question": {
         "en": "Which acid gives citrus fruits their sour taste?",
@@ -22742,9 +22742,9 @@
     },
     {
       "id": "DRAFT-DQ-0406",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
       "conceptIds": [],
       "question": {
         "en": "Which acid is formed when milk turns into curd?",
@@ -22798,9 +22798,9 @@
     },
     {
       "id": "DRAFT-DQ-0407",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
       "conceptIds": [],
       "question": {
         "en": "Which acid is injected by an ant's sting?",
@@ -22854,9 +22854,9 @@
     },
     {
       "id": "DRAFT-DQ-0408",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
       "conceptIds": [],
       "question": {
         "en": "Which gas is used to ripen fruit artificially?",
@@ -22910,9 +22910,9 @@
     },
     {
       "id": "DRAFT-DQ-0409",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
       "conceptIds": [],
       "question": {
         "en": "Which gas is known as laughing gas?",
@@ -22966,9 +22966,9 @@
     },
     {
       "id": "DRAFT-DQ-0410",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HUMAN_BODY",
       "conceptIds": [],
       "question": {
         "en": "A shortage of which vitamin causes night blindness?",
@@ -23022,9 +23022,9 @@
     },
     {
       "id": "DRAFT-DQ-0411",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HUMAN_BODY",
       "conceptIds": [],
       "question": {
         "en": "A shortage of which vitamin causes scurvy?",
@@ -23078,9 +23078,9 @@
     },
     {
       "id": "DRAFT-DQ-0412",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HUMAN_BODY",
       "conceptIds": [],
       "question": {
         "en": "A shortage of which vitamin causes beriberi?",
@@ -23134,9 +23134,9 @@
     },
     {
       "id": "DRAFT-DQ-0413",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HUMAN_BODY",
       "conceptIds": [],
       "question": {
         "en": "A shortage of which mineral in the diet causes goitre?",
@@ -23190,9 +23190,9 @@
     },
     {
       "id": "DRAFT-DQ-0414",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HUMAN_BODY",
       "conceptIds": [],
       "question": {
         "en": "Which mineral sits at the centre of every haemoglobin molecule?",
@@ -23246,9 +23246,9 @@
     },
     {
       "id": "DRAFT-DQ-0415",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HUMAN_BODY",
       "conceptIds": [],
       "question": {
         "en": "Which is the largest part of the human brain?",
@@ -23302,9 +23302,9 @@
     },
     {
       "id": "DRAFT-DQ-0416",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HUMAN_BODY",
       "conceptIds": [],
       "question": {
         "en": "How many pairs of cranial nerves does a human have?",
@@ -23358,9 +23358,9 @@
     },
     {
       "id": "DRAFT-DQ-0417",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HUMAN_BODY",
       "conceptIds": [],
       "question": {
         "en": "Which is the smallest bone in the human body?",
@@ -23414,9 +23414,9 @@
     },
     {
       "id": "DRAFT-DQ-0418",
-      "subjectId": "",
-      "chapterId": "",
-      "topicId": "",
+      "subjectId": "SCI-BIO",
+      "chapterId": "SCI-BIO",
+      "topicId": "SCI-BIO-HUMAN_BODY",
       "conceptIds": [],
       "question": {
         "en": "Which is the longest bone in the human body?",

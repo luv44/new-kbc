@@ -32,7 +32,10 @@
     "explanation": {
       "en": "It ran until November 1918.",
       "hi": "यह नवंबर 1918 तक चला।"
-    }
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "WORLD-HIST-WORLD_HISTORY"
   },
   {
     "id": "DQ-0340",
@@ -67,7 +70,10 @@
     "explanation": {
       "en": "The armistice took effect on 11 November.",
       "hi": "युद्धविराम 11 नवंबर को लागू हुआ।"
-    }
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "WORLD-HIST-WORLD_HISTORY"
   },
   {
     "id": "DQ-0341",
@@ -102,7 +108,10 @@
     "explanation": {
       "en": "The United Nations was founded the same year.",
       "hi": "उसी वर्ष संयुक्त राष्ट्र की स्थापना हुई।"
-    }
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "WORLD-HIST-WORLD_HISTORY"
   },
   {
     "id": "DQ-0342",
@@ -137,7 +146,10 @@
     "explanation": {
       "en": "The storming of the Bastille that July became its emblem.",
       "hi": "उसी वर्ष जुलाई में बास्टील पर हमला इसका प्रतीक बना।"
-    }
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "WORLD-HIST-WORLD_HISTORY"
   },
   {
     "id": "DQ-0343",
@@ -172,7 +184,10 @@
     "explanation": {
       "en": "He served two terms, from 1789 to 1797.",
       "hi": "वे 1789 से 1797 तक दो कार्यकाल रहे।"
-    }
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "WORLD-HIST-WORLD_HISTORY"
   },
   {
     "id": "DQ-0344",
@@ -207,7 +222,10 @@
     "explanation": {
       "en": "Germany was formally reunited in October 1990.",
       "hi": "जर्मनी का औपचारिक पुनरेकीकरण अक्तूबर 1990 में हुआ।"
-    }
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "WORLD-HIST-WORLD_HISTORY"
   },
   {
     "id": "DQ-0345",
@@ -242,7 +260,10 @@
     "explanation": {
       "en": "It reached New York in crates in 1885.",
       "hi": "यह 1885 में पेटीबंद होकर न्यूयॉर्क पहुँची।"
-    }
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "WORLD-HIST-WORLD_HISTORY"
   },
   {
     "id": "DQ-0346",
@@ -277,7 +298,10 @@
     "explanation": {
       "en": "He landed in the Caribbean believing he had reached Asia.",
       "hi": "वे एशिया पहुँचे समझकर कैरिबियाई क्षेत्र में उतरे।"
-    }
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "WORLD-HIST-WORLD_HISTORY"
   },
   {
     "id": "DQ-0347",
@@ -312,7 +336,10 @@
     "explanation": {
       "en": "Magellan died on the way; Juan Sebastian Elcano brought the ship home.",
       "hi": "मैगलन रास्ते में मारे गए; जुआन सेबास्टियन एल्कानो जहाज़ वापस लाए।"
-    }
+    },
+    "subjectId": "WORLD-HIST",
+    "chapterId": "WORLD-HIST",
+    "topicId": "WORLD-HIST-WORLD_HISTORY"
   },
   {
     "id": "DQ-0348",
@@ -347,7 +374,10 @@
     "explanation": {
       "en": "He began it around 1503.",
       "hi": "उन्होंने इसे लगभग 1503 में शुरू किया।"
-    }
+    },
+    "subjectId": "ART-CULT",
+    "chapterId": "ART-CULT",
+    "topicId": "ART-CULT-ART"
   },
   {
     "id": "DQ-0349",
@@ -382,7 +412,10 @@
     "explanation": {
       "en": "The gallery stands in Paris on the Seine's right bank.",
       "hi": "यह दीर्घा पेरिस में सीन नदी के दाहिने किनारे स्थित है।"
-    }
+    },
+    "subjectId": "ART-CULT",
+    "chapterId": "ART-CULT",
+    "topicId": "ART-CULT-ART"
   },
   {
     "id": "DQ-0350",
@@ -417,7 +450,10 @@
     "explanation": {
       "en": "It was first published in 1597.",
       "hi": "यह पहली बार 1597 में प्रकाशित हुआ।"
-    }
+    },
+    "subjectId": "ART-CULT",
+    "chapterId": "ART-CULT",
+    "topicId": "ART-CULT-LITERATURE"
   },
   {
     "id": "DQ-0351",
@@ -452,7 +488,10 @@
     "explanation": {
       "en": "It was published in full in 1869.",
       "hi": "यह पूरा 1869 में प्रकाशित हुआ।"
-    }
+    },
+    "subjectId": "ART-CULT",
+    "chapterId": "ART-CULT",
+    "topicId": "ART-CULT-LITERATURE"
   },
   {
     "id": "DQ-0352",
@@ -487,7 +526,10 @@
     "explanation": {
       "en": "It appeared in 1862.",
       "hi": "यह 1862 में प्रकाशित हुआ।"
-    }
+    },
+    "subjectId": "ART-CULT",
+    "chapterId": "ART-CULT",
+    "topicId": "ART-CULT-LITERATURE"
   },
   {
     "id": "DQ-0353",
@@ -522,7 +564,10 @@
     "explanation": {
       "en": "It opened as an amphitheatre in AD 80.",
       "hi": "यह सन् 80 में रंगमंच के रूप में खुला।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-MONUMENTS"
   },
   {
     "id": "DQ-0354",
@@ -557,7 +602,10 @@
     "explanation": {
       "en": "They stand on the west bank of the Nile.",
       "hi": "ये नील नदी के पश्चिमी किनारे पर हैं।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-MONUMENTS"
   },
   {
     "id": "DQ-0355",
@@ -592,7 +640,10 @@
     "explanation": {
       "en": "It was built by the Inca in the fifteenth century.",
       "hi": "इसे पंद्रहवीं शताब्दी में इंका लोगों ने बनाया।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-MONUMENTS"
   },
   {
     "id": "DQ-0356",
@@ -627,7 +678,10 @@
     "explanation": {
       "en": "Most of what stands today dates from the Ming era.",
       "hi": "आज जो भाग दिखते हैं उनमें से अधिकांश मिंग काल के हैं।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-MONUMENTS"
   },
   {
     "id": "DQ-0357",
@@ -662,7 +716,10 @@
     "explanation": {
       "en": "Each polyp lays down a limestone cup around itself.",
       "hi": "प्रत्येक पॉलिप अपने चारों ओर चूनापत्थर का कटोरा बनाता है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-NATURE"
   },
   {
     "id": "DQ-0358",
@@ -697,7 +754,10 @@
     "explanation": {
       "en": "Australia is usually counted as a continent rather than an island.",
       "hi": "ऑस्ट्रेलिया को आम तौर पर द्वीप नहीं बल्कि महाद्वीप माना जाता है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0359",
@@ -732,7 +792,10 @@
     "explanation": {
       "en": "Almost all of it lies under an ice sheet.",
       "hi": "यह लगभग पूरा एक बर्फ़ की चादर के नीचे है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0360",
@@ -767,7 +830,10 @@
     "explanation": {
       "en": "It drops 979 metres in Venezuela.",
       "hi": "यह वेनेज़ुएला में 979 मीटर गिरता है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0361",
@@ -802,7 +868,10 @@
     "explanation": {
       "en": "The Colorado river cut it over millions of years.",
       "hi": "इसे कोलोराडो नदी ने करोड़ों वर्षों में काटा।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0362",
@@ -837,7 +906,10 @@
     "explanation": {
       "en": "It overtook China in 2023.",
       "hi": "इसने 2023 में चीन को पीछे छोड़ा।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0363",
@@ -872,7 +944,10 @@
     "explanation": {
       "en": "Ozone there absorbs most of the Sun's harmful ultraviolet rays.",
       "hi": "वहाँ की ओज़ोन सूर्य की अधिकांश हानिकारक पराबैंगनी किरणें सोख लेती है।"
-    }
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "ENV-ENVIRONMENT"
   },
   {
     "id": "DQ-0364",
@@ -907,7 +982,10 @@
     "explanation": {
       "en": "One chlorine atom can break down many ozone molecules.",
       "hi": "एक क्लोरीन परमाणु कई ओज़ोन अणुओं को तोड़ सकता है।"
-    }
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "ENV-ENVIRONMENT"
   },
   {
     "id": "DQ-0365",
@@ -942,7 +1020,10 @@
     "explanation": {
       "en": "It was agreed in 1987 and every UN member has joined it.",
       "hi": "यह 1987 में तय हुई और संयुक्त राष्ट्र के सभी सदस्य इसमें शामिल हैं।"
-    }
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "ENV-ENVIRONMENT"
   },
   {
     "id": "DQ-0366",
@@ -977,7 +1058,10 @@
     "explanation": {
       "en": "Its long-term aim is to keep warming well below two degrees.",
       "hi": "इसका दीर्घकालिक लक्ष्य तापमान वृद्धि को दो डिग्री से काफ़ी नीचे रखना है।"
-    }
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "ENV-ENVIRONMENT"
   },
   {
     "id": "DQ-0367",
@@ -1012,7 +1096,10 @@
     "explanation": {
       "en": "It set binding emission limits for industrialised countries.",
       "hi": "इसने औद्योगिक देशों के लिए बाध्यकारी उत्सर्जन सीमाएँ तय कीं।"
-    }
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "ENV-ENVIRONMENT"
   },
   {
     "id": "DQ-0368",
@@ -1047,7 +1134,10 @@
     "explanation": {
       "en": "It marks the opening of the 1972 Stockholm conference.",
       "hi": "यह 1972 के स्टॉकहोम सम्मेलन के उद्घाटन को दर्शाता है।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-OBSERVANCES"
   },
   {
     "id": "DQ-0369",
@@ -1082,7 +1172,10 @@
     "explanation": {
       "en": "The United Nations has marked it since 1993.",
       "hi": "संयुक्त राष्ट्र इसे 1993 से मना रहा है।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-OBSERVANCES"
   },
   {
     "id": "DQ-0370",
@@ -1117,7 +1210,10 @@
     "explanation": {
       "en": "It falls on the summer solstice in the northern hemisphere.",
       "hi": "यह उत्तरी गोलार्ध में ग्रीष्म संक्रांति के दिन पड़ता है।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-OBSERVANCES"
   },
   {
     "id": "DQ-0371",
@@ -1152,7 +1248,10 @@
     "explanation": {
       "en": "It marks the founding of the World Health Organization in 1948.",
       "hi": "यह 1948 में विश्व स्वास्थ्य संगठन की स्थापना को दर्शाता है।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-OBSERVANCES"
   },
   {
     "id": "DQ-0372",
@@ -1187,7 +1286,10 @@
     "explanation": {
       "en": "It is the birthday of Dr S. Radhakrishnan.",
       "hi": "यह डॉ. एस. राधाकृष्णन का जन्मदिन है।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-OBSERVANCES"
   },
   {
     "id": "DQ-0373",
@@ -1222,7 +1324,10 @@
     "explanation": {
       "en": "It is the birthday of Jawaharlal Nehru.",
       "hi": "यह जवाहरलाल नेहरू का जन्मदिन है।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-OBSERVANCES"
   },
   {
     "id": "DQ-0374",
@@ -1257,7 +1362,10 @@
     "explanation": {
       "en": "The Indian Independence Act took effect that night in 1947.",
       "hi": "भारतीय स्वतंत्रता अधिनियम 1947 में उसी रात लागू हुआ।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-OBSERVANCES"
   },
   {
     "id": "DQ-0375",
@@ -1292,7 +1400,10 @@
     "explanation": {
       "en": "It is also observed internationally as the Day of Non-Violence.",
       "hi": "इसे अंतर्राष्ट्रीय स्तर पर अहिंसा दिवस के रूप में भी मनाया जाता है।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-OBSERVANCES"
   },
   {
     "id": "DQ-0376",
@@ -1327,7 +1438,10 @@
     "explanation": {
       "en": "It is called a sea because of its size and salinity.",
       "hi": "इसके आकार और खारेपन के कारण इसे सागर कहा जाता है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0377",
@@ -1362,7 +1476,10 @@
     "explanation": {
       "en": "It flows northwards into the Mediterranean.",
       "hi": "यह उत्तर की ओर बहकर भूमध्य सागर में गिरती है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0378",
@@ -1397,6 +1514,9 @@
     "explanation": {
       "en": "It reaches the North Sea through a wide estuary.",
       "hi": "यह एक चौड़े ज्वारनदमुख से होकर उत्तरी सागर में पहुँचती है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   }
 ]

@@ -32,7 +32,10 @@
     "explanation": {
       "en": "Jupiter is a gas giant wider than all the other planets combined would need to be to match it.",
       "hi": "बृहस्पति एक गैस दानव है और इसका व्यास अन्य सभी ग्रहों से बहुत अधिक है।"
-    }
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-SPACE"
   },
   {
     "id": "DQ-0002",
@@ -67,7 +70,10 @@
     "explanation": {
       "en": "Venus traps heat under dense carbon dioxide clouds, so it stays hotter than Mercury even though Mercury sits closer to the Sun.",
       "hi": "शुक्र घने कार्बन डाइऑक्साइड बादलों के नीचे गर्मी रोक लेता है, इसलिए बुध से पास होने के बावजूद वह उससे अधिक गर्म रहता है।"
-    }
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-SPACE"
   },
   {
     "id": "DQ-0003",
@@ -102,7 +108,10 @@
     "explanation": {
       "en": "Mercury, Venus, Earth and Mars are the rocky inner worlds; Jupiter, Saturn, Uranus and Neptune are giants.",
       "hi": "बुध, शुक्र, पृथ्वी और मंगल आंतरिक चट्टानी ग्रह हैं; बृहस्पति, शनि, अरुण और वरुण दानव ग्रह हैं।"
-    }
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-SPACE"
   },
   {
     "id": "DQ-0004",
@@ -137,7 +146,10 @@
     "explanation": {
       "en": "Uranus spins almost on its side, so its poles face the Sun in turn for long stretches.",
       "hi": "अरुण लगभग करवट पर घूमता है, इसलिए इसके ध्रुव लंबे समय तक बारी-बारी से सूर्य की ओर रहते हैं।"
-    }
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-SPACE"
   },
   {
     "id": "DQ-0005",
@@ -172,7 +184,10 @@
     "explanation": {
       "en": "Being closest to the Sun, Mercury completes an orbit in about 88 Earth days.",
       "hi": "सूर्य के सबसे निकट होने के कारण बुध लगभग 88 पृथ्वी दिनों में परिक्रमा पूरी करता है।"
-    }
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-SPACE"
   },
   {
     "id": "DQ-0006",
@@ -207,7 +222,10 @@
     "explanation": {
       "en": "It is an anticyclone in Jupiter's cloud belts that has persisted for centuries.",
       "hi": "यह बृहस्पति के बादलों में चलने वाला प्रतिचक्रवात है जो सदियों से बना हुआ है।"
-    }
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-SPACE"
   },
   {
     "id": "DQ-0007",
@@ -242,7 +260,10 @@
     "explanation": {
       "en": "Mars has just two small, irregular moons: Phobos and Deimos.",
       "hi": "मंगल के केवल दो छोटे अनियमित उपग्रह हैं: फोबोस और डीमोस।"
-    }
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-SPACE"
   },
   {
     "id": "DQ-0008",
@@ -277,7 +298,10 @@
     "explanation": {
       "en": "Saturn's rings of ice and rock particles make it the most recognisable planet in a small telescope.",
       "hi": "बर्फ़ और चट्टान के कणों से बनी शनि की वलय प्रणाली इसे छोटी दूरबीन में सबसे पहचानी जाने वाली बनाती है।"
-    }
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-SPACE"
   },
   {
     "id": "DQ-0009",
@@ -312,7 +336,10 @@
     "explanation": {
       "en": "The photosphere is the glowing layer we see as the Sun's surface.",
       "hi": "प्रकाशमंडल वही चमकती परत है जिसे हम सूर्य की सतह के रूप में देखते हैं।"
-    }
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-SPACE"
   },
   {
     "id": "DQ-0010",
@@ -347,7 +374,10 @@
     "explanation": {
       "en": "Sunspots are cooler patches, and a cooler patch glows less brightly than the hotter gas beside it.",
       "hi": "सनस्पॉट ठंडे क्षेत्र होते हैं, और ठंडा क्षेत्र पास की गर्म गैस की तुलना में कम चमकता है।"
-    }
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-SPACE"
   },
   {
     "id": "DQ-0011",
@@ -382,7 +412,10 @@
     "explanation": {
       "en": "The corona is the Sun's tenuous outer atmosphere, normally drowned out by the bright surface.",
       "hi": "किरीट सूर्य का बाहरी विरल वायुमंडल है जो सामान्यतः तेज़ सतह के कारण नहीं दिखता।"
-    }
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-SPACE"
   },
   {
     "id": "DQ-0012",
@@ -417,7 +450,10 @@
     "explanation": {
       "en": "Light covers the 150 million kilometre distance in roughly 8 minutes and 20 seconds.",
       "hi": "प्रकाश लगभग 15 करोड़ किलोमीटर की दूरी करीब 8 मिनट 20 सेकंड में तय करता है।"
-    }
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-SPACE"
   },
   {
     "id": "DQ-0013",
@@ -452,7 +488,10 @@
     "explanation": {
       "en": "Apollo 11 landed on the Moon in July 1969.",
       "hi": "अपोलो 11 जुलाई 1969 में चंद्रमा पर उतरा।"
-    }
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-SPACE"
   },
   {
     "id": "DQ-0014",
@@ -487,7 +526,10 @@
     "explanation": {
       "en": "Neil Armstrong stepped onto the lunar surface first, followed by Buzz Aldrin.",
       "hi": "नील आर्मस्ट्रांग पहले चंद्र सतह पर उतरे, उसके बाद बज़ एल्ड्रिन आए।"
-    }
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-SPACE"
   },
   {
     "id": "DQ-0015",
@@ -522,7 +564,10 @@
     "explanation": {
       "en": "Collins flew the Command Module Columbia in lunar orbit while his crewmates were on the surface.",
       "hi": "कॉलिन्स ने चंद्र कक्षा में कमांड मॉड्यूल कोलंबिया उड़ाया जबकि उनके साथी सतह पर थे।"
-    }
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-SPACE"
   },
   {
     "id": "DQ-0016",
@@ -557,7 +602,10 @@
     "explanation": {
       "en": "The lunar module was called Eagle; Columbia was the orbiting Command Module.",
       "hi": "लूनर मॉड्यूल का नाम ईगल था; कोलंबिया कक्षा में रहने वाला कमांड मॉड्यूल था।"
-    }
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-SPACE"
   },
   {
     "id": "DQ-0017",
@@ -593,7 +641,10 @@
     "explanation": {
       "en": "The seven are metre, kilogram, second, ampere, kelvin, mole and candela.",
       "hi": "सात मूल इकाइयाँ हैं: मीटर, किलोग्राम, सेकंड, ऐम्पियर, केल्विन, मोल और कैंडेला।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-UNITS"
   },
   {
     "id": "DQ-0018",
@@ -628,7 +679,10 @@
     "explanation": {
       "en": "Volt, ohm and watt are derived from the ampere and the other base units.",
       "hi": "वोल्ट, ओम और वाट ऐम्पियर तथा अन्य मूल इकाइयों से व्युत्पन्न हैं।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-UNITS"
   },
   {
     "id": "DQ-0019",
@@ -663,7 +717,10 @@
     "explanation": {
       "en": "Candela is the base unit; lumen and lux are derived from it.",
       "hi": "कैंडेला मूल इकाई है; लुमेन और लक्स इससे व्युत्पन्न हैं।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-UNITS"
   },
   {
     "id": "DQ-0020",
@@ -698,7 +755,10 @@
     "explanation": {
       "en": "One mole holds a fixed number of elementary entities, defined by the Avogadro constant.",
       "hi": "एक मोल में आवोगाद्रो नियतांक द्वारा निर्धारित निश्चित संख्या में मूल कण होते हैं।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-UNITS"
   },
   {
     "id": "DQ-0021",
@@ -733,7 +793,10 @@
     "explanation": {
       "en": "Kelvin is the base unit; degrees Celsius are expressed relative to it.",
       "hi": "केल्विन मूल इकाई है; डिग्री सेल्सियस इसी के सापेक्ष व्यक्त की जाती है।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-UNITS"
   },
   {
     "id": "DQ-0022",
@@ -769,7 +832,10 @@
     "explanation": {
       "en": "The newton is a derived unit of force built from kilogram, metre and second.",
       "hi": "न्यूटन बल की व्युत्पन्न इकाई है जो किलोग्राम, मीटर और सेकंड से बनती है।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-UNITS"
   },
   {
     "id": "DQ-0023",
@@ -805,7 +871,10 @@
     "explanation": {
       "en": "Kilo multiplies a unit by one thousand, so a kilometre is 1,000 metres.",
       "hi": "किलो किसी इकाई को हज़ार गुना करता है, अतः एक किलोमीटर 1,000 मीटर होता है।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-UNITS"
   },
   {
     "id": "DQ-0024",
@@ -841,7 +910,10 @@
     "explanation": {
       "en": "nano = 10⁻⁹, micro = 10⁻⁶, pico = 10⁻¹² and milli = 10⁻³.",
       "hi": "नैनो = 10⁻⁹, माइक्रो = 10⁻⁶, पिको = 10⁻¹² और मिली = 10⁻³।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-UNITS"
   },
   {
     "id": "DQ-0025",
@@ -876,7 +948,10 @@
     "explanation": {
       "en": "'micro' scales the metre down by 10 to the minus 6.",
       "hi": "'माइक्रो' मीटर को 10 की घात माइनस 6 तक छोटा करता है।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-UNITS"
   },
   {
     "id": "DQ-0026",
@@ -911,7 +986,10 @@
     "explanation": {
       "en": "tera = 10¹²; giga is 10⁹, peta is 10¹⁵ and mega is 10⁶.",
       "hi": "टेरा = 10¹²; गीगा 10⁹, पेटा 10¹⁵ और मेगा 10⁶ है।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-UNITS"
   },
   {
     "id": "DQ-0027",
@@ -946,7 +1024,10 @@
     "explanation": {
       "en": "Since 1959 the inch has been defined as exactly 2.54 centimetres.",
       "hi": "1959 से इंच को ठीक 2.54 सेंटीमीटर के रूप में परिभाषित किया गया है।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-UNITS"
   },
   {
     "id": "DQ-0028",
@@ -981,7 +1062,10 @@
     "explanation": {
       "en": "The international nautical mile is fixed at 1,852 metres; 1,609 metres is a statute mile.",
       "hi": "अंतर्राष्ट्रीय समुद्री मील 1,852 मीटर निश्चित है; 1,609 मीटर एक स्थलीय मील है।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-UNITS"
   },
   {
     "id": "DQ-0029",
@@ -1016,7 +1100,10 @@
     "explanation": {
       "en": "Sound travels well through water, so sonar rather than radar is used beneath the surface.",
       "hi": "जल में ध्वनि अच्छी यात्रा करती है, इसलिए सतह के नीचे राडार के बजाय सोनार का उपयोग होता है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-OCEAN"
   },
   {
     "id": "DQ-0030",
@@ -1051,7 +1138,10 @@
     "explanation": {
       "en": "An ROV is an untethered-crew underwater robot driven from the ship by a cable.",
       "hi": "ROV एक ऐसा जलमग्न रोबोट है जिसे जहाज़ से केबल द्वारा चलाया जाता है और उसमें चालक दल नहीं होता।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-OCEAN"
   },
   {
     "id": "DQ-0031",
@@ -1086,7 +1176,10 @@
     "explanation": {
       "en": "The Challenger Deep inside the Mariana Trench reaches nearly 11 kilometres down.",
       "hi": "मारियाना खाई के भीतर चैलेंजर डीप लगभग 11 किलोमीटर तक गहरी है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-OCEAN"
   },
   {
     "id": "DQ-0032",
@@ -1121,7 +1214,10 @@
     "explanation": {
       "en": "Sunlight never reaches those depths, so microbes build food from chemicals in the vent fluids.",
       "hi": "वहाँ तक सूर्य का प्रकाश नहीं पहुँचता, इसलिए सूक्ष्मजीव वेंट के रसायनों से भोजन बनाते हैं।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-OCEAN"
   },
   {
     "id": "DQ-0033",
@@ -1156,7 +1252,10 @@
     "explanation": {
       "en": "Unlike an ROV, an AUV swims freely on a pre-programmed route without a tether to the ship.",
       "hi": "ROV के विपरीत, AUV बिना केबल के पूर्व-निर्धारित मार्ग पर स्वतंत्र रूप से तैरता है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-OCEAN"
   },
   {
     "id": "DQ-0034",
@@ -1191,7 +1290,10 @@
     "explanation": {
       "en": "Neptune's winds can exceed 2,000 kilometres per hour despite its distance from the Sun.",
       "hi": "सूर्य से दूर होने के बावजूद वरुण की हवाएँ 2,000 किलोमीटर प्रति घंटा से अधिक गति से चल सकती हैं।"
-    }
+    },
+    "subjectId": "SCI-SPACE",
+    "chapterId": "SCI-SPACE",
+    "topicId": "SCI-SPACE-SPACE"
   },
   {
     "id": "DQ-0035",
@@ -1227,6 +1329,9 @@
     "explanation": {
       "en": "The second is fixed at 9,192,631,770 periods of the caesium-133 transition.",
       "hi": "सेकंड को सीज़ियम-133 संक्रमण के 9,192,631,770 आवर्तकाल के बराबर निश्चित किया गया है।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-UNITS"
   }
 ]

@@ -32,7 +32,10 @@
     "explanation": {
       "en": "The system is described in RFC 1034 and RFC 1035, published in November 1987.",
       "hi": "इस प्रणाली का वर्णन RFC 1034 और RFC 1035 में है, जो नवंबर 1987 में प्रकाशित हुए।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-COMPUTING"
   },
   {
     "id": "DQ-0104",
@@ -67,7 +70,10 @@
     "explanation": {
       "en": "It lets people use memorable names while machines still work with numeric addresses.",
       "hi": "इससे लोग याद रखने योग्य नाम उपयोग करते हैं जबकि मशीनें संख्यात्मक पतों पर काम करती हैं।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-COMPUTING"
   },
   {
     "id": "DQ-0105",
@@ -102,7 +108,10 @@
     "explanation": {
       "en": "Paul Mockapetris wrote it for the Internet Engineering Task Force.",
       "hi": "इसे पॉल मॉकापेट्रिस ने इंटरनेट इंजीनियरिंग टास्क फ़ोर्स के लिए लिखा।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-COMPUTING"
   },
   {
     "id": "DQ-0106",
@@ -137,7 +146,10 @@
     "explanation": {
       "en": "Zones let different organisations manage their own slice of the tree.",
       "hi": "ज़ोन के कारण अलग-अलग संगठन वृक्ष के अपने भाग का प्रबंधन कर सकते हैं।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-COMPUTING"
   },
   {
     "id": "DQ-0107",
@@ -172,7 +184,10 @@
     "explanation": {
       "en": "Top level domains such as .com and .org hang directly below the root.",
       "hi": ".com और .org जैसे शीर्ष स्तरीय डोमेन सीधे रूट के नीचे आते हैं।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-COMPUTING"
   },
   {
     "id": "DQ-0108",
@@ -207,7 +222,10 @@
     "explanation": {
       "en": "Phishing usually arrives as an email or message asking for passwords or card details.",
       "hi": "फ़िशिंग आम तौर पर पासवर्ड या कार्ड विवरण माँगने वाले ईमेल या संदेश के रूप में आती है।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-CYBERSECURITY"
   },
   {
     "id": "DQ-0109",
@@ -242,7 +260,10 @@
     "explanation": {
       "en": "Viruses, worms, trojans and spyware all fall under this umbrella term.",
       "hi": "वायरस, वर्म, ट्रोजन और स्पाइवेयर सब इसी शब्द में आते हैं।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-CYBERSECURITY"
   },
   {
     "id": "DQ-0110",
@@ -277,7 +298,10 @@
     "explanation": {
       "en": "It sits between networks and filters what may pass in either direction.",
       "hi": "यह नेटवर्कों के बीच बैठकर तय करता है कि किस दिशा में क्या आ-जा सकता है।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-CYBERSECURITY"
   },
   {
     "id": "DQ-0111",
@@ -312,7 +336,10 @@
     "explanation": {
       "en": "It encrypts the victim's data and holds the decryption key for ransom.",
       "hi": "यह पीड़ित का डेटा एन्क्रिप्ट करता है और डिक्रिप्शन कुंजी बंधक रखता है।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-CYBERSECURITY"
   },
   {
     "id": "DQ-0112",
@@ -347,7 +374,10 @@
     "explanation": {
       "en": "A password you know plus a code from a device you hold are two different factors.",
       "hi": "आपका जाना हुआ पासवर्ड और आपके पास मौजूद उपकरण से मिला कोड दो अलग कारक हैं।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-CYBERSECURITY"
   },
   {
     "id": "DQ-0113",
@@ -382,7 +412,10 @@
     "explanation": {
       "en": "A falling barometer reading is one of the earliest hints of approaching bad weather.",
       "hi": "गिरता हुआ बैरोमीटर की रीडिंग खराब मौसम के आने का सबसे पहले मिलने वाला संकेत है।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-WEATHER"
   },
   {
     "id": "DQ-0114",
@@ -417,7 +450,10 @@
     "explanation": {
       "en": "When air cools to its dew point, dew, fog or clouds form.",
       "hi": "जब वायु अपने ओसांक तक ठंडी होती है तो ओस, कोहरा या बादल बनते हैं।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-WEATHER"
   },
   {
     "id": "DQ-0115",
@@ -452,7 +488,10 @@
     "explanation": {
       "en": "Cup or ultrasonic anemometers spin or sense airflow to give the speed.",
       "hi": "कप या अल्ट्रासोनिक एनीमोमीटर हवा के प्रवाह से गति बताते हैं।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-WEATHER"
   },
   {
     "id": "DQ-0116",
@@ -487,7 +526,10 @@
     "explanation": {
       "en": "The opposite, a high-pressure system with outward spiralling winds, is an anticyclone.",
       "hi": "इसके विपरीत, बाहर की ओर घूमती हवाओं वाला उच्च दाब तंत्र प्रतिचक्रवात कहलाता है।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-WEATHER"
   },
   {
     "id": "DQ-0117",
@@ -522,7 +564,10 @@
     "explanation": {
       "en": "The other four are separating raw and cooked food, cooking thoroughly, safe temperatures and safe water and raw materials.",
       "hi": "अन्य चार हैं कच्चे और पके भोजन को अलग रखना, अच्छी तरह पकाना, सुरक्षित तापमान और सुरक्षित जल व कच्ची सामग्री।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HEALTH"
   },
   {
     "id": "DQ-0118",
@@ -557,7 +602,10 @@
     "explanation": {
       "en": "Keeping hot food above 60 degrees and cold food below 5 degrees avoids that band.",
       "hi": "गर्म भोजन 60 डिग्री से ऊपर और ठंडा भोजन 5 डिग्री से नीचे रखने पर यह सीमा टल जाती है।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HEALTH"
   },
   {
     "id": "DQ-0119",
@@ -593,7 +641,10 @@
     "explanation": {
       "en": "That transfer is called cross-contamination and is a leading cause of food-borne illness.",
       "hi": "इस स्थानांतरण को क्रॉस-कंटैमिनेशन कहते हैं और यह भोजन जनित बीमारी का प्रमुख कारण है।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HEALTH"
   },
   {
     "id": "DQ-0120",
@@ -628,7 +679,10 @@
     "explanation": {
       "en": "Only heat, or long cooking, reduces the number of live bacteria in cooked food.",
       "hi": "पके भोजन में जीवित जीवाणुओं की संख्या केवल गर्मी या पर्याप्त पकाने से घटती है।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HEALTH"
   },
   {
     "id": "DQ-0121",
@@ -663,7 +717,10 @@
     "explanation": {
       "en": "One king, one queen, two rooks, two bishops, two knights and eight pawns.",
       "hi": "एक राजा, एक वज़ीर, दो हाथी, दो ऊँट, दो घोड़े और आठ प्यादे।"
-    }
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-CHESS"
   },
   {
     "id": "DQ-0122",
@@ -698,7 +755,10 @@
     "explanation": {
       "en": "After that, players alternate one move at a time.",
       "hi": "इसके बाद दोनों खिलाड़ी बारी-बारी से एक-एक चाल चलते हैं।"
-    }
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-CHESS"
   },
   {
     "id": "DQ-0123",
@@ -733,7 +793,10 @@
     "explanation": {
       "en": "Stalemate saves many lost positions because the result becomes a draw, not a win.",
       "hi": "स्टेलमेट कई हारी हुई बाज़ी बचा लेता है क्योंकि परिणाम जीत नहीं बल्कि बराबरी होती है।"
-    }
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-CHESS"
   },
   {
     "id": "DQ-0124",
@@ -768,7 +831,10 @@
     "explanation": {
       "en": "The king moves two squares towards the rook, which jumps over it.",
       "hi": "राजा हाथी की ओर दो खाने चलता है और हाथी उसके ऊपर से कूद जाता है।"
-    }
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-CHESS"
   },
   {
     "id": "DQ-0125",
@@ -803,7 +869,10 @@
     "explanation": {
       "en": "It is allowed only on the move immediately after an enemy pawn advances two squares.",
       "hi": "यह केवल उसी चाल पर संभव है जब विरोधी प्यादा दो खाने आगे बढ़ा हो।"
-    }
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-CHESS"
   },
   {
     "id": "DQ-0126",
@@ -838,7 +907,10 @@
     "explanation": {
       "en": "A second illegal move adds four minutes and a third loses the game.",
       "hi": "दूसरी अवैध चाल पर चार मिनट जुड़ते हैं और तीसरी पर खेल हार जाता है।"
-    }
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-CHESS"
   },
   {
     "id": "DQ-0127",
@@ -873,7 +945,10 @@
     "explanation": {
       "en": "Their short films of workers leaving a factory and a train arriving amazed the audience.",
       "hi": "कारख़ाने से निकलते मज़दूरों और आती हुई ट्रेन की उनकी छोटी फ़िल्में दर्शकों को चकित कर देती थीं।"
-    }
+    },
+    "subjectId": "ART-CULT",
+    "chapterId": "ART-CULT",
+    "topicId": "ART-CULT-CINEMA"
   },
   {
     "id": "DQ-0128",
@@ -908,7 +983,10 @@
     "explanation": {
       "en": "Within a few years silent production had all but disappeared in Hollywood.",
       "hi": "कुछ ही वर्षों में हॉलीवुड में मूक फ़िल्म निर्माण लगभग समाप्त हो गया।"
-    }
+    },
+    "subjectId": "ART-CULT",
+    "chapterId": "ART-CULT",
+    "topicId": "ART-CULT-CINEMA"
   },
   {
     "id": "DQ-0129",
@@ -943,7 +1021,10 @@
     "explanation": {
       "en": "Zeus is shown with the thunderbolt and presides over the council of gods.",
       "hi": "ज़ीउस को वज्र के साथ दर्शाया जाता है और वे देवताओं की सभा की अध्यक्षता करते हैं।"
-    }
+    },
+    "subjectId": "ART-CULT",
+    "chapterId": "ART-CULT",
+    "topicId": "ART-CULT-CULTURE"
   },
   {
     "id": "DQ-0130",
@@ -978,7 +1059,10 @@
     "explanation": {
       "en": "Athens takes its name from her, and the Parthenon was built in her honour.",
       "hi": "एथेंस शहर का नाम उन्हीं पर है और पार्थेनॉन उनके सम्मान में बना।"
-    }
+    },
+    "subjectId": "ART-CULT",
+    "chapterId": "ART-CULT",
+    "topicId": "ART-CULT-CULTURE"
   },
   {
     "id": "DQ-0131",
@@ -1013,7 +1097,10 @@
     "explanation": {
       "en": "He carries a trident and is the brother of Zeus and Hades.",
       "hi": "वे त्रिशूल धारण करते हैं और ज़ीउस व हेडीज़ के भाई हैं।"
-    }
+    },
+    "subjectId": "ART-CULT",
+    "chapterId": "ART-CULT",
+    "topicId": "ART-CULT-CULTURE"
   },
   {
     "id": "DQ-0132",
@@ -1048,7 +1135,10 @@
     "explanation": {
       "en": "Hades himself is a god; Tartarus is a region beneath the underworld.",
       "hi": "हेडीज़ स्वयं देवता हैं; टार्टारस पाताल के नीचे का क्षेत्र है।"
-    }
+    },
+    "subjectId": "ART-CULT",
+    "chapterId": "ART-CULT",
+    "topicId": "ART-CULT-CULTURE"
   },
   {
     "id": "DQ-0133",
@@ -1083,7 +1173,10 @@
     "explanation": {
       "en": "The Romans identified her with Venus.",
       "hi": "रोमन लोग उन्हें वीनस के रूप में देखते थे।"
-    }
+    },
+    "subjectId": "ART-CULT",
+    "chapterId": "ART-CULT",
+    "topicId": "ART-CULT-CULTURE"
   },
   {
     "id": "DQ-0134",
@@ -1118,7 +1211,10 @@
     "explanation": {
       "en": "Cancer cells travel through blood or lymph to form secondary growths.",
       "hi": "कैंसर कोशिकाएँ रक्त या लसीका के ज़रिए जाकर द्वितीयक गाँठें बनाती हैं।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HEALTH"
   },
   {
     "id": "DQ-0135",
@@ -1153,7 +1249,10 @@
     "explanation": {
       "en": "Malignant growths are the ones that invade and can spread.",
       "hi": "घातक गाँठें ही आक्रमण करती हैं और फैल सकती हैं।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HEALTH"
   },
   {
     "id": "DQ-0136",
@@ -1188,7 +1287,10 @@
     "explanation": {
       "en": "Pathologists study the sample to decide whether the cells are cancerous.",
       "hi": "पैथोलॉजिस्ट उस नमूने से तय करते हैं कि कोशिकाएँ कैंसरयुक्त हैं या नहीं।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HEALTH"
   },
   {
     "id": "DQ-0137",
@@ -1223,7 +1325,10 @@
     "explanation": {
       "en": "Radiotherapy uses radiation instead of circulating drugs.",
       "hi": "रेडियोथेरेपी में दवाओं के बजाय विकिरण का उपयोग होता है।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HEALTH"
   },
   {
     "id": "DQ-0138",
@@ -1259,6 +1364,9 @@
     "explanation": {
       "en": "WHO was founded on 7 April 1948 and coordinates international health work.",
       "hi": "WHO की स्थापना 7 अप्रैल 1948 को हुई और यह अंतर्राष्ट्रीय स्वास्थ्य कार्य का समन्वय करता है।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-GLOBAL_INSTITUTIONS"
   }
 ]

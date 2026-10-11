@@ -32,7 +32,10 @@
     "explanation": {
       "en": "It was declared the national bird in 1963.",
       "hi": "इसे 1963 में राष्ट्रीय पक्षी घोषित किया गया।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_SYMBOLS"
   },
   {
     "id": "DQ-0300",
@@ -67,7 +70,10 @@
     "explanation": {
       "en": "It replaced the lion in April 1973.",
       "hi": "इसने अप्रैल 1973 में शेर का स्थान लिया।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_SYMBOLS"
   },
   {
     "id": "DQ-0301",
@@ -102,7 +108,10 @@
     "explanation": {
       "en": "It is nearly blind and navigates by sound.",
       "hi": "यह लगभग अंधी होती है और ध्वनि से दिशा पहचानती है।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_SYMBOLS"
   },
   {
     "id": "DQ-0302",
@@ -137,7 +146,10 @@
     "explanation": {
       "en": "It grows in shallow water and holds a place in Indian symbolism.",
       "hi": "यह उथले जल में उगता है और भारतीय प्रतीकों में विशेष स्थान रखता है।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_SYMBOLS"
   },
   {
     "id": "DQ-0303",
@@ -172,7 +184,10 @@
     "explanation": {
       "en": "India is also the world's largest producer of it.",
       "hi": "भारत इसका विश्व का सबसे बड़ा उत्पादक भी है।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_SYMBOLS"
   },
   {
     "id": "DQ-0304",
@@ -207,7 +222,10 @@
     "explanation": {
       "en": "Its aerial roots spread outward, so one tree can cover a wide area.",
       "hi": "इसकी हवाई जड़ें बाहर की ओर फैलती हैं, इसलिए एक वृक्ष बड़ा क्षेत्र घेर सकता है।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_SYMBOLS"
   },
   {
     "id": "DQ-0305",
@@ -242,7 +260,10 @@
     "explanation": {
       "en": "It was given the status in 2010.",
       "hi": "यह दर्जा 2010 में दिया गया।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_SYMBOLS"
   },
   {
     "id": "DQ-0306",
@@ -277,7 +298,10 @@
     "explanation": {
       "en": "She held office from 2007 to 2012.",
       "hi": "वे 2007 से 2012 तक इस पद पर रहीं।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_POLITY"
   },
   {
     "id": "DQ-0307",
@@ -312,7 +336,10 @@
     "explanation": {
       "en": "His birthday, 11 November, is observed as National Education Day.",
       "hi": "उनका जन्मदिन, 11 नवंबर, राष्ट्रीय शिक्षा दिवस के रूप में मनाया जाता है।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_POLITY"
   },
   {
     "id": "DQ-0308",
@@ -347,7 +374,10 @@
     "explanation": {
       "en": "He took office when the Supreme Court opened on 28 January 1950.",
       "hi": "उन्होंने 28 जनवरी 1950 को सर्वोच्च न्यायालय के उद्घाटन पर पदभार संभाला।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_JUDICIARY"
   },
   {
     "id": "DQ-0309",
@@ -382,7 +412,10 @@
     "explanation": {
       "en": "He oversaw the first general elections of 1951-52.",
       "hi": "उन्होंने 1951-52 के पहले आम चुनाव का संचालन किया।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_POLITY"
   },
   {
     "id": "DQ-0310",
@@ -417,7 +450,10 @@
     "explanation": {
       "en": "He received the Literature prize in 1913.",
       "hi": "उन्हें 1913 में साहित्य का पुरस्कार मिला।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_AWARDS"
   },
   {
     "id": "DQ-0311",
@@ -452,7 +488,10 @@
     "explanation": {
       "en": "He flew aboard Soyuz T-11 in 1984.",
       "hi": "वे 1984 में सोयुज़ T-11 में उड़े।"
-    }
+    },
+    "subjectId": "IND-SPACE",
+    "chapterId": "IND-SPACE",
+    "topicId": "IND-SPACE-INDIA_SPACE"
   },
   {
     "id": "DQ-0312",
@@ -487,7 +526,10 @@
     "explanation": {
       "en": "Her first mission was STS-87 in 1997.",
       "hi": "उनका पहला मिशन 1997 में STS-87 था।"
-    }
+    },
+    "subjectId": "IND-SPACE",
+    "chapterId": "IND-SPACE",
+    "topicId": "IND-SPACE-INDIA_SPACE"
   },
   {
     "id": "DQ-0313",
@@ -522,7 +564,10 @@
     "explanation": {
       "en": "He won the 10 m air rifle event at Beijing in 2008.",
       "hi": "उन्होंने 2008 में बीजिंग में 10 मीटर एयर राइफ़ल स्पर्धा जीती।"
-    }
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-INDIA_SPORT"
   },
   {
     "id": "DQ-0314",
@@ -557,7 +602,10 @@
     "explanation": {
       "en": "It took its present name in 1955.",
       "hi": "इसे वर्तमान नाम 1955 में मिला।"
-    }
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-INDIA_BANKING"
   },
   {
     "id": "DQ-0315",
@@ -592,7 +640,10 @@
     "explanation": {
       "en": "The National Bank for Agriculture and Rural Development was set up in 1982.",
       "hi": "राष्ट्रीय कृषि और ग्रामीण विकास बैंक की स्थापना 1982 में हुई।"
-    }
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-INDIA_BANKING"
   },
   {
     "id": "DQ-0316",
@@ -627,7 +678,10 @@
     "explanation": {
       "en": "The Securities and Exchange Board of India got statutory powers in 1992.",
       "hi": "भारतीय प्रतिभूति और विनिमय बोर्ड को 1992 में वैधानिक शक्तियाँ मिलीं।"
-    }
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-INDIA_ECONOMY"
   },
   {
     "id": "DQ-0317",
@@ -662,7 +716,10 @@
     "explanation": {
       "en": "It is the Insurance Regulatory and Development Authority of India.",
       "hi": "यह भारतीय बीमा विनियामक और विकास प्राधिकरण है।"
-    }
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-INDIA_ECONOMY"
   },
   {
     "id": "DQ-0318",
@@ -697,7 +754,10 @@
     "explanation": {
       "en": "It replaced several separate central and state levies.",
       "hi": "इसने कई अलग-अलग केंद्रीय और राज्य करों का स्थान लिया।"
-    }
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-INDIA_ECONOMY"
   },
   {
     "id": "DQ-0319",
@@ -732,7 +792,10 @@
     "explanation": {
       "en": "It was introduced by the One Hundred and First Amendment.",
       "hi": "इसे एक सौ एकवें संविधान संशोधन द्वारा लाया गया।"
-    }
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-INDIA_ECONOMY"
   },
   {
     "id": "DQ-0320",
@@ -767,7 +830,10 @@
     "explanation": {
       "en": "It began in 1875 under a banyan tree in Mumbai.",
       "hi": "इसकी शुरुआत 1875 में मुंबई में एक बरगद के नीचे हुई।"
-    }
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-INDIA_ECONOMY"
   },
   {
     "id": "DQ-0321",
@@ -802,7 +868,10 @@
     "explanation": {
       "en": "It is calculated from thirty large companies.",
       "hi": "इसकी गणना तीस बड़ी कंपनियों से होती है।"
-    }
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-INDIA_ECONOMY"
   },
   {
     "id": "DQ-0322",
@@ -837,7 +906,10 @@
     "explanation": {
       "en": "It covers fifty of the exchange's largest listed companies.",
       "hi": "इसमें एक्सचेंज की पचास सबसे बड़ी सूचीबद्ध कंपनियाँ शामिल हैं।"
-    }
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-INDIA_ECONOMY"
   },
   {
     "id": "DQ-0323",
@@ -872,7 +944,10 @@
     "explanation": {
       "en": "It sits on the Buriganga river.",
       "hi": "यह बूढ़ीगंगा नदी के किनारे बसा है।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-NEIGHBOURHOOD"
   },
   {
     "id": "DQ-0324",
@@ -907,7 +982,10 @@
     "explanation": {
       "en": "The legislature sits instead at Sri Jayawardenepura Kotte.",
       "hi": "विधायिका इसके बजाय श्री जयवर्धनेपुरा कोट्टे में बैठती है।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-NEIGHBOURHOOD"
   },
   {
     "id": "DQ-0325",
@@ -942,7 +1020,10 @@
     "explanation": {
       "en": "It lies in a valley ringed by the Himalayas.",
       "hi": "यह हिमालय से घिरी एक घाटी में स्थित है।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-NEIGHBOURHOOD"
   },
   {
     "id": "DQ-0326",
@@ -977,7 +1058,10 @@
     "explanation": {
       "en": "It is one of very few capitals without traffic lights.",
       "hi": "यह उन गिनी-चुनी राजधानियों में है जहाँ यातायात संकेत नहीं हैं।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-NEIGHBOURHOOD"
   },
   {
     "id": "DQ-0327",
@@ -1012,7 +1096,10 @@
     "explanation": {
       "en": "The city occupies a single island of barely two square kilometres.",
       "hi": "यह नगर मुश्किल से दो वर्ग किलोमीटर के एक ही द्वीप पर बसा है।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-NEIGHBOURHOOD"
   },
   {
     "id": "DQ-0328",
@@ -1047,7 +1134,10 @@
     "explanation": {
       "en": "The capital moved there from Yangon in 2005.",
       "hi": "2005 में राजधानी यांगून से यहाँ स्थानांतरित हुई।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-NEIGHBOURHOOD"
   },
   {
     "id": "DQ-0329",
@@ -1082,7 +1172,10 @@
     "explanation": {
       "en": "Its sign is written as Tk.",
       "hi": "इसका चिह्न Tk लिखा जाता है।"
-    }
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-CURRENCIES"
   },
   {
     "id": "DQ-0330",
@@ -1117,7 +1210,10 @@
     "explanation": {
       "en": "It is pegged at par with the Indian rupee.",
       "hi": "यह भारतीय रुपये के समान मूल्य पर बंधी है।"
-    }
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-CURRENCIES"
   },
   {
     "id": "DQ-0331",
@@ -1152,7 +1248,10 @@
     "explanation": {
       "en": "It is divided into one hundred laari.",
       "hi": "यह सौ लारी में बँटती है।"
-    }
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-CURRENCIES"
   },
   {
     "id": "DQ-0332",
@@ -1187,7 +1286,10 @@
     "explanation": {
       "en": "It lies on the coast of Odisha and draws large flocks of migratory birds.",
       "hi": "यह ओडिशा के तट पर है और प्रवासी पक्षियों के बड़े झुंड यहाँ आते हैं।"
-    }
+    },
+    "subjectId": "IND-GEO",
+    "chapterId": "IND-GEO",
+    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
   },
   {
     "id": "DQ-0333",
@@ -1222,7 +1324,10 @@
     "explanation": {
       "en": "It stretches across Rajasthan and into Pakistan.",
       "hi": "यह राजस्थान से होते हुए पाकिस्तान तक फैला है।"
-    }
+    },
+    "subjectId": "IND-GEO",
+    "chapterId": "IND-GEO",
+    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
   },
   {
     "id": "DQ-0334",
@@ -1257,7 +1362,10 @@
     "explanation": {
       "en": "It is a recognised biodiversity hotspot.",
       "hi": "यह एक मान्यता प्राप्त जैव विविधता हॉटस्पॉट है।"
-    }
+    },
+    "subjectId": "IND-GEO",
+    "chapterId": "IND-GEO",
+    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
   },
   {
     "id": "DQ-0335",
@@ -1292,7 +1400,10 @@
     "explanation": {
       "en": "Indira Point, on Great Nicobar, lies further south still.",
       "hi": "इंदिरा पॉइंट, ग्रेट निकोबार पर, इससे भी दक्षिण में है।"
-    }
+    },
+    "subjectId": "IND-GEO",
+    "chapterId": "IND-GEO",
+    "topicId": "IND-GEO-INDIAN_GEOGRAPHY"
   },
   {
     "id": "DQ-0336",
@@ -1327,7 +1438,10 @@
     "explanation": {
       "en": "Jammu and Kashmir, and Ladakh, became separate union territories in 2019.",
       "hi": "जम्मू-कश्मीर और लद्दाख 2019 में अलग केंद्र शासित प्रदेश बने।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIAN_POLITY"
   },
   {
     "id": "DQ-0337",
@@ -1362,7 +1476,10 @@
     "explanation": {
       "en": "It was carved out of Andhra Pradesh in 2014.",
       "hi": "इसे 2014 में आंध्र प्रदेश से अलग किया गया।"
-    }
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIAN_POLITY"
   },
   {
     "id": "DQ-0338",
@@ -1397,6 +1514,9 @@
     "explanation": {
       "en": "It spreads across the delta shared by India and Bangladesh.",
       "hi": "यह भारत और बांग्लादेश द्वारा साझा किए गए डेल्टा में फैला है।"
-    }
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "ENV-ENVIRONMENT"
   }
 ]

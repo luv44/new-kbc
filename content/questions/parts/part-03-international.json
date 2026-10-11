@@ -32,7 +32,10 @@
     "explanation": {
       "en": "Fifty nations signed it on 26 June 1945 at the San Francisco Conference.",
       "hi": "26 जून 1945 को सैन फ़्रांसिस्को सम्मेलन में पचास देशों ने इस पर हस्ताक्षर किए।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-UNITED_NATIONS"
   },
   {
     "id": "DQ-0069",
@@ -67,7 +70,10 @@
     "explanation": {
       "en": "The Charter entered into force once the required number of ratifications was deposited.",
       "hi": "आवश्यक संख्या में अनुसमर्थन जमा होते ही चार्टर लागू हो गया।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-UNITED_NATIONS"
   },
   {
     "id": "DQ-0070",
@@ -102,7 +108,10 @@
     "explanation": {
       "en": "Article 1 lists peace and security first, then friendly relations and international cooperation.",
       "hi": "अनुच्छेद 1 पहले शांति और सुरक्षा, फिर मैत्रीपूर्ण संबंध और अंतर्राष्ट्रीय सहयोग को रखता है।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-UNITED_NATIONS"
   },
   {
     "id": "DQ-0071",
@@ -137,7 +146,10 @@
     "explanation": {
       "en": "They are the General Assembly, Security Council, ECOSOC, Trusteeship Council, ICJ and Secretariat.",
       "hi": "वे हैं महासभा, सुरक्षा परिषद, इकोसॉक, न्यासिता परिषद, अंतर्राष्ट्रीय न्यायालय और सचिवालय।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-UNITED_NATIONS"
   },
   {
     "id": "DQ-0072",
@@ -172,7 +184,10 @@
     "explanation": {
       "en": "Every other principal organ is based at UN Headquarters in New York.",
       "hi": "अन्य सभी प्रधान अंग न्यूयॉर्क स्थित संयुक्त राष्ट्र मुख्यालय में हैं।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-UNITED_NATIONS"
   },
   {
     "id": "DQ-0073",
@@ -207,7 +222,10 @@
     "explanation": {
       "en": "China, France, Russia, the United Kingdom and the United States hold permanent seats.",
       "hi": "चीन, फ़्रांस, रूस, ब्रिटेन और अमेरिका के पास स्थायी स्थान हैं।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-UNITED_NATIONS"
   },
   {
     "id": "DQ-0074",
@@ -242,7 +260,10 @@
     "explanation": {
       "en": "Five permanent members and ten elected for two-year terms make up the Council.",
       "hi": "पाँच स्थायी और दो वर्ष के लिए चुने गए दस सदस्य मिलकर परिषद बनाते हैं।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-UNITED_NATIONS"
   },
   {
     "id": "DQ-0075",
@@ -277,7 +298,10 @@
     "explanation": {
       "en": "Palau's independence on 1 October 1994 ended the trusteeship system.",
       "hi": "1 अक्टूबर 1994 को पलाऊ की स्वतंत्रता के साथ न्यासिता प्रणाली समाप्त हुई।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-UNITED_NATIONS"
   },
   {
     "id": "DQ-0076",
@@ -312,7 +336,10 @@
     "explanation": {
       "en": "The Council recommends a candidate and the General Assembly appoints them.",
       "hi": "परिषद उम्मीदवार की सिफ़ारिश करती है और महासभा उनकी नियुक्ति करती है।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-UNITED_NATIONS"
   },
   {
     "id": "DQ-0077",
@@ -347,7 +374,10 @@
     "explanation": {
       "en": "They stand on the right bank of the Indus in Sindh province.",
       "hi": "ये सिंध प्रांत में सिंधु नदी के दाहिने तट पर स्थित हैं।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_HERITAGE"
   },
   {
     "id": "DQ-0078",
@@ -382,7 +412,10 @@
     "explanation": {
       "en": "It was one of the largest cities of the Indus civilisation around 2500 BCE.",
       "hi": "यह लगभग 2500 ईसा पूर्व सिंधु सभ्यता के सबसे बड़े नगरों में से एक था।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_HERITAGE"
   },
   {
     "id": "DQ-0079",
@@ -417,7 +450,10 @@
     "explanation": {
       "en": "The Great Bath was sealed with bitumen and appears to have served a public or ritual purpose.",
       "hi": "ग्रेट बाथ को डामर से रोधित किया गया था और यह सार्वजनिक या अनुष्ठानिक काम आता प्रतीत होता है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_HERITAGE"
   },
   {
     "id": "DQ-0080",
@@ -452,7 +488,10 @@
     "explanation": {
       "en": "The Sindhi name refers to the burial mounds found at the site.",
       "hi": "यह सिंधी नाम स्थल पर मिले समाधि टीलों की ओर इशारा करता है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_HERITAGE"
   },
   {
     "id": "DQ-0081",
@@ -487,7 +526,10 @@
     "explanation": {
       "en": "Lumbini lies in the Rupandehi district of southern Nepal.",
       "hi": "लुंबिनी दक्षिणी नेपाल के रूपंदेही ज़िले में स्थित है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_HERITAGE"
   },
   {
     "id": "DQ-0082",
@@ -522,7 +564,10 @@
     "explanation": {
       "en": "Emperor Ashoka erected it during his visit in the third century BCE.",
       "hi": "सम्राट अशोक ने तीसरी शताब्दी ईसा पूर्व में अपनी यात्रा के दौरान इसे स्थापित किया।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_HERITAGE"
   },
   {
     "id": "DQ-0083",
@@ -557,7 +602,10 @@
     "explanation": {
       "en": "It covers oral traditions, performing arts, rituals, festive events and traditional craftsmanship.",
       "hi": "इसमें मौखिक परंपराएँ, प्रदर्शन कलाएँ, अनुष्ठान, उत्सव और पारंपरिक शिल्प शामिल हैं।"
-    }
+    },
+    "subjectId": "ART-CULT",
+    "chapterId": "ART-CULT",
+    "topicId": "ART-CULT-CULTURE"
   },
   {
     "id": "DQ-0084",
@@ -592,7 +640,10 @@
     "explanation": {
       "en": "Delegates from 44 nations met at the Mount Washington Hotel in New Hampshire.",
       "hi": "44 देशों के प्रतिनिधि न्यू हैम्पशायर के माउंट वॉशिंगटन होटल में मिले।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-GLOBAL_FINANCE"
   },
   {
     "id": "DQ-0085",
@@ -627,7 +678,10 @@
     "explanation": {
       "en": "The World Bank began as the International Bank for Reconstruction and Development.",
       "hi": "विश्व बैंक की शुरुआत अंतर्राष्ट्रीय पुनर्निर्माण और विकास बैंक के रूप में हुई।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-GLOBAL_FINANCE"
   },
   {
     "id": "DQ-0086",
@@ -662,7 +716,10 @@
     "explanation": {
       "en": "The Fund has worked from Washington, D.C. since it began operations in 1945.",
       "hi": "1945 में कार्य आरंभ करने के बाद से कोष वॉशिंगटन, डी.सी. से काम कर रहा है।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-GLOBAL_FINANCE"
   },
   {
     "id": "DQ-0087",
@@ -697,7 +754,10 @@
     "explanation": {
       "en": "Its value is based on a basket of five major currencies.",
       "hi": "इसका मूल्य पाँच प्रमुख मुद्राओं की टोकरी पर आधारित है।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-GLOBAL_FINANCE"
   },
   {
     "id": "DQ-0088",
@@ -732,7 +792,10 @@
     "explanation": {
       "en": "The Fund advises and lends so that member economies can meet balance of payments difficulties.",
       "hi": "कोष सलाह और ऋण देता है ताकि सदस्य अर्थव्यवस्थाएँ भुगतान संतुलन की कठिनाइयों से निपट सकें।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-GLOBAL_FINANCE"
   },
   {
     "id": "DQ-0089",
@@ -767,7 +830,10 @@
     "explanation": {
       "en": "They are IBRD, IDA, IFC, MIGA and ICSID.",
       "hi": "वे हैं IBRD, IDA, IFC, MIGA और ICSID।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-GLOBAL_FINANCE"
   },
   {
     "id": "DQ-0090",
@@ -802,7 +868,10 @@
     "explanation": {
       "en": "IFC invests in and advises private sector projects without government guarantees.",
       "hi": "IFC बिना सरकारी गारंटी के निजी क्षेत्र की परियोजनाओं में निवेश और सलाह देता है।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-GLOBAL_FINANCE"
   },
   {
     "id": "DQ-0091",
@@ -837,7 +906,10 @@
     "explanation": {
       "en": "The Multilateral Investment Guarantee Agency insures against risks such as expropriation and war.",
       "hi": "बहुपक्षीय निवेश गारंटी एजेंसी जब्ती और युद्ध जैसे जोखिमों के विरुद्ध बीमा देती है।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-GLOBAL_FINANCE"
   },
   {
     "id": "DQ-0092",
@@ -872,7 +944,10 @@
     "explanation": {
       "en": "The International Centre for Settlement of Investment Disputes offers conciliation and arbitration.",
       "hi": "निवेश विवाद निपटान हेतु अंतर्राष्ट्रीय केंद्र सुलह और मध्यस्थता की सुविधा देता है।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-GLOBAL_FINANCE"
   },
   {
     "id": "DQ-0093",
@@ -907,7 +982,10 @@
     "explanation": {
       "en": "The International Development Association is the concessional lending arm of the group.",
       "hi": "अंतर्राष्ट्रीय विकास संघ समूह की रियायती ऋण शाखा है।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-GLOBAL_FINANCE"
   },
   {
     "id": "DQ-0094",
@@ -942,7 +1020,10 @@
     "explanation": {
       "en": "Physics, chemistry, physiology or medicine, literature and peace; economics was added much later.",
       "hi": "भौतिकी, रसायन, चिकित्सा विज्ञान, साहित्य और शांति; अर्थशास्त्र का पुरस्कार बहुत बाद में जोड़ा गया।"
-    }
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "AWARDS-AWARDS"
   },
   {
     "id": "DQ-0095",
@@ -977,7 +1058,10 @@
     "explanation": {
       "en": "Nobel's will assigned the peace award to a committee appointed by the Norwegian parliament.",
       "hi": "नोबेल की वसीयत ने शांति पुरस्कार नॉर्वे की संसद द्वारा नियुक्त समिति को सौंपा।"
-    }
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "AWARDS-AWARDS"
   },
   {
     "id": "DQ-0096",
@@ -1012,7 +1096,10 @@
     "explanation": {
       "en": "Nobel died in 1896 and the first awards followed five years later.",
       "hi": "नोबेल का निधन 1896 में हुआ और पाँच वर्ष बाद पहले पुरस्कार दिए गए।"
-    }
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "AWARDS-AWARDS"
   },
   {
     "id": "DQ-0097",
@@ -1047,7 +1134,10 @@
     "explanation": {
       "en": "He was the first non-European to win the literature prize.",
       "hi": "वे साहित्य का पुरस्कार जीतने वाले पहले ग़ैर-यूरोपीय थे।"
-    }
+    },
+    "subjectId": "ART-CULT",
+    "chapterId": "ART-CULT",
+    "topicId": "ART-CULT-LITERATURE"
   },
   {
     "id": "DQ-0098",
@@ -1082,7 +1172,10 @@
     "explanation": {
       "en": "The English Gitanjali was published in 1912 with a preface by W. B. Yeats.",
       "hi": "अंग्रेज़ी गीतांजलि 1912 में डब्ल्यू. बी. येट्स की भूमिका के साथ प्रकाशित हुई।"
-    }
+    },
+    "subjectId": "ART-CULT",
+    "chapterId": "ART-CULT",
+    "topicId": "ART-CULT-LITERATURE"
   },
   {
     "id": "DQ-0099",
@@ -1117,7 +1210,10 @@
     "explanation": {
       "en": "Tagore also wrote Amar Shonar Bangla, now the national anthem of Bangladesh.",
       "hi": "टैगोर ने अमर सोनार बांग्ला भी लिखा, जो अब बांग्लादेश का राष्ट्रीय गान है।"
-    }
+    },
+    "subjectId": "ART-CULT",
+    "chapterId": "ART-CULT",
+    "topicId": "ART-CULT-LITERATURE"
   },
   {
     "id": "DQ-0100",
@@ -1152,7 +1248,10 @@
     "explanation": {
       "en": "The Second Continental Congress adopted it in Philadelphia.",
       "hi": "इसे फ़िलाडेल्फ़िया में द्वितीय महाद्वीपीय कांग्रेस ने अपनाया।"
-    }
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "IND-HIST-HISTORY"
   },
   {
     "id": "DQ-0101",
@@ -1187,7 +1286,10 @@
     "explanation": {
       "en": "He drafted it for the Committee of Five, which also included Adams and Franklin.",
       "hi": "उन्होंने पाँच सदस्यीय समिति के लिए इसे तैयार किया, जिसमें एडम्स और फ़्रैंकलिन भी थे।"
-    }
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "IND-HIST-HISTORY"
   },
   {
     "id": "DQ-0102",
@@ -1222,6 +1324,9 @@
     "explanation": {
       "en": "That phrase is the document's statement of popular sovereignty.",
       "hi": "यह वाक्य उस दस्तावेज़ का लोकप्रिय संप्रभुता संबंधी कथन है।"
-    }
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "IND-HIST-HISTORY"
   }
 ]

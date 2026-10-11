@@ -32,7 +32,10 @@
     "explanation": {
       "en": "Two atria above and two ventricles below.",
       "hi": "ऊपर दो अलिंद और नीचे दो निलय होते हैं।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HUMAN_BODY"
   },
   {
     "id": "DQ-0220",
@@ -67,7 +70,10 @@
     "explanation": {
       "en": "A newborn has around 300, and many fuse together while growing.",
       "hi": "नवजात में लगभग 300 होती हैं और बढ़ते समय कई आपस में जुड़ जाती हैं।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HUMAN_BODY"
   },
   {
     "id": "DQ-0221",
@@ -102,7 +108,10 @@
     "explanation": {
       "en": "Insulin lets cells take up glucose from the blood.",
       "hi": "इंसुलिन कोशिकाओं को रक्त से ग्लूकोज़ ग्रहण करने देता है।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HUMAN_BODY"
   },
   {
     "id": "DQ-0222",
@@ -137,7 +146,10 @@
     "explanation": {
       "en": "Red cells carry oxygen; platelets help blood clot.",
       "hi": "लाल कोशिकाएँ ऑक्सीजन ले जाती हैं; प्लेटलेट्स रक्त स्कंदन में मदद करते हैं।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HUMAN_BODY"
   },
   {
     "id": "DQ-0223",
@@ -172,7 +184,10 @@
     "explanation": {
       "en": "Ultraviolet B rays trigger its production in the skin.",
       "hi": "पराबैंगनी B किरणें त्वचा में इसके निर्माण को सक्रिय करती हैं।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HUMAN_BODY"
   },
   {
     "id": "DQ-0224",
@@ -207,7 +222,10 @@
     "explanation": {
       "en": "Fats store energy, but carbohydrates supply it fastest.",
       "hi": "वसा ऊर्जा संचित करती है, पर कार्बोहाइड्रेट सबसे तेज़ ऊर्जा देते हैं।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HUMAN_BODY"
   },
   {
     "id": "DQ-0225",
@@ -242,7 +260,10 @@
     "explanation": {
       "en": "In an adult it covers close to two square metres.",
       "hi": "वयस्क में यह लगभग दो वर्ग मीटर क्षेत्र घेरती है।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HUMAN_BODY"
   },
   {
     "id": "DQ-0226",
@@ -277,7 +298,10 @@
     "explanation": {
       "en": "Damage to it makes walking unsteady even though strength is normal.",
       "hi": "इसकी क्षति से शक्ति सामान्य रहते हुए भी चलना डगमगा जाता है।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HUMAN_BODY"
   },
   {
     "id": "DQ-0227",
@@ -312,7 +336,10 @@
     "explanation": {
       "en": "It varies slightly through the day and between people.",
       "hi": "यह दिन में और व्यक्ति-व्यक्ति में थोड़ा बदलता रहता है।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HUMAN_BODY"
   },
   {
     "id": "DQ-0228",
@@ -347,7 +374,10 @@
     "explanation": {
       "en": "That count includes the four wisdom teeth.",
       "hi": "इस गिनती में चार दाढ़ें भी शामिल हैं।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HUMAN_BODY"
   },
   {
     "id": "DQ-0229",
@@ -382,7 +412,10 @@
     "explanation": {
       "en": "More melanin means darker skin and greater protection from ultraviolet light.",
       "hi": "अधिक मेलेनिन का अर्थ गहरी त्वचा और पराबैंगनी प्रकाश से अधिक सुरक्षा।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HUMAN_BODY"
   },
   {
     "id": "DQ-0230",
@@ -417,7 +450,10 @@
     "explanation": {
       "en": "It performs hundreds of tasks, from making bile to filtering blood.",
       "hi": "यह पित्त बनाने से रक्त छानने तक सैकड़ों कार्य करता है।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HUMAN_BODY"
   },
   {
     "id": "DQ-0231",
@@ -452,7 +488,10 @@
     "explanation": {
       "en": "He identified the ABO system in 1901.",
       "hi": "उन्होंने 1901 में ABO प्रणाली की पहचान की।"
-    }
+    },
+    "subjectId": "SCI-HIST",
+    "chapterId": "SCI-HIST",
+    "topicId": "SCI-HIST-SCIENCE_HISTORY"
   },
   {
     "id": "DQ-0232",
@@ -487,7 +526,10 @@
     "explanation": {
       "en": "It activates digestive enzymes and kills many swallowed germs.",
       "hi": "यह पाचक एंज़ाइमों को सक्रिय करता है और निगले गए कई जीवाणु मारता है।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-HUMAN_BODY"
   },
   {
     "id": "DQ-0233",
@@ -522,7 +564,10 @@
     "explanation": {
       "en": "Covering a flame cuts off its oxygen and puts it out.",
       "hi": "लपट को ढकने से उसकी ऑक्सीजन कट जाती है और वह बुझ जाती है।"
-    }
+    },
+    "subjectId": "SCI-CHEM",
+    "chapterId": "SCI-CHEM",
+    "topicId": "SCI-CHEM-CHEMISTRY"
   },
   {
     "id": "DQ-0234",
@@ -557,7 +602,10 @@
     "explanation": {
       "en": "It comes from the Latin word aurum.",
       "hi": "यह लैटिन शब्द औरोम से आया है।"
-    }
+    },
+    "subjectId": "SCI-CHEM",
+    "chapterId": "SCI-CHEM",
+    "topicId": "SCI-CHEM-CHEMISTRY"
   },
   {
     "id": "DQ-0235",
@@ -592,7 +640,10 @@
     "explanation": {
       "en": "It comes from the Latin word ferrum.",
       "hi": "यह लैटिन शब्द फ़ेरम से आया है।"
-    }
+    },
+    "subjectId": "SCI-CHEM",
+    "chapterId": "SCI-CHEM",
+    "topicId": "SCI-CHEM-CHEMISTRY"
   },
   {
     "id": "DQ-0236",
@@ -627,7 +678,10 @@
     "explanation": {
       "en": "Two hydrogen atoms bonded to one oxygen atom.",
       "hi": "दो हाइड्रोजन परमाणु एक ऑक्सीजन परमाणु से बंधे होते हैं।"
-    }
+    },
+    "subjectId": "SCI-CHEM",
+    "chapterId": "SCI-CHEM",
+    "topicId": "SCI-CHEM-CHEMISTRY"
   },
   {
     "id": "DQ-0237",
@@ -662,7 +716,10 @@
     "explanation": {
       "en": "Its formula is NaCl.",
       "hi": "इसका सूत्र NaCl है।"
-    }
+    },
+    "subjectId": "SCI-CHEM",
+    "chapterId": "SCI-CHEM",
+    "topicId": "SCI-CHEM-CHEMISTRY"
   },
   {
     "id": "DQ-0238",
@@ -697,7 +754,10 @@
     "explanation": {
       "en": "Nitrogen makes up about 78 per cent of the air.",
       "hi": "नाइट्रोजन वायु का लगभग 78 प्रतिशत है।"
-    }
+    },
+    "subjectId": "SCI-CHEM",
+    "chapterId": "SCI-CHEM",
+    "topicId": "SCI-CHEM-CHEMISTRY"
   },
   {
     "id": "DQ-0239",
@@ -732,7 +792,10 @@
     "explanation": {
       "en": "Seven is neutral; below it is acidic and above it alkaline.",
       "hi": "सात उदासीन है; इससे कम अम्लीय और अधिक क्षारीय होता है।"
-    }
+    },
+    "subjectId": "SCI-CHEM",
+    "chapterId": "SCI-CHEM",
+    "topicId": "SCI-CHEM-CHEMISTRY"
   },
   {
     "id": "DQ-0240",
@@ -767,7 +830,10 @@
     "explanation": {
       "en": "It melts at about minus 39 degrees Celsius.",
       "hi": "यह लगभग माइनस 39 डिग्री सेल्सियस पर पिघलता है।"
-    }
+    },
+    "subjectId": "SCI-CHEM",
+    "chapterId": "SCI-CHEM",
+    "topicId": "SCI-CHEM-CHEMISTRY"
   },
   {
     "id": "DQ-0241",
@@ -802,7 +868,10 @@
     "explanation": {
       "en": "It is a reddish-brown liquid that gives off a sharp vapour.",
       "hi": "यह लाल-भूरे रंग का द्रव है जिससे तीखी वाष्प निकलती है।"
-    }
+    },
+    "subjectId": "SCI-CHEM",
+    "chapterId": "SCI-CHEM",
+    "topicId": "SCI-CHEM-CHEMISTRY"
   },
   {
     "id": "DQ-0242",
@@ -837,7 +906,10 @@
     "explanation": {
       "en": "It has a single proton and a single electron.",
       "hi": "इसमें एक प्रोटॉन और एक इलेक्ट्रॉन होता है।"
-    }
+    },
+    "subjectId": "SCI-CHEM",
+    "chapterId": "SCI-CHEM",
+    "topicId": "SCI-CHEM-CHEMISTRY"
   },
   {
     "id": "DQ-0243",
@@ -872,7 +944,10 @@
     "explanation": {
       "en": "They release oxygen as a by-product of the same process.",
       "hi": "वे इसी प्रक्रिया के उप-उत्पाद के रूप में ऑक्सीजन छोड़ते हैं।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-BIOLOGY"
   },
   {
     "id": "DQ-0244",
@@ -907,7 +982,10 @@
     "explanation": {
       "en": "Mitochondria release most of the energy a cell uses.",
       "hi": "माइटोकॉन्ड्रिया कोशिका द्वारा प्रयुक्त अधिकांश ऊर्जा मुक्त करते हैं।"
-    }
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-BIOLOGY"
   },
   {
     "id": "DQ-0245",
@@ -942,7 +1020,10 @@
     "explanation": {
       "en": "They appeared in his Principia of 1687.",
       "hi": "ये उनके 1687 के प्रिंसिपिया में प्रकाशित हुए।"
-    }
+    },
+    "subjectId": "SCI-HIST",
+    "chapterId": "SCI-HIST",
+    "topicId": "SCI-HIST-SCIENCE_HISTORY"
   },
   {
     "id": "DQ-0246",
@@ -977,7 +1058,10 @@
     "explanation": {
       "en": "Special relativity came in 1905 and general relativity in 1915.",
       "hi": "विशेष सापेक्षता 1905 में और सामान्य सापेक्षता 1915 में आई।"
-    }
+    },
+    "subjectId": "SCI-HIST",
+    "chapterId": "SCI-HIST",
+    "topicId": "SCI-HIST-SCIENCE_HISTORY"
   },
   {
     "id": "DQ-0247",
@@ -1012,7 +1096,10 @@
     "explanation": {
       "en": "He noticed mould killing bacteria on a culture plate in 1928.",
       "hi": "1928 में उन्होंने कल्चर प्लेट पर फफूंद को जीवाणु मारते देखा।"
-    }
+    },
+    "subjectId": "SCI-HIST",
+    "chapterId": "SCI-HIST",
+    "topicId": "SCI-HIST-SCIENCE_HISTORY"
   },
   {
     "id": "DQ-0248",
@@ -1047,7 +1134,10 @@
     "explanation": {
       "en": "On the Origin of Species was published in 1859.",
       "hi": "ऑन द ओरिजिन ऑफ़ स्पीशीज़ 1859 में प्रकाशित हुई।"
-    }
+    },
+    "subjectId": "SCI-HIST",
+    "chapterId": "SCI-HIST",
+    "topicId": "SCI-HIST-SCIENCE_HISTORY"
   },
   {
     "id": "DQ-0249",
@@ -1082,7 +1172,10 @@
     "explanation": {
       "en": "His pea-plant experiments laid out how traits are inherited.",
       "hi": "उन्होंने मटर के पौधों पर प्रयोगों से लक्षणों की वंशागति बताई।"
-    }
+    },
+    "subjectId": "SCI-HIST",
+    "chapterId": "SCI-HIST",
+    "topicId": "SCI-HIST-SCIENCE_HISTORY"
   },
   {
     "id": "DQ-0250",
@@ -1117,7 +1210,10 @@
     "explanation": {
       "en": "One ohm allows one ampere when one volt is applied.",
       "hi": "एक वोल्ट लगाने पर एक ओम से एक ऐम्पियर धारा बहती है।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-PHYSICS"
   },
   {
     "id": "DQ-0251",
@@ -1152,7 +1248,10 @@
     "explanation": {
       "en": "Henry measures inductance and tesla measures magnetic flux density.",
       "hi": "हेनरी प्रेरकत्व और टेस्ला चुंबकीय फ़्लक्स घनत्व मापता है।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-PHYSICS"
   },
   {
     "id": "DQ-0252",
@@ -1187,7 +1286,10 @@
     "explanation": {
       "en": "Exactly 299,792,458 metres per second.",
       "hi": "ठीक 299,792,458 मीटर प्रति सेकंड।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-PHYSICS"
   },
   {
     "id": "DQ-0253",
@@ -1222,7 +1324,10 @@
     "explanation": {
       "en": "Sound needs matter to vibrate, and a vacuum has none.",
       "hi": "ध्वनि को कंपन के लिए पदार्थ चाहिए और निर्वात में वह नहीं होता।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-PHYSICS"
   },
   {
     "id": "DQ-0254",
@@ -1257,7 +1362,10 @@
     "explanation": {
       "en": "It spreads the light slightly before the eye focuses it.",
       "hi": "यह आँख के फोकस करने से पहले प्रकाश को थोड़ा फैला देता है।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-PHYSICS"
   },
   {
     "id": "DQ-0255",
@@ -1292,7 +1400,10 @@
     "explanation": {
       "en": "Droplets bend each colour by a different amount, splitting white light.",
       "hi": "बूंदें प्रत्येक रंग को अलग मात्रा में मोड़ती हैं, जिससे श्वेत प्रकाश बँट जाता है।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-PHYSICS"
   },
   {
     "id": "DQ-0256",
@@ -1327,7 +1438,10 @@
     "explanation": {
       "en": "Its trace is called a seismogram.",
       "hi": "इसके लेख को सिस्मोग्राम कहते हैं।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-PHYSICS"
   },
   {
     "id": "DQ-0257",
@@ -1362,7 +1476,10 @@
     "explanation": {
       "en": "A motor does the reverse, turning electricity into motion.",
       "hi": "मोटर उल्टा काम करता है, बिजली को गति में बदलता है।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-PHYSICS"
   },
   {
     "id": "DQ-0258",
@@ -1397,6 +1514,9 @@
     "explanation": {
       "en": "Every mass attracts every other mass, but Earth's is the one we feel daily.",
       "hi": "हर द्रव्यमान दूसरे को आकर्षित करता है, पर पृथ्वी का हम रोज़ महसूस करते हैं।"
-    }
+    },
+    "subjectId": "SCI-PHYS",
+    "chapterId": "SCI-PHYS",
+    "topicId": "SCI-PHYS-PHYSICS"
   }
 ]

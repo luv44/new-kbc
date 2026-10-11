@@ -37,6 +37,9 @@ const files = {
   [`${FOLDER}/DRAFT_UNIQUE_QUESTIONS.json`]: 'content/questions/DRAFT_UNIQUE_QUESTIONS.json',
   [`${FOLDER}/DRAFT_UNIQUE_QUESTIONS.md`]: 'content/questions/DRAFT_UNIQUE_QUESTIONS.md',
   [`${FOLDER}/COMPLETE_QUESTION_BANK.txt`]: 'content/questions/COMPLETE_QUESTION_BANK.txt',
+  [`${FOLDER}/TAXONOMY.json`]: 'content/questions/TAXONOMY.json',
+  [`${FOLDER}/TOPIC_TARGETS.json`]: 'content/questions/TOPIC_TARGETS.json',
+  [`${FOLDER}/TOPIC_GAP_REPORT.md`]: 'content/questions/TOPIC_GAP_REPORT.md',
   [`${FOLDER}/scripts/question-lint.mjs`]: 'scripts/question-lint.mjs',
 };
 // Every part file on disk ships, discovered rather than listed by hand.

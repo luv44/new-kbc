@@ -5,7 +5,7 @@
 // Usage: node scripts/question-lint.mjs [--write]
 // With --write it emits content/questions/DRAFT_UNIQUE_QUESTIONS.json and .md from the approved parts.
 
-import { readFileSync, writeFileSync, mkdirSync, readdirSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, readdirSync, existsSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
@@ -147,6 +147,25 @@ for (let i = 0; i < records.length; i++) {
   }
 }
 
+// ---- taxonomy placement -------------------------------------------------
+// Every question must be filed under a subject and topic that TAXONOMY.json knows.
+// Empty subjectId/topicId strings used to pass silently, leaving the bank ungroupable.
+const taxonomyPath = join(ROOT, 'content/questions/TAXONOMY.json');
+if (existsSync(taxonomyPath)) {
+  const tax = JSON.parse(readFileSync(taxonomyPath, 'utf8'));
+  const knownSubjects = new Set(tax.subjects.map((s) => s.id));
+  const knownTopics = new Set(tax.subjects.flatMap((s) => s.topics));
+  for (const q of records) {
+    if (!q.subjectId) fail(q.id, 'MISSING_SUBJECT', 'subjectId is empty; file it under a subject in TAXONOMY.json');
+    else if (!knownSubjects.has(q.subjectId)) fail(q.id, 'UNKNOWN_SUBJECT', `subjectId "${q.subjectId}" is not in TAXONOMY.json`);
+    if (!q.topicId) fail(q.id, 'MISSING_TOPIC', 'topicId is empty; file it under a topic in TAXONOMY.json');
+    else if (!knownTopics.has(q.topicId)) fail(q.id, 'UNKNOWN_TOPIC', `topicId "${q.topicId}" is not in TAXONOMY.json`);
+    if (q.topicId && !q.topicId.startsWith(`${q.subjectId}-`)) {
+      fail(q.id, 'TOPIC_SUBJECT_MISMATCH', `topicId "${q.topicId}" does not belong to subjectId "${q.subjectId}"`);
+    }
+  }
+}
+
 // ---- answer-position spread -------------------------------------------
 // A bank where the right answer always sits in the same slot is guessable, so
 // no position may hold more than 40% of the answers.
@@ -165,10 +184,12 @@ if (records.length >= 20) {
 // ---- app-schema payload ------------------------------------------------
 const payload = records.map((q, i) => ({
   id: `DRAFT-${q.id}`,
-  subjectId: '',
-  chapterId: '',
-  topicId: '',
-  conceptIds: [],
+  // Carried from the part file. These used to be hardcoded to '' here, which silently
+  // discarded the taxonomy placement the linter had just validated.
+  subjectId: q.subjectId ?? '',
+  chapterId: q.chapterId ?? '',
+  topicId: q.topicId ?? '',
+  conceptIds: q.conceptIds ?? [],
   question: { en: q.q.en, hi: q.q.hi },
   options: q.options.map((o) => ({ en: o.en, hi: o.hi })),
   correctIndex: q.correctIndex,
@@ -188,6 +209,13 @@ const payload = records.map((q, i) => ({
   kind: 'AUTHORED_DRAFT',
   order: i + 1,
 }));
+
+// Guard the emitted payload, not just the part-file records. The taxonomy check above
+// reads `records`; this catches any future field that gets dropped or blanked in the map.
+for (const p of payload) {
+  if (!p.subjectId) fail(p.id, 'PAYLOAD_MISSING_SUBJECT', 'emitted payload has an empty subjectId');
+  if (!p.topicId) fail(p.id, 'PAYLOAD_MISSING_TOPIC', 'emitted payload has an empty topicId');
+}
 
 const report = {
   scannedFiles: PARTS.length,

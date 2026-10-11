@@ -32,7 +32,10 @@
     "explanation": {
       "en": "It carries out the instructions a program gives.",
       "hi": "यह प्रोग्राम द्वारा दिए गए निर्देशों को क्रियान्वित करता है।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-COMPUTING"
   },
   {
     "id": "DQ-0260",
@@ -67,7 +70,10 @@
     "explanation": {
       "en": "It holds the data a machine is using right now and empties when power is cut.",
       "hi": "यह वही डेटा रखता है जिस पर मशीन अभी काम कर रही है और बिजली कटते ही खाली हो जाता है।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-COMPUTING"
   },
   {
     "id": "DQ-0261",
@@ -102,7 +108,10 @@
     "explanation": {
       "en": "Forbidden is 403 and a permanent move is 301.",
       "hi": "निषिद्ध के लिए 403 और स्थायी स्थानांतरण के लिए 301 है।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-COMPUTING"
   },
   {
     "id": "DQ-0262",
@@ -137,7 +146,10 @@
     "explanation": {
       "en": "He outlined it in 1989 while working at CERN.",
       "hi": "उन्होंने 1989 में सर्न (CERN) में काम करते हुए इसकी रूपरेखा दी।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-COMPUTING"
   },
   {
     "id": "DQ-0263",
@@ -172,7 +184,10 @@
     "explanation": {
       "en": "Eight bits can represent 256 different values.",
       "hi": "आठ बिट 256 भिन्न मान दर्शा सकते हैं।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-COMPUTING"
   },
   {
     "id": "DQ-0264",
@@ -207,7 +222,10 @@
     "explanation": {
       "en": "It gives light when current passes through it in one direction.",
       "hi": "जब धारा एक दिशा में बहती है तो यह प्रकाश देता है।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-COMPUTING"
   },
   {
     "id": "DQ-0265",
@@ -242,7 +260,10 @@
     "explanation": {
       "en": "A receiver fixes its position by timing signals from several satellites.",
       "hi": "रिसीवर कई उपग्रहों के संकेतों का समय मापकर अपनी स्थिति तय करता है।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-COMPUTING"
   },
   {
     "id": "DQ-0266",
@@ -277,7 +298,10 @@
     "explanation": {
       "en": "Simple Mail Transfer Protocol handles sending; POP and IMAP handle collection.",
       "hi": "सिंपल मेल ट्रांसफ़र प्रोटोकॉल भेजने का काम करता है; पॉप और आईमैप प्राप्त करने का।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-COMPUTING"
   },
   {
     "id": "DQ-0267",
@@ -312,7 +336,10 @@
     "explanation": {
       "en": "It means the connection between browser and site is encrypted.",
       "hi": "इसका अर्थ है ब्राउज़र और साइट के बीच का संपर्क एन्क्रिप्टेड है।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-COMPUTING"
   },
   {
     "id": "DQ-0268",
@@ -347,7 +374,10 @@
     "explanation": {
       "en": "Only 0 and 1, which map neatly onto electrical off and on.",
       "hi": "केवल 0 और 1, जो विद्युत के बंद और चालू से मेल खाते हैं।"
-    }
+    },
+    "subjectId": "SCI-TECH",
+    "chapterId": "SCI-TECH",
+    "topicId": "SCI-TECH-COMPUTING"
   },
   {
     "id": "DQ-0269",
@@ -382,7 +412,10 @@
     "explanation": {
       "en": "The four-year gap is called an Olympiad.",
       "hi": "चार वर्ष के इस अंतराल को ओलंपियाड कहते हैं।"
-    }
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-SPORT"
   },
   {
     "id": "DQ-0270",
@@ -417,7 +450,10 @@
     "explanation": {
       "en": "Pierre de Coubertin's revival began in Greece, the ancient games' homeland.",
       "hi": "पियरे डी कूपर्टें का यह पुनरुत्थान प्राचीन खेलों की जन्मभूमि यूनान से शुरू हुआ।"
-    }
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-SPORT"
   },
   {
     "id": "DQ-0271",
@@ -452,7 +488,10 @@
     "explanation": {
       "en": "Brazil have lifted the trophy five times.",
       "hi": "ब्राज़ील यह ट्रॉफ़ी पाँच बार उठा चुका है।"
-    }
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-SPORT"
   },
   {
     "id": "DQ-0272",
@@ -487,7 +526,10 @@
     "explanation": {
       "en": "The odd extra distance comes from the 1908 London course finishing at the royal box.",
       "hi": "यह अतिरिक्त दूरी 1908 के लंदन मार्ग से आई जो शाही बॉक्स पर समाप्त होता था।"
-    }
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-SPORT"
   },
   {
     "id": "DQ-0273",
@@ -522,7 +564,10 @@
     "explanation": {
       "en": "It is the Federation Internationale des Echecs.",
       "hi": "यह फ़ेडरेशन इंटरनेशनल देज़ एशे है।"
-    }
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-SPORT"
   },
   {
     "id": "DQ-0274",
@@ -557,7 +602,10 @@
     "explanation": {
       "en": "The BCCI governs cricket in India alone.",
       "hi": "बीसीसीआई केवल भारत में क्रिकेट का संचालन करता है।"
-    }
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-SPORT"
   },
   {
     "id": "DQ-0275",
@@ -592,7 +640,10 @@
     "explanation": {
       "en": "One of the eleven is the goalkeeper.",
       "hi": "इन ग्यारह में एक गोलकीपर होता है।"
-    }
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-SPORT"
   },
   {
     "id": "DQ-0276",
@@ -627,7 +678,10 @@
     "explanation": {
       "en": "Wides and no-balls do not count towards the six.",
       "hi": "वाइड और नो-बॉल इन छह में नहीं गिनी जातीं।"
-    }
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-SPORT"
   },
   {
     "id": "DQ-0277",
@@ -662,7 +716,10 @@
     "explanation": {
       "en": "It has been run almost every year since 1903.",
       "hi": "1903 से यह लगभग हर वर्ष आयोजित होती रही है।"
-    }
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-SPORT"
   },
   {
     "id": "DQ-0278",
@@ -697,7 +754,10 @@
     "explanation": {
       "en": "It began in 1877 and is still played on grass.",
       "hi": "यह 1877 में शुरू हुई और अब भी घास पर खेली जाती है।"
-    }
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-SPORT"
   },
   {
     "id": "DQ-0279",
@@ -732,7 +792,10 @@
     "explanation": {
       "en": "The name came from an 1882 obituary for English cricket.",
       "hi": "यह नाम 1882 में इंग्लिश क्रिकेट के लिए छपे एक शोक संदेश से आया।"
-    }
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-SPORT"
   },
   {
     "id": "DQ-0280",
@@ -767,7 +830,10 @@
     "explanation": {
       "en": "The word probably comes from the French l'oeuf, an egg, for its shape.",
       "hi": "यह शब्द संभवतः फ़्रेंच ले'फ़ से आया है, जिसका अर्थ अंडा है, आकृति के कारण।"
-    }
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-SPORT"
   },
   {
     "id": "DQ-0281",
@@ -802,7 +868,10 @@
     "explanation": {
       "en": "The Fields Medal and the Abel Prize fill that gap in mathematics.",
       "hi": "गणित में यह अंतर फ़ील्ड्स पदक और आबेल पुरस्कार भरते हैं।"
-    }
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "AWARDS-AWARDS"
   },
   {
     "id": "DQ-0282",
@@ -837,7 +906,10 @@
     "explanation": {
       "en": "The Academy of Motion Picture Arts and Sciences presents it.",
       "hi": "इसे अकादमी ऑफ़ मोशन पिक्चर आर्ट्स एंड साइंसेज़ देती है।"
-    }
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "AWARDS-AWARDS"
   },
   {
     "id": "DQ-0283",
@@ -872,7 +944,10 @@
     "explanation": {
       "en": "It recognises a full-length novel in English.",
       "hi": "यह अंग्रेज़ी में लिखे पूर्ण उपन्यास को मान्यता देता है।"
-    }
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "AWARDS-AWARDS"
   },
   {
     "id": "DQ-0284",
@@ -907,7 +982,10 @@
     "explanation": {
       "en": "It is the country's highest award in film.",
       "hi": "यह देश का सिनेमा में सर्वोच्च पुरस्कार है।"
-    }
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "AWARDS-AWARDS"
   },
   {
     "id": "DQ-0285",
@@ -942,7 +1020,10 @@
     "explanation": {
       "en": "It was instituted in 1954 and carries no title or money.",
       "hi": "यह 1954 में स्थापित हुआ और इसके साथ कोई उपाधि या धनराशि नहीं है।"
-    }
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "AWARDS-AWARDS"
   },
   {
     "id": "DQ-0286",
@@ -977,7 +1058,10 @@
     "explanation": {
       "en": "It is India's highest wartime gallantry decoration.",
       "hi": "यह भारत का सर्वोच्च युद्धकालीन वीरता अलंकरण है।"
-    }
+    },
+    "subjectId": "AWARDS",
+    "chapterId": "AWARDS",
+    "topicId": "AWARDS-AWARDS"
   },
   {
     "id": "DQ-0287",
@@ -1012,7 +1096,10 @@
     "explanation": {
       "en": "It first appeared in his novel Anandamath.",
       "hi": "यह पहली बार उनके उपन्यास आनंदमठ में आई।"
-    }
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "IND-HIST-INDIAN_HISTORY"
   },
   {
     "id": "DQ-0288",
@@ -1047,7 +1134,10 @@
     "explanation": {
       "en": "Subhas Chandra Bose used the title for him in a 1944 broadcast.",
       "hi": "सुभाष चंद्र बोस ने 1944 के प्रसारण में उन्हें इस उपाधि से संबोधित किया था।"
-    }
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "IND-HIST-INDIAN_HISTORY"
   },
   {
     "id": "DQ-0289",
@@ -1082,7 +1172,10 @@
     "explanation": {
       "en": "He had also presided over the Constituent Assembly.",
       "hi": "वे संविधान सभा के अध्यक्ष भी रहे थे।"
-    }
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "IND-HIST-INDIAN_HISTORY"
   },
   {
     "id": "DQ-0290",
@@ -1117,7 +1210,10 @@
     "explanation": {
       "en": "He served from 1947 until his death in 1964.",
       "hi": "वे 1947 से 1964 में अपने निधन तक सेवा करते रहे।"
-    }
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "IND-HIST-INDIAN_HISTORY"
   },
   {
     "id": "DQ-0291",
@@ -1152,7 +1248,10 @@
     "explanation": {
       "en": "He was Deputy Prime Minister and Home Minister at the time.",
       "hi": "उस समय वे उपप्रधानमंत्री और गृह मंत्री थे।"
-    }
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "IND-HIST-INDIAN_HISTORY"
   },
   {
     "id": "DQ-0292",
@@ -1187,7 +1286,10 @@
     "explanation": {
       "en": "She took office in 1966.",
       "hi": "उन्होंने 1966 में पदभार संभाला।"
-    }
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "IND-HIST-INDIAN_HISTORY"
   },
   {
     "id": "DQ-0293",
@@ -1222,7 +1324,10 @@
     "explanation": {
       "en": "It became the greeting of the Indian National Army.",
       "hi": "यह भारतीय राष्ट्रीय सेना का अभिवादन बन गया।"
-    }
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "IND-HIST-INDIAN_HISTORY"
   },
   {
     "id": "DQ-0294",
@@ -1257,7 +1362,10 @@
     "explanation": {
       "en": "Chanakya was his adviser, not the emperor.",
       "hi": "चाणक्य उनके सलाहकार थे, सम्राट नहीं।"
-    }
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "IND-HIST-INDIAN_HISTORY"
   },
   {
     "id": "DQ-0295",
@@ -1292,7 +1400,10 @@
     "explanation": {
       "en": "He built it as a mausoleum for Mumtaz Mahal.",
       "hi": "उन्होंने इसे मुमताज़ महल के मक़बरे के रूप में बनवाया।"
-    }
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "IND-HIST-INDIAN_HISTORY"
   },
   {
     "id": "DQ-0296",
@@ -1327,7 +1438,10 @@
     "explanation": {
       "en": "He won the first battle of Panipat in 1526.",
       "hi": "उन्होंने 1526 में पानीपत का पहला युद्ध जीता।"
-    }
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "IND-HIST-INDIAN_HISTORY"
   },
   {
     "id": "DQ-0297",
@@ -1362,7 +1476,10 @@
     "explanation": {
       "en": "Work on it began under Qutb ud-Din Aibak in the 1190s.",
       "hi": "इसका कार्य 1190 के दशक में क़ुतुब उद-दीन ऐबक के समय शुरू हुआ।"
-    }
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "IND-HIST-INDIAN_HISTORY"
   },
   {
     "id": "DQ-0298",
@@ -1397,6 +1514,9 @@
     "explanation": {
       "en": "He raised the original brick structure over the Buddha's relics.",
       "hi": "उन्होंने बुद्ध के अवशेषों पर मूल ईंट संरचना बनवाई थी।"
-    }
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "IND-HIST-INDIAN_HISTORY"
   }
 ]

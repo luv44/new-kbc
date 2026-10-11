@@ -32,7 +32,10 @@
     "explanation": {
       "en": "The Secretariat building stands on the East River in Manhattan.",
       "hi": "सचिवालय भवन मैनहटन में ईस्ट रिवर के किनारे स्थित है।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-WORLD_BODIES"
   },
   {
     "id": "DQ-0180",
@@ -67,7 +70,10 @@
     "explanation": {
       "en": "The term is renewable, and Secretaries-General have traditionally served two.",
       "hi": "यह कार्यकाल नवीकरणीय है और परंपरागत रूप से महासचिव दो कार्यकाल सेवा देते रहे हैं।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-WORLD_BODIES"
   },
   {
     "id": "DQ-0181",
@@ -102,7 +108,10 @@
     "explanation": {
       "en": "South Sudan became the 193rd member in 2011.",
       "hi": "दक्षिण सूडान 2011 में 193वाँ सदस्य बना।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-WORLD_BODIES"
   },
   {
     "id": "DQ-0182",
@@ -137,7 +146,10 @@
     "explanation": {
       "en": "Founded in 1920, it could not prevent the Second World War and was wound up in 1946.",
       "hi": "1920 में स्थापित यह संगठन द्वितीय विश्व युद्ध नहीं रोक सका और 1946 में समाप्त हुआ।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-WORLD_BODIES"
   },
   {
     "id": "DQ-0183",
@@ -172,7 +184,10 @@
     "explanation": {
       "en": "The General Assembly adopted it in Paris on 10 December 1948.",
       "hi": "महासभा ने इसे 10 दिसंबर 1948 को पेरिस में अपनाया।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-WORLD_BODIES"
   },
   {
     "id": "DQ-0184",
@@ -207,7 +222,10 @@
     "explanation": {
       "en": "She led the eighteen-member UN Commission on Human Rights.",
       "hi": "उन्होंने अठारह सदस्यीय संयुक्त राष्ट्र मानव अधिकार आयोग का नेतृत्व किया।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-WORLD_BODIES"
   },
   {
     "id": "DQ-0185",
@@ -242,7 +260,10 @@
     "explanation": {
       "en": "Arabic, Chinese, English, French, Russian and Spanish.",
       "hi": "अरबी, चीनी, अंग्रेज़ी, फ़्रेंच, रूसी और स्पेनिश।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-WORLD_BODIES"
   },
   {
     "id": "DQ-0186",
@@ -277,7 +298,10 @@
     "explanation": {
       "en": "Hindi is spoken by hundreds of millions but is not among the six.",
       "hi": "हिंदी करोड़ों लोग बोलते हैं पर वह छह में शामिल नहीं है।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-WORLD_BODIES"
   },
   {
     "id": "DQ-0187",
@@ -312,7 +336,10 @@
     "explanation": {
       "en": "Several UN agencies cluster in Geneva, Switzerland.",
       "hi": "स्विट्ज़रलैंड के जिनेवा में कई संयुक्त राष्ट्र एजेंसियाँ स्थित हैं।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-WORLD_BODIES"
   },
   {
     "id": "DQ-0188",
@@ -347,7 +374,10 @@
     "explanation": {
       "en": "Its headquarters building opened in 1958.",
       "hi": "इसका मुख्यालय भवन 1958 में खुला।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-WORLD_BODIES"
   },
   {
     "id": "DQ-0189",
@@ -382,7 +412,10 @@
     "explanation": {
       "en": "The Marrakesh Agreement brought it into force on 1 January 1995.",
       "hi": "मराकेश समझौते से यह 1 जनवरी 1995 को लागू हुआ।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-WORLD_BODIES"
   },
   {
     "id": "DQ-0190",
@@ -417,7 +450,10 @@
     "explanation": {
       "en": "GATT had governed trade rules since 1948 without an organisation behind it.",
       "hi": "1948 से व्यापार नियम गैट तय करता था, जिसके पीछे कोई संगठन नहीं था।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-WORLD_BODIES"
   },
   {
     "id": "DQ-0191",
@@ -452,7 +488,10 @@
     "explanation": {
       "en": "Twelve countries signed it there; NATO's political headquarters later moved to Brussels.",
       "hi": "बारह देशों ने वहाँ इस पर हस्ताक्षर किए; नाटो का राजनीतिक मुख्यालय बाद में ब्रुसेल्स चला गया।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-WORLD_BODIES"
   },
   {
     "id": "DQ-0192",
@@ -487,7 +526,10 @@
     "explanation": {
       "en": "East Timor has been admitted in principle but is not yet a full member.",
       "hi": "पूर्वी तिमोर को सिद्धांततः स्वीकार किया गया है पर वह अभी पूर्ण सदस्य नहीं है।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-WORLD_BODIES"
   },
   {
     "id": "DQ-0193",
@@ -522,7 +564,10 @@
     "explanation": {
       "en": "Afghanistan joined in 2007 as the eighth member.",
       "hi": "अफ़ग़ानिस्तान 2007 में आठवें सदस्य के रूप में शामिल हुआ।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-WORLD_BODIES"
   },
   {
     "id": "DQ-0194",
@@ -557,7 +602,10 @@
     "explanation": {
       "en": "Brazil, Russia, India and China were the original four.",
       "hi": "ब्राज़ील, रूस, भारत और चीन मूल चार देश थे।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-WORLD_BODIES"
   },
   {
     "id": "DQ-0195",
@@ -592,7 +640,10 @@
     "explanation": {
       "en": "His account of the battle of Solferino led to the first Geneva Convention.",
       "hi": "सोलफ़ेरिनो के युद्ध का उनका विवरण पहले जेनेवा सम्मेलन का कारण बना।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-WORLD_BODIES"
   },
   {
     "id": "DQ-0196",
@@ -627,7 +678,10 @@
     "explanation": {
       "en": "The General Secretariat moved there in 1989.",
       "hi": "महासचिवालय 1989 में वहाँ स्थानांतरित हुआ।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-WORLD_BODIES"
   },
   {
     "id": "DQ-0197",
@@ -662,7 +716,10 @@
     "explanation": {
       "en": "No two judges may be nationals of the same state.",
       "hi": "कोई भी दो न्यायाधीश एक ही राज्य के नागरिक नहीं हो सकते।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-WORLD_BODIES"
   },
   {
     "id": "DQ-0198",
@@ -697,7 +754,10 @@
     "explanation": {
       "en": "A third of the bench is elected every three years.",
       "hi": "हर तीन वर्ष में एक तिहाई न्यायाधीश चुने जाते हैं।"
-    }
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-WORLD_BODIES"
   },
   {
     "id": "DQ-0199",
@@ -732,7 +792,10 @@
     "explanation": {
       "en": "Asia covers about 44.6 million square kilometres.",
       "hi": "एशिया लगभग 4.46 करोड़ वर्ग किलोमीटर में फैला है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0200",
@@ -767,7 +830,10 @@
     "explanation": {
       "en": "Europe is the second smallest, at about 10 million square kilometres.",
       "hi": "यूरोप दूसरा सबसे छोटा है, लगभग 1 करोड़ वर्ग किलोमीटर।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0201",
@@ -802,7 +868,10 @@
     "explanation": {
       "en": "It covers more area than all of the planet's land combined.",
       "hi": "यह पृथ्वी की कुल स्थल से भी अधिक क्षेत्र घेरता है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0202",
@@ -837,7 +906,10 @@
     "explanation": {
       "en": "Its height is recorded as 8,848.86 metres.",
       "hi": "इसकी ऊँचाई 8,848.86 मीटर दर्ज है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0203",
@@ -872,7 +944,10 @@
     "explanation": {
       "en": "Russia spans eleven time zones.",
       "hi": "रूस ग्यारह समय क्षेत्रों में फैला है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0204",
@@ -907,7 +982,10 @@
     "explanation": {
       "en": "It covers roughly 44 hectares inside Rome.",
       "hi": "यह रोम के भीतर लगभग 44 हेक्टेयर में फैला है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0205",
@@ -942,7 +1020,10 @@
     "explanation": {
       "en": "It divides the Earth into the northern and southern hemispheres.",
       "hi": "यह पृथ्वी को उत्तरी और दक्षिणी गोलार्ध में बाँटती है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0206",
@@ -977,7 +1058,10 @@
     "explanation": {
       "en": "The Royal Observatory there defined the line by international agreement in 1884.",
       "hi": "वहाँ की रॉयल ऑब्ज़र्वेटरी ने 1884 में अंतर्राष्ट्रीय सहमति से यह रेखा तय की।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0207",
@@ -1012,7 +1096,10 @@
     "explanation": {
       "en": "Asia, Africa, North America, South America, Antarctica, Europe and Australia.",
       "hi": "एशिया, अफ़्रीका, उत्तरी अमेरिका, दक्षिण अमेरिका, अंटार्कटिका, यूरोप और ऑस्ट्रेलिया।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0208",
@@ -1047,7 +1134,10 @@
     "explanation": {
       "en": "Africa has 54 recognised sovereign states.",
       "hi": "अफ़्रीका में 54 मान्यता प्राप्त संप्रभु देश हैं।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0209",
@@ -1082,7 +1172,10 @@
     "explanation": {
       "en": "The Amazon discharges more water than the next several largest rivers combined.",
       "hi": "अमेज़न अगली कई बड़ी नदियों के संयुक्त प्रवाह से अधिक जल बहाती है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0210",
@@ -1117,7 +1210,10 @@
     "explanation": {
       "en": "Antarctica is a larger desert overall, but it is a cold polar one.",
       "hi": "अंटार्कटिका कुल मिलाकर बड़ा मरुस्थल है, पर वह ठंडा ध्रुवीय मरुस्थल है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0211",
@@ -1152,7 +1248,10 @@
     "explanation": {
       "en": "It reaches about 1,642 metres and holds a fifth of the world's unfrozen fresh water.",
       "hi": "यह लगभग 1,642 मीटर गहरी है और विश्व का पाँचवाँ भाग बिना जमा मीठा पानी रखती है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0212",
@@ -1187,7 +1286,10 @@
     "explanation": {
       "en": "The Andes run about 7,000 kilometres along South America's western edge.",
       "hi": "एंडीज़ दक्षिण अमेरिका के पश्चिमी किनारे पर लगभग 7,000 किलोमीटर तक फैली हैं।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0213",
@@ -1222,7 +1324,10 @@
     "explanation": {
       "en": "The Japanese name Nihon means origin of the sun.",
       "hi": "जापानी नाम निहोन का अर्थ है सूर्य का उद्गम।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0214",
@@ -1257,7 +1362,10 @@
     "explanation": {
       "en": "The won is used in Korea and the yuan in China.",
       "hi": "वोन कोरिया में और युआन चीन में प्रयुक्त होता है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0215",
@@ -1292,7 +1400,10 @@
     "explanation": {
       "en": "The UK kept sterling instead of adopting the euro.",
       "hi": "ब्रिटेन ने यूरो अपनाने के बजाय स्टर्लिंग बनाए रखा।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0216",
@@ -1327,7 +1438,10 @@
     "explanation": {
       "en": "Its basic unit is called the yuan.",
       "hi": "इसकी मूल इकाई को युआन कहते हैं।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0217",
@@ -1362,7 +1476,10 @@
     "explanation": {
       "en": "Canberra was purpose-built to settle the rivalry between Sydney and Melbourne.",
       "hi": "सिडनी और मेलबर्न की होड़ सुलझाने के लिए कैनबरा को विशेष रूप से बसाया गया।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   },
   {
     "id": "DQ-0218",
@@ -1397,6 +1514,9 @@
     "explanation": {
       "en": "Toronto is the largest city, but Ottawa holds Parliament.",
       "hi": "टोरंटो सबसे बड़ा शहर है, पर संसद ओटावा में है।"
-    }
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-WORLD_GEOGRAPHY"
   }
 ]
