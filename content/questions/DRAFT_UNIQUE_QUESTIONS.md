@@ -1,8 +1,8 @@
 # Draft question bank — unique, meta-word free
 
-Generated 2026-10-11T07:25:17.348Z by `node scripts/question-lint.mjs --write`.
+Generated 2026-10-11T07:31:06.023Z by `node scripts/question-lint.mjs --write`.
 
-- 538 questions, 538 distinct stems, 538 distinct fingerprints
+- 578 questions, 578 distinct stems, 578 distinct fingerprints
 - Banned meta-language scan: 0 hits
 - Duplication scan: 0 hits
 - Lifecycle: DRAFT_PENDING_REVIEW — not eligible for practice until human review accepts them (see `src/domain.ts eligible()`).
@@ -9150,6 +9150,686 @@ Source: PENDING-EVIDENCE · MEDIUM
 > इसने 1960 के दशक में कराची की जगह राजधानी का दर्जा लिया।
 
 Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 539. Where is the headquarters of the United Nations Environment Programme?
+**संयुक्त राष्ट्र पर्यावरण कार्यक्रम का मुख्यालय कहाँ है?**
+
+- A. Nairobi — नैरोबी
+- B. Geneva — जिनेवा
+- C. Rome — रोम
+- D. Vienna — वियना
+
+**Answer: A. Nairobi**
+
+> UNEP has been based in the Kenyan capital since 1972.
+> यूएनईपी 1972 से केन्या की राजधानी में स्थित है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 540. Where is the headquarters of the Universal Postal Union?
+**विश्व डाक संघ का मुख्यालय कहाँ है?**
+
+- A. Geneva — जिनेवा
+- B. Bern — बर्न
+- C. Brussels — ब्रुसेल्स
+- D. Paris — पेरिस
+
+**Answer: B. Bern**
+
+> It was founded in 1874, one of the oldest international bodies.
+> इसकी स्थापना 1874 में हुई, यह सबसे पुराने अंतर्राष्ट्रीय निकायों में है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 541. Where is the headquarters of the International Olympic Committee?
+**अंतर्राष्ट्रीय ओलंपिक समिति का मुख्यालय कहाँ है?**
+
+- A. Monaco — मोनैको
+- B. Paris — पेरिस
+- C. Lausanne — लोज़ान
+- D. Athens — एथेंस
+
+**Answer: C. Lausanne**
+
+> It moved to the Swiss city in 1915.
+> यह 1915 में इस स्विस शहर में स्थानांतरित हुई।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 542. Where is the headquarters of the International Maritime Organization?
+**अंतर्राष्ट्रीय समुद्री संगठन का मुख्यालय कहाँ है?**
+
+- A. Oslo — ओस्लो
+- B. Singapore — सिंगापुर
+- C. Rome — रोम
+- D. London — लंदन
+
+**Answer: D. London**
+
+> It sets safety and pollution rules for shipping.
+> यह जहाज़रानी के लिए सुरक्षा और प्रदूषण नियम तय करता है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 543. Where is the headquarters of the International Civil Aviation Organization?
+**अंतर्राष्ट्रीय नागरिक उड्डयन संगठन का मुख्यालय कहाँ है?**
+
+- A. Ottawa — ओटावा
+- B. Toronto — टोरंटो
+- C. Chicago — शिकागो
+- D. Montreal — मॉन्ट्रियल
+
+**Answer: D. Montreal**
+
+> It grew out of the Chicago Convention of 1944.
+> यह 1944 की शिकागो संधि से विकसित हुआ।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 544. How many High Courts does India currently have?
+**भारत में वर्तमान में कितने उच्च न्यायालय हैं?**
+
+- A. 30 — 30
+- B. 21 — 21
+- C. 25 — 25
+- D. 28 — 28
+
+**Answer: C. 25**
+
+> Some serve more than one state or union territory.
+> कुछ एक से अधिक राज्य या केंद्र शासित प्रदेश देखते हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 545. In which year did the Supreme Court of India come into being?
+**भारत के सर्वोच्च न्यायालय का गठन किस वर्ष हुआ?**
+
+- A. 1950 — 1950
+- B. 1947 — 1947
+- C. 1949 — 1949
+- D. 1952 — 1952
+
+**Answer: A. 1950**
+
+> It first sat on 28 January, two days after the Republic began.
+> इसने 28 जनवरी को पहली बैठक की, गणतंत्र शुरू होने के दो दिन बाद।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 546. Who was the first woman to sit as a judge of the Supreme Court of India?
+**भारत के सर्वोच्च न्यायालय की पहली महिला न्यायाधीश कौन थीं?**
+
+- A. Fathima Beevi — फ़ातिमा बीवी
+- B. Indu Malhotra — इंदु मल्होत्रा
+- C. Gyan Sudha Misra — ज्ञान सुधा मिश्रा
+- D. Ruma Pal — रूमा पाल
+
+**Answer: A. Fathima Beevi**
+
+> She was appointed in 1989.
+> उनकी नियुक्ति 1989 में हुई।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 547. How many judges sat on the bench in the Kesavananda Bharati case?
+**केशवानंद भारती मामले की पीठ में कितने न्यायाधीश थे?**
+
+- A. Seven — सात
+- B. Nine — नौ
+- C. Thirteen — तेरह
+- D. Eleven — ग्यारह
+
+**Answer: C. Thirteen**
+
+> It remains the largest bench ever constituted in India.
+> यह भारत में गठित अब तक की सबसे बड़ी पीठ है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 548. Which is the principal court of original jurisdiction in an Indian district?
+**भारतीय ज़िले में मूल अधिकारिता की मुख्य अदालत कौन सी होती है?**
+
+- A. The District Court — ज़िला न्यायालय
+- B. The Lok Adalat — लोक अदालत
+- C. The Magistrate Court — मजिस्ट्रेट न्यायालय
+- D. The High Court — उच्च न्यायालय
+
+**Answer: A. The District Court**
+
+> It is headed by a District and Sessions Judge.
+> इसकी अध्यक्षता ज़िला एवं सत्र न्यायाधीश करते हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 549. Where does the Padma Vibhushan rank among India's civilian awards?
+**भारत के नागरिक सम्मानों में पद्म विभूषण का कौन सा स्थान है?**
+
+- A. The highest — सर्वोच्च
+- B. The fourth-highest — चौथा सर्वोच्च
+- C. The second-highest — दूसरा सर्वोच्च
+- D. The third-highest — तीसरा सर्वोच्च
+
+**Answer: C. The second-highest**
+
+> Only the Bharat Ratna ranks above it.
+> इससे ऊपर केवल भारत रत्न है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 550. Where does the Padma Bhushan rank among India's civilian awards?
+**भारत के नागरिक सम्मानों में पद्म भूषण का कौन सा स्थान है?**
+
+- A. The fifth-highest — पाँचवाँ सर्वोच्च
+- B. The fourth-highest — चौथा सर्वोच्च
+- C. The second-highest — दूसरा सर्वोच्च
+- D. The third-highest — तीसरा सर्वोच्च
+
+**Answer: D. The third-highest**
+
+> It sits between the Padma Vibhushan and the Padma Shri.
+> यह पद्म विभूषण और पद्म श्री के बीच आता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 551. The Major Dhyan Chand Khel Ratna was earlier known by which name?
+**मेजर ध्यान चंद खेल रत्न पहले किस नाम से जाना जाता था?**
+
+- A. The Arjuna Award — अर्जुन पुरस्कार
+- B. The Dronacharya Award — द्रोणाचार्य पुरस्कार
+- C. The Dhyan Chand Award — ध्यान चंद पुरस्कार
+- D. The Rajiv Gandhi Khel Ratna — राजीव गांधी खेल रत्न
+
+**Answer: D. The Rajiv Gandhi Khel Ratna**
+
+> It was renamed in 2021.
+> इसे 2021 में पुनर्नामित किया गया।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 552. The Dronacharya Award is presented to whom?
+**द्रोणाचार्य पुरस्कार किसे दिया जाता है?**
+
+- A. Sports coaches — खेल प्रशिक्षकों को
+- B. Retired players — सेवानिवृत्त खिलाड़ियों को
+- C. Sports journalists — खेल पत्रकारों को
+- D. Team captains only — केवल टीम कप्तानों को
+
+**Answer: A. Sports coaches**
+
+> It recognises coaching that produced medal winners.
+> यह पदक विजेता तैयार करने वाले प्रशिक्षण को मान्यता देता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 553. The Arjuna Award is given for what?
+**अर्जुन पुरस्कार किसके लिए दिया जाता है?**
+
+- A. Service to rural health — ग्रामीण स्वास्थ्य सेवा के लिए
+- B. Lifetime literary work — आजीवन साहित्यिक कार्य के लिए
+- C. Bravery in the field — मैदान में वीरता के लिए
+- D. Outstanding performance in sport — खेल में उत्कृष्ट प्रदर्शन के लिए
+
+**Answer: D. Outstanding performance in sport**
+
+> It was instituted in 1961.
+> इसकी स्थापना 1961 में हुई।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 554. Who was the first Indian to win an individual Olympic medal?
+**व्यक्तिगत ओलंपिक पदक जीतने वाले पहले भारतीय कौन थे?**
+
+- A. Karnam Malleswari — कर्णम मल्लेश्वरी
+- B. K. D. Jadhav — के. डी. जाधव
+- C. Norman Pritchard — नॉर्मन प्रिचर्ड
+- D. Leander Paes — लिएंडर पेस
+
+**Answer: B. K. D. Jadhav**
+
+> He took a wrestling bronze at Helsinki in 1952.
+> उन्होंने 1952 में हेलसिंकी में कुश्ती का कांस्य पदक जीता।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 555. Who was the first Indian woman to win an Olympic medal?
+**ओलंपिक पदक जीतने वाली पहली भारतीय महिला कौन थीं?**
+
+- A. Mary Kom — मैरी कॉम
+- B. Sakshi Malik — साक्षी मलिक
+- C. Karnam Malleswari — कर्णम मल्लेश्वरी
+- D. P. V. Sindhu — पी. वी. सिंधु
+
+**Answer: C. Karnam Malleswari**
+
+> She won a weightlifting bronze at Sydney in 2000.
+> उन्होंने 2000 में सिडनी में भारोत्तोलन का कांस्य पदक जीता।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 556. Which Indian bowler has taken the most wickets in Test cricket?
+**टेस्ट क्रिकेट में सबसे अधिक विकेट लेने वाले भारतीय गेंदबाज़ कौन हैं?**
+
+- A. Kapil Dev — कपिल देव
+- B. Harbhajan Singh — हरभजन सिंह
+- C. Anil Kumble — अनिल कुंबले
+- D. Ravichandran Ashwin — रविचंद्रन अश्विन
+
+**Answer: C. Anil Kumble**
+
+> He took 619 Test wickets.
+> उन्होंने 619 टेस्ट विकेट लिए।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 557. Who won India's first Olympic gold medal in an athletics event?
+**एथलेटिक्स स्पर्धा में भारत का पहला ओलंपिक स्वर्ण किसने जीता?**
+
+- A. Milkha Singh — मिल्खा सिंह
+- B. Abhinav Bindra — अभिनव बिंद्रा
+- C. P. T. Usha — पी. टी. ऊषा
+- D. Neeraj Chopra — नीरज चोपड़ा
+
+**Answer: D. Neeraj Chopra**
+
+> He won the javelin at Tokyo in 2021.
+> उन्होंने 2021 में टोक्यो में भाला फेंक जीता।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 558. Who captained India to victory in the 1983 Cricket World Cup?
+**1983 क्रिकेट विश्व कप में भारत को जीत दिलाने वाले कप्तान कौन थे?**
+
+- A. Mohammad Azharuddin — मोहम्मद अज़हरुद्दीन
+- B. Sunil Gavaskar — सुनील गावस्कर
+- C. Sourav Ganguly — सौरव गांगुली
+- D. Kapil Dev — कपिल देव
+
+**Answer: D. Kapil Dev**
+
+> India beat the West Indies in the final at Lord's.
+> भारत ने लॉर्ड्स में फ़ाइनल में वेस्टइंडीज़ को हराया।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 559. Which is the largest land animal on Earth?
+**पृथ्वी का सबसे बड़ा थलचर पशु कौन सा है?**
+
+- A. The hippopotamus — दरियाई घोड़ा
+- B. The giraffe — जिराफ़
+- C. The African elephant — अफ़्रीकी हाथी
+- D. The white rhinoceros — श्वेत गैंडा
+
+**Answer: C. The African elephant**
+
+> The blue whale is larger still, but it lives in the sea.
+> नीली व्हेल इससे भी बड़ी है, पर वह समुद्र में रहती है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 560. Which is the tallest animal in the world?
+**विश्व का सबसे ऊँचा पशु कौन सा है?**
+
+- A. The camel — ऊँट
+- B. The giraffe — जिराफ़
+- C. The elk — एल्क
+- D. The African elephant — अफ़्रीकी हाथी
+
+**Answer: B. The giraffe**
+
+> An adult male can stand close to six metres.
+> वयस्क नर लगभग छह मीटर ऊँचा हो सकता है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 561. Which is the fastest land animal?
+**सबसे तेज़ दौड़ने वाला थलचर पशु कौन सा है?**
+
+- A. The pronghorn — प्रॉन्गहॉर्न
+- B. The lion — शेर
+- C. The greyhound — ग्रेहाउंड
+- D. The cheetah — चीता
+
+**Answer: D. The cheetah**
+
+> It can pass 100 kilometres an hour in short bursts.
+> यह छोटी दूरी में 100 किलोमीटर प्रति घंटा पार कर सकता है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 562. Which is the largest living bird?
+**सबसे बड़ा जीवित पक्षी कौन सा है?**
+
+- A. The condor — कॉन्डोर
+- B. The albatross — अल्बैट्रॉस
+- C. The emu — ईमू
+- D. The ostrich — शुतुरमुर्ग
+
+**Answer: D. The ostrich**
+
+> It is too heavy to fly but runs faster than a horse.
+> यह उड़ने के लिए बहुत भारी है पर घोड़े से तेज़ दौड़ता है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 563. Which is the smallest bird in the world?
+**विश्व का सबसे छोटा पक्षी कौन सा है?**
+
+- A. The sunbird — सनबर्ड
+- B. The goldcrest — गोल्डक्रेस्ट
+- C. The bee hummingbird — बी हमिंगबर्ड
+- D. The wren — रेन
+
+**Answer: C. The bee hummingbird**
+
+> It weighs less than a two-rupee coin.
+> इसका वज़न दो रुपये के सिक्के से भी कम होता है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 564. Which pigment gives leaves their green colour?
+**पत्तियों को हरा रंग कौन सा वर्णक देता है?**
+
+- A. Carotene — कैरोटीन
+- B. Xanthophyll — ज़ैंथोफ़िल
+- C. Chlorophyll — क्लोरोफ़िल
+- D. Anthocyanin — एंथोसायनिन
+
+**Answer: C. Chlorophyll**
+
+> It absorbs red and blue light and reflects green.
+> यह लाल और नीला प्रकाश सोखता है और हरा परावर्तित करता है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 565. In which part of a plant does most photosynthesis take place?
+**पौधे के किस भाग में सबसे अधिक प्रकाशसंश्लेषण होता है?**
+
+- A. The flower — फूल
+- B. The root — जड़
+- C. The seed — बीज
+- D. The leaf — पत्ती
+
+**Answer: D. The leaf**
+
+> Leaves are flat and broad to catch as much light as possible.
+> पत्तियाँ चौड़ी और चपटी होती हैं ताकि अधिक से अधिक प्रकाश पकड़ सकें।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 566. Which process releases energy from sugar inside a living cell?
+**जीवित कोशिका के भीतर शर्करा से ऊर्जा कौन सी प्रक्रिया मुक्त करती है?**
+
+- A. Respiration — श्वसन
+- B. Pollination — परागण
+- C. Transpiration — वाष्पोत्सर्जन
+- D. Photosynthesis — प्रकाशसंश्लेषण
+
+**Answer: A. Respiration**
+
+> It runs day and night, unlike photosynthesis.
+> यह प्रकाशसंश्लेषण के उलट दिन-रात चलता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 567. The scientific study of fungi is called what?
+**फफूंद के वैज्ञानिक अध्ययन को क्या कहते हैं?**
+
+- A. Virology — विषाणु विज्ञान
+- B. Botany — वनस्पति विज्ञान
+- C. Bacteriology — जीवाणु विज्ञान
+- D. Mycology — कवक विज्ञान
+
+**Answer: D. Mycology**
+
+> Fungi form their own kingdom, separate from plants.
+> फफूंद अपना अलग जगत बनाते हैं, पौधों से भिन्न।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 568. The scientific study of birds is called what?
+**पक्षियों के वैज्ञानिक अध्ययन को क्या कहते हैं?**
+
+- A. Ornithology — पक्षी विज्ञान
+- B. Ichthyology — मत्स्य विज्ञान
+- C. Herpetology — सरีสृप विज्ञान
+- D. Entomology — कीट विज्ञान
+
+**Answer: A. Ornithology**
+
+> Herpetology covers reptiles and amphibians instead.
+> सरีสृप विज्ञान इसके बजाय सरीसृपों और उभयचरों को देखता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 569. In which year did the State Bank of India receive its present name?
+**भारतीय स्टेट बैंक को वर्तमान नाम किस वर्ष मिला?**
+
+- A. 1935 — 1935
+- B. 1949 — 1949
+- C. 1955 — 1955
+- D. 1969 — 1969
+
+**Answer: C. 1955**
+
+> It had been the Imperial Bank of India before that.
+> उससे पहले यह इंपीरियल बैंक ऑफ़ इंडिया था।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 570. In Indian banking, what does NEFT stand for?
+**भारतीय बैंकिंग में NEFT का पूर्ण रूप क्या है?**
+
+- A. National Exchange For Transfer — नेशनल एक्सचेंज फ़ॉर ट्रांसफ़र
+- B. Net Electronic Finance Transaction — नेट इलेक्ट्रॉनिक फ़ाइनेंस ट्रांज़ैक्शन
+- C. New Electronic Funds Terminal — न्यू इलेक्ट्रॉनिक फ़ंड्स टर्मिनल
+- D. National Electronic Funds Transfer — नेशनल इलेक्ट्रॉनिक फ़ंड्स ट्रांसफ़र
+
+**Answer: D. National Electronic Funds Transfer**
+
+> Transfers settle in half-hourly batches.
+> हस्तांतरण आधे घंटे के बैचों में निपटते हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 571. In Indian banking, what does RTGS stand for?
+**भारतीय बैंकिंग में RTGS का पूर्ण रूप क्या है?**
+
+- A. Reserve Transfer Global Standard — रिज़र्व ट्रांसफ़र ग्लोबल स्टैंडर्ड
+- B. Real Time Gross Settlement — रियल टाइम ग्रॉस सेटलमेंट
+- C. Rapid Transfer Group System — रैपिड ट्रांसफ़र ग्रुप सिस्टम
+- D. Registered Transaction Gateway Service — रजिस्टर्ड ट्रांज़ैक्शन गेटवे सर्विस
+
+**Answer: B. Real Time Gross Settlement**
+
+> Each payment settles individually and immediately.
+> प्रत्येक भुगतान अलग-अलग और तुरंत निपटता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 572. What does UPI stand for in Indian payments?
+**भारतीय भुगतानों में UPI का पूर्ण रूप क्या है?**
+
+- A. Unified Payments Interface — यूनिफ़ाइड पेमेंट्स इंटरफ़ेस
+- B. Universal Payment Index — यूनिवर्सल पेमेंट इंडेक्स
+- C. User Payment Identity — यूज़र पेमेंट आइडेंटिटी
+- D. Unique Personal Identifier — यूनिक पर्सनल आइडेंटिफ़ायर
+
+**Answer: A. Unified Payments Interface**
+
+> It lets a phone move money straight between bank accounts.
+> यह फ़ोन से सीधे बैंक खातों के बीच धन भेजने देता है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 573. Which body operates the UPI system in India?
+**भारत में UPI प्रणाली का संचालन कौन सा निकाय करता है?**
+
+- A. SEBI — सेबी
+- B. The NPCI — एनपीसीआई
+- C. The IRDAI — इरडाई
+- D. The RBI — आरबीआई
+
+**Answer: B. The NPCI**
+
+> The National Payments Corporation runs it under RBI oversight.
+> राष्ट्रीय भुगतान निगम इसे आरबीआई के पर्यवेक्षण में चलाता है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 574. How many seconds are there in one full day?
+**एक पूरे दिन में कितने सेकंड होते हैं?**
+
+- A. 86,400 — 86,400
+- B. 90,000 — 90,000
+- C. 84,600 — 84,600
+- D. 76,400 — 76,400
+
+**Answer: A. 86,400**
+
+> Twenty-four hours of sixty minutes of sixty seconds.
+> चौबीस घंटे, साठ मिनट, साठ सेकंड।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 575. How many time zones does India officially observe?
+**भारत आधिकारिक रूप से कितने समय क्षेत्र मानता है?**
+
+- A. One — एक
+- B. Two — दो
+- C. Three — तीन
+- D. Four — चार
+
+**Answer: A. One**
+
+> Its far east and far west sit an hour apart by the Sun.
+> इसके सुदूर पूर्व और पश्चिम सूर्य के हिसाब से एक घंटा अलग हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 576. The International Date Line runs close to which line of longitude?
+**अंतर्राष्ट्रीय तिथि रेखा किस देशांतर रेखा के निकट चलती है?**
+
+- A. 180 degrees — 180 डिग्री
+- B. 0 degrees — 0 डिग्री
+- C. 45 degrees — 45 डिग्री
+- D. 90 degrees — 90 डिग्री
+
+**Answer: A. 180 degrees**
+
+> Crossing it eastwards takes the date back by one day.
+> इसे पूर्व की ओर पार करने पर तिथि एक दिन पीछे हो जाती है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 577. Which organisation maintains Coordinated Universal Time?
+**समन्वित सार्वत्रिक समय का रखरखाव कौन सा संगठन करता है?**
+
+- A. NASA — नासा
+- B. The WMO — डब्ल्यूएमओ
+- C. The BIPM — बीआईपीएम
+- D. The ISO — आईएसओ
+
+**Answer: C. The BIPM**
+
+> The International Bureau of Weights and Measures sits near Paris.
+> अंतर्राष्ट्रीय भार एवं माप ब्यूरो पेरिस के पास स्थित है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 578. In which month does a leap year gain its extra day?
+**अधिवर्ष में अतिरिक्त दिन किस माह में जुड़ता है?**
+
+- A. February — फ़रवरी
+- B. December — दिसंबर
+- C. June — जून
+- D. January — जनवरी
+
+**Answer: A. February**
+
+> It stretches from twenty-eight days to twenty-nine.
+> यह अट्ठाईस दिन से बढ़कर उनतीस हो जाता है।
+
+Source: PENDING-EVIDENCE · EASY
 
 ---
 

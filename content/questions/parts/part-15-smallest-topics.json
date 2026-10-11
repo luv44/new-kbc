@@ -1,0 +1,1522 @@
+[
+  {
+    "id": "DQ-0539",
+    "category": "Global institutions",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Where is the headquarters of the United Nations Environment Programme?",
+      "hi": "संयुक्त राष्ट्र पर्यावरण कार्यक्रम का मुख्यालय कहाँ है?"
+    },
+    "options": [
+      {
+        "en": "Nairobi",
+        "hi": "नैरोबी"
+      },
+      {
+        "en": "Geneva",
+        "hi": "जिनेवा"
+      },
+      {
+        "en": "Rome",
+        "hi": "रोम"
+      },
+      {
+        "en": "Vienna",
+        "hi": "वियना"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "UNEP has been based in the Kenyan capital since 1972.",
+      "hi": "यूएनईपी 1972 से केन्या की राजधानी में स्थित है।"
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-GLOBAL_INSTITUTIONS"
+  },
+  {
+    "id": "DQ-0540",
+    "category": "Global institutions",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Where is the headquarters of the Universal Postal Union?",
+      "hi": "विश्व डाक संघ का मुख्यालय कहाँ है?"
+    },
+    "options": [
+      {
+        "en": "Geneva",
+        "hi": "जिनेवा"
+      },
+      {
+        "en": "Bern",
+        "hi": "बर्न"
+      },
+      {
+        "en": "Brussels",
+        "hi": "ब्रुसेल्स"
+      },
+      {
+        "en": "Paris",
+        "hi": "पेरिस"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It was founded in 1874, one of the oldest international bodies.",
+      "hi": "इसकी स्थापना 1874 में हुई, यह सबसे पुराने अंतर्राष्ट्रीय निकायों में है।"
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-GLOBAL_INSTITUTIONS"
+  },
+  {
+    "id": "DQ-0541",
+    "category": "Global institutions",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Where is the headquarters of the International Olympic Committee?",
+      "hi": "अंतर्राष्ट्रीय ओलंपिक समिति का मुख्यालय कहाँ है?"
+    },
+    "options": [
+      {
+        "en": "Monaco",
+        "hi": "मोनैको"
+      },
+      {
+        "en": "Paris",
+        "hi": "पेरिस"
+      },
+      {
+        "en": "Lausanne",
+        "hi": "लोज़ान"
+      },
+      {
+        "en": "Athens",
+        "hi": "एथेंस"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It moved to the Swiss city in 1915.",
+      "hi": "यह 1915 में इस स्विस शहर में स्थानांतरित हुई।"
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-GLOBAL_INSTITUTIONS"
+  },
+  {
+    "id": "DQ-0542",
+    "category": "Global institutions",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Where is the headquarters of the International Maritime Organization?",
+      "hi": "अंतर्राष्ट्रीय समुद्री संगठन का मुख्यालय कहाँ है?"
+    },
+    "options": [
+      {
+        "en": "Oslo",
+        "hi": "ओस्लो"
+      },
+      {
+        "en": "Singapore",
+        "hi": "सिंगापुर"
+      },
+      {
+        "en": "Rome",
+        "hi": "रोम"
+      },
+      {
+        "en": "London",
+        "hi": "लंदन"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It sets safety and pollution rules for shipping.",
+      "hi": "यह जहाज़रानी के लिए सुरक्षा और प्रदूषण नियम तय करता है।"
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-GLOBAL_INSTITUTIONS"
+  },
+  {
+    "id": "DQ-0543",
+    "category": "Global institutions",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Where is the headquarters of the International Civil Aviation Organization?",
+      "hi": "अंतर्राष्ट्रीय नागरिक उड्डयन संगठन का मुख्यालय कहाँ है?"
+    },
+    "options": [
+      {
+        "en": "Ottawa",
+        "hi": "ओटावा"
+      },
+      {
+        "en": "Toronto",
+        "hi": "टोरंटो"
+      },
+      {
+        "en": "Chicago",
+        "hi": "शिकागो"
+      },
+      {
+        "en": "Montreal",
+        "hi": "मॉन्ट्रियल"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It grew out of the Chicago Convention of 1944.",
+      "hi": "यह 1944 की शिकागो संधि से विकसित हुआ।"
+    },
+    "subjectId": "WORLD-BODIES",
+    "chapterId": "WORLD-BODIES",
+    "topicId": "WORLD-BODIES-GLOBAL_INSTITUTIONS"
+  },
+  {
+    "id": "DQ-0544",
+    "category": "India — judiciary",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "How many High Courts does India currently have?",
+      "hi": "भारत में वर्तमान में कितने उच्च न्यायालय हैं?"
+    },
+    "options": [
+      {
+        "en": "30",
+        "hi": "30"
+      },
+      {
+        "en": "21",
+        "hi": "21"
+      },
+      {
+        "en": "25",
+        "hi": "25"
+      },
+      {
+        "en": "28",
+        "hi": "28"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Some serve more than one state or union territory.",
+      "hi": "कुछ एक से अधिक राज्य या केंद्र शासित प्रदेश देखते हैं।"
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_JUDICIARY"
+  },
+  {
+    "id": "DQ-0545",
+    "category": "India — judiciary",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In which year did the Supreme Court of India come into being?",
+      "hi": "भारत के सर्वोच्च न्यायालय का गठन किस वर्ष हुआ?"
+    },
+    "options": [
+      {
+        "en": "1950",
+        "hi": "1950"
+      },
+      {
+        "en": "1947",
+        "hi": "1947"
+      },
+      {
+        "en": "1949",
+        "hi": "1949"
+      },
+      {
+        "en": "1952",
+        "hi": "1952"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It first sat on 28 January, two days after the Republic began.",
+      "hi": "इसने 28 जनवरी को पहली बैठक की, गणतंत्र शुरू होने के दो दिन बाद।"
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_JUDICIARY"
+  },
+  {
+    "id": "DQ-0546",
+    "category": "India — judiciary",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Who was the first woman to sit as a judge of the Supreme Court of India?",
+      "hi": "भारत के सर्वोच्च न्यायालय की पहली महिला न्यायाधीश कौन थीं?"
+    },
+    "options": [
+      {
+        "en": "Fathima Beevi",
+        "hi": "फ़ातिमा बीवी"
+      },
+      {
+        "en": "Indu Malhotra",
+        "hi": "इंदु मल्होत्रा"
+      },
+      {
+        "en": "Gyan Sudha Misra",
+        "hi": "ज्ञान सुधा मिश्रा"
+      },
+      {
+        "en": "Ruma Pal",
+        "hi": "रूमा पाल"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "She was appointed in 1989.",
+      "hi": "उनकी नियुक्ति 1989 में हुई।"
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_JUDICIARY"
+  },
+  {
+    "id": "DQ-0547",
+    "category": "India — judiciary",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "How many judges sat on the bench in the Kesavananda Bharati case?",
+      "hi": "केशवानंद भारती मामले की पीठ में कितने न्यायाधीश थे?"
+    },
+    "options": [
+      {
+        "en": "Seven",
+        "hi": "सात"
+      },
+      {
+        "en": "Nine",
+        "hi": "नौ"
+      },
+      {
+        "en": "Thirteen",
+        "hi": "तेरह"
+      },
+      {
+        "en": "Eleven",
+        "hi": "ग्यारह"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It remains the largest bench ever constituted in India.",
+      "hi": "यह भारत में गठित अब तक की सबसे बड़ी पीठ है।"
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_JUDICIARY"
+  },
+  {
+    "id": "DQ-0548",
+    "category": "India — judiciary",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which is the principal court of original jurisdiction in an Indian district?",
+      "hi": "भारतीय ज़िले में मूल अधिकारिता की मुख्य अदालत कौन सी होती है?"
+    },
+    "options": [
+      {
+        "en": "The District Court",
+        "hi": "ज़िला न्यायालय"
+      },
+      {
+        "en": "The Lok Adalat",
+        "hi": "लोक अदालत"
+      },
+      {
+        "en": "The Magistrate Court",
+        "hi": "मजिस्ट्रेट न्यायालय"
+      },
+      {
+        "en": "The High Court",
+        "hi": "उच्च न्यायालय"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It is headed by a District and Sessions Judge.",
+      "hi": "इसकी अध्यक्षता ज़िला एवं सत्र न्यायाधीश करते हैं।"
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_JUDICIARY"
+  },
+  {
+    "id": "DQ-0549",
+    "category": "India — awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Where does the Padma Vibhushan rank among India's civilian awards?",
+      "hi": "भारत के नागरिक सम्मानों में पद्म विभूषण का कौन सा स्थान है?"
+    },
+    "options": [
+      {
+        "en": "The highest",
+        "hi": "सर्वोच्च"
+      },
+      {
+        "en": "The fourth-highest",
+        "hi": "चौथा सर्वोच्च"
+      },
+      {
+        "en": "The second-highest",
+        "hi": "दूसरा सर्वोच्च"
+      },
+      {
+        "en": "The third-highest",
+        "hi": "तीसरा सर्वोच्च"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Only the Bharat Ratna ranks above it.",
+      "hi": "इससे ऊपर केवल भारत रत्न है।"
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_AWARDS"
+  },
+  {
+    "id": "DQ-0550",
+    "category": "India — awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Where does the Padma Bhushan rank among India's civilian awards?",
+      "hi": "भारत के नागरिक सम्मानों में पद्म भूषण का कौन सा स्थान है?"
+    },
+    "options": [
+      {
+        "en": "The fifth-highest",
+        "hi": "पाँचवाँ सर्वोच्च"
+      },
+      {
+        "en": "The fourth-highest",
+        "hi": "चौथा सर्वोच्च"
+      },
+      {
+        "en": "The second-highest",
+        "hi": "दूसरा सर्वोच्च"
+      },
+      {
+        "en": "The third-highest",
+        "hi": "तीसरा सर्वोच्च"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It sits between the Padma Vibhushan and the Padma Shri.",
+      "hi": "यह पद्म विभूषण और पद्म श्री के बीच आता है।"
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_AWARDS"
+  },
+  {
+    "id": "DQ-0551",
+    "category": "India — awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "The Major Dhyan Chand Khel Ratna was earlier known by which name?",
+      "hi": "मेजर ध्यान चंद खेल रत्न पहले किस नाम से जाना जाता था?"
+    },
+    "options": [
+      {
+        "en": "The Arjuna Award",
+        "hi": "अर्जुन पुरस्कार"
+      },
+      {
+        "en": "The Dronacharya Award",
+        "hi": "द्रोणाचार्य पुरस्कार"
+      },
+      {
+        "en": "The Dhyan Chand Award",
+        "hi": "ध्यान चंद पुरस्कार"
+      },
+      {
+        "en": "The Rajiv Gandhi Khel Ratna",
+        "hi": "राजीव गांधी खेल रत्न"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It was renamed in 2021.",
+      "hi": "इसे 2021 में पुनर्नामित किया गया।"
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_AWARDS"
+  },
+  {
+    "id": "DQ-0552",
+    "category": "India — awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Dronacharya Award is presented to whom?",
+      "hi": "द्रोणाचार्य पुरस्कार किसे दिया जाता है?"
+    },
+    "options": [
+      {
+        "en": "Sports coaches",
+        "hi": "खेल प्रशिक्षकों को"
+      },
+      {
+        "en": "Retired players",
+        "hi": "सेवानिवृत्त खिलाड़ियों को"
+      },
+      {
+        "en": "Sports journalists",
+        "hi": "खेल पत्रकारों को"
+      },
+      {
+        "en": "Team captains only",
+        "hi": "केवल टीम कप्तानों को"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It recognises coaching that produced medal winners.",
+      "hi": "यह पदक विजेता तैयार करने वाले प्रशिक्षण को मान्यता देता है।"
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_AWARDS"
+  },
+  {
+    "id": "DQ-0553",
+    "category": "India — awards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The Arjuna Award is given for what?",
+      "hi": "अर्जुन पुरस्कार किसके लिए दिया जाता है?"
+    },
+    "options": [
+      {
+        "en": "Service to rural health",
+        "hi": "ग्रामीण स्वास्थ्य सेवा के लिए"
+      },
+      {
+        "en": "Lifetime literary work",
+        "hi": "आजीवन साहित्यिक कार्य के लिए"
+      },
+      {
+        "en": "Bravery in the field",
+        "hi": "मैदान में वीरता के लिए"
+      },
+      {
+        "en": "Outstanding performance in sport",
+        "hi": "खेल में उत्कृष्ट प्रदर्शन के लिए"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It was instituted in 1961.",
+      "hi": "इसकी स्थापना 1961 में हुई।"
+    },
+    "subjectId": "IND-POLITY",
+    "chapterId": "IND-POLITY",
+    "topicId": "IND-POLITY-INDIA_AWARDS"
+  },
+  {
+    "id": "DQ-0554",
+    "category": "India — sport",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Who was the first Indian to win an individual Olympic medal?",
+      "hi": "व्यक्तिगत ओलंपिक पदक जीतने वाले पहले भारतीय कौन थे?"
+    },
+    "options": [
+      {
+        "en": "Karnam Malleswari",
+        "hi": "कर्णम मल्लेश्वरी"
+      },
+      {
+        "en": "K. D. Jadhav",
+        "hi": "के. डी. जाधव"
+      },
+      {
+        "en": "Norman Pritchard",
+        "hi": "नॉर्मन प्रिचर्ड"
+      },
+      {
+        "en": "Leander Paes",
+        "hi": "लिएंडर पेस"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "He took a wrestling bronze at Helsinki in 1952.",
+      "hi": "उन्होंने 1952 में हेलसिंकी में कुश्ती का कांस्य पदक जीता।"
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-INDIA_SPORT"
+  },
+  {
+    "id": "DQ-0555",
+    "category": "India — sport",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who was the first Indian woman to win an Olympic medal?",
+      "hi": "ओलंपिक पदक जीतने वाली पहली भारतीय महिला कौन थीं?"
+    },
+    "options": [
+      {
+        "en": "Mary Kom",
+        "hi": "मैरी कॉम"
+      },
+      {
+        "en": "Sakshi Malik",
+        "hi": "साक्षी मलिक"
+      },
+      {
+        "en": "Karnam Malleswari",
+        "hi": "कर्णम मल्लेश्वरी"
+      },
+      {
+        "en": "P. V. Sindhu",
+        "hi": "पी. वी. सिंधु"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "She won a weightlifting bronze at Sydney in 2000.",
+      "hi": "उन्होंने 2000 में सिडनी में भारोत्तोलन का कांस्य पदक जीता।"
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-INDIA_SPORT"
+  },
+  {
+    "id": "DQ-0556",
+    "category": "India — sport",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which Indian bowler has taken the most wickets in Test cricket?",
+      "hi": "टेस्ट क्रिकेट में सबसे अधिक विकेट लेने वाले भारतीय गेंदबाज़ कौन हैं?"
+    },
+    "options": [
+      {
+        "en": "Kapil Dev",
+        "hi": "कपिल देव"
+      },
+      {
+        "en": "Harbhajan Singh",
+        "hi": "हरभजन सिंह"
+      },
+      {
+        "en": "Anil Kumble",
+        "hi": "अनिल कुंबले"
+      },
+      {
+        "en": "Ravichandran Ashwin",
+        "hi": "रविचंद्रन अश्विन"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "He took 619 Test wickets.",
+      "hi": "उन्होंने 619 टेस्ट विकेट लिए।"
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-INDIA_SPORT"
+  },
+  {
+    "id": "DQ-0557",
+    "category": "India — sport",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who won India's first Olympic gold medal in an athletics event?",
+      "hi": "एथलेटिक्स स्पर्धा में भारत का पहला ओलंपिक स्वर्ण किसने जीता?"
+    },
+    "options": [
+      {
+        "en": "Milkha Singh",
+        "hi": "मिल्खा सिंह"
+      },
+      {
+        "en": "Abhinav Bindra",
+        "hi": "अभिनव बिंद्रा"
+      },
+      {
+        "en": "P. T. Usha",
+        "hi": "पी. टी. ऊषा"
+      },
+      {
+        "en": "Neeraj Chopra",
+        "hi": "नीरज चोपड़ा"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "He won the javelin at Tokyo in 2021.",
+      "hi": "उन्होंने 2021 में टोक्यो में भाला फेंक जीता।"
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-INDIA_SPORT"
+  },
+  {
+    "id": "DQ-0558",
+    "category": "India — sport",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Who captained India to victory in the 1983 Cricket World Cup?",
+      "hi": "1983 क्रिकेट विश्व कप में भारत को जीत दिलाने वाले कप्तान कौन थे?"
+    },
+    "options": [
+      {
+        "en": "Mohammad Azharuddin",
+        "hi": "मोहम्मद अज़हरुद्दीन"
+      },
+      {
+        "en": "Sunil Gavaskar",
+        "hi": "सुनील गावस्कर"
+      },
+      {
+        "en": "Sourav Ganguly",
+        "hi": "सौरव गांगुली"
+      },
+      {
+        "en": "Kapil Dev",
+        "hi": "कपिल देव"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "India beat the West Indies in the final at Lord's.",
+      "hi": "भारत ने लॉर्ड्स में फ़ाइनल में वेस्टइंडीज़ को हराया।"
+    },
+    "subjectId": "SPORT",
+    "chapterId": "SPORT",
+    "topicId": "SPORT-INDIA_SPORT"
+  },
+  {
+    "id": "DQ-0559",
+    "category": "Nature",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the largest land animal on Earth?",
+      "hi": "पृथ्वी का सबसे बड़ा थलचर पशु कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "The hippopotamus",
+        "hi": "दरियाई घोड़ा"
+      },
+      {
+        "en": "The giraffe",
+        "hi": "जिराफ़"
+      },
+      {
+        "en": "The African elephant",
+        "hi": "अफ़्रीकी हाथी"
+      },
+      {
+        "en": "The white rhinoceros",
+        "hi": "श्वेत गैंडा"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "The blue whale is larger still, but it lives in the sea.",
+      "hi": "नीली व्हेल इससे भी बड़ी है, पर वह समुद्र में रहती है।"
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-NATURE"
+  },
+  {
+    "id": "DQ-0560",
+    "category": "Nature",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the tallest animal in the world?",
+      "hi": "विश्व का सबसे ऊँचा पशु कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "The camel",
+        "hi": "ऊँट"
+      },
+      {
+        "en": "The giraffe",
+        "hi": "जिराफ़"
+      },
+      {
+        "en": "The elk",
+        "hi": "एल्क"
+      },
+      {
+        "en": "The African elephant",
+        "hi": "अफ़्रीकी हाथी"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "An adult male can stand close to six metres.",
+      "hi": "वयस्क नर लगभग छह मीटर ऊँचा हो सकता है।"
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-NATURE"
+  },
+  {
+    "id": "DQ-0561",
+    "category": "Nature",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the fastest land animal?",
+      "hi": "सबसे तेज़ दौड़ने वाला थलचर पशु कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "The pronghorn",
+        "hi": "प्रॉन्गहॉर्न"
+      },
+      {
+        "en": "The lion",
+        "hi": "शेर"
+      },
+      {
+        "en": "The greyhound",
+        "hi": "ग्रेहाउंड"
+      },
+      {
+        "en": "The cheetah",
+        "hi": "चीता"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It can pass 100 kilometres an hour in short bursts.",
+      "hi": "यह छोटी दूरी में 100 किलोमीटर प्रति घंटा पार कर सकता है।"
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-NATURE"
+  },
+  {
+    "id": "DQ-0562",
+    "category": "Nature",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which is the largest living bird?",
+      "hi": "सबसे बड़ा जीवित पक्षी कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "The condor",
+        "hi": "कॉन्डोर"
+      },
+      {
+        "en": "The albatross",
+        "hi": "अल्बैट्रॉस"
+      },
+      {
+        "en": "The emu",
+        "hi": "ईमू"
+      },
+      {
+        "en": "The ostrich",
+        "hi": "शुतुरमुर्ग"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It is too heavy to fly but runs faster than a horse.",
+      "hi": "यह उड़ने के लिए बहुत भारी है पर घोड़े से तेज़ दौड़ता है।"
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-NATURE"
+  },
+  {
+    "id": "DQ-0563",
+    "category": "Nature",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which is the smallest bird in the world?",
+      "hi": "विश्व का सबसे छोटा पक्षी कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "The sunbird",
+        "hi": "सनबर्ड"
+      },
+      {
+        "en": "The goldcrest",
+        "hi": "गोल्डक्रेस्ट"
+      },
+      {
+        "en": "The bee hummingbird",
+        "hi": "बी हमिंगबर्ड"
+      },
+      {
+        "en": "The wren",
+        "hi": "रेन"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It weighs less than a two-rupee coin.",
+      "hi": "इसका वज़न दो रुपये के सिक्के से भी कम होता है।"
+    },
+    "subjectId": "WORLD-GEO",
+    "chapterId": "WORLD-GEO",
+    "topicId": "WORLD-GEO-NATURE"
+  },
+  {
+    "id": "DQ-0564",
+    "category": "Biology",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which pigment gives leaves their green colour?",
+      "hi": "पत्तियों को हरा रंग कौन सा वर्णक देता है?"
+    },
+    "options": [
+      {
+        "en": "Carotene",
+        "hi": "कैरोटीन"
+      },
+      {
+        "en": "Xanthophyll",
+        "hi": "ज़ैंथोफ़िल"
+      },
+      {
+        "en": "Chlorophyll",
+        "hi": "क्लोरोफ़िल"
+      },
+      {
+        "en": "Anthocyanin",
+        "hi": "एंथोसायनिन"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It absorbs red and blue light and reflects green.",
+      "hi": "यह लाल और नीला प्रकाश सोखता है और हरा परावर्तित करता है।"
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-BIOLOGY"
+  },
+  {
+    "id": "DQ-0565",
+    "category": "Biology",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "In which part of a plant does most photosynthesis take place?",
+      "hi": "पौधे के किस भाग में सबसे अधिक प्रकाशसंश्लेषण होता है?"
+    },
+    "options": [
+      {
+        "en": "The flower",
+        "hi": "फूल"
+      },
+      {
+        "en": "The root",
+        "hi": "जड़"
+      },
+      {
+        "en": "The seed",
+        "hi": "बीज"
+      },
+      {
+        "en": "The leaf",
+        "hi": "पत्ती"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Leaves are flat and broad to catch as much light as possible.",
+      "hi": "पत्तियाँ चौड़ी और चपटी होती हैं ताकि अधिक से अधिक प्रकाश पकड़ सकें।"
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-BIOLOGY"
+  },
+  {
+    "id": "DQ-0566",
+    "category": "Biology",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which process releases energy from sugar inside a living cell?",
+      "hi": "जीवित कोशिका के भीतर शर्करा से ऊर्जा कौन सी प्रक्रिया मुक्त करती है?"
+    },
+    "options": [
+      {
+        "en": "Respiration",
+        "hi": "श्वसन"
+      },
+      {
+        "en": "Pollination",
+        "hi": "परागण"
+      },
+      {
+        "en": "Transpiration",
+        "hi": "वाष्पोत्सर्जन"
+      },
+      {
+        "en": "Photosynthesis",
+        "hi": "प्रकाशसंश्लेषण"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It runs day and night, unlike photosynthesis.",
+      "hi": "यह प्रकाशसंश्लेषण के उलट दिन-रात चलता है।"
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-BIOLOGY"
+  },
+  {
+    "id": "DQ-0567",
+    "category": "Biology",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The scientific study of fungi is called what?",
+      "hi": "फफूंद के वैज्ञानिक अध्ययन को क्या कहते हैं?"
+    },
+    "options": [
+      {
+        "en": "Virology",
+        "hi": "विषाणु विज्ञान"
+      },
+      {
+        "en": "Botany",
+        "hi": "वनस्पति विज्ञान"
+      },
+      {
+        "en": "Bacteriology",
+        "hi": "जीवाणु विज्ञान"
+      },
+      {
+        "en": "Mycology",
+        "hi": "कवक विज्ञान"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Fungi form their own kingdom, separate from plants.",
+      "hi": "फफूंद अपना अलग जगत बनाते हैं, पौधों से भिन्न।"
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-BIOLOGY"
+  },
+  {
+    "id": "DQ-0568",
+    "category": "Biology",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The scientific study of birds is called what?",
+      "hi": "पक्षियों के वैज्ञानिक अध्ययन को क्या कहते हैं?"
+    },
+    "options": [
+      {
+        "en": "Ornithology",
+        "hi": "पक्षी विज्ञान"
+      },
+      {
+        "en": "Ichthyology",
+        "hi": "मत्स्य विज्ञान"
+      },
+      {
+        "en": "Herpetology",
+        "hi": "सरีสृप विज्ञान"
+      },
+      {
+        "en": "Entomology",
+        "hi": "कीट विज्ञान"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Herpetology covers reptiles and amphibians instead.",
+      "hi": "सरีสृप विज्ञान इसके बजाय सरीसृपों और उभयचरों को देखता है।"
+    },
+    "subjectId": "SCI-BIO",
+    "chapterId": "SCI-BIO",
+    "topicId": "SCI-BIO-BIOLOGY"
+  },
+  {
+    "id": "DQ-0569",
+    "category": "India — banking",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "In which year did the State Bank of India receive its present name?",
+      "hi": "भारतीय स्टेट बैंक को वर्तमान नाम किस वर्ष मिला?"
+    },
+    "options": [
+      {
+        "en": "1935",
+        "hi": "1935"
+      },
+      {
+        "en": "1949",
+        "hi": "1949"
+      },
+      {
+        "en": "1955",
+        "hi": "1955"
+      },
+      {
+        "en": "1969",
+        "hi": "1969"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It had been the Imperial Bank of India before that.",
+      "hi": "उससे पहले यह इंपीरियल बैंक ऑफ़ इंडिया था।"
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-INDIA_BANKING"
+  },
+  {
+    "id": "DQ-0570",
+    "category": "India — banking",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In Indian banking, what does NEFT stand for?",
+      "hi": "भारतीय बैंकिंग में NEFT का पूर्ण रूप क्या है?"
+    },
+    "options": [
+      {
+        "en": "National Exchange For Transfer",
+        "hi": "नेशनल एक्सचेंज फ़ॉर ट्रांसफ़र"
+      },
+      {
+        "en": "Net Electronic Finance Transaction",
+        "hi": "नेट इलेक्ट्रॉनिक फ़ाइनेंस ट्रांज़ैक्शन"
+      },
+      {
+        "en": "New Electronic Funds Terminal",
+        "hi": "न्यू इलेक्ट्रॉनिक फ़ंड्स टर्मिनल"
+      },
+      {
+        "en": "National Electronic Funds Transfer",
+        "hi": "नेशनल इलेक्ट्रॉनिक फ़ंड्स ट्रांसफ़र"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Transfers settle in half-hourly batches.",
+      "hi": "हस्तांतरण आधे घंटे के बैचों में निपटते हैं।"
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-INDIA_BANKING"
+  },
+  {
+    "id": "DQ-0571",
+    "category": "India — banking",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In Indian banking, what does RTGS stand for?",
+      "hi": "भारतीय बैंकिंग में RTGS का पूर्ण रूप क्या है?"
+    },
+    "options": [
+      {
+        "en": "Reserve Transfer Global Standard",
+        "hi": "रिज़र्व ट्रांसफ़र ग्लोबल स्टैंडर्ड"
+      },
+      {
+        "en": "Real Time Gross Settlement",
+        "hi": "रियल टाइम ग्रॉस सेटलमेंट"
+      },
+      {
+        "en": "Rapid Transfer Group System",
+        "hi": "रैपिड ट्रांसफ़र ग्रुप सिस्टम"
+      },
+      {
+        "en": "Registered Transaction Gateway Service",
+        "hi": "रजिस्टर्ड ट्रांज़ैक्शन गेटवे सर्विस"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Each payment settles individually and immediately.",
+      "hi": "प्रत्येक भुगतान अलग-अलग और तुरंत निपटता है।"
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-INDIA_BANKING"
+  },
+  {
+    "id": "DQ-0572",
+    "category": "India — banking",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "What does UPI stand for in Indian payments?",
+      "hi": "भारतीय भुगतानों में UPI का पूर्ण रूप क्या है?"
+    },
+    "options": [
+      {
+        "en": "Unified Payments Interface",
+        "hi": "यूनिफ़ाइड पेमेंट्स इंटरफ़ेस"
+      },
+      {
+        "en": "Universal Payment Index",
+        "hi": "यूनिवर्सल पेमेंट इंडेक्स"
+      },
+      {
+        "en": "User Payment Identity",
+        "hi": "यूज़र पेमेंट आइडेंटिटी"
+      },
+      {
+        "en": "Unique Personal Identifier",
+        "hi": "यूनिक पर्सनल आइडेंटिफ़ायर"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It lets a phone move money straight between bank accounts.",
+      "hi": "यह फ़ोन से सीधे बैंक खातों के बीच धन भेजने देता है।"
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-INDIA_BANKING"
+  },
+  {
+    "id": "DQ-0573",
+    "category": "India — banking",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which body operates the UPI system in India?",
+      "hi": "भारत में UPI प्रणाली का संचालन कौन सा निकाय करता है?"
+    },
+    "options": [
+      {
+        "en": "SEBI",
+        "hi": "सेबी"
+      },
+      {
+        "en": "The NPCI",
+        "hi": "एनपीसीआई"
+      },
+      {
+        "en": "The IRDAI",
+        "hi": "इरडाई"
+      },
+      {
+        "en": "The RBI",
+        "hi": "आरबीआई"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "The National Payments Corporation runs it under RBI oversight.",
+      "hi": "राष्ट्रीय भुगतान निगम इसे आरबीआई के पर्यवेक्षण में चलाता है।"
+    },
+    "subjectId": "IND-ECON",
+    "chapterId": "IND-ECON",
+    "topicId": "IND-ECON-INDIA_BANKING"
+  },
+  {
+    "id": "DQ-0574",
+    "category": "Time and standards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "How many seconds are there in one full day?",
+      "hi": "एक पूरे दिन में कितने सेकंड होते हैं?"
+    },
+    "options": [
+      {
+        "en": "86,400",
+        "hi": "86,400"
+      },
+      {
+        "en": "90,000",
+        "hi": "90,000"
+      },
+      {
+        "en": "84,600",
+        "hi": "84,600"
+      },
+      {
+        "en": "76,400",
+        "hi": "76,400"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Twenty-four hours of sixty minutes of sixty seconds.",
+      "hi": "चौबीस घंटे, साठ मिनट, साठ सेकंड।"
+    },
+    "subjectId": "IND-GEO",
+    "chapterId": "IND-GEO",
+    "topicId": "IND-GEO-TIME_AND_STANDARDS"
+  },
+  {
+    "id": "DQ-0575",
+    "category": "Time and standards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "How many time zones does India officially observe?",
+      "hi": "भारत आधिकारिक रूप से कितने समय क्षेत्र मानता है?"
+    },
+    "options": [
+      {
+        "en": "One",
+        "hi": "एक"
+      },
+      {
+        "en": "Two",
+        "hi": "दो"
+      },
+      {
+        "en": "Three",
+        "hi": "तीन"
+      },
+      {
+        "en": "Four",
+        "hi": "चार"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Its far east and far west sit an hour apart by the Sun.",
+      "hi": "इसके सुदूर पूर्व और पश्चिम सूर्य के हिसाब से एक घंटा अलग हैं।"
+    },
+    "subjectId": "IND-GEO",
+    "chapterId": "IND-GEO",
+    "topicId": "IND-GEO-TIME_AND_STANDARDS"
+  },
+  {
+    "id": "DQ-0576",
+    "category": "Time and standards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "The International Date Line runs close to which line of longitude?",
+      "hi": "अंतर्राष्ट्रीय तिथि रेखा किस देशांतर रेखा के निकट चलती है?"
+    },
+    "options": [
+      {
+        "en": "180 degrees",
+        "hi": "180 डिग्री"
+      },
+      {
+        "en": "0 degrees",
+        "hi": "0 डिग्री"
+      },
+      {
+        "en": "45 degrees",
+        "hi": "45 डिग्री"
+      },
+      {
+        "en": "90 degrees",
+        "hi": "90 डिग्री"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Crossing it eastwards takes the date back by one day.",
+      "hi": "इसे पूर्व की ओर पार करने पर तिथि एक दिन पीछे हो जाती है।"
+    },
+    "subjectId": "IND-GEO",
+    "chapterId": "IND-GEO",
+    "topicId": "IND-GEO-TIME_AND_STANDARDS"
+  },
+  {
+    "id": "DQ-0577",
+    "category": "Time and standards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which organisation maintains Coordinated Universal Time?",
+      "hi": "समन्वित सार्वत्रिक समय का रखरखाव कौन सा संगठन करता है?"
+    },
+    "options": [
+      {
+        "en": "NASA",
+        "hi": "नासा"
+      },
+      {
+        "en": "The WMO",
+        "hi": "डब्ल्यूएमओ"
+      },
+      {
+        "en": "The BIPM",
+        "hi": "बीआईपीएम"
+      },
+      {
+        "en": "The ISO",
+        "hi": "आईएसओ"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "The International Bureau of Weights and Measures sits near Paris.",
+      "hi": "अंतर्राष्ट्रीय भार एवं माप ब्यूरो पेरिस के पास स्थित है।"
+    },
+    "subjectId": "IND-GEO",
+    "chapterId": "IND-GEO",
+    "topicId": "IND-GEO-TIME_AND_STANDARDS"
+  },
+  {
+    "id": "DQ-0578",
+    "category": "Time and standards",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "In which month does a leap year gain its extra day?",
+      "hi": "अधिवर्ष में अतिरिक्त दिन किस माह में जुड़ता है?"
+    },
+    "options": [
+      {
+        "en": "February",
+        "hi": "फ़रवरी"
+      },
+      {
+        "en": "December",
+        "hi": "दिसंबर"
+      },
+      {
+        "en": "June",
+        "hi": "जून"
+      },
+      {
+        "en": "January",
+        "hi": "जनवरी"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It stretches from twenty-eight days to twenty-nine.",
+      "hi": "यह अट्ठाईस दिन से बढ़कर उनतीस हो जाता है।"
+    },
+    "subjectId": "IND-GEO",
+    "chapterId": "IND-GEO",
+    "topicId": "IND-GEO-TIME_AND_STANDARDS"
+  }
+]

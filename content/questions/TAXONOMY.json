@@ -20,7 +20,7 @@
     "IND-POLITY-INDIA_SYMBOLS",
     "IND-POLITY-OBSERVANCES"
    ],
-   "questionCount": 68
+   "questionCount": 78
   },
   {
    "id": "WORLD-BODIES",
@@ -32,7 +32,7 @@
     "WORLD-BODIES-UNITED_NATIONS",
     "WORLD-BODIES-WORLD_BODIES"
    ],
-   "questionCount": 50
+   "questionCount": 55
   },
   {
    "id": "WORLD-GEO",
@@ -44,7 +44,7 @@
     "WORLD-GEO-WORLD_GEOGRAPHY",
     "WORLD-GEO-WORLD_HERITAGE"
    ],
-   "questionCount": 50
+   "questionCount": 55
   },
   {
    "id": "SCI-BIO",
@@ -54,7 +54,7 @@
     "SCI-BIO-HEALTH",
     "SCI-BIO-HUMAN_BODY"
    ],
-   "questionCount": 34
+   "questionCount": 39
   },
   {
    "id": "SCI-TECH",
@@ -68,30 +68,13 @@
    "questionCount": 34
   },
   {
-   "id": "SCI-CHEM",
-   "title": "Chemistry",
-   "topics": [
-    "SCI-CHEM-CHEMISTRY"
-   ],
-   "questionCount": 30
-  },
-  {
    "id": "IND-GEO",
    "title": "Indian geography",
    "topics": [
     "IND-GEO-INDIAN_GEOGRAPHY",
     "IND-GEO-TIME_AND_STANDARDS"
    ],
-   "questionCount": 28
-  },
-  {
-   "id": "SCI-PHYS",
-   "title": "Physics & measurement",
-   "topics": [
-    "SCI-PHYS-PHYSICS",
-    "SCI-PHYS-UNITS"
-   ],
-   "questionCount": 27
+   "questionCount": 33
   },
   {
    "id": "SPORT",
@@ -100,6 +83,34 @@
     "SPORT-CHESS",
     "SPORT-INDIA_SPORT",
     "SPORT-SPORT"
+   ],
+   "questionCount": 32
+  },
+  {
+   "id": "IND-ECON",
+   "title": "Indian economy & currency",
+   "topics": [
+    "IND-ECON-CURRENCIES",
+    "IND-ECON-CURRENCY",
+    "IND-ECON-INDIA_BANKING",
+    "IND-ECON-INDIA_ECONOMY"
+   ],
+   "questionCount": 31
+  },
+  {
+   "id": "SCI-CHEM",
+   "title": "Chemistry",
+   "topics": [
+    "SCI-CHEM-CHEMISTRY"
+   ],
+   "questionCount": 30
+  },
+  {
+   "id": "SCI-PHYS",
+   "title": "Physics & measurement",
+   "topics": [
+    "SCI-PHYS-PHYSICS",
+    "SCI-PHYS-UNITS"
    ],
    "questionCount": 27
   },
@@ -113,17 +124,6 @@
     "ART-CULT-LITERATURE"
    ],
    "questionCount": 27
-  },
-  {
-   "id": "IND-ECON",
-   "title": "Indian economy & currency",
-   "topics": [
-    "IND-ECON-CURRENCIES",
-    "IND-ECON-CURRENCY",
-    "IND-ECON-INDIA_BANKING",
-    "IND-ECON-INDIA_ECONOMY"
-   ],
-   "questionCount": 26
   },
   {
    "id": "SCI-SPACE",
@@ -185,7 +185,7 @@
   }
  ],
  "totals": {
-  "questions": 538,
+  "questions": 578,
   "subjects": 18,
   "topics": 48
  }
