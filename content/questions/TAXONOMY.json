@@ -23,41 +23,16 @@
    "questionCount": 62
   },
   {
-   "id": "IND-GEO",
-   "title": "Indian geography",
+   "id": "WORLD-BODIES",
+   "title": "World bodies & finance",
    "topics": [
-    "IND-GEO-INDIAN_GEOGRAPHY",
-    "IND-GEO-TIME_AND_STANDARDS"
+    "WORLD-BODIES-GLOBAL_FINANCE",
+    "WORLD-BODIES-GLOBAL_INSTITUTIONS",
+    "WORLD-BODIES-NEIGHBOURHOOD",
+    "WORLD-BODIES-UNITED_NATIONS",
+    "WORLD-BODIES-WORLD_BODIES"
    ],
-   "questionCount": 26
-  },
-  {
-   "id": "IND-HIST",
-   "title": "Indian & general history",
-   "topics": [
-    "IND-HIST-HISTORY",
-    "IND-HIST-INDIAN_HISTORY"
-   ],
-   "questionCount": 15
-  },
-  {
-   "id": "IND-ECON",
-   "title": "Indian economy & currency",
-   "topics": [
-    "IND-ECON-CURRENCIES",
-    "IND-ECON-CURRENCY",
-    "IND-ECON-INDIA_BANKING",
-    "IND-ECON-INDIA_ECONOMY"
-   ],
-   "questionCount": 22
-  },
-  {
-   "id": "IND-SPACE",
-   "title": "India in space",
-   "topics": [
-    "IND-SPACE-INDIA_SPACE"
-   ],
-   "questionCount": 6
+   "questionCount": 46
   },
   {
    "id": "WORLD-GEO",
@@ -72,43 +47,6 @@
    "questionCount": 44
   },
   {
-   "id": "WORLD-BODIES",
-   "title": "World bodies & finance",
-   "topics": [
-    "WORLD-BODIES-GLOBAL_FINANCE",
-    "WORLD-BODIES-GLOBAL_INSTITUTIONS",
-    "WORLD-BODIES-NEIGHBOURHOOD",
-    "WORLD-BODIES-UNITED_NATIONS",
-    "WORLD-BODIES-WORLD_BODIES"
-   ],
-   "questionCount": 46
-  },
-  {
-   "id": "WORLD-HIST",
-   "title": "World history",
-   "topics": [
-    "WORLD-HIST-WORLD_HISTORY"
-   ],
-   "questionCount": 9
-  },
-  {
-   "id": "SCI-PHYS",
-   "title": "Physics & measurement",
-   "topics": [
-    "SCI-PHYS-PHYSICS",
-    "SCI-PHYS-UNITS"
-   ],
-   "questionCount": 27
-  },
-  {
-   "id": "SCI-CHEM",
-   "title": "Chemistry",
-   "topics": [
-    "SCI-CHEM-CHEMISTRY"
-   ],
-   "questionCount": 22
-  },
-  {
    "id": "SCI-BIO",
    "title": "Biology, body & health",
    "topics": [
@@ -119,13 +57,12 @@
    "questionCount": 32
   },
   {
-   "id": "SCI-SPACE",
-   "title": "Astronomy & spaceflight",
+   "id": "SCI-CHEM",
+   "title": "Chemistry",
    "topics": [
-    "SCI-SPACE-ASTRONOMY",
-    "SCI-SPACE-SPACE"
+    "SCI-CHEM-CHEMISTRY"
    ],
-   "questionCount": 23
+   "questionCount": 30
   },
   {
    "id": "SCI-TECH",
@@ -139,12 +76,52 @@
    "questionCount": 28
   },
   {
-   "id": "SCI-HIST",
-   "title": "History of science",
+   "id": "SCI-PHYS",
+   "title": "Physics & measurement",
    "topics": [
-    "SCI-HIST-SCIENCE_HISTORY"
+    "SCI-PHYS-PHYSICS",
+    "SCI-PHYS-UNITS"
    ],
-   "questionCount": 6
+   "questionCount": 27
+  },
+  {
+   "id": "IND-GEO",
+   "title": "Indian geography",
+   "topics": [
+    "IND-GEO-INDIAN_GEOGRAPHY",
+    "IND-GEO-TIME_AND_STANDARDS"
+   ],
+   "questionCount": 26
+  },
+  {
+   "id": "SCI-SPACE",
+   "title": "Astronomy & spaceflight",
+   "topics": [
+    "SCI-SPACE-ASTRONOMY",
+    "SCI-SPACE-SPACE"
+   ],
+   "questionCount": 23
+  },
+  {
+   "id": "IND-ECON",
+   "title": "Indian economy & currency",
+   "topics": [
+    "IND-ECON-CURRENCIES",
+    "IND-ECON-CURRENCY",
+    "IND-ECON-INDIA_BANKING",
+    "IND-ECON-INDIA_ECONOMY"
+   ],
+   "questionCount": 22
+  },
+  {
+   "id": "SPORT",
+   "title": "Sport & games",
+   "topics": [
+    "SPORT-CHESS",
+    "SPORT-INDIA_SPORT",
+    "SPORT-SPORT"
+   ],
+   "questionCount": 19
   },
   {
    "id": "ART-CULT",
@@ -158,14 +135,21 @@
    "questionCount": 16
   },
   {
-   "id": "SPORT",
-   "title": "Sport & games",
+   "id": "IND-HIST",
+   "title": "Indian & general history",
    "topics": [
-    "SPORT-CHESS",
-    "SPORT-INDIA_SPORT",
-    "SPORT-SPORT"
+    "IND-HIST-HISTORY",
+    "IND-HIST-INDIAN_HISTORY"
    ],
-   "questionCount": 19
+   "questionCount": 15
+  },
+  {
+   "id": "WORLD-HIST",
+   "title": "World history",
+   "topics": [
+    "WORLD-HIST-WORLD_HISTORY"
+   ],
+   "questionCount": 15
   },
   {
    "id": "AWARDS",
@@ -173,7 +157,7 @@
    "topics": [
     "AWARDS-AWARDS"
    ],
-   "questionCount": 9
+   "questionCount": 15
   },
   {
    "id": "ENV",
@@ -181,7 +165,28 @@
    "topics": [
     "ENV-ENVIRONMENT"
    ],
-   "questionCount": 6
+   "questionCount": 14
+  },
+  {
+   "id": "IND-SPACE",
+   "title": "India in space",
+   "topics": [
+    "IND-SPACE-INDIA_SPACE"
+   ],
+   "questionCount": 12
+  },
+  {
+   "id": "SCI-HIST",
+   "title": "History of science",
+   "topics": [
+    "SCI-HIST-SCIENCE_HISTORY"
+   ],
+   "questionCount": 12
   }
- ]
+ ],
+ "totals": {
+  "questions": 458,
+  "subjects": 18,
+  "topics": 48
+ }
 }

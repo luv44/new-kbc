@@ -1,8 +1,8 @@
 # Draft question bank — unique, meta-word free
 
-Generated 2026-10-11T07:00:33.548Z by `node scripts/question-lint.mjs --write`.
+Generated 2026-10-11T07:05:48.385Z by `node scripts/question-lint.mjs --write`.
 
-- 418 questions, 418 distinct stems, 418 distinct fingerprints
+- 458 questions, 458 distinct stems, 458 distinct fingerprints
 - Banned meta-language scan: 0 hits
 - Duplication scan: 0 hits
 - Lifecycle: DRAFT_PENDING_REVIEW — not eligible for practice until human review accepts them (see `src/domain.ts eligible()`).
@@ -7110,6 +7110,686 @@ Source: PENDING-EVIDENCE · MEDIUM
 > यह कूल्हे से घुटने तक जाती है।
 
 Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 419. What is the chemical symbol for sodium?
+**सोडियम का रासायनिक प्रतीक क्या है?**
+
+- A. So — So
+- B. Na — Na
+- C. S — S
+- D. Sd — Sd
+
+**Answer: B. Na**
+
+> It comes from natrium, the Latin name for the element.
+> यह लैटिन नाम नेट्रियम से आया है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 420. What is the chemical symbol for potassium?
+**पोटैशियम का रासायनिक प्रतीक क्या है?**
+
+- A. Pt — Pt
+- B. P — P
+- C. Po — Po
+- D. K — K
+
+**Answer: D. K**
+
+> It comes from kalium; P belongs to phosphorus and Pt to platinum.
+> यह कैलियम से आया है; P फ़ॉस्फ़ोरस का और Pt प्लैटिनम का है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 421. A solution with a pH below 7 is described as what?
+**7 से कम pH वाला विलयन क्या कहलाता है?**
+
+- A. Acidic — अम्लीय
+- B. Alkaline — क्षारीय
+- C. Neutral — उदासीन
+- D. Saturated — संतृप्त
+
+**Answer: A. Acidic**
+
+> Seven is neutral and anything above it is alkaline.
+> सात उदासीन है और इससे अधिक क्षारीय होता है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 422. Which common indicator turns red in an acid?
+**अम्ल में कौन सा सामान्य संसूचक लाल हो जाता है?**
+
+- A. Litmus — लिटमस
+- B. Turmeric only — केवल हल्दी
+- C. Phenolphthalein — फ़ीनॉल्फथैलिन
+- D. Methyl orange only — केवल मिथाइल ऑरेंज
+
+**Answer: A. Litmus**
+
+> Blue litmus turns red in acid and red litmus turns blue in alkali.
+> नीला लिटमस अम्ल में लाल और लाल लिटमस क्षार में नीला हो जाता है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 423. Which metal is used to galvanise iron against rust?
+**लोहे को जंग से बचाने के लिए उस पर किस धातु की गैल्वनीकरण परत चढ़ाई जाती है?**
+
+- A. Zinc — जस्ता
+- B. Chromium — क्रोमियम
+- C. Nickel — निकल
+- D. Tin — टिन
+
+**Answer: A. Zinc**
+
+> The coating corrodes in place of the iron beneath it.
+> यह परत नीचे के लोहे के बजाय स्वयं क्षरित होती है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 424. Which is the most abundant metal in the Earth's crust?
+**पृथ्वी की पपड़ी में सबसे प्रचुर धातु कौन सी है?**
+
+- A. Sodium — सोडियम
+- B. Calcium — कैल्शियम
+- C. Iron — लोहा
+- D. Aluminium — एल्युमिनियम
+
+**Answer: D. Aluminium**
+
+> It makes up about eight per cent of the crust by weight.
+> यह भार के अनुसार पपड़ी का लगभग आठ प्रतिशत है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 425. What is the chemical formula of sulphuric acid?
+**सल्फ्यूरिक अम्ल का रासायनिक सूत्र क्या है?**
+
+- A. HCl — HCl
+- B. H2SO4 — H2SO4
+- C. H2CO3 — H2CO3
+- D. HNO3 — HNO3
+
+**Answer: B. H2SO4**
+
+> It is the acid used in car batteries.
+> यह वही अम्ल है जो कार की बैटरी में प्रयोग होता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 426. What is sodium hydroxide commonly called?
+**सोडियम हाइड्रॉक्साइड को सामान्यतः क्या कहते हैं?**
+
+- A. Washing soda — धोने का सोडा
+- B. Baking soda — खाने का सोडा
+- C. Caustic soda — कॉस्टिक सोडा
+- D. Soda ash only — केवल सोडा ऐश
+
+**Answer: C. Caustic soda**
+
+> It is a strong alkali used in soap and drain cleaners.
+> यह एक प्रबल क्षार है जो साबुन और नाली साफ़ करने में प्रयोग होता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 427. What does the term biodiversity refer to?
+**जैव विविधता शब्द किसे दर्शाता है?**
+
+- A. The number of people in a country — किसी देश में लोगों की संख्या
+- B. The depth of a forest canopy — वन छत्र की गहराई
+- C. The variety of life in an area — किसी क्षेत्र में जीवन की विविधता
+- D. The purity of drinking water — पेयजल की शुद्धता
+
+**Answer: C. The variety of life in an area**
+
+> It covers genes, species and the ecosystems they form.
+> इसमें जीन, प्रजातियाँ और उनके पारिस्थितिकी तंत्र सब आते हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 428. On which date is Earth Day observed each year?
+**पृथ्वी दिवस हर वर्ष किस तिथि को मनाया जाता है?**
+
+- A. 22 April — 22 अप्रैल
+- B. 5 June — 5 जून
+- C. 22 March — 22 मार्च
+- D. 16 September — 16 सितंबर
+
+**Answer: A. 22 April**
+
+> It was first marked in 1970.
+> यह पहली बार 1970 में मनाया गया।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 429. Which was the first national park established in India?
+**भारत का पहला राष्ट्रीय उद्यान कौन सा स्थापित हुआ?**
+
+- A. Gir National Park — गिर राष्ट्रीय उद्यान
+- B. Kanha National Park — कान्हा राष्ट्रीय उद्यान
+- C. Ranthambore National Park — रणथंभौर राष्ट्रीय उद्यान
+- D. Jim Corbett National Park — जिम कॉर्बेट राष्ट्रीय उद्यान
+
+**Answer: D. Jim Corbett National Park**
+
+> It opened in 1936 in Uttarakhand as Hailey National Park.
+> यह 1936 में उत्तराखंड में हेली राष्ट्रीय उद्यान के नाम से खुला।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 430. Which is the largest national park in India by area?
+**क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा राष्ट्रीय उद्यान कौन सा है?**
+
+- A. Bandipur National Park — बांदीपुर राष्ट्रीय उद्यान
+- B. Hemis National Park — हेमिस राष्ट्रीय उद्यान
+- C. Kaziranga National Park — काज़ीरंगा राष्ट्रीय उद्यान
+- D. Jim Corbett National Park — जिम कॉर्बेट राष्ट्रीय उद्यान
+
+**Answer: B. Hemis National Park**
+
+> It lies high in the Ladakh mountains.
+> यह लद्दाख के ऊँचे पर्वतों में स्थित है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 431. Which gases are the main cause of acid rain?
+**अम्ल वर्षा का मुख्य कारण कौन सी गैसें हैं?**
+
+- A. Methane alone — केवल मीथेन
+- B. Sulphur dioxide and nitrogen oxides — सल्फ़र डाइऑक्साइड और नाइट्रोजन ऑक्साइड
+- C. Water vapour alone — केवल जल वाष्प
+- D. Oxygen and nitrogen — ऑक्सीजन और नाइट्रोजन
+
+**Answer: B. Sulphur dioxide and nitrogen oxides**
+
+> They form acids as they dissolve in falling rain.
+> गिरती वर्षा में घुलकर ये अम्ल बनाते हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 432. Which group of chemicals was chiefly responsible for thinning the ozone layer?
+**ओज़ोन परत के क्षरण के लिए मुख्यतः कौन सा रासायनिक समूह ज़िम्मेदार था?**
+
+- A. Phosphates — फ़ॉस्फ़ेट
+- B. Chlorofluorocarbons — क्लोरोफ़्लोरोकार्बन
+- C. Nitrates — नाइट्रेट
+- D. Sulphates — सल्फ़ेट
+
+**Answer: B. Chlorofluorocarbons**
+
+> They were once common in refrigerators and aerosol sprays.
+> ये कभी रेफ़्रिजरेटर और एयरोसोल स्प्रे में आम थे।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 433. Electricity generated from falling water is called what?
+**गिरते जल से उत्पन्न बिजली को क्या कहते हैं?**
+
+- A. Tidal power — ज्वारीय ऊर्जा
+- B. Thermal power — तापीय ऊर्जा
+- C. Hydroelectric power — जलविद्युत
+- D. Geothermal power — भूतापीय ऊर्जा
+
+**Answer: C. Hydroelectric power**
+
+> A dam stores water high up and lets it fall through turbines.
+> बाँध जल को ऊँचाई पर रोकता है और उसे टर्बाइन से गिराता है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 434. What does a person's carbon footprint measure?
+**किसी व्यक्ति का कार्बन फ़ुटप्रिंट क्या मापता है?**
+
+- A. The distance they walk each day — रोज़ चली गई दूरी
+- B. The greenhouse gases their activities release — उनकी गतिविधियों से निकलने वाली ग्रीनहाउस गैसें
+- C. The coal they burn at home — घर में जलाया गया कोयला
+- D. The number of trees they plant — लगाए गए पेड़ों की संख्या
+
+**Answer: B. The greenhouse gases their activities release**
+
+> It is usually expressed as tonnes of carbon dioxide equivalent a year.
+> इसे प्रायः प्रति वर्ष टन कार्बन डाइऑक्साइड समतुल्य में बताया जाता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 435. Who discovered X-rays?
+**एक्स-रे की खोज किसने की?**
+
+- A. Marie Curie — मैरी क्यूरी
+- B. Henri Becquerel — हेनरी बेकरल
+- C. Wilhelm Röntgen — विल्हेम रॉन्टगेन
+- D. Max Planck — मैक्स प्लांक
+
+**Answer: C. Wilhelm Röntgen**
+
+> He received the first Nobel Prize in Physics, in 1901.
+> उन्हें 1901 में भौतिकी का पहला नोबेल पुरस्कार मिला।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 436. Who first observed natural radioactivity?
+**प्राकृतिक रेडियोधर्मिता का अवलोकन सबसे पहले किसने किया?**
+
+- A. Niels Bohr — नील्स बोर
+- B. Ernest Rutherford — अर्नेस्ट रदरफ़ोर्ड
+- C. Henri Becquerel — हेनरी बेकरल
+- D. James Chadwick — जेम्स चैडविक
+
+**Answer: C. Henri Becquerel**
+
+> He noticed uranium salts fogging photographic plates in 1896.
+> 1896 में उन्होंने देखा कि यूरेनियम लवण फ़ोटोग्राफ़िक प्लेट को धुँधला कर देते हैं।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 437. Who is the only person to win Nobel Prizes in two different sciences?
+**दो भिन्न विज्ञानों में नोबेल पुरस्कार जीतने वाले एकमात्र व्यक्ति कौन हैं?**
+
+- A. Linus Pauling — लाइनस पॉलिंग
+- B. Marie Curie — मैरी क्यूरी
+- C. Frederick Sanger — फ़्रेडरिक सेंगर
+- D. John Bardeen — जॉन बार्डीन
+
+**Answer: B. Marie Curie**
+
+> Physics in 1903 and Chemistry in 1911.
+> 1903 में भौतिकी और 1911 में रसायन विज्ञान।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 438. Who is credited with inventing the telephone?
+**टेलीफ़ोन के आविष्कार का श्रेय किसे जाता है?**
+
+- A. Thomas Edison — थॉमस एडिसन
+- B. Guglielmo Marconi — गुग्लिएल्मो मार्कोनी
+- C. Alexander Graham Bell — अलेक्ज़ेंडर ग्राहम बेल
+- D. Nikola Tesla — निकोला टेस्ला
+
+**Answer: C. Alexander Graham Bell**
+
+> He was granted the patent in 1876.
+> उन्हें 1876 में इसका पेटेंट मिला।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 439. Who made the electric light bulb commercially practical?
+**बिजली के बल्ब को व्यावसायिक रूप से व्यावहारिक किसने बनाया?**
+
+- A. Nikola Tesla — निकोला टेस्ला
+- B. Thomas Edison — थॉमस एडिसन
+- C. Michael Faraday — माइकल फैराडे
+- D. Alessandro Volta — अलेसांद्रो वोल्टा
+
+**Answer: B. Thomas Edison**
+
+> Earlier inventors made lamps, but his lasted long enough to sell.
+> पहले भी बल्ब बने थे, पर उनका बल्ब बेचने लायक टिकाऊ था।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 440. Who first published a periodic table of the elements?
+**तत्वों की आवर्त सारणी सबसे पहले किसने प्रकाशित की?**
+
+- A. Dmitri Mendeleev — दिमित्री मेंडलीव
+- B. Antoine Lavoisier — एंटोनी लवॉइज़ियर
+- C. John Dalton — जॉन डॉल्टन
+- D. Henry Moseley — हेनरी मोज़ले
+
+**Answer: A. Dmitri Mendeleev**
+
+> His 1869 table left gaps for elements not yet found.
+> उनकी 1869 की सारणी में अभी न खोजे गए तत्वों के लिए खाली स्थान छोड़े गए।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 441. Who is generally regarded as the first Prime Minister of Britain?
+**ब्रिटेन के पहले प्रधानमंत्री किसे माना जाता है?**
+
+- A. Winston Churchill — विंस्टन चर्चिल
+- B. Benjamin Disraeli — बेंजामिन डिसराएली
+- C. William Pitt — विलियम पिट
+- D. Robert Walpole — रॉबर्ट वॉलपोल
+
+**Answer: D. Robert Walpole**
+
+> He held office from 1721 to 1742.
+> वे 1721 से 1742 तक पद पर रहे।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 442. The Renaissance began in which country?
+**पुनर्जागरण की शुरुआत किस देश से हुई?**
+
+- A. France — फ़्रांस
+- B. Germany — जर्मनी
+- C. Italy — इटली
+- D. England — इंग्लैंड
+
+**Answer: C. Italy**
+
+> Florence is usually named as its starting point.
+> आमतौर पर फ़्लोरेंस को इसका प्रारंभ बिंदु माना जाता है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 443. The Industrial Revolution began in which country?
+**औद्योगिक क्रांति किस देश में शुरू हुई?**
+
+- A. Britain — ब्रिटेन
+- B. France — फ़्रांस
+- C. The United States — संयुक्त राज्य अमेरिका
+- D. Belgium — बेल्जियम
+
+**Answer: A. Britain**
+
+> It began with textile mills in the late eighteenth century.
+> इसकी शुरुआत अठारहवीं शताब्दी के अंत में कपड़ा मिलों से हुई।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 444. Who was the first Roman Emperor?
+**रोम के पहले सम्राट कौन थे?**
+
+- A. Augustus — अगस्टस
+- B. Nero — नीरो
+- C. Constantine — कॉन्स्टेंटाइन
+- D. Julius Caesar — जूलियस सीज़र
+
+**Answer: A. Augustus**
+
+> Caesar was dictator of the republic and never held the title.
+> सीज़र गणतंत्र के तानाशाह थे और उन्हें यह उपाधि कभी नहीं मिली।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 445. Mesopotamia lay between which two rivers?
+**मेसोपोटामिया किन दो नदियों के बीच स्थित था?**
+
+- A. The Danube and the Rhine — डैन्यूब और राइन
+- B. The Nile and the Jordan — नील और जॉर्डन
+- C. The Tigris and the Euphrates — टाइग्रिस और यूफ़्रेटीस
+- D. The Indus and the Ganga — सिंधु और गंगा
+
+**Answer: C. The Tigris and the Euphrates**
+
+> The name itself means the land between the rivers.
+> नाम का अर्थ ही है नदियों के बीच की भूमि।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 446. Who wrote the philosophical dialogue The Republic?
+**दार्शनिक संवाद द रिपब्लिक किसने लिखा?**
+
+- A. Plato — प्लेटो
+- B. Homer — होमर
+- C. Socrates — सुकरात
+- D. Aristotle — अरस्तू
+
+**Answer: A. Plato**
+
+> Socrates appears in it as a speaker but wrote nothing himself.
+> सुकरात इसमें वक्ता के रूप में आते हैं पर उन्होंने स्वयं कुछ नहीं लिखा।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 447. Who is regarded as the father of the Indian space programme?
+**भारतीय अंतरिक्ष कार्यक्रम का जनक किसे माना जाता है?**
+
+- A. Satish Dhawan — सतीश धवन
+- B. A. P. J. Abdul Kalam — ए. पी. जे. अब्दुल कलाम
+- C. Homi Bhabha — होमी भाभा
+- D. Vikram Sarabhai — विक्रम साराभाई
+
+**Answer: D. Vikram Sarabhai**
+
+> He set up the Physical Research Laboratory in Ahmedabad.
+> उन्होंने अहमदाबाद में भौतिक अनुसंधान प्रयोगशाला स्थापित की।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 448. Where is India's main satellite launch centre?
+**भारत का मुख्य उपग्रह प्रक्षेपण केंद्र कहाँ है?**
+
+- A. Sriharikota — श्रीहरिकोटा
+- B. Hassan — हासन
+- C. Thumba — थुम्बा
+- D. Bengaluru — बेंगलुरु
+
+**Answer: A. Sriharikota**
+
+> It sits on a barrier island off the Andhra Pradesh coast.
+> यह आंध्र प्रदेश के तट से लगे एक अवरोधक द्वीप पर स्थित है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 449. Which launch vehicle does ISRO use for its heaviest payloads?
+**सबसे भारी पेलोड के लिए इसरो कौन सा प्रक्षेपण यान प्रयोग करता है?**
+
+- A. The SLV-3 — एसएलवी-3
+- B. The ASLV — एएसएलवी
+- C. The GSLV — जीएसएलवी
+- D. The PSLV — पीएसएलवी
+
+**Answer: C. The GSLV**
+
+> Its cryogenic upper stage carries the extra lift.
+> इसका क्रायोजेनिक ऊपरी चरण अतिरिक्त उठान देता है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 450. Which Indian mission reached Mars orbit in 2014?
+**2014 में कौन सा भारतीय मिशन मंगल की कक्षा में पहुँचा?**
+
+- A. Aditya-L1 — आदित्य-L1
+- B. Chandrayaan-1 — चंद्रयान-1
+- C. Mangalyaan — मंगलयान
+- D. Gaganyaan — गगनयान
+
+**Answer: C. Mangalyaan**
+
+> It made India the first country to succeed on its first attempt.
+> इससे भारत पहली ही कोशिश में सफल होने वाला देश बना।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 451. Which ISRO mission was built to study the Sun?
+**सूर्य का अध्ययन करने के लिए कौन सा इसरो मिशन बनाया गया?**
+
+- A. AstroSat — एस्ट्रोसैट
+- B. Aditya-L1 — आदित्य-L1
+- C. Chandrayaan-2 — चंद्रयान-2
+- D. Mangalyaan — मंगलयान
+
+**Answer: B. Aditya-L1**
+
+> It observes from a halo orbit around the first Lagrange point.
+> यह पहले लग्रांज बिंदु के चारों ओर हैलो कक्षा से अवलोकन करता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 452. Which mission achieved India's first soft landing on the Moon?
+**चंद्रमा पर भारत की पहली सॉफ़्ट लैंडिंग किस मिशन ने की?**
+
+- A. Mangalyaan — मंगलयान
+- B. Chandrayaan-1 — चंद्रयान-1
+- C. Chandrayaan-2 — चंद्रयान-2
+- D. Chandrayaan-3 — चंद्रयान-3
+
+**Answer: D. Chandrayaan-3**
+
+> It landed near the lunar south pole in August 2023.
+> यह अगस्त 2023 में चंद्रमा के दक्षिणी ध्रुव के पास उतरा।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 453. Which award is often described as the Nobel Prize of mathematics?
+**किस पुरस्कार को प्रायः गणित का नोबेल पुरस्कार कहा जाता है?**
+
+- A. The Fields Medal — फ़ील्ड्स पदक
+- B. The Wolf Prize — वुल्फ़ पुरस्कार
+- C. The Turing Award — ट्यूरिंग पुरस्कार
+- D. The Crafoord Prize — क्रेफ़ूर्द पुरस्कार
+
+**Answer: A. The Fields Medal**
+
+> It is awarded every four years to mathematicians under forty.
+> यह हर चार वर्ष में चालीस वर्ष से कम आयु के गणितज्ञों को दिया जाता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 454. Which award recognises excellence in American journalism?
+**अमेरिकी पत्रकारिता में उत्कृष्टता के लिए कौन सा पुरस्कार दिया जाता है?**
+
+- A. The Polk Award — पोल्क पुरस्कार
+- B. The Peabody — पीबॉडी
+- C. The Emmy — एमी
+- D. The Pulitzer Prize — पुलित्ज़र पुरस्कार
+
+**Answer: D. The Pulitzer Prize**
+
+> It has been awarded since 1917.
+> यह 1917 से दिया जा रहा है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 455. The Grammy Award is given for achievement in which field?
+**ग्रैमी पुरस्कार किस क्षेत्र में उपलब्धि के लिए दिया जाता है?**
+
+- A. Music — संगीत
+- B. Dance — नृत्य
+- C. Painting — चित्रकला
+- D. Theatre — रंगमंच
+
+**Answer: A. Music**
+
+> The statuette is a small gold-plated gramophone.
+> यह प्रतिमा छोटे सोने से मढ़े ग्रामोफ़ोन की होती है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 456. The Jnanpith Award in India is given for what?
+**भारत में ज्ञानपीठ पुरस्कार किसके लिए दिया जाता है?**
+
+- A. Scientific research — वैज्ञानिक अनुसंधान के लिए
+- B. Excellence in classical dance — शास्त्रीय नृत्य में उत्कृष्टता के लिए
+- C. Outstanding contribution to Indian literature — भारतीय साहित्य में उत्कृष्ट योगदान के लिए
+- D. Lifetime service in medicine — चिकित्सा में आजीवन सेवा के लिए
+
+**Answer: C. Outstanding contribution to Indian literature**
+
+> It is open to writers in any of the Eighth Schedule languages.
+> यह अष्टम अनुसूची की किसी भी भाषा के लेखकों के लिए खुला है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 457. Which award is often called the Nobel Prize of Asia?
+**किस पुरस्कार को प्रायः एशिया का नोबेल पुरस्कार कहा जाता है?**
+
+- A. The Seoul Peace Prize — सियोल शांति पुरस्कार
+- B. The Indira Gandhi Prize — इंदिरा गांधी पुरस्कार
+- C. The Tang Prize — तांग पुरस्कार
+- D. The Ramon Magsaysay Award — रेमन मैगसेसे पुरस्कार
+
+**Answer: D. The Ramon Magsaysay Award**
+
+> It was established in 1957 and is based in Manila.
+> इसकी स्थापना 1957 में हुई और इसका केंद्र मनीला है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 458. The Golden Bear is the top prize at which film festival?
+**गोल्डन बियर किस फ़िल्म महोत्सव का सर्वोच्च पुरस्कार है?**
+
+- A. The Berlin International Film Festival — बर्लिन अंतर्राष्ट्रीय फ़िल्म महोत्सव
+- B. The Toronto Film Festival — टोरंटो फ़िल्म महोत्सव
+- C. The Venice Film Festival — वेनिस फ़िल्म महोत्सव
+- D. The Cannes Film Festival — कान फ़िल्म महोत्सव
+
+**Answer: A. The Berlin International Film Festival**
+
+> Cannes awards the Palme d'Or and Venice the Golden Lion.
+> कान पाल्म द ओर और वेनिस गोल्डन लायन देते हैं।
+
+Source: PENDING-EVIDENCE · HARD
 
 ---
 

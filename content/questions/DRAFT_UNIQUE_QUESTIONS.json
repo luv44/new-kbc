@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-11T07:00:33.540Z",
+  "generatedAt": "2026-10-11T07:05:48.377Z",
   "lifecycle": "DRAFT_PENDING_REVIEW",
-  "count": 418,
+  "count": 458,
   "bannedWordPolicy": [
     "syllabus",
     "syllabi",
@@ -23467,6 +23467,2246 @@
       "validUntil": null,
       "kind": "AUTHORED_DRAFT",
       "order": 418
+    },
+    {
+      "id": "DRAFT-DQ-0419",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
+      "conceptIds": [],
+      "question": {
+        "en": "What is the chemical symbol for sodium?",
+        "hi": "सोडियम का रासायनिक प्रतीक क्या है?"
+      },
+      "options": [
+        {
+          "en": "So",
+          "hi": "So"
+        },
+        {
+          "en": "Na",
+          "hi": "Na"
+        },
+        {
+          "en": "S",
+          "hi": "S"
+        },
+        {
+          "en": "Sd",
+          "hi": "Sd"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It comes from natrium, the Latin name for the element.",
+        "hi": "यह लैटिन नाम नेट्रियम से आया है।"
+      },
+      "detailedExplanation": {
+        "en": "It comes from natrium, the Latin name for the element.",
+        "hi": "यह लैटिन नाम नेट्रियम से आया है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "febae4f9d8f8088d",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 419
+    },
+    {
+      "id": "DRAFT-DQ-0420",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
+      "conceptIds": [],
+      "question": {
+        "en": "What is the chemical symbol for potassium?",
+        "hi": "पोटैशियम का रासायनिक प्रतीक क्या है?"
+      },
+      "options": [
+        {
+          "en": "Pt",
+          "hi": "Pt"
+        },
+        {
+          "en": "P",
+          "hi": "P"
+        },
+        {
+          "en": "Po",
+          "hi": "Po"
+        },
+        {
+          "en": "K",
+          "hi": "K"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It comes from kalium; P belongs to phosphorus and Pt to platinum.",
+        "hi": "यह कैलियम से आया है; P फ़ॉस्फ़ोरस का और Pt प्लैटिनम का है।"
+      },
+      "detailedExplanation": {
+        "en": "It comes from kalium; P belongs to phosphorus and Pt to platinum.",
+        "hi": "यह कैलियम से आया है; P फ़ॉस्फ़ोरस का और Pt प्लैटिनम का है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "d25523ffe8f40e6f",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 420
+    },
+    {
+      "id": "DRAFT-DQ-0421",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
+      "conceptIds": [],
+      "question": {
+        "en": "A solution with a pH below 7 is described as what?",
+        "hi": "7 से कम pH वाला विलयन क्या कहलाता है?"
+      },
+      "options": [
+        {
+          "en": "Acidic",
+          "hi": "अम्लीय"
+        },
+        {
+          "en": "Alkaline",
+          "hi": "क्षारीय"
+        },
+        {
+          "en": "Neutral",
+          "hi": "उदासीन"
+        },
+        {
+          "en": "Saturated",
+          "hi": "संतृप्त"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Seven is neutral and anything above it is alkaline.",
+        "hi": "सात उदासीन है और इससे अधिक क्षारीय होता है।"
+      },
+      "detailedExplanation": {
+        "en": "Seven is neutral and anything above it is alkaline.",
+        "hi": "सात उदासीन है और इससे अधिक क्षारीय होता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "33ae392a003a2b40",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 421
+    },
+    {
+      "id": "DRAFT-DQ-0422",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
+      "conceptIds": [],
+      "question": {
+        "en": "Which common indicator turns red in an acid?",
+        "hi": "अम्ल में कौन सा सामान्य संसूचक लाल हो जाता है?"
+      },
+      "options": [
+        {
+          "en": "Litmus",
+          "hi": "लिटमस"
+        },
+        {
+          "en": "Turmeric only",
+          "hi": "केवल हल्दी"
+        },
+        {
+          "en": "Phenolphthalein",
+          "hi": "फ़ीनॉल्फथैलिन"
+        },
+        {
+          "en": "Methyl orange only",
+          "hi": "केवल मिथाइल ऑरेंज"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Blue litmus turns red in acid and red litmus turns blue in alkali.",
+        "hi": "नीला लिटमस अम्ल में लाल और लाल लिटमस क्षार में नीला हो जाता है।"
+      },
+      "detailedExplanation": {
+        "en": "Blue litmus turns red in acid and red litmus turns blue in alkali.",
+        "hi": "नीला लिटमस अम्ल में लाल और लाल लिटमस क्षार में नीला हो जाता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "a26637803d210e81",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 422
+    },
+    {
+      "id": "DRAFT-DQ-0423",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
+      "conceptIds": [],
+      "question": {
+        "en": "Which metal is used to galvanise iron against rust?",
+        "hi": "लोहे को जंग से बचाने के लिए उस पर किस धातु की गैल्वनीकरण परत चढ़ाई जाती है?"
+      },
+      "options": [
+        {
+          "en": "Zinc",
+          "hi": "जस्ता"
+        },
+        {
+          "en": "Chromium",
+          "hi": "क्रोमियम"
+        },
+        {
+          "en": "Nickel",
+          "hi": "निकल"
+        },
+        {
+          "en": "Tin",
+          "hi": "टिन"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "The coating corrodes in place of the iron beneath it.",
+        "hi": "यह परत नीचे के लोहे के बजाय स्वयं क्षरित होती है।"
+      },
+      "detailedExplanation": {
+        "en": "The coating corrodes in place of the iron beneath it.",
+        "hi": "यह परत नीचे के लोहे के बजाय स्वयं क्षरित होती है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "a2fecf889b06f917",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 423
+    },
+    {
+      "id": "DRAFT-DQ-0424",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
+      "conceptIds": [],
+      "question": {
+        "en": "Which is the most abundant metal in the Earth's crust?",
+        "hi": "पृथ्वी की पपड़ी में सबसे प्रचुर धातु कौन सी है?"
+      },
+      "options": [
+        {
+          "en": "Sodium",
+          "hi": "सोडियम"
+        },
+        {
+          "en": "Calcium",
+          "hi": "कैल्शियम"
+        },
+        {
+          "en": "Iron",
+          "hi": "लोहा"
+        },
+        {
+          "en": "Aluminium",
+          "hi": "एल्युमिनियम"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It makes up about eight per cent of the crust by weight.",
+        "hi": "यह भार के अनुसार पपड़ी का लगभग आठ प्रतिशत है।"
+      },
+      "detailedExplanation": {
+        "en": "It makes up about eight per cent of the crust by weight.",
+        "hi": "यह भार के अनुसार पपड़ी का लगभग आठ प्रतिशत है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "e15b4220723c188c",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 424
+    },
+    {
+      "id": "DRAFT-DQ-0425",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
+      "conceptIds": [],
+      "question": {
+        "en": "What is the chemical formula of sulphuric acid?",
+        "hi": "सल्फ्यूरिक अम्ल का रासायनिक सूत्र क्या है?"
+      },
+      "options": [
+        {
+          "en": "HCl",
+          "hi": "HCl"
+        },
+        {
+          "en": "H2SO4",
+          "hi": "H2SO4"
+        },
+        {
+          "en": "H2CO3",
+          "hi": "H2CO3"
+        },
+        {
+          "en": "HNO3",
+          "hi": "HNO3"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It is the acid used in car batteries.",
+        "hi": "यह वही अम्ल है जो कार की बैटरी में प्रयोग होता है।"
+      },
+      "detailedExplanation": {
+        "en": "It is the acid used in car batteries.",
+        "hi": "यह वही अम्ल है जो कार की बैटरी में प्रयोग होता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "c90d47642b271901",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 425
+    },
+    {
+      "id": "DRAFT-DQ-0426",
+      "subjectId": "SCI-CHEM",
+      "chapterId": "SCI-CHEM",
+      "topicId": "SCI-CHEM-CHEMISTRY",
+      "conceptIds": [],
+      "question": {
+        "en": "What is sodium hydroxide commonly called?",
+        "hi": "सोडियम हाइड्रॉक्साइड को सामान्यतः क्या कहते हैं?"
+      },
+      "options": [
+        {
+          "en": "Washing soda",
+          "hi": "धोने का सोडा"
+        },
+        {
+          "en": "Baking soda",
+          "hi": "खाने का सोडा"
+        },
+        {
+          "en": "Caustic soda",
+          "hi": "कॉस्टिक सोडा"
+        },
+        {
+          "en": "Soda ash only",
+          "hi": "केवल सोडा ऐश"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It is a strong alkali used in soap and drain cleaners.",
+        "hi": "यह एक प्रबल क्षार है जो साबुन और नाली साफ़ करने में प्रयोग होता है।"
+      },
+      "detailedExplanation": {
+        "en": "It is a strong alkali used in soap and drain cleaners.",
+        "hi": "यह एक प्रबल क्षार है जो साबुन और नाली साफ़ करने में प्रयोग होता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "48f2edf5f9425cf1",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 426
+    },
+    {
+      "id": "DRAFT-DQ-0427",
+      "subjectId": "ENV",
+      "chapterId": "ENV",
+      "topicId": "ENV-ENVIRONMENT",
+      "conceptIds": [],
+      "question": {
+        "en": "What does the term biodiversity refer to?",
+        "hi": "जैव विविधता शब्द किसे दर्शाता है?"
+      },
+      "options": [
+        {
+          "en": "The number of people in a country",
+          "hi": "किसी देश में लोगों की संख्या"
+        },
+        {
+          "en": "The depth of a forest canopy",
+          "hi": "वन छत्र की गहराई"
+        },
+        {
+          "en": "The variety of life in an area",
+          "hi": "किसी क्षेत्र में जीवन की विविधता"
+        },
+        {
+          "en": "The purity of drinking water",
+          "hi": "पेयजल की शुद्धता"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It covers genes, species and the ecosystems they form.",
+        "hi": "इसमें जीन, प्रजातियाँ और उनके पारिस्थितिकी तंत्र सब आते हैं।"
+      },
+      "detailedExplanation": {
+        "en": "It covers genes, species and the ecosystems they form.",
+        "hi": "इसमें जीन, प्रजातियाँ और उनके पारिस्थितिकी तंत्र सब आते हैं।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "97ff0ab1b9855eb2",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 427
+    },
+    {
+      "id": "DRAFT-DQ-0428",
+      "subjectId": "ENV",
+      "chapterId": "ENV",
+      "topicId": "ENV-ENVIRONMENT",
+      "conceptIds": [],
+      "question": {
+        "en": "On which date is Earth Day observed each year?",
+        "hi": "पृथ्वी दिवस हर वर्ष किस तिथि को मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "22 April",
+          "hi": "22 अप्रैल"
+        },
+        {
+          "en": "5 June",
+          "hi": "5 जून"
+        },
+        {
+          "en": "22 March",
+          "hi": "22 मार्च"
+        },
+        {
+          "en": "16 September",
+          "hi": "16 सितंबर"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It was first marked in 1970.",
+        "hi": "यह पहली बार 1970 में मनाया गया।"
+      },
+      "detailedExplanation": {
+        "en": "It was first marked in 1970.",
+        "hi": "यह पहली बार 1970 में मनाया गया।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "da4072dc1ae302af",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 428
+    },
+    {
+      "id": "DRAFT-DQ-0429",
+      "subjectId": "ENV",
+      "chapterId": "ENV",
+      "topicId": "ENV-ENVIRONMENT",
+      "conceptIds": [],
+      "question": {
+        "en": "Which was the first national park established in India?",
+        "hi": "भारत का पहला राष्ट्रीय उद्यान कौन सा स्थापित हुआ?"
+      },
+      "options": [
+        {
+          "en": "Gir National Park",
+          "hi": "गिर राष्ट्रीय उद्यान"
+        },
+        {
+          "en": "Kanha National Park",
+          "hi": "कान्हा राष्ट्रीय उद्यान"
+        },
+        {
+          "en": "Ranthambore National Park",
+          "hi": "रणथंभौर राष्ट्रीय उद्यान"
+        },
+        {
+          "en": "Jim Corbett National Park",
+          "hi": "जिम कॉर्बेट राष्ट्रीय उद्यान"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It opened in 1936 in Uttarakhand as Hailey National Park.",
+        "hi": "यह 1936 में उत्तराखंड में हेली राष्ट्रीय उद्यान के नाम से खुला।"
+      },
+      "detailedExplanation": {
+        "en": "It opened in 1936 in Uttarakhand as Hailey National Park.",
+        "hi": "यह 1936 में उत्तराखंड में हेली राष्ट्रीय उद्यान के नाम से खुला।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "2e315ad0def5996e",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 429
+    },
+    {
+      "id": "DRAFT-DQ-0430",
+      "subjectId": "ENV",
+      "chapterId": "ENV",
+      "topicId": "ENV-ENVIRONMENT",
+      "conceptIds": [],
+      "question": {
+        "en": "Which is the largest national park in India by area?",
+        "hi": "क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा राष्ट्रीय उद्यान कौन सा है?"
+      },
+      "options": [
+        {
+          "en": "Bandipur National Park",
+          "hi": "बांदीपुर राष्ट्रीय उद्यान"
+        },
+        {
+          "en": "Hemis National Park",
+          "hi": "हेमिस राष्ट्रीय उद्यान"
+        },
+        {
+          "en": "Kaziranga National Park",
+          "hi": "काज़ीरंगा राष्ट्रीय उद्यान"
+        },
+        {
+          "en": "Jim Corbett National Park",
+          "hi": "जिम कॉर्बेट राष्ट्रीय उद्यान"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It lies high in the Ladakh mountains.",
+        "hi": "यह लद्दाख के ऊँचे पर्वतों में स्थित है।"
+      },
+      "detailedExplanation": {
+        "en": "It lies high in the Ladakh mountains.",
+        "hi": "यह लद्दाख के ऊँचे पर्वतों में स्थित है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "b95c8a5409f12848",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 430
+    },
+    {
+      "id": "DRAFT-DQ-0431",
+      "subjectId": "ENV",
+      "chapterId": "ENV",
+      "topicId": "ENV-ENVIRONMENT",
+      "conceptIds": [],
+      "question": {
+        "en": "Which gases are the main cause of acid rain?",
+        "hi": "अम्ल वर्षा का मुख्य कारण कौन सी गैसें हैं?"
+      },
+      "options": [
+        {
+          "en": "Methane alone",
+          "hi": "केवल मीथेन"
+        },
+        {
+          "en": "Sulphur dioxide and nitrogen oxides",
+          "hi": "सल्फ़र डाइऑक्साइड और नाइट्रोजन ऑक्साइड"
+        },
+        {
+          "en": "Water vapour alone",
+          "hi": "केवल जल वाष्प"
+        },
+        {
+          "en": "Oxygen and nitrogen",
+          "hi": "ऑक्सीजन और नाइट्रोजन"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "They form acids as they dissolve in falling rain.",
+        "hi": "गिरती वर्षा में घुलकर ये अम्ल बनाते हैं।"
+      },
+      "detailedExplanation": {
+        "en": "They form acids as they dissolve in falling rain.",
+        "hi": "गिरती वर्षा में घुलकर ये अम्ल बनाते हैं।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "817173296abf6abf",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 431
+    },
+    {
+      "id": "DRAFT-DQ-0432",
+      "subjectId": "ENV",
+      "chapterId": "ENV",
+      "topicId": "ENV-ENVIRONMENT",
+      "conceptIds": [],
+      "question": {
+        "en": "Which group of chemicals was chiefly responsible for thinning the ozone layer?",
+        "hi": "ओज़ोन परत के क्षरण के लिए मुख्यतः कौन सा रासायनिक समूह ज़िम्मेदार था?"
+      },
+      "options": [
+        {
+          "en": "Phosphates",
+          "hi": "फ़ॉस्फ़ेट"
+        },
+        {
+          "en": "Chlorofluorocarbons",
+          "hi": "क्लोरोफ़्लोरोकार्बन"
+        },
+        {
+          "en": "Nitrates",
+          "hi": "नाइट्रेट"
+        },
+        {
+          "en": "Sulphates",
+          "hi": "सल्फ़ेट"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "They were once common in refrigerators and aerosol sprays.",
+        "hi": "ये कभी रेफ़्रिजरेटर और एयरोसोल स्प्रे में आम थे।"
+      },
+      "detailedExplanation": {
+        "en": "They were once common in refrigerators and aerosol sprays.",
+        "hi": "ये कभी रेफ़्रिजरेटर और एयरोसोल स्प्रे में आम थे।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "7cf2be79e6eb8070",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 432
+    },
+    {
+      "id": "DRAFT-DQ-0433",
+      "subjectId": "ENV",
+      "chapterId": "ENV",
+      "topicId": "ENV-ENVIRONMENT",
+      "conceptIds": [],
+      "question": {
+        "en": "Electricity generated from falling water is called what?",
+        "hi": "गिरते जल से उत्पन्न बिजली को क्या कहते हैं?"
+      },
+      "options": [
+        {
+          "en": "Tidal power",
+          "hi": "ज्वारीय ऊर्जा"
+        },
+        {
+          "en": "Thermal power",
+          "hi": "तापीय ऊर्जा"
+        },
+        {
+          "en": "Hydroelectric power",
+          "hi": "जलविद्युत"
+        },
+        {
+          "en": "Geothermal power",
+          "hi": "भूतापीय ऊर्जा"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "A dam stores water high up and lets it fall through turbines.",
+        "hi": "बाँध जल को ऊँचाई पर रोकता है और उसे टर्बाइन से गिराता है।"
+      },
+      "detailedExplanation": {
+        "en": "A dam stores water high up and lets it fall through turbines.",
+        "hi": "बाँध जल को ऊँचाई पर रोकता है और उसे टर्बाइन से गिराता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "b6249635e49a9cf7",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 433
+    },
+    {
+      "id": "DRAFT-DQ-0434",
+      "subjectId": "ENV",
+      "chapterId": "ENV",
+      "topicId": "ENV-ENVIRONMENT",
+      "conceptIds": [],
+      "question": {
+        "en": "What does a person's carbon footprint measure?",
+        "hi": "किसी व्यक्ति का कार्बन फ़ुटप्रिंट क्या मापता है?"
+      },
+      "options": [
+        {
+          "en": "The distance they walk each day",
+          "hi": "रोज़ चली गई दूरी"
+        },
+        {
+          "en": "The greenhouse gases their activities release",
+          "hi": "उनकी गतिविधियों से निकलने वाली ग्रीनहाउस गैसें"
+        },
+        {
+          "en": "The coal they burn at home",
+          "hi": "घर में जलाया गया कोयला"
+        },
+        {
+          "en": "The number of trees they plant",
+          "hi": "लगाए गए पेड़ों की संख्या"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It is usually expressed as tonnes of carbon dioxide equivalent a year.",
+        "hi": "इसे प्रायः प्रति वर्ष टन कार्बन डाइऑक्साइड समतुल्य में बताया जाता है।"
+      },
+      "detailedExplanation": {
+        "en": "It is usually expressed as tonnes of carbon dioxide equivalent a year.",
+        "hi": "इसे प्रायः प्रति वर्ष टन कार्बन डाइऑक्साइड समतुल्य में बताया जाता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "fb486921661531c1",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 434
+    },
+    {
+      "id": "DRAFT-DQ-0435",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "SCI-HIST-SCIENCE_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "Who discovered X-rays?",
+        "hi": "एक्स-रे की खोज किसने की?"
+      },
+      "options": [
+        {
+          "en": "Marie Curie",
+          "hi": "मैरी क्यूरी"
+        },
+        {
+          "en": "Henri Becquerel",
+          "hi": "हेनरी बेकरल"
+        },
+        {
+          "en": "Wilhelm Röntgen",
+          "hi": "विल्हेम रॉन्टगेन"
+        },
+        {
+          "en": "Max Planck",
+          "hi": "मैक्स प्लांक"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He received the first Nobel Prize in Physics, in 1901.",
+        "hi": "उन्हें 1901 में भौतिकी का पहला नोबेल पुरस्कार मिला।"
+      },
+      "detailedExplanation": {
+        "en": "He received the first Nobel Prize in Physics, in 1901.",
+        "hi": "उन्हें 1901 में भौतिकी का पहला नोबेल पुरस्कार मिला।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "aee333d99c2a3d06",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 435
+    },
+    {
+      "id": "DRAFT-DQ-0436",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "SCI-HIST-SCIENCE_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "Who first observed natural radioactivity?",
+        "hi": "प्राकृतिक रेडियोधर्मिता का अवलोकन सबसे पहले किसने किया?"
+      },
+      "options": [
+        {
+          "en": "Niels Bohr",
+          "hi": "नील्स बोर"
+        },
+        {
+          "en": "Ernest Rutherford",
+          "hi": "अर्नेस्ट रदरफ़ोर्ड"
+        },
+        {
+          "en": "Henri Becquerel",
+          "hi": "हेनरी बेकरल"
+        },
+        {
+          "en": "James Chadwick",
+          "hi": "जेम्स चैडविक"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He noticed uranium salts fogging photographic plates in 1896.",
+        "hi": "1896 में उन्होंने देखा कि यूरेनियम लवण फ़ोटोग्राफ़िक प्लेट को धुँधला कर देते हैं।"
+      },
+      "detailedExplanation": {
+        "en": "He noticed uranium salts fogging photographic plates in 1896.",
+        "hi": "1896 में उन्होंने देखा कि यूरेनियम लवण फ़ोटोग्राफ़िक प्लेट को धुँधला कर देते हैं।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "d5ac2f04f43a2aaa",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 436
+    },
+    {
+      "id": "DRAFT-DQ-0437",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "SCI-HIST-SCIENCE_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "Who is the only person to win Nobel Prizes in two different sciences?",
+        "hi": "दो भिन्न विज्ञानों में नोबेल पुरस्कार जीतने वाले एकमात्र व्यक्ति कौन हैं?"
+      },
+      "options": [
+        {
+          "en": "Linus Pauling",
+          "hi": "लाइनस पॉलिंग"
+        },
+        {
+          "en": "Marie Curie",
+          "hi": "मैरी क्यूरी"
+        },
+        {
+          "en": "Frederick Sanger",
+          "hi": "फ़्रेडरिक सेंगर"
+        },
+        {
+          "en": "John Bardeen",
+          "hi": "जॉन बार्डीन"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Physics in 1903 and Chemistry in 1911.",
+        "hi": "1903 में भौतिकी और 1911 में रसायन विज्ञान।"
+      },
+      "detailedExplanation": {
+        "en": "Physics in 1903 and Chemistry in 1911.",
+        "hi": "1903 में भौतिकी और 1911 में रसायन विज्ञान।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "0bf98d4ad62328e0",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 437
+    },
+    {
+      "id": "DRAFT-DQ-0438",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "SCI-HIST-SCIENCE_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "Who is credited with inventing the telephone?",
+        "hi": "टेलीफ़ोन के आविष्कार का श्रेय किसे जाता है?"
+      },
+      "options": [
+        {
+          "en": "Thomas Edison",
+          "hi": "थॉमस एडिसन"
+        },
+        {
+          "en": "Guglielmo Marconi",
+          "hi": "गुग्लिएल्मो मार्कोनी"
+        },
+        {
+          "en": "Alexander Graham Bell",
+          "hi": "अलेक्ज़ेंडर ग्राहम बेल"
+        },
+        {
+          "en": "Nikola Tesla",
+          "hi": "निकोला टेस्ला"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He was granted the patent in 1876.",
+        "hi": "उन्हें 1876 में इसका पेटेंट मिला।"
+      },
+      "detailedExplanation": {
+        "en": "He was granted the patent in 1876.",
+        "hi": "उन्हें 1876 में इसका पेटेंट मिला।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "4f2b8ea0bf2481ee",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 438
+    },
+    {
+      "id": "DRAFT-DQ-0439",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "SCI-HIST-SCIENCE_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "Who made the electric light bulb commercially practical?",
+        "hi": "बिजली के बल्ब को व्यावसायिक रूप से व्यावहारिक किसने बनाया?"
+      },
+      "options": [
+        {
+          "en": "Nikola Tesla",
+          "hi": "निकोला टेस्ला"
+        },
+        {
+          "en": "Thomas Edison",
+          "hi": "थॉमस एडिसन"
+        },
+        {
+          "en": "Michael Faraday",
+          "hi": "माइकल फैराडे"
+        },
+        {
+          "en": "Alessandro Volta",
+          "hi": "अलेसांद्रो वोल्टा"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Earlier inventors made lamps, but his lasted long enough to sell.",
+        "hi": "पहले भी बल्ब बने थे, पर उनका बल्ब बेचने लायक टिकाऊ था।"
+      },
+      "detailedExplanation": {
+        "en": "Earlier inventors made lamps, but his lasted long enough to sell.",
+        "hi": "पहले भी बल्ब बने थे, पर उनका बल्ब बेचने लायक टिकाऊ था।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "e8b66f27c96f9d90",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 439
+    },
+    {
+      "id": "DRAFT-DQ-0440",
+      "subjectId": "SCI-HIST",
+      "chapterId": "SCI-HIST",
+      "topicId": "SCI-HIST-SCIENCE_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "Who first published a periodic table of the elements?",
+        "hi": "तत्वों की आवर्त सारणी सबसे पहले किसने प्रकाशित की?"
+      },
+      "options": [
+        {
+          "en": "Dmitri Mendeleev",
+          "hi": "दिमित्री मेंडलीव"
+        },
+        {
+          "en": "Antoine Lavoisier",
+          "hi": "एंटोनी लवॉइज़ियर"
+        },
+        {
+          "en": "John Dalton",
+          "hi": "जॉन डॉल्टन"
+        },
+        {
+          "en": "Henry Moseley",
+          "hi": "हेनरी मोज़ले"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "His 1869 table left gaps for elements not yet found.",
+        "hi": "उनकी 1869 की सारणी में अभी न खोजे गए तत्वों के लिए खाली स्थान छोड़े गए।"
+      },
+      "detailedExplanation": {
+        "en": "His 1869 table left gaps for elements not yet found.",
+        "hi": "उनकी 1869 की सारणी में अभी न खोजे गए तत्वों के लिए खाली स्थान छोड़े गए।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "aa991cc2b1b85561",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 440
+    },
+    {
+      "id": "DRAFT-DQ-0441",
+      "subjectId": "WORLD-HIST",
+      "chapterId": "WORLD-HIST",
+      "topicId": "WORLD-HIST-WORLD_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "Who is generally regarded as the first Prime Minister of Britain?",
+        "hi": "ब्रिटेन के पहले प्रधानमंत्री किसे माना जाता है?"
+      },
+      "options": [
+        {
+          "en": "Winston Churchill",
+          "hi": "विंस्टन चर्चिल"
+        },
+        {
+          "en": "Benjamin Disraeli",
+          "hi": "बेंजामिन डिसराएली"
+        },
+        {
+          "en": "William Pitt",
+          "hi": "विलियम पिट"
+        },
+        {
+          "en": "Robert Walpole",
+          "hi": "रॉबर्ट वॉलपोल"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He held office from 1721 to 1742.",
+        "hi": "वे 1721 से 1742 तक पद पर रहे।"
+      },
+      "detailedExplanation": {
+        "en": "He held office from 1721 to 1742.",
+        "hi": "वे 1721 से 1742 तक पद पर रहे।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "7629d10ec92ec75b",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 441
+    },
+    {
+      "id": "DRAFT-DQ-0442",
+      "subjectId": "WORLD-HIST",
+      "chapterId": "WORLD-HIST",
+      "topicId": "WORLD-HIST-WORLD_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "The Renaissance began in which country?",
+        "hi": "पुनर्जागरण की शुरुआत किस देश से हुई?"
+      },
+      "options": [
+        {
+          "en": "France",
+          "hi": "फ़्रांस"
+        },
+        {
+          "en": "Germany",
+          "hi": "जर्मनी"
+        },
+        {
+          "en": "Italy",
+          "hi": "इटली"
+        },
+        {
+          "en": "England",
+          "hi": "इंग्लैंड"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Florence is usually named as its starting point.",
+        "hi": "आमतौर पर फ़्लोरेंस को इसका प्रारंभ बिंदु माना जाता है।"
+      },
+      "detailedExplanation": {
+        "en": "Florence is usually named as its starting point.",
+        "hi": "आमतौर पर फ़्लोरेंस को इसका प्रारंभ बिंदु माना जाता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "67597ab95188499c",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 442
+    },
+    {
+      "id": "DRAFT-DQ-0443",
+      "subjectId": "WORLD-HIST",
+      "chapterId": "WORLD-HIST",
+      "topicId": "WORLD-HIST-WORLD_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "The Industrial Revolution began in which country?",
+        "hi": "औद्योगिक क्रांति किस देश में शुरू हुई?"
+      },
+      "options": [
+        {
+          "en": "Britain",
+          "hi": "ब्रिटेन"
+        },
+        {
+          "en": "France",
+          "hi": "फ़्रांस"
+        },
+        {
+          "en": "The United States",
+          "hi": "संयुक्त राज्य अमेरिका"
+        },
+        {
+          "en": "Belgium",
+          "hi": "बेल्जियम"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It began with textile mills in the late eighteenth century.",
+        "hi": "इसकी शुरुआत अठारहवीं शताब्दी के अंत में कपड़ा मिलों से हुई।"
+      },
+      "detailedExplanation": {
+        "en": "It began with textile mills in the late eighteenth century.",
+        "hi": "इसकी शुरुआत अठारहवीं शताब्दी के अंत में कपड़ा मिलों से हुई।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "4b88b68223bedd3c",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 443
+    },
+    {
+      "id": "DRAFT-DQ-0444",
+      "subjectId": "WORLD-HIST",
+      "chapterId": "WORLD-HIST",
+      "topicId": "WORLD-HIST-WORLD_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "Who was the first Roman Emperor?",
+        "hi": "रोम के पहले सम्राट कौन थे?"
+      },
+      "options": [
+        {
+          "en": "Augustus",
+          "hi": "अगस्टस"
+        },
+        {
+          "en": "Nero",
+          "hi": "नीरो"
+        },
+        {
+          "en": "Constantine",
+          "hi": "कॉन्स्टेंटाइन"
+        },
+        {
+          "en": "Julius Caesar",
+          "hi": "जूलियस सीज़र"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Caesar was dictator of the republic and never held the title.",
+        "hi": "सीज़र गणतंत्र के तानाशाह थे और उन्हें यह उपाधि कभी नहीं मिली।"
+      },
+      "detailedExplanation": {
+        "en": "Caesar was dictator of the republic and never held the title.",
+        "hi": "सीज़र गणतंत्र के तानाशाह थे और उन्हें यह उपाधि कभी नहीं मिली।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "817af9ff0f75ae9e",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 444
+    },
+    {
+      "id": "DRAFT-DQ-0445",
+      "subjectId": "WORLD-HIST",
+      "chapterId": "WORLD-HIST",
+      "topicId": "WORLD-HIST-WORLD_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "Mesopotamia lay between which two rivers?",
+        "hi": "मेसोपोटामिया किन दो नदियों के बीच स्थित था?"
+      },
+      "options": [
+        {
+          "en": "The Danube and the Rhine",
+          "hi": "डैन्यूब और राइन"
+        },
+        {
+          "en": "The Nile and the Jordan",
+          "hi": "नील और जॉर्डन"
+        },
+        {
+          "en": "The Tigris and the Euphrates",
+          "hi": "टाइग्रिस और यूफ़्रेटीस"
+        },
+        {
+          "en": "The Indus and the Ganga",
+          "hi": "सिंधु और गंगा"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "The name itself means the land between the rivers.",
+        "hi": "नाम का अर्थ ही है नदियों के बीच की भूमि।"
+      },
+      "detailedExplanation": {
+        "en": "The name itself means the land between the rivers.",
+        "hi": "नाम का अर्थ ही है नदियों के बीच की भूमि।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "169a744160d6055c",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 445
+    },
+    {
+      "id": "DRAFT-DQ-0446",
+      "subjectId": "WORLD-HIST",
+      "chapterId": "WORLD-HIST",
+      "topicId": "WORLD-HIST-WORLD_HISTORY",
+      "conceptIds": [],
+      "question": {
+        "en": "Who wrote the philosophical dialogue The Republic?",
+        "hi": "दार्शनिक संवाद द रिपब्लिक किसने लिखा?"
+      },
+      "options": [
+        {
+          "en": "Plato",
+          "hi": "प्लेटो"
+        },
+        {
+          "en": "Homer",
+          "hi": "होमर"
+        },
+        {
+          "en": "Socrates",
+          "hi": "सुकरात"
+        },
+        {
+          "en": "Aristotle",
+          "hi": "अरस्तू"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Socrates appears in it as a speaker but wrote nothing himself.",
+        "hi": "सुकरात इसमें वक्ता के रूप में आते हैं पर उन्होंने स्वयं कुछ नहीं लिखा।"
+      },
+      "detailedExplanation": {
+        "en": "Socrates appears in it as a speaker but wrote nothing himself.",
+        "hi": "सुकरात इसमें वक्ता के रूप में आते हैं पर उन्होंने स्वयं कुछ नहीं लिखा।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "8c019f8011aa94fb",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 446
+    },
+    {
+      "id": "DRAFT-DQ-0447",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "IND-SPACE-INDIA_SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Who is regarded as the father of the Indian space programme?",
+        "hi": "भारतीय अंतरिक्ष कार्यक्रम का जनक किसे माना जाता है?"
+      },
+      "options": [
+        {
+          "en": "Satish Dhawan",
+          "hi": "सतीश धवन"
+        },
+        {
+          "en": "A. P. J. Abdul Kalam",
+          "hi": "ए. पी. जे. अब्दुल कलाम"
+        },
+        {
+          "en": "Homi Bhabha",
+          "hi": "होमी भाभा"
+        },
+        {
+          "en": "Vikram Sarabhai",
+          "hi": "विक्रम साराभाई"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "He set up the Physical Research Laboratory in Ahmedabad.",
+        "hi": "उन्होंने अहमदाबाद में भौतिक अनुसंधान प्रयोगशाला स्थापित की।"
+      },
+      "detailedExplanation": {
+        "en": "He set up the Physical Research Laboratory in Ahmedabad.",
+        "hi": "उन्होंने अहमदाबाद में भौतिक अनुसंधान प्रयोगशाला स्थापित की।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "e77aa54fc2e0acaa",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 447
+    },
+    {
+      "id": "DRAFT-DQ-0448",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "IND-SPACE-INDIA_SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Where is India's main satellite launch centre?",
+        "hi": "भारत का मुख्य उपग्रह प्रक्षेपण केंद्र कहाँ है?"
+      },
+      "options": [
+        {
+          "en": "Sriharikota",
+          "hi": "श्रीहरिकोटा"
+        },
+        {
+          "en": "Hassan",
+          "hi": "हासन"
+        },
+        {
+          "en": "Thumba",
+          "hi": "थुम्बा"
+        },
+        {
+          "en": "Bengaluru",
+          "hi": "बेंगलुरु"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It sits on a barrier island off the Andhra Pradesh coast.",
+        "hi": "यह आंध्र प्रदेश के तट से लगे एक अवरोधक द्वीप पर स्थित है।"
+      },
+      "detailedExplanation": {
+        "en": "It sits on a barrier island off the Andhra Pradesh coast.",
+        "hi": "यह आंध्र प्रदेश के तट से लगे एक अवरोधक द्वीप पर स्थित है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "859c3d3a2f754bed",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 448
+    },
+    {
+      "id": "DRAFT-DQ-0449",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "IND-SPACE-INDIA_SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which launch vehicle does ISRO use for its heaviest payloads?",
+        "hi": "सबसे भारी पेलोड के लिए इसरो कौन सा प्रक्षेपण यान प्रयोग करता है?"
+      },
+      "options": [
+        {
+          "en": "The SLV-3",
+          "hi": "एसएलवी-3"
+        },
+        {
+          "en": "The ASLV",
+          "hi": "एएसएलवी"
+        },
+        {
+          "en": "The GSLV",
+          "hi": "जीएसएलवी"
+        },
+        {
+          "en": "The PSLV",
+          "hi": "पीएसएलवी"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Its cryogenic upper stage carries the extra lift.",
+        "hi": "इसका क्रायोजेनिक ऊपरी चरण अतिरिक्त उठान देता है।"
+      },
+      "detailedExplanation": {
+        "en": "Its cryogenic upper stage carries the extra lift.",
+        "hi": "इसका क्रायोजेनिक ऊपरी चरण अतिरिक्त उठान देता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "f4f6bc685b76e327",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 449
+    },
+    {
+      "id": "DRAFT-DQ-0450",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "IND-SPACE-INDIA_SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which Indian mission reached Mars orbit in 2014?",
+        "hi": "2014 में कौन सा भारतीय मिशन मंगल की कक्षा में पहुँचा?"
+      },
+      "options": [
+        {
+          "en": "Aditya-L1",
+          "hi": "आदित्य-L1"
+        },
+        {
+          "en": "Chandrayaan-1",
+          "hi": "चंद्रयान-1"
+        },
+        {
+          "en": "Mangalyaan",
+          "hi": "मंगलयान"
+        },
+        {
+          "en": "Gaganyaan",
+          "hi": "गगनयान"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It made India the first country to succeed on its first attempt.",
+        "hi": "इससे भारत पहली ही कोशिश में सफल होने वाला देश बना।"
+      },
+      "detailedExplanation": {
+        "en": "It made India the first country to succeed on its first attempt.",
+        "hi": "इससे भारत पहली ही कोशिश में सफल होने वाला देश बना।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "6565aeb115768b8d",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 450
+    },
+    {
+      "id": "DRAFT-DQ-0451",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "IND-SPACE-INDIA_SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which ISRO mission was built to study the Sun?",
+        "hi": "सूर्य का अध्ययन करने के लिए कौन सा इसरो मिशन बनाया गया?"
+      },
+      "options": [
+        {
+          "en": "AstroSat",
+          "hi": "एस्ट्रोसैट"
+        },
+        {
+          "en": "Aditya-L1",
+          "hi": "आदित्य-L1"
+        },
+        {
+          "en": "Chandrayaan-2",
+          "hi": "चंद्रयान-2"
+        },
+        {
+          "en": "Mangalyaan",
+          "hi": "मंगलयान"
+        }
+      ],
+      "correctIndex": 1,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It observes from a halo orbit around the first Lagrange point.",
+        "hi": "यह पहले लग्रांज बिंदु के चारों ओर हैलो कक्षा से अवलोकन करता है।"
+      },
+      "detailedExplanation": {
+        "en": "It observes from a halo orbit around the first Lagrange point.",
+        "hi": "यह पहले लग्रांज बिंदु के चारों ओर हैलो कक्षा से अवलोकन करता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "6cbfd6d8886962dd",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 451
+    },
+    {
+      "id": "DRAFT-DQ-0452",
+      "subjectId": "IND-SPACE",
+      "chapterId": "IND-SPACE",
+      "topicId": "IND-SPACE-INDIA_SPACE",
+      "conceptIds": [],
+      "question": {
+        "en": "Which mission achieved India's first soft landing on the Moon?",
+        "hi": "चंद्रमा पर भारत की पहली सॉफ़्ट लैंडिंग किस मिशन ने की?"
+      },
+      "options": [
+        {
+          "en": "Mangalyaan",
+          "hi": "मंगलयान"
+        },
+        {
+          "en": "Chandrayaan-1",
+          "hi": "चंद्रयान-1"
+        },
+        {
+          "en": "Chandrayaan-2",
+          "hi": "चंद्रयान-2"
+        },
+        {
+          "en": "Chandrayaan-3",
+          "hi": "चंद्रयान-3"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It landed near the lunar south pole in August 2023.",
+        "hi": "यह अगस्त 2023 में चंद्रमा के दक्षिणी ध्रुव के पास उतरा।"
+      },
+      "detailedExplanation": {
+        "en": "It landed near the lunar south pole in August 2023.",
+        "hi": "यह अगस्त 2023 में चंद्रमा के दक्षिणी ध्रुव के पास उतरा।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "3c02c8101e8dd0fe",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 452
+    },
+    {
+      "id": "DRAFT-DQ-0453",
+      "subjectId": "AWARDS",
+      "chapterId": "AWARDS",
+      "topicId": "AWARDS-AWARDS",
+      "conceptIds": [],
+      "question": {
+        "en": "Which award is often described as the Nobel Prize of mathematics?",
+        "hi": "किस पुरस्कार को प्रायः गणित का नोबेल पुरस्कार कहा जाता है?"
+      },
+      "options": [
+        {
+          "en": "The Fields Medal",
+          "hi": "फ़ील्ड्स पदक"
+        },
+        {
+          "en": "The Wolf Prize",
+          "hi": "वुल्फ़ पुरस्कार"
+        },
+        {
+          "en": "The Turing Award",
+          "hi": "ट्यूरिंग पुरस्कार"
+        },
+        {
+          "en": "The Crafoord Prize",
+          "hi": "क्रेफ़ूर्द पुरस्कार"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It is awarded every four years to mathematicians under forty.",
+        "hi": "यह हर चार वर्ष में चालीस वर्ष से कम आयु के गणितज्ञों को दिया जाता है।"
+      },
+      "detailedExplanation": {
+        "en": "It is awarded every four years to mathematicians under forty.",
+        "hi": "यह हर चार वर्ष में चालीस वर्ष से कम आयु के गणितज्ञों को दिया जाता है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "53d2594128b5e31c",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 453
+    },
+    {
+      "id": "DRAFT-DQ-0454",
+      "subjectId": "AWARDS",
+      "chapterId": "AWARDS",
+      "topicId": "AWARDS-AWARDS",
+      "conceptIds": [],
+      "question": {
+        "en": "Which award recognises excellence in American journalism?",
+        "hi": "अमेरिकी पत्रकारिता में उत्कृष्टता के लिए कौन सा पुरस्कार दिया जाता है?"
+      },
+      "options": [
+        {
+          "en": "The Polk Award",
+          "hi": "पोल्क पुरस्कार"
+        },
+        {
+          "en": "The Peabody",
+          "hi": "पीबॉडी"
+        },
+        {
+          "en": "The Emmy",
+          "hi": "एमी"
+        },
+        {
+          "en": "The Pulitzer Prize",
+          "hi": "पुलित्ज़र पुरस्कार"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It has been awarded since 1917.",
+        "hi": "यह 1917 से दिया जा रहा है।"
+      },
+      "detailedExplanation": {
+        "en": "It has been awarded since 1917.",
+        "hi": "यह 1917 से दिया जा रहा है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "13f5b490f9ab1e97",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 454
+    },
+    {
+      "id": "DRAFT-DQ-0455",
+      "subjectId": "AWARDS",
+      "chapterId": "AWARDS",
+      "topicId": "AWARDS-AWARDS",
+      "conceptIds": [],
+      "question": {
+        "en": "The Grammy Award is given for achievement in which field?",
+        "hi": "ग्रैमी पुरस्कार किस क्षेत्र में उपलब्धि के लिए दिया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Music",
+          "hi": "संगीत"
+        },
+        {
+          "en": "Dance",
+          "hi": "नृत्य"
+        },
+        {
+          "en": "Painting",
+          "hi": "चित्रकला"
+        },
+        {
+          "en": "Theatre",
+          "hi": "रंगमंच"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "EASY",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "The statuette is a small gold-plated gramophone.",
+        "hi": "यह प्रतिमा छोटे सोने से मढ़े ग्रामोफ़ोन की होती है।"
+      },
+      "detailedExplanation": {
+        "en": "The statuette is a small gold-plated gramophone.",
+        "hi": "यह प्रतिमा छोटे सोने से मढ़े ग्रामोफ़ोन की होती है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "f4d6da75d78921f0",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 455
+    },
+    {
+      "id": "DRAFT-DQ-0456",
+      "subjectId": "AWARDS",
+      "chapterId": "AWARDS",
+      "topicId": "AWARDS-AWARDS",
+      "conceptIds": [],
+      "question": {
+        "en": "The Jnanpith Award in India is given for what?",
+        "hi": "भारत में ज्ञानपीठ पुरस्कार किसके लिए दिया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Scientific research",
+          "hi": "वैज्ञानिक अनुसंधान के लिए"
+        },
+        {
+          "en": "Excellence in classical dance",
+          "hi": "शास्त्रीय नृत्य में उत्कृष्टता के लिए"
+        },
+        {
+          "en": "Outstanding contribution to Indian literature",
+          "hi": "भारतीय साहित्य में उत्कृष्ट योगदान के लिए"
+        },
+        {
+          "en": "Lifetime service in medicine",
+          "hi": "चिकित्सा में आजीवन सेवा के लिए"
+        }
+      ],
+      "correctIndex": 2,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It is open to writers in any of the Eighth Schedule languages.",
+        "hi": "यह अष्टम अनुसूची की किसी भी भाषा के लेखकों के लिए खुला है।"
+      },
+      "detailedExplanation": {
+        "en": "It is open to writers in any of the Eighth Schedule languages.",
+        "hi": "यह अष्टम अनुसूची की किसी भी भाषा के लेखकों के लिए खुला है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "817907615945d4f5",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 456
+    },
+    {
+      "id": "DRAFT-DQ-0457",
+      "subjectId": "AWARDS",
+      "chapterId": "AWARDS",
+      "topicId": "AWARDS-AWARDS",
+      "conceptIds": [],
+      "question": {
+        "en": "Which award is often called the Nobel Prize of Asia?",
+        "hi": "किस पुरस्कार को प्रायः एशिया का नोबेल पुरस्कार कहा जाता है?"
+      },
+      "options": [
+        {
+          "en": "The Seoul Peace Prize",
+          "hi": "सियोल शांति पुरस्कार"
+        },
+        {
+          "en": "The Indira Gandhi Prize",
+          "hi": "इंदिरा गांधी पुरस्कार"
+        },
+        {
+          "en": "The Tang Prize",
+          "hi": "तांग पुरस्कार"
+        },
+        {
+          "en": "The Ramon Magsaysay Award",
+          "hi": "रेमन मैगसेसे पुरस्कार"
+        }
+      ],
+      "correctIndex": 3,
+      "difficulty": "MEDIUM",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "It was established in 1957 and is based in Manila.",
+        "hi": "इसकी स्थापना 1957 में हुई और इसका केंद्र मनीला है।"
+      },
+      "detailedExplanation": {
+        "en": "It was established in 1957 and is based in Manila.",
+        "hi": "इसकी स्थापना 1957 में हुई और इसका केंद्र मनीला है।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "f9e132d023e56c2e",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 457
+    },
+    {
+      "id": "DRAFT-DQ-0458",
+      "subjectId": "AWARDS",
+      "chapterId": "AWARDS",
+      "topicId": "AWARDS-AWARDS",
+      "conceptIds": [],
+      "question": {
+        "en": "The Golden Bear is the top prize at which film festival?",
+        "hi": "गोल्डन बियर किस फ़िल्म महोत्सव का सर्वोच्च पुरस्कार है?"
+      },
+      "options": [
+        {
+          "en": "The Berlin International Film Festival",
+          "hi": "बर्लिन अंतर्राष्ट्रीय फ़िल्म महोत्सव"
+        },
+        {
+          "en": "The Toronto Film Festival",
+          "hi": "टोरंटो फ़िल्म महोत्सव"
+        },
+        {
+          "en": "The Venice Film Festival",
+          "hi": "वेनिस फ़िल्म महोत्सव"
+        },
+        {
+          "en": "The Cannes Film Festival",
+          "hi": "कान फ़िल्म महोत्सव"
+        }
+      ],
+      "correctIndex": 0,
+      "difficulty": "HARD",
+      "angle": "SINGLE_FACT_RECALL",
+      "explanation": {
+        "en": "Cannes awards the Palme d'Or and Venice the Golden Lion.",
+        "hi": "कान पाल्म द ओर और वेनिस गोल्डन लायन देते हैं।"
+      },
+      "detailedExplanation": {
+        "en": "Cannes awards the Palme d'Or and Venice the Golden Lion.",
+        "hi": "कान पाल्म द ओर और वेनिस गोल्डन लायन देते हैं।"
+      },
+      "wrongReasons": [],
+      "memoryCue": {
+        "en": "",
+        "hi": ""
+      },
+      "factCardIds": [],
+      "sourceIds": [
+        "PENDING-EVIDENCE"
+      ],
+      "fingerprint": "93213bced0223ecf",
+      "lifecycle": "DRAFT_PENDING_REVIEW",
+      "qualityScore": 0,
+      "dynamic": false,
+      "validUntil": null,
+      "kind": "AUTHORED_DRAFT",
+      "order": 458
     }
   ]
 }
