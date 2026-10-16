@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-11",
+ "generatedAt": "2026-10-16",
  "origin": "AUTHORED_IN_SESSION",
  "warning": "Authored during a chat session. NOT the project's own subject/topic list, which is absent from this checkout. Reconcile against coverage/subjects/*.json before treating these ids as canonical. Deliberately does not reuse the project's opaque Snn-C..-T.. ids.",
  "projectHierarchyFromGlobalGapQueue": {
@@ -81,6 +81,31 @@
     "Science history"
    ],
    "gapTo50": 0
+  },
+  {
+   "id": "IND-HIST",
+   "title": "Indian & general history",
+   "topics": [
+    "TOP-IND-HIST"
+   ],
+   "questionCount": 43,
+   "subtopics": [
+    "History",
+    "Indian history"
+   ],
+   "gapTo50": 7
+  },
+  {
+   "id": "ENV",
+   "title": "Environment",
+   "topics": [
+    "TOP-ENV"
+   ],
+   "questionCount": 41,
+   "subtopics": [
+    "Environment"
+   ],
+   "gapTo50": 9
   },
   {
    "id": "SCI-BIO",
@@ -229,40 +254,15 @@
     "Space"
    ],
    "gapTo50": 25
-  },
-  {
-   "id": "IND-HIST",
-   "title": "Indian & general history",
-   "topics": [
-    "TOP-IND-HIST"
-   ],
-   "questionCount": 23,
-   "subtopics": [
-    "History",
-    "Indian history"
-   ],
-   "gapTo50": 27
-  },
-  {
-   "id": "ENV",
-   "title": "Environment",
-   "topics": [
-    "TOP-ENV"
-   ],
-   "questionCount": 21,
-   "subtopics": [
-    "Environment"
-   ],
-   "gapTo50": 29
   }
  ],
  "totals": {
-  "questions": 680,
+  "questions": 720,
   "subjects": 18,
   "topics": 18,
   "targetPerTopic": 50,
   "targetTotal": 900,
-  "stillNeeded": 258
+  "stillNeeded": 218
  },
  "topicGranularity": "CONSOLIDATED_TO_SUBJECT_LEVEL — 48 authoring categories were merged into one topic per subject so that a 50-question-per-topic target is reachable. The fine grouping is preserved verbatim in each question's `category` field and in git history."
 }

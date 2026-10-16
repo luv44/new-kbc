@@ -1,0 +1,1522 @@
+[
+  {
+    "id": "DQ-0681",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What is the practice of planting trees on land that previously carried no forest?",
+      "hi": "पहले जंगल न रहे भूमि पर वृक्ष लगाने की प्रथा क्या कहलाती है?"
+    },
+    "options": [
+      {
+        "en": "Deforestation",
+        "hi": "वनों की कटाई"
+      },
+      {
+        "en": "Fallowing",
+        "hi": "परती रखना"
+      },
+      {
+        "en": "Afforestation",
+        "hi": "वानीकरण"
+      },
+      {
+        "en": "Logging",
+        "hi": "लकड़ी की कटाई"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Reforestation, by contrast, replants land that was already forested.",
+      "hi": "इसके विपरीत, पुनर्वनीकरण पहले से वन भूमि पर पेड़ लगाता है।"
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "TOP-ENV"
+  },
+  {
+    "id": "DQ-0682",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which international agreement regulates trade in endangered species?",
+      "hi": "लुप्तप्राय प्रजातियों में व्यापार को कौन सा अंतर्राष्ट्रीय समझौता नियंत्रित करता है?"
+    },
+    "options": [
+      {
+        "en": "The Basel Convention",
+        "hi": "बेसल संधि"
+      },
+      {
+        "en": "The Kyoto Protocol",
+        "hi": "क्योटो प्रोटोकॉल"
+      },
+      {
+        "en": "The Rotterdam Convention",
+        "hi": "रॉटरडैम संधि"
+      },
+      {
+        "en": "CITES",
+        "hi": "साइट्स"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Its full name cites international trade in endangered species.",
+      "hi": "इसके पूर्ण नाम में लुप्तप्राय प्रजातियों का अंतर्राष्ट्रीय व्यापार आता है।"
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "TOP-ENV"
+  },
+  {
+    "id": "DQ-0683",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which substance washed off farmland most often triggers algal blooms in water bodies?",
+      "hi": "खेतों से बहकर आने वाला कौन सा पदार्थ जल निकायों में शैवाल वृद्धि सबसे अधिक बढ़ाता है?"
+    },
+    "options": [
+      {
+        "en": "Sulphates",
+        "hi": "सल्फेट"
+      },
+      {
+        "en": "Nitrates",
+        "hi": "नाइट्रेट"
+      },
+      {
+        "en": "Chlorides",
+        "hi": "क्लोराइड"
+      },
+      {
+        "en": "Silicates",
+        "hi": "सिलिकेट"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "They come largely from nitrogen fertiliser.",
+      "hi": "ये मुख्यतः नाइट्रोजन उर्वरक से आते हैं।"
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "TOP-ENV"
+  },
+  {
+    "id": "DQ-0684",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which renewable energy source converts sunlight using panels?",
+      "hi": "पैनलों से सूर्य प्रकाश को ऊर्जा में बदलने वाला नवीकरणीय स्रोत कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "Solar power",
+        "hi": "सौर ऊर्जा"
+      },
+      {
+        "en": "Biomass",
+        "hi": "जैवभार"
+      },
+      {
+        "en": "Tidal power",
+        "hi": "ज्वारीय ऊर्जा"
+      },
+      {
+        "en": "Wind power",
+        "hi": "पवन ऊर्जा"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The panels are made of photovoltaic cells.",
+      "hi": "ये पैनल फ़ोटोवोल्टाइक सेल से बनते हैं।"
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "TOP-ENV"
+  },
+  {
+    "id": "DQ-0685",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "What is the gradual rise in Earth's average surface temperature called?",
+      "hi": "पृथ्वी के औसत सतही तापमान में धीमी वृद्धि को क्या कहते हैं?"
+    },
+    "options": [
+      {
+        "en": "Ozone depletion",
+        "hi": "ओज़ोन ह्रास"
+      },
+      {
+        "en": "El Nino",
+        "hi": "एल नीनो"
+      },
+      {
+        "en": "Global warming",
+        "hi": "ग्लोबल वार्मिंग"
+      },
+      {
+        "en": "Thermal inversion",
+        "hi": "तापीय उत्क्रमण"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It is driven mainly by heat-trapping gases in the atmosphere.",
+      "hi": "यह मुख्यतः वायुमंडल की ऊष्मा-रोधी गैसों से होती है।"
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "TOP-ENV"
+  },
+  {
+    "id": "DQ-0686",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What do we call rainfall made acidic by industrial emissions?",
+      "hi": "औद्योगिक उत्सर्जन से अम्लीय हुई वर्षा को क्या कहते हैं?"
+    },
+    "options": [
+      {
+        "en": "Acid rain",
+        "hi": "अम्ल वर्षा"
+      },
+      {
+        "en": "Sleet",
+        "hi": "गीला हिम"
+      },
+      {
+        "en": "Hail",
+        "hi": "ओले"
+      },
+      {
+        "en": "Smog",
+        "hi": "धुंध-कुहासा"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Sulphur and nitrogen oxides dissolve into the droplets.",
+      "hi": "सल्फ़र और नाइट्रोजन ऑक्साइड बूंदों में घुल जाते हैं।"
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "TOP-ENV"
+  },
+  {
+    "id": "DQ-0687",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which biome is defined by permanently frozen subsoil?",
+      "hi": "स्थायी रूप से जमे अधोमृदा वाला जीवोम कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "Taiga",
+        "hi": "तैगा"
+      },
+      {
+        "en": "Steppe",
+        "hi": "स्तेप"
+      },
+      {
+        "en": "Tundra",
+        "hi": "टुंड्रा"
+      },
+      {
+        "en": "Savanna",
+        "hi": "सवाना"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "That frozen layer is called permafrost.",
+      "hi": "इस जमी परत को परमाफ़्रॉस्ट कहते हैं।"
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "TOP-ENV"
+  },
+  {
+    "id": "DQ-0688",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "What is a species called when it is likely to disappear entirely?",
+      "hi": "जिस प्रजाति के पूरी तरह समाप्त होने की आशंका हो उसे क्या कहते हैं?"
+    },
+    "options": [
+      {
+        "en": "Domesticated",
+        "hi": "पालतू"
+      },
+      {
+        "en": "Endangered",
+        "hi": "संकटग्रस्त"
+      },
+      {
+        "en": "Endemic",
+        "hi": "स्थानिक"
+      },
+      {
+        "en": "Invasive",
+        "hi": "आक्रामक"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "An extinct species has already gone.",
+      "hi": "विलुप्त प्रजाति पहले ही जा चुकी होती है।"
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "TOP-ENV"
+  },
+  {
+    "id": "DQ-0689",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which ministry of the Government of India handles environmental policy?",
+      "hi": "भारत सरकार का कौन सा मंत्रालय पर्यावरण नीति संभालता है?"
+    },
+    "options": [
+      {
+        "en": "The Ministry of Environment, Forest and Climate Change",
+        "hi": "पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय"
+      },
+      {
+        "en": "The Ministry of New and Renewable Energy",
+        "hi": "नवीन और नवीकरणीय ऊर्जा मंत्रालय"
+      },
+      {
+        "en": "The Ministry of Earth Sciences",
+        "hi": "पृथ्वी विज्ञान मंत्रालय"
+      },
+      {
+        "en": "The Ministry of Jal Shakti",
+        "hi": "जल शक्ति मंत्रालय"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It is usually shortened to MoEFCC.",
+      "hi": "इसे प्रायः एमओईएफसीसी कहा जाता है।"
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "TOP-ENV"
+  },
+  {
+    "id": "DQ-0690",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What does an Air Quality Index reading express?",
+      "hi": "वायु गुणवत्ता सूचकांक का मान क्या दर्शाता है?"
+    },
+    "options": [
+      {
+        "en": "The strength of the wind",
+        "hi": "हवा की तीव्रता"
+      },
+      {
+        "en": "The concentration of pollutants in the air",
+        "hi": "वायु में प्रदूषकों की सांद्रता"
+      },
+      {
+        "en": "The amount of rainfall",
+        "hi": "वर्षा की मात्रा"
+      },
+      {
+        "en": "The humidity at ground level",
+        "hi": "ज़मीनी स्तर की आर्द्रता"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "A higher number means dirtier air.",
+      "hi": "संख्या जितनी अधिक, वायु उतनी प्रदूषित।"
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "TOP-ENV"
+  },
+  {
+    "id": "DQ-0691",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Particles described as PM2.5 are no larger than what diameter?",
+      "hi": "PM2.5 कहे जाने वाले कण अधिकतम कितने व्यास के होते हैं?"
+    },
+    "options": [
+      {
+        "en": "2.5 micrometres",
+        "hi": "2.5 माइक्रोमीटर"
+      },
+      {
+        "en": "2.5 nanometres",
+        "hi": "2.5 नैनोमीटर"
+      },
+      {
+        "en": "2.5 centimetres",
+        "hi": "2.5 सेंटीमीटर"
+      },
+      {
+        "en": "2.5 millimetres",
+        "hi": "2.5 मिलीमीटर"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "They are small enough to pass deep into the lungs.",
+      "hi": "ये इतने सूक्ष्म हैं कि फेफड़ों में गहराई तक पहुँच जाते हैं।"
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "TOP-ENV"
+  },
+  {
+    "id": "DQ-0692",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "What is the term for turning used material back into new products?",
+      "hi": "प्रयुक्त सामग्री को फिर नए उत्पादों में बदलने को क्या कहते हैं?"
+    },
+    "options": [
+      {
+        "en": "Landfilling",
+        "hi": "भू-भराव"
+      },
+      {
+        "en": "Composting",
+        "hi": "खाद बनाना"
+      },
+      {
+        "en": "Recycling",
+        "hi": "पुनर्चक्रण"
+      },
+      {
+        "en": "Incineration",
+        "hi": "दहन"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Composting handles organic waste specifically.",
+      "hi": "कम्पोस्टिंग विशेष रूप से जैविक कचरे के लिए है।"
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "TOP-ENV"
+  },
+  {
+    "id": "DQ-0693",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which treaty on biological diversity was opened for signature at Rio in 1992?",
+      "hi": "1992 में रियो में हस्ताक्षर के लिए खुली जैव विविधता संबंधी संधि कौन सी है?"
+    },
+    "options": [
+      {
+        "en": "The Aarhus Convention",
+        "hi": "ऑरहस संधि"
+      },
+      {
+        "en": "The Convention on Biological Diversity",
+        "hi": "जैव विविधता संधि"
+      },
+      {
+        "en": "The Vienna Convention",
+        "hi": "वियना संधि"
+      },
+      {
+        "en": "The Ramsar Convention",
+        "hi": "रामसर संधि"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "It is often shortened to the CBD.",
+      "hi": "इसे प्रायः सीबीडी कहा जाता है।"
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "TOP-ENV"
+  },
+  {
+    "id": "DQ-0694",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which is India's umbrella statute on environmental protection?",
+      "hi": "पर्यावरण संरक्षण पर भारत का छत्र विधान कौन सा है?"
+    },
+    "options": [
+      {
+        "en": "The Air Act, 1981",
+        "hi": "वायु अधिनियम, 1981"
+      },
+      {
+        "en": "The Water Act, 1974",
+        "hi": "जल अधिनियम, 1974"
+      },
+      {
+        "en": "The Forest Act, 1927",
+        "hi": "वन अधिनियम, 1927"
+      },
+      {
+        "en": "The Environment (Protection) Act, 1986",
+        "hi": "पर्यावरण (संरक्षण) अधिनियम, 1986"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It was passed after the Bhopal gas tragedy.",
+      "hi": "यह भोपाल गैस त्रासदी के बाद बना।"
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "TOP-ENV"
+  },
+  {
+    "id": "DQ-0695",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What is the process called when dry land turns progressively more desert-like?",
+      "hi": "शुष्क भूमि का क्रमशः मरुस्थल जैसा बनना किस प्रक्रिया को कहते हैं?"
+    },
+    "options": [
+      {
+        "en": "Laterisation",
+        "hi": "लैटेराइज़ेशन"
+      },
+      {
+        "en": "Siltation",
+        "hi": "गाद जमाव"
+      },
+      {
+        "en": "Salinisation",
+        "hi": "लवणीयकरण"
+      },
+      {
+        "en": "Desertification",
+        "hi": "मरुस्थलीकरण"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "Overgrazing and loss of vegetation drive it.",
+      "hi": "अतिचराई और वनस्पति का ह्रास इसे बढ़ाते हैं।"
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "TOP-ENV"
+  },
+  {
+    "id": "DQ-0696",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "The Dobson unit measures the total amount of which gas in a column of air?",
+      "hi": "डॉब्सन इकाई वायु स्तंभ में किस गैस की कुल मात्रा मापती है?"
+    },
+    "options": [
+      {
+        "en": "Helium",
+        "hi": "हीलियम"
+      },
+      {
+        "en": "Argon",
+        "hi": "आर्गन"
+      },
+      {
+        "en": "Methane",
+        "hi": "मीथेन"
+      },
+      {
+        "en": "Ozone",
+        "hi": "ओज़ोन"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "It is used to track the ozone layer's thickness.",
+      "hi": "इससे ओज़ोन परत की मोटाई देखी जाती है।"
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "TOP-ENV"
+  },
+  {
+    "id": "DQ-0697",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which human activity is the largest source of methane emissions?",
+      "hi": "मानवीय मीथेन उत्सर्जन का सबसे बड़ा स्रोत कौन सी गतिविधि है?"
+    },
+    "options": [
+      {
+        "en": "Paper milling",
+        "hi": "कागज़ मिलिंग"
+      },
+      {
+        "en": "Glass making",
+        "hi": "काँच निर्माण"
+      },
+      {
+        "en": "Livestock farming",
+        "hi": "पशुपालन"
+      },
+      {
+        "en": "Textile dyeing",
+        "hi": "वस्त्र रंगाई"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Cattle release the gas during digestion.",
+      "hi": "मवेशी पाचन के दौरान यह गैस छोड़ते हैं।"
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "TOP-ENV"
+  },
+  {
+    "id": "DQ-0698",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What is a protected area where hunting is prohibited called?",
+      "hi": "वह संरक्षित क्षेत्र जहाँ शिकार वर्जित है, क्या कहलाता है?"
+    },
+    "options": [
+      {
+        "en": "A biosphere reserve",
+        "hi": "जीवमंडल निचय"
+      },
+      {
+        "en": "A botanical garden",
+        "hi": "वनस्पति उद्यान"
+      },
+      {
+        "en": "A zoological park",
+        "hi": "चिड़ियाघर"
+      },
+      {
+        "en": "A wildlife sanctuary",
+        "hi": "वन्यजीव अभयारण्य"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "A national park carries stricter rules still.",
+      "hi": "राष्ट्रीय उद्यान में नियम और भी कड़े होते हैं।"
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "TOP-ENV"
+  },
+  {
+    "id": "DQ-0699",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which body publishes the main scientific reports on climate change?",
+      "hi": "जलवायु परिवर्तन पर प्रमुख वैज्ञानिक रिपोर्ट कौन सा निकाय प्रकाशित करता है?"
+    },
+    "options": [
+      {
+        "en": "The FAO",
+        "hi": "एफएओ"
+      },
+      {
+        "en": "The IPCC",
+        "hi": "आईपीसीसी"
+      },
+      {
+        "en": "The ILO",
+        "hi": "आईएलओ"
+      },
+      {
+        "en": "The WTO",
+        "hi": "डब्ल्यूटीओ"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Its full name refers to intergovernmental work on climate.",
+      "hi": "इसके पूर्ण नाम में जलवायु पर अंतरसरकारी कार्य आता है।"
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "TOP-ENV"
+  },
+  {
+    "id": "DQ-0700",
+    "category": "Environment",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "What does a net zero emissions target mean?",
+      "hi": "नेट शून्य उत्सर्जन लक्ष्य का क्या अर्थ है?"
+    },
+    "options": [
+      {
+        "en": "Releasing no emissions of any kind",
+        "hi": "किसी भी प्रकार का उत्सर्जन न करना"
+      },
+      {
+        "en": "Offsetting emissions in another country",
+        "hi": "उत्सर्जन को किसी अन्य देश में भरपाई करना"
+      },
+      {
+        "en": "Balancing the emissions released with the emissions removed",
+        "hi": "छोड़े गए उत्सर्जन को हटाए गए उत्सर्जन से संतुलित करना"
+      },
+      {
+        "en": "Halving emissions every decade",
+        "hi": "हर दशक में उत्सर्जन आधा करना"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Some output may remain if an equal amount is taken back out.",
+      "hi": "समान मात्रा वापस निकाली जाए तो कुछ उत्सर्जन रह भी सकता है।"
+    },
+    "subjectId": "ENV",
+    "chapterId": "ENV",
+    "topicId": "TOP-ENV"
+  },
+  {
+    "id": "DQ-0701",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Who was the last Mughal emperor of India?",
+      "hi": "भारत के अंतिम मुग़ल सम्राट कौन थे?"
+    },
+    "options": [
+      {
+        "en": "Bahadur Shah Zafar",
+        "hi": "बहादुर शाह ज़फ़र"
+      },
+      {
+        "en": "Akbar II",
+        "hi": "अकबर द्वितीय"
+      },
+      {
+        "en": "Shah Alam II",
+        "hi": "शाह आलम द्वितीय"
+      },
+      {
+        "en": "Aurangzeb",
+        "hi": "औरंगज़ेब"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "He was exiled to Rangoon after 1857.",
+      "hi": "1857 के बाद उन्हें रंगून भेज दिया गया।"
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "TOP-IND-HIST"
+  },
+  {
+    "id": "DQ-0702",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which 1757 battle gave the British East India Company control over Bengal?",
+      "hi": "1757 के किस युद्ध ने ब्रिटिश ईस्ट इंडिया कंपनी को बंगाल का नियंत्रण दिया?"
+    },
+    "options": [
+      {
+        "en": "The Battle of Talikota",
+        "hi": "तलिकोटा का युद्ध"
+      },
+      {
+        "en": "The Battle of Plassey",
+        "hi": "प्लासी का युद्ध"
+      },
+      {
+        "en": "The Battle of Panipat",
+        "hi": "पानीपत का युद्ध"
+      },
+      {
+        "en": "The Battle of Buxar",
+        "hi": "बक्सर का युद्ध"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Buxar followed it seven years later.",
+      "hi": "इसके सात वर्ष बाद बक्सर हुआ।"
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "TOP-IND-HIST"
+  },
+  {
+    "id": "DQ-0703",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Who was Governor-General of India when the 1857 revolt broke out?",
+      "hi": "1857 का विद्रोह शुरू होने के समय भारत के गवर्नर-जनरल कौन थे?"
+    },
+    "options": [
+      {
+        "en": "Lord Hardinge",
+        "hi": "लॉर्ड हार्डिंग"
+      },
+      {
+        "en": "Lord Dalhousie",
+        "hi": "लॉर्ड डलहौज़ी"
+      },
+      {
+        "en": "Lord Curzon",
+        "hi": "लॉर्ड कर्ज़न"
+      },
+      {
+        "en": "Lord Canning",
+        "hi": "लॉर्ड कैनिंग"
+      }
+    ],
+    "correctIndex": 3,
+    "explanation": {
+      "en": "He became the first Viceroy in 1858.",
+      "hi": "1858 में वे पहले वायसराय बने।"
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "TOP-IND-HIST"
+  },
+  {
+    "id": "DQ-0704",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "In which city did the Jallianwala Bagh massacre take place?",
+      "hi": "जलियाँवाला बाग़ हत्याकांड किस शहर में हुआ?"
+    },
+    "options": [
+      {
+        "en": "Amritsar",
+        "hi": "अमृतसर"
+      },
+      {
+        "en": "Ludhiana",
+        "hi": "लुधियाना"
+      },
+      {
+        "en": "Lahore",
+        "hi": "लाहौर"
+      },
+      {
+        "en": "Jalandhar",
+        "hi": "जालंधर"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "It happened in April 1919.",
+      "hi": "यह अप्रैल 1919 में हुआ।"
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "TOP-IND-HIST"
+  },
+  {
+    "id": "DQ-0705",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Roughly how far did the Salt March travel from Sabarmati to Dandi?",
+      "hi": "साबरमती से दांडी तक नमक सत्याग्रह में लगभग कितनी दूरी तय हुई?"
+    },
+    "options": [
+      {
+        "en": "700 kilometres",
+        "hi": "700 किलोमीटर"
+      },
+      {
+        "en": "120 kilometres",
+        "hi": "120 किलोमीटर"
+      },
+      {
+        "en": "385 kilometres",
+        "hi": "385 किलोमीटर"
+      },
+      {
+        "en": "60 kilometres",
+        "hi": "60 किलोमीटर"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "The marchers took twenty-four days to cover it.",
+      "hi": "यात्रियों ने यह दूरी चौबीस दिन में तय की।"
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "TOP-IND-HIST"
+  },
+  {
+    "id": "DQ-0706",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "EASY",
+    "q": {
+      "en": "Which movement launched in 1942 demanded an end to British rule?",
+      "hi": "1942 में शुरू हुआ कौन सा आंदोलन ब्रिटिश शासन समाप्त करने की मांग करता था?"
+    },
+    "options": [
+      {
+        "en": "The Quit India Movement",
+        "hi": "भारत छोड़ो आंदोलन"
+      },
+      {
+        "en": "The Non-Cooperation Movement",
+        "hi": "असहयोग आंदोलन"
+      },
+      {
+        "en": "The Khilafat Movement",
+        "hi": "ख़िलाफ़त आंदोलन"
+      },
+      {
+        "en": "The Civil Disobedience Movement",
+        "hi": "सविनय अवज्ञा आंदोलन"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Its call was 'Do or Die'.",
+      "hi": "इसका नारा था 'करो या मरो'।"
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "TOP-IND-HIST"
+  },
+  {
+    "id": "DQ-0707",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Who founded the Indian National Congress in 1885?",
+      "hi": "1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना किसने की?"
+    },
+    "options": [
+      {
+        "en": "A. O. Hume",
+        "hi": "ए. ओ. ह्यूम"
+      },
+      {
+        "en": "Dadabhai Naoroji",
+        "hi": "दादाभाई नौरोजी"
+      },
+      {
+        "en": "W. C. Bonnerjee",
+        "hi": "डब्ल्यू. सी. बनर्जी"
+      },
+      {
+        "en": "Surendranath Banerjee",
+        "hi": "सुरेन्द्रनाथ बनर्जी"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "He was a retired British civil servant.",
+      "hi": "वे एक सेवानिवृत्त ब्रिटिश सिविल सेवक थे।"
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "TOP-IND-HIST"
+  },
+  {
+    "id": "DQ-0708",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Who presided over the first session of the Indian National Congress?",
+      "hi": "भारतीय राष्ट्रीय कांग्रेस के पहले अधिवेशन की अध्यक्षता किसने की?"
+    },
+    "options": [
+      {
+        "en": "A. O. Hume",
+        "hi": "ए. ओ. ह्यूम"
+      },
+      {
+        "en": "Bal Gangadhar Tilak",
+        "hi": "बाल गंगाधर तिलक"
+      },
+      {
+        "en": "W. C. Bonnerjee",
+        "hi": "डब्ल्यू. सी. बनर्जी"
+      },
+      {
+        "en": "Gopal Krishna Gokhale",
+        "hi": "गोपाल कृष्ण गोखले"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "The session met in Bombay in December 1885.",
+      "hi": "अधिवेशन दिसंबर 1885 में बंबई में हुआ।"
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "TOP-IND-HIST"
+  },
+  {
+    "id": "DQ-0709",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which ancient university in Bihar drew scholars from across Asia?",
+      "hi": "बिहार का कौन सा प्राचीन विश्वविद्यालय पूरे एशिया से विद्वानों को आकर्षित करता था?"
+    },
+    "options": [
+      {
+        "en": "Vallabhi",
+        "hi": "वल्लभी"
+      },
+      {
+        "en": "Vikramshila",
+        "hi": "विक्रमशिला"
+      },
+      {
+        "en": "Nalanda",
+        "hi": "नालंदा"
+      },
+      {
+        "en": "Takshashila",
+        "hi": "तक्षशिला"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Its ruins are a World Heritage site.",
+      "hi": "इसके अवशेष विश्व धरोहर स्थल हैं।"
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "TOP-IND-HIST"
+  },
+  {
+    "id": "DQ-0710",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which Mughal emperor is known for the policy of Sulh-i-kul, or peace with all?",
+      "hi": "सुलह-ए-कुल अर्थात सबके साथ शांति की नीति के लिए कौन से मुग़ल सम्राट जाने जाते हैं?"
+    },
+    "options": [
+      {
+        "en": "Akbar",
+        "hi": "अकबर"
+      },
+      {
+        "en": "Aurangzeb",
+        "hi": "औरंगज़ेब"
+      },
+      {
+        "en": "Humayun",
+        "hi": "हुमायूँ"
+      },
+      {
+        "en": "Jahangir",
+        "hi": "जहाँगीर"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "He also held debates with scholars of many faiths.",
+      "hi": "उन्होंने अनेक धर्मों के विद्वानों से वाद-संवाद भी कराए।"
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "TOP-IND-HIST"
+  },
+  {
+    "id": "DQ-0711",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which Delhi Sultan moved the capital to Daulatabad?",
+      "hi": "किस दिल्ली सल्तनत शासक ने राजधानी दौलताबाद स्थानांतरित की?"
+    },
+    "options": [
+      {
+        "en": "Firoz Shah Tughlaq",
+        "hi": "फ़िरोज़ शाह तुग़लक़"
+      },
+      {
+        "en": "Muhammad bin Tughlaq",
+        "hi": "मुहम्मद बिन तुग़लक़"
+      },
+      {
+        "en": "Alauddin Khilji",
+        "hi": "अलाउद्दीन ख़िलजी"
+      },
+      {
+        "en": "Iltutmish",
+        "hi": "इल्तुतमिश"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "The transfer from Delhi proved short-lived.",
+      "hi": "दिल्ली से यह स्थानांतरण अल्पकालिक सिद्ध हुआ।"
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "TOP-IND-HIST"
+  },
+  {
+    "id": "DQ-0712",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In which language was the Arthashastra written?",
+      "hi": "अर्थशास्त्र किस भाषा में लिखा गया?"
+    },
+    "options": [
+      {
+        "en": "Prakrit",
+        "hi": "प्राकृत"
+      },
+      {
+        "en": "Tamil",
+        "hi": "तमिल"
+      },
+      {
+        "en": "Sanskrit",
+        "hi": "संस्कृत"
+      },
+      {
+        "en": "Pali",
+        "hi": "पालि"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "It is attributed to Kautilya.",
+      "hi": "इसे कौटिल्य का रचा हुआ माना जाता है।"
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "TOP-IND-HIST"
+  },
+  {
+    "id": "DQ-0713",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Which dynasty built the Sun Temple at Konark?",
+      "hi": "कोणार्क का सूर्य मंदिर किस वंश ने बनवाया?"
+    },
+    "options": [
+      {
+        "en": "The Chola dynasty",
+        "hi": "चोल वंश"
+      },
+      {
+        "en": "The Chalukya dynasty",
+        "hi": "चालुक्य वंश"
+      },
+      {
+        "en": "The Eastern Ganga dynasty",
+        "hi": "पूर्वी गंग वंश"
+      },
+      {
+        "en": "The Pallava dynasty",
+        "hi": "पल्लव वंश"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Narasimhadeva I commissioned it in the thirteenth century.",
+      "hi": "इसे तेरहवीं शताब्दी में नरसिंहदेव प्रथम ने बनवाया।"
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "TOP-IND-HIST"
+  },
+  {
+    "id": "DQ-0714",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Who was the first Governor-General of independent India?",
+      "hi": "स्वतंत्र भारत के पहले गवर्नर-जनरल कौन थे?"
+    },
+    "options": [
+      {
+        "en": "Lord Wavell",
+        "hi": "लॉर्ड वेवेल"
+      },
+      {
+        "en": "Lord Mountbatten",
+        "hi": "लॉर्ड माउंटबेटन"
+      },
+      {
+        "en": "Lord Linlithgow",
+        "hi": "लॉर्ड लिंलिथगो"
+      },
+      {
+        "en": "C. Rajagopalachari",
+        "hi": "सी. राजगोपालाचारी"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "Rajagopalachari was the first Indian to hold the post.",
+      "hi": "राजगोपालाचारी यह पद संभालने वाले पहले भारतीय थे।"
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "TOP-IND-HIST"
+  },
+  {
+    "id": "DQ-0715",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Who chaired the boundary commission that drew the 1947 borders?",
+      "hi": "1947 की सीमाएँ खींचने वाली सीमा आयोग की अध्यक्षता किसने की?"
+    },
+    "options": [
+      {
+        "en": "Stafford Cripps",
+        "hi": "स्टैफ़र्ड क्रिप्स"
+      },
+      {
+        "en": "Lord Mountbatten",
+        "hi": "लॉर्ड माउंटबेटन"
+      },
+      {
+        "en": "Cyril Radcliffe",
+        "hi": "सिरिल रेडक्लिफ़"
+      },
+      {
+        "en": "Clement Attlee",
+        "hi": "क्लेमेंट एटली"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "He had never visited India before the task.",
+      "hi": "यह दायित्व मिलने से पहले वे कभी भारत नहीं आए थे।"
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "TOP-IND-HIST"
+  },
+  {
+    "id": "DQ-0716",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "In which year was the first partition of Bengal annulled?",
+      "hi": "बंगाल का पहला विभाजन किस वर्ष रद्द किया गया?"
+    },
+    "options": [
+      {
+        "en": "1911",
+        "hi": "1911"
+      },
+      {
+        "en": "1905",
+        "hi": "1905"
+      },
+      {
+        "en": "1919",
+        "hi": "1919"
+      },
+      {
+        "en": "1947",
+        "hi": "1947"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "The division had been made in 1905.",
+      "hi": "यह विभाजन 1905 में किया गया था।"
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "TOP-IND-HIST"
+  },
+  {
+    "id": "DQ-0717",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "At which place did the 1857 revolt first break out among sepoys?",
+      "hi": "1857 का विद्रोह सैनिकों के बीच सबसे पहले किस स्थान पर भड़का?"
+    },
+    "options": [
+      {
+        "en": "Kanpur",
+        "hi": "कानपुर"
+      },
+      {
+        "en": "Delhi",
+        "hi": "दिल्ली"
+      },
+      {
+        "en": "Meerut",
+        "hi": "मेरठ"
+      },
+      {
+        "en": "Lucknow",
+        "hi": "लखनऊ"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "The rebels then marched on Delhi.",
+      "hi": "विद्रोही इसके बाद दिल्ली की ओर बढ़े।"
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "TOP-IND-HIST"
+  },
+  {
+    "id": "DQ-0718",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "MEDIUM",
+    "q": {
+      "en": "Which ruler of Mysore fought four wars against the British?",
+      "hi": "मैसूर के किस शासक ने अंग्रेज़ों के विरुद्ध चार युद्ध लड़े?"
+    },
+    "options": [
+      {
+        "en": "Tipu Sultan",
+        "hi": "टीपू सुल्तान"
+      },
+      {
+        "en": "Ranjit Singh",
+        "hi": "रणजीत सिंह"
+      },
+      {
+        "en": "Krishnaraja Wadiyar",
+        "hi": "कृष्णराज वाडियार"
+      },
+      {
+        "en": "Nana Sahib",
+        "hi": "नाना साहब"
+      }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "He was killed at Seringapatam in 1799.",
+      "hi": "1799 में श्रीरंगपत्तनम में उनकी मृत्यु हुई।"
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "TOP-IND-HIST"
+  },
+  {
+    "id": "DQ-0719",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "Who founded the city of Jaipur?",
+      "hi": "जयपुर शहर की स्थापना किसने की?"
+    },
+    "options": [
+      {
+        "en": "Man Singh I",
+        "hi": "मान सिंह प्रथम"
+      },
+      {
+        "en": "Jai Singh II",
+        "hi": "जय सिंह द्वितीय"
+      },
+      {
+        "en": "Sawai Pratap Singh",
+        "hi": "सवाई प्रताप सिंह"
+      },
+      {
+        "en": "Prithviraj Chauhan",
+        "hi": "पृथ्वीराज चौहान"
+      }
+    ],
+    "correctIndex": 1,
+    "explanation": {
+      "en": "He was also an astronomer who built the Jantar Mantar.",
+      "hi": "वे खगोलविद् भी थे और उन्होंने जंतर मंतर बनवाया।"
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "TOP-IND-HIST"
+  },
+  {
+    "id": "DQ-0720",
+    "category": "Indian history",
+    "sourceIds": [
+      "PENDING-EVIDENCE"
+    ],
+    "difficulty": "HARD",
+    "q": {
+      "en": "In which year did the Indian National Congress adopt the Purna Swaraj resolution at Lahore?",
+      "hi": "भारतीय राष्ट्रीय कांग्रेस ने लाहौर में पूर्ण स्वराज का प्रस्ताव किस वर्ष अपनाया?"
+    },
+    "options": [
+      {
+        "en": "1919",
+        "hi": "1919"
+      },
+      {
+        "en": "1942",
+        "hi": "1942"
+      },
+      {
+        "en": "1929",
+        "hi": "1929"
+      },
+      {
+        "en": "1907",
+        "hi": "1907"
+      }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Jawaharlal Nehru presided over that session.",
+      "hi": "उस अधिवेशन की अध्यक्षता जवाहरलाल नेहरू ने की।"
+    },
+    "subjectId": "IND-HIST",
+    "chapterId": "IND-HIST",
+    "topicId": "TOP-IND-HIST"
+  }
+]

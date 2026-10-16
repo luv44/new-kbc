@@ -1,8 +1,8 @@
 # Draft question bank — unique, meta-word free
 
-Generated 2026-10-11T14:48:22.603Z by `node scripts/question-lint.mjs --write`.
+Generated 2026-10-16T18:26:56.800Z by `node scripts/question-lint.mjs --write`.
 
-- 680 questions, 680 distinct stems, 680 distinct fingerprints
+- 720 questions, 720 distinct stems, 720 distinct fingerprints
 - Banned meta-language scan: 0 hits
 - Duplication scan: 0 hits
 - Lifecycle: DRAFT_PENDING_REVIEW — not eligible for practice until human review accepts them (see `src/domain.ts eligible()`).
@@ -11562,6 +11562,686 @@ Source: PENDING-EVIDENCE · MEDIUM
 
 > It was renamed after the astronaut Kalpana Chawla.
 > अंतरिक्ष यात्री कल्पना चावला के नाम पर इसका नाम बदला गया।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 681. What is the practice of planting trees on land that previously carried no forest?
+**पहले जंगल न रहे भूमि पर वृक्ष लगाने की प्रथा क्या कहलाती है?**
+
+- A. Deforestation — वनों की कटाई
+- B. Fallowing — परती रखना
+- C. Afforestation — वानीकरण
+- D. Logging — लकड़ी की कटाई
+
+**Answer: C. Afforestation**
+
+> Reforestation, by contrast, replants land that was already forested.
+> इसके विपरीत, पुनर्वनीकरण पहले से वन भूमि पर पेड़ लगाता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 682. Which international agreement regulates trade in endangered species?
+**लुप्तप्राय प्रजातियों में व्यापार को कौन सा अंतर्राष्ट्रीय समझौता नियंत्रित करता है?**
+
+- A. The Basel Convention — बेसल संधि
+- B. The Kyoto Protocol — क्योटो प्रोटोकॉल
+- C. The Rotterdam Convention — रॉटरडैम संधि
+- D. CITES — साइट्स
+
+**Answer: D. CITES**
+
+> Its full name cites international trade in endangered species.
+> इसके पूर्ण नाम में लुप्तप्राय प्रजातियों का अंतर्राष्ट्रीय व्यापार आता है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 683. Which substance washed off farmland most often triggers algal blooms in water bodies?
+**खेतों से बहकर आने वाला कौन सा पदार्थ जल निकायों में शैवाल वृद्धि सबसे अधिक बढ़ाता है?**
+
+- A. Sulphates — सल्फेट
+- B. Nitrates — नाइट्रेट
+- C. Chlorides — क्लोराइड
+- D. Silicates — सिलिकेट
+
+**Answer: B. Nitrates**
+
+> They come largely from nitrogen fertiliser.
+> ये मुख्यतः नाइट्रोजन उर्वरक से आते हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 684. Which renewable energy source converts sunlight using panels?
+**पैनलों से सूर्य प्रकाश को ऊर्जा में बदलने वाला नवीकरणीय स्रोत कौन सा है?**
+
+- A. Solar power — सौर ऊर्जा
+- B. Biomass — जैवभार
+- C. Tidal power — ज्वारीय ऊर्जा
+- D. Wind power — पवन ऊर्जा
+
+**Answer: A. Solar power**
+
+> The panels are made of photovoltaic cells.
+> ये पैनल फ़ोटोवोल्टाइक सेल से बनते हैं।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 685. What is the gradual rise in Earth's average surface temperature called?
+**पृथ्वी के औसत सतही तापमान में धीमी वृद्धि को क्या कहते हैं?**
+
+- A. Ozone depletion — ओज़ोन ह्रास
+- B. El Nino — एल नीनो
+- C. Global warming — ग्लोबल वार्मिंग
+- D. Thermal inversion — तापीय उत्क्रमण
+
+**Answer: C. Global warming**
+
+> It is driven mainly by heat-trapping gases in the atmosphere.
+> यह मुख्यतः वायुमंडल की ऊष्मा-रोधी गैसों से होती है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 686. What do we call rainfall made acidic by industrial emissions?
+**औद्योगिक उत्सर्जन से अम्लीय हुई वर्षा को क्या कहते हैं?**
+
+- A. Acid rain — अम्ल वर्षा
+- B. Sleet — गीला हिम
+- C. Hail — ओले
+- D. Smog — धुंध-कुहासा
+
+**Answer: A. Acid rain**
+
+> Sulphur and nitrogen oxides dissolve into the droplets.
+> सल्फ़र और नाइट्रोजन ऑक्साइड बूंदों में घुल जाते हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 687. Which biome is defined by permanently frozen subsoil?
+**स्थायी रूप से जमे अधोमृदा वाला जीवोम कौन सा है?**
+
+- A. Taiga — तैगा
+- B. Steppe — स्तेप
+- C. Tundra — टुंड्रा
+- D. Savanna — सवाना
+
+**Answer: C. Tundra**
+
+> That frozen layer is called permafrost.
+> इस जमी परत को परमाफ़्रॉस्ट कहते हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 688. What is a species called when it is likely to disappear entirely?
+**जिस प्रजाति के पूरी तरह समाप्त होने की आशंका हो उसे क्या कहते हैं?**
+
+- A. Domesticated — पालतू
+- B. Endangered — संकटग्रस्त
+- C. Endemic — स्थानिक
+- D. Invasive — आक्रामक
+
+**Answer: B. Endangered**
+
+> An extinct species has already gone.
+> विलुप्त प्रजाति पहले ही जा चुकी होती है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 689. Which ministry of the Government of India handles environmental policy?
+**भारत सरकार का कौन सा मंत्रालय पर्यावरण नीति संभालता है?**
+
+- A. The Ministry of Environment, Forest and Climate Change — पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय
+- B. The Ministry of New and Renewable Energy — नवीन और नवीकरणीय ऊर्जा मंत्रालय
+- C. The Ministry of Earth Sciences — पृथ्वी विज्ञान मंत्रालय
+- D. The Ministry of Jal Shakti — जल शक्ति मंत्रालय
+
+**Answer: A. The Ministry of Environment, Forest and Climate Change**
+
+> It is usually shortened to MoEFCC.
+> इसे प्रायः एमओईएफसीसी कहा जाता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 690. What does an Air Quality Index reading express?
+**वायु गुणवत्ता सूचकांक का मान क्या दर्शाता है?**
+
+- A. The strength of the wind — हवा की तीव्रता
+- B. The concentration of pollutants in the air — वायु में प्रदूषकों की सांद्रता
+- C. The amount of rainfall — वर्षा की मात्रा
+- D. The humidity at ground level — ज़मीनी स्तर की आर्द्रता
+
+**Answer: B. The concentration of pollutants in the air**
+
+> A higher number means dirtier air.
+> संख्या जितनी अधिक, वायु उतनी प्रदूषित।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 691. Particles described as PM2.5 are no larger than what diameter?
+**PM2.5 कहे जाने वाले कण अधिकतम कितने व्यास के होते हैं?**
+
+- A. 2.5 micrometres — 2.5 माइक्रोमीटर
+- B. 2.5 nanometres — 2.5 नैनोमीटर
+- C. 2.5 centimetres — 2.5 सेंटीमीटर
+- D. 2.5 millimetres — 2.5 मिलीमीटर
+
+**Answer: A. 2.5 micrometres**
+
+> They are small enough to pass deep into the lungs.
+> ये इतने सूक्ष्म हैं कि फेफड़ों में गहराई तक पहुँच जाते हैं।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 692. What is the term for turning used material back into new products?
+**प्रयुक्त सामग्री को फिर नए उत्पादों में बदलने को क्या कहते हैं?**
+
+- A. Landfilling — भू-भराव
+- B. Composting — खाद बनाना
+- C. Recycling — पुनर्चक्रण
+- D. Incineration — दहन
+
+**Answer: C. Recycling**
+
+> Composting handles organic waste specifically.
+> कम्पोस्टिंग विशेष रूप से जैविक कचरे के लिए है।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 693. Which treaty on biological diversity was opened for signature at Rio in 1992?
+**1992 में रियो में हस्ताक्षर के लिए खुली जैव विविधता संबंधी संधि कौन सी है?**
+
+- A. The Aarhus Convention — ऑरहस संधि
+- B. The Convention on Biological Diversity — जैव विविधता संधि
+- C. The Vienna Convention — वियना संधि
+- D. The Ramsar Convention — रामसर संधि
+
+**Answer: B. The Convention on Biological Diversity**
+
+> It is often shortened to the CBD.
+> इसे प्रायः सीबीडी कहा जाता है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 694. Which is India's umbrella statute on environmental protection?
+**पर्यावरण संरक्षण पर भारत का छत्र विधान कौन सा है?**
+
+- A. The Air Act, 1981 — वायु अधिनियम, 1981
+- B. The Water Act, 1974 — जल अधिनियम, 1974
+- C. The Forest Act, 1927 — वन अधिनियम, 1927
+- D. The Environment (Protection) Act, 1986 — पर्यावरण (संरक्षण) अधिनियम, 1986
+
+**Answer: D. The Environment (Protection) Act, 1986**
+
+> It was passed after the Bhopal gas tragedy.
+> यह भोपाल गैस त्रासदी के बाद बना।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 695. What is the process called when dry land turns progressively more desert-like?
+**शुष्क भूमि का क्रमशः मरुस्थल जैसा बनना किस प्रक्रिया को कहते हैं?**
+
+- A. Laterisation — लैटेराइज़ेशन
+- B. Siltation — गाद जमाव
+- C. Salinisation — लवणीयकरण
+- D. Desertification — मरुस्थलीकरण
+
+**Answer: D. Desertification**
+
+> Overgrazing and loss of vegetation drive it.
+> अतिचराई और वनस्पति का ह्रास इसे बढ़ाते हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 696. The Dobson unit measures the total amount of which gas in a column of air?
+**डॉब्सन इकाई वायु स्तंभ में किस गैस की कुल मात्रा मापती है?**
+
+- A. Helium — हीलियम
+- B. Argon — आर्गन
+- C. Methane — मीथेन
+- D. Ozone — ओज़ोन
+
+**Answer: D. Ozone**
+
+> It is used to track the ozone layer's thickness.
+> इससे ओज़ोन परत की मोटाई देखी जाती है।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 697. Which human activity is the largest source of methane emissions?
+**मानवीय मीथेन उत्सर्जन का सबसे बड़ा स्रोत कौन सी गतिविधि है?**
+
+- A. Paper milling — कागज़ मिलिंग
+- B. Glass making — काँच निर्माण
+- C. Livestock farming — पशुपालन
+- D. Textile dyeing — वस्त्र रंगाई
+
+**Answer: C. Livestock farming**
+
+> Cattle release the gas during digestion.
+> मवेशी पाचन के दौरान यह गैस छोड़ते हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 698. What is a protected area where hunting is prohibited called?
+**वह संरक्षित क्षेत्र जहाँ शिकार वर्जित है, क्या कहलाता है?**
+
+- A. A biosphere reserve — जीवमंडल निचय
+- B. A botanical garden — वनस्पति उद्यान
+- C. A zoological park — चिड़ियाघर
+- D. A wildlife sanctuary — वन्यजीव अभयारण्य
+
+**Answer: D. A wildlife sanctuary**
+
+> A national park carries stricter rules still.
+> राष्ट्रीय उद्यान में नियम और भी कड़े होते हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 699. Which body publishes the main scientific reports on climate change?
+**जलवायु परिवर्तन पर प्रमुख वैज्ञानिक रिपोर्ट कौन सा निकाय प्रकाशित करता है?**
+
+- A. The FAO — एफएओ
+- B. The IPCC — आईपीसीसी
+- C. The ILO — आईएलओ
+- D. The WTO — डब्ल्यूटीओ
+
+**Answer: B. The IPCC**
+
+> Its full name refers to intergovernmental work on climate.
+> इसके पूर्ण नाम में जलवायु पर अंतरसरकारी कार्य आता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 700. What does a net zero emissions target mean?
+**नेट शून्य उत्सर्जन लक्ष्य का क्या अर्थ है?**
+
+- A. Releasing no emissions of any kind — किसी भी प्रकार का उत्सर्जन न करना
+- B. Offsetting emissions in another country — उत्सर्जन को किसी अन्य देश में भरपाई करना
+- C. Balancing the emissions released with the emissions removed — छोड़े गए उत्सर्जन को हटाए गए उत्सर्जन से संतुलित करना
+- D. Halving emissions every decade — हर दशक में उत्सर्जन आधा करना
+
+**Answer: C. Balancing the emissions released with the emissions removed**
+
+> Some output may remain if an equal amount is taken back out.
+> समान मात्रा वापस निकाली जाए तो कुछ उत्सर्जन रह भी सकता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 701. Who was the last Mughal emperor of India?
+**भारत के अंतिम मुग़ल सम्राट कौन थे?**
+
+- A. Bahadur Shah Zafar — बहादुर शाह ज़फ़र
+- B. Akbar II — अकबर द्वितीय
+- C. Shah Alam II — शाह आलम द्वितीय
+- D. Aurangzeb — औरंगज़ेब
+
+**Answer: A. Bahadur Shah Zafar**
+
+> He was exiled to Rangoon after 1857.
+> 1857 के बाद उन्हें रंगून भेज दिया गया।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 702. Which 1757 battle gave the British East India Company control over Bengal?
+**1757 के किस युद्ध ने ब्रिटिश ईस्ट इंडिया कंपनी को बंगाल का नियंत्रण दिया?**
+
+- A. The Battle of Talikota — तलिकोटा का युद्ध
+- B. The Battle of Plassey — प्लासी का युद्ध
+- C. The Battle of Panipat — पानीपत का युद्ध
+- D. The Battle of Buxar — बक्सर का युद्ध
+
+**Answer: B. The Battle of Plassey**
+
+> Buxar followed it seven years later.
+> इसके सात वर्ष बाद बक्सर हुआ।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 703. Who was Governor-General of India when the 1857 revolt broke out?
+**1857 का विद्रोह शुरू होने के समय भारत के गवर्नर-जनरल कौन थे?**
+
+- A. Lord Hardinge — लॉर्ड हार्डिंग
+- B. Lord Dalhousie — लॉर्ड डलहौज़ी
+- C. Lord Curzon — लॉर्ड कर्ज़न
+- D. Lord Canning — लॉर्ड कैनिंग
+
+**Answer: D. Lord Canning**
+
+> He became the first Viceroy in 1858.
+> 1858 में वे पहले वायसराय बने।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 704. In which city did the Jallianwala Bagh massacre take place?
+**जलियाँवाला बाग़ हत्याकांड किस शहर में हुआ?**
+
+- A. Amritsar — अमृतसर
+- B. Ludhiana — लुधियाना
+- C. Lahore — लाहौर
+- D. Jalandhar — जालंधर
+
+**Answer: A. Amritsar**
+
+> It happened in April 1919.
+> यह अप्रैल 1919 में हुआ।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 705. Roughly how far did the Salt March travel from Sabarmati to Dandi?
+**साबरमती से दांडी तक नमक सत्याग्रह में लगभग कितनी दूरी तय हुई?**
+
+- A. 700 kilometres — 700 किलोमीटर
+- B. 120 kilometres — 120 किलोमीटर
+- C. 385 kilometres — 385 किलोमीटर
+- D. 60 kilometres — 60 किलोमीटर
+
+**Answer: C. 385 kilometres**
+
+> The marchers took twenty-four days to cover it.
+> यात्रियों ने यह दूरी चौबीस दिन में तय की।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 706. Which movement launched in 1942 demanded an end to British rule?
+**1942 में शुरू हुआ कौन सा आंदोलन ब्रिटिश शासन समाप्त करने की मांग करता था?**
+
+- A. The Quit India Movement — भारत छोड़ो आंदोलन
+- B. The Non-Cooperation Movement — असहयोग आंदोलन
+- C. The Khilafat Movement — ख़िलाफ़त आंदोलन
+- D. The Civil Disobedience Movement — सविनय अवज्ञा आंदोलन
+
+**Answer: A. The Quit India Movement**
+
+> Its call was 'Do or Die'.
+> इसका नारा था 'करो या मरो'।
+
+Source: PENDING-EVIDENCE · EASY
+
+---
+
+### 707. Who founded the Indian National Congress in 1885?
+**1885 में भारतीय राष्ट्रीय कांग्रेस की स्थापना किसने की?**
+
+- A. A. O. Hume — ए. ओ. ह्यूम
+- B. Dadabhai Naoroji — दादाभाई नौरोजी
+- C. W. C. Bonnerjee — डब्ल्यू. सी. बनर्जी
+- D. Surendranath Banerjee — सुरेन्द्रनाथ बनर्जी
+
+**Answer: A. A. O. Hume**
+
+> He was a retired British civil servant.
+> वे एक सेवानिवृत्त ब्रिटिश सिविल सेवक थे।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 708. Who presided over the first session of the Indian National Congress?
+**भारतीय राष्ट्रीय कांग्रेस के पहले अधिवेशन की अध्यक्षता किसने की?**
+
+- A. A. O. Hume — ए. ओ. ह्यूम
+- B. Bal Gangadhar Tilak — बाल गंगाधर तिलक
+- C. W. C. Bonnerjee — डब्ल्यू. सी. बनर्जी
+- D. Gopal Krishna Gokhale — गोपाल कृष्ण गोखले
+
+**Answer: C. W. C. Bonnerjee**
+
+> The session met in Bombay in December 1885.
+> अधिवेशन दिसंबर 1885 में बंबई में हुआ।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 709. Which ancient university in Bihar drew scholars from across Asia?
+**बिहार का कौन सा प्राचीन विश्वविद्यालय पूरे एशिया से विद्वानों को आकर्षित करता था?**
+
+- A. Vallabhi — वल्लभी
+- B. Vikramshila — विक्रमशिला
+- C. Nalanda — नालंदा
+- D. Takshashila — तक्षशिला
+
+**Answer: C. Nalanda**
+
+> Its ruins are a World Heritage site.
+> इसके अवशेष विश्व धरोहर स्थल हैं।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 710. Which Mughal emperor is known for the policy of Sulh-i-kul, or peace with all?
+**सुलह-ए-कुल अर्थात सबके साथ शांति की नीति के लिए कौन से मुग़ल सम्राट जाने जाते हैं?**
+
+- A. Akbar — अकबर
+- B. Aurangzeb — औरंगज़ेब
+- C. Humayun — हुमायूँ
+- D. Jahangir — जहाँगीर
+
+**Answer: A. Akbar**
+
+> He also held debates with scholars of many faiths.
+> उन्होंने अनेक धर्मों के विद्वानों से वाद-संवाद भी कराए।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 711. Which Delhi Sultan moved the capital to Daulatabad?
+**किस दिल्ली सल्तनत शासक ने राजधानी दौलताबाद स्थानांतरित की?**
+
+- A. Firoz Shah Tughlaq — फ़िरोज़ शाह तुग़लक़
+- B. Muhammad bin Tughlaq — मुहम्मद बिन तुग़लक़
+- C. Alauddin Khilji — अलाउद्दीन ख़िलजी
+- D. Iltutmish — इल्तुतमिश
+
+**Answer: B. Muhammad bin Tughlaq**
+
+> The transfer from Delhi proved short-lived.
+> दिल्ली से यह स्थानांतरण अल्पकालिक सिद्ध हुआ।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 712. In which language was the Arthashastra written?
+**अर्थशास्त्र किस भाषा में लिखा गया?**
+
+- A. Prakrit — प्राकृत
+- B. Tamil — तमिल
+- C. Sanskrit — संस्कृत
+- D. Pali — पालि
+
+**Answer: C. Sanskrit**
+
+> It is attributed to Kautilya.
+> इसे कौटिल्य का रचा हुआ माना जाता है।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 713. Which dynasty built the Sun Temple at Konark?
+**कोणार्क का सूर्य मंदिर किस वंश ने बनवाया?**
+
+- A. The Chola dynasty — चोल वंश
+- B. The Chalukya dynasty — चालुक्य वंश
+- C. The Eastern Ganga dynasty — पूर्वी गंग वंश
+- D. The Pallava dynasty — पल्लव वंश
+
+**Answer: C. The Eastern Ganga dynasty**
+
+> Narasimhadeva I commissioned it in the thirteenth century.
+> इसे तेरहवीं शताब्दी में नरसिंहदेव प्रथम ने बनवाया।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 714. Who was the first Governor-General of independent India?
+**स्वतंत्र भारत के पहले गवर्नर-जनरल कौन थे?**
+
+- A. Lord Wavell — लॉर्ड वेवेल
+- B. Lord Mountbatten — लॉर्ड माउंटबेटन
+- C. Lord Linlithgow — लॉर्ड लिंलिथगो
+- D. C. Rajagopalachari — सी. राजगोपालाचारी
+
+**Answer: B. Lord Mountbatten**
+
+> Rajagopalachari was the first Indian to hold the post.
+> राजगोपालाचारी यह पद संभालने वाले पहले भारतीय थे।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 715. Who chaired the boundary commission that drew the 1947 borders?
+**1947 की सीमाएँ खींचने वाली सीमा आयोग की अध्यक्षता किसने की?**
+
+- A. Stafford Cripps — स्टैफ़र्ड क्रिप्स
+- B. Lord Mountbatten — लॉर्ड माउंटबेटन
+- C. Cyril Radcliffe — सिरिल रेडक्लिफ़
+- D. Clement Attlee — क्लेमेंट एटली
+
+**Answer: C. Cyril Radcliffe**
+
+> He had never visited India before the task.
+> यह दायित्व मिलने से पहले वे कभी भारत नहीं आए थे।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 716. In which year was the first partition of Bengal annulled?
+**बंगाल का पहला विभाजन किस वर्ष रद्द किया गया?**
+
+- A. 1911 — 1911
+- B. 1905 — 1905
+- C. 1919 — 1919
+- D. 1947 — 1947
+
+**Answer: A. 1911**
+
+> The division had been made in 1905.
+> यह विभाजन 1905 में किया गया था।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 717. At which place did the 1857 revolt first break out among sepoys?
+**1857 का विद्रोह सैनिकों के बीच सबसे पहले किस स्थान पर भड़का?**
+
+- A. Kanpur — कानपुर
+- B. Delhi — दिल्ली
+- C. Meerut — मेरठ
+- D. Lucknow — लखनऊ
+
+**Answer: C. Meerut**
+
+> The rebels then marched on Delhi.
+> विद्रोही इसके बाद दिल्ली की ओर बढ़े।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 718. Which ruler of Mysore fought four wars against the British?
+**मैसूर के किस शासक ने अंग्रेज़ों के विरुद्ध चार युद्ध लड़े?**
+
+- A. Tipu Sultan — टीपू सुल्तान
+- B. Ranjit Singh — रणजीत सिंह
+- C. Krishnaraja Wadiyar — कृष्णराज वाडियार
+- D. Nana Sahib — नाना साहब
+
+**Answer: A. Tipu Sultan**
+
+> He was killed at Seringapatam in 1799.
+> 1799 में श्रीरंगपत्तनम में उनकी मृत्यु हुई।
+
+Source: PENDING-EVIDENCE · MEDIUM
+
+---
+
+### 719. Who founded the city of Jaipur?
+**जयपुर शहर की स्थापना किसने की?**
+
+- A. Man Singh I — मान सिंह प्रथम
+- B. Jai Singh II — जय सिंह द्वितीय
+- C. Sawai Pratap Singh — सवाई प्रताप सिंह
+- D. Prithviraj Chauhan — पृथ्वीराज चौहान
+
+**Answer: B. Jai Singh II**
+
+> He was also an astronomer who built the Jantar Mantar.
+> वे खगोलविद् भी थे और उन्होंने जंतर मंतर बनवाया।
+
+Source: PENDING-EVIDENCE · HARD
+
+---
+
+### 720. In which year did the Indian National Congress adopt the Purna Swaraj resolution at Lahore?
+**भारतीय राष्ट्रीय कांग्रेस ने लाहौर में पूर्ण स्वराज का प्रस्ताव किस वर्ष अपनाया?**
+
+- A. 1919 — 1919
+- B. 1942 — 1942
+- C. 1929 — 1929
+- D. 1907 — 1907
+
+**Answer: C. 1929**
+
+> Jawaharlal Nehru presided over that session.
+> उस अधिवेशन की अध्यक्षता जवाहरलाल नेहरू ने की।
 
 Source: PENDING-EVIDENCE · HARD
 
